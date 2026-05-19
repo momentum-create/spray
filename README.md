@@ -74,3 +74,20 @@ http://localhost:3000
 | `pnpm dev` | Next 開発サーバー |
 | `pnpm build` | 本番ビルド |
 | `pnpm typecheck` | TypeScript チェック |
+
+## Vercel へのデプロイ（モノレポ構成のまま）
+
+リポジトリルートがプロジェクトルートです。**Root Directory は空のまま**（`apps/web` にしない）で、ルートの `vercel.json` が次を実行します。
+
+1. `pnpm install`（ワークスペース全体）
+2. `pnpm run build` → `apps/web` の Next.js をビルド
+
+| 項目 | 値 |
+|------|-----|
+| Git リポジトリ | https://github.com/momentum-create/spray |
+| Framework | Next.js（`vercel.json` 参照） |
+| Root Directory | **（未設定・リポジトリルート）** |
+
+公開 URL 例: `https://<project>.vercel.app/ja`
+
+ダッシュボードで **Install / Build Command を手動上書きしている場合は OFF** にし、`vercel.json` に任せてください。
