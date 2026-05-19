@@ -1,4 +1,5 @@
-# momentum-create/spray へ push したら Seeker-x1/spray（Vercel 接続先）へ同期する
+# 編集の push 先: momentum-create/spray（origin）
+# Vercel が見る先: Seeker-x1/spray → main への push で自動 mirror
 name: Sync to Seeker (Vercel)
 
 on:
@@ -18,7 +19,7 @@ jobs:
           SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
         run: |
           if [ -z "$SEEKER_PUSH_TOKEN" ]; then
-            echo "::error::SEEKER_PUSH_TOKEN is not set. Add a Seeker-x1 PAT in repo Secrets (see README)."
+            echo "::error::SEEKER_PUSH_TOKEN が未設定です。momentum-create/spray の Settings → Secrets → Actions に登録してください（README 参照）。"
             exit 1
           fi
           git config user.name "github-actions[bot]"

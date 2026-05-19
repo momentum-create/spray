@@ -96,14 +96,21 @@ http://localhost:3000
 
 ### Vercel（Seeker-x1）への自動同期
 
-Vercel プロジェクトは **`Seeker-x1/spray`** に接続されています。編集の push 先は **`momentum-create/spray`**（`origin`）のままでよいです。
+| 役割 | リポジトリ |
+|------|------------|
+| 編集・push（Cursor） | **momentum-create/spray** |
+| Vercel が監視 | **Seeker-x1/spray** |
 
-`main` へ push すると GitHub Actions（`.github/workflows/sync-to-seeker-vercel.yml`）が **Seeker 側へ自動 mirror** し、Vercel がデプロイします。
+`momentum-create/spray` の `main` に push すると Actions が Seeker へ mirror し、Vercel がデプロイします。
 
-**初回だけ（リポジトリ Secret）:**
+**初回だけ（Secret は momentum-create 側に登録）:**
 
-1. **Seeker-x1** で GitHub → Settings → Developer settings → **Personal access tokens** → `repo` 権限で作成
-2. **momentum-create/spray** → Settings → Secrets and variables → Actions → **New repository secret**
-3. Name: `SEEKER_PUSH_TOKEN` / Value: 上記トークン
+1. **Seeker-x1** でログイン → 右上アイコン → **Settings** → 下の方 **Developer settings** → **Personal access tokens** → **Generate new token (classic)** → 権限 **`repo`**
+2. **momentum-create/spray** を開く → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**
+3. Name: **`SEEKER_PUSH_TOKEN`** / Value: 手順1のトークン
 
-以降は `git push origin main`（Cursor からの通常 push）だけで本番更新されます。
+※ Secret を **Seeker-x1/spray** に入れると Actions が `SEEKER_PUSH_TOKEN is not set` で失敗します（よくある誤り）。
+
+**ワークフロー本体**は **momentum-create/spray** にある必要があります。Seeker 側だけにファイルがある場合は、Cursor から `origin` へ push するか、momentum-create で同じファイルを追加してください。
+
+以降は Cursor からの通常 push だけで本番更新されます。
