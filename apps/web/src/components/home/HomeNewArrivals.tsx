@@ -1,6 +1,6 @@
 import Image from "next/image";
 import type { Copy } from "@/i18n/get-copy";
-import { malls, mallUrl } from "@/lib/shops";
+import { malls, mallUrl, type MallId } from "@/lib/shops";
 
 const products = [
   {
@@ -23,10 +23,16 @@ const products = [
   },
 ];
 
-const mallBadge: Record<string, { label: string; className: string }> = {
-  rakuten: { label: "Rakuten", className: "bg-[#bf0000] text-white" },
-  yahoo: { label: "YAHOO! JAPAN", className: "bg-[#ff0033] text-white" },
-  gmo: { label: "GMO", className: "bg-[#0068b7] text-white" },
+const mallBadgeClass: Record<MallId, string> = {
+  rakuten: "bg-[#bf0000] text-white",
+  yahoo: "bg-[#ff0033] text-white",
+  gmo: "bg-[#0068b7] text-white",
+};
+
+const mallBadgeFallback: Record<MallId, string> = {
+  rakuten: "Rakuten",
+  yahoo: "YAHOO! JAPAN",
+  gmo: "公式ストア",
 };
 
 type HomeNewArrivalsProps = { copy: Copy; embedded?: boolean };
@@ -57,7 +63,8 @@ export function HomeNewArrivals({ copy, embedded }: HomeNewArrivalsProps) {
       <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
         {products.map((product) => {
           const mall = malls.find((m) => m.id === product.mall)!;
-          const badge = mallBadge[product.mall];
+          const mallKey = product.mall;
+          const badgeLabel = copy.shop.malls[mallKey].name || mallBadgeFallback[mallKey];
           return (
             <article key={product.id} className="card-dark flex flex-col overflow-hidden">
               <div className="relative aspect-[4/3] bg-white">
@@ -75,9 +82,9 @@ export function HomeNewArrivals({ copy, embedded }: HomeNewArrivalsProps) {
                   href={mallUrl(mall)}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className={`mt-2 block py-1.5 text-center text-[9px] font-bold uppercase tracking-wider ${badge.className}`}
+                  className={`mt-2 block py-1.5 text-center text-[9px] font-bold uppercase tracking-wider ${mallBadgeClass[mallKey]}`}
                 >
-                  {badge.label}
+                  {badgeLabel}
                 </a>
               </div>
             </article>

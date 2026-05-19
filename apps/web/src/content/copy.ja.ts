@@ -20,7 +20,9 @@ export const copy = {
 
   cta: {
     park: "VISIT PARK / BOOK A SESSION",
-    shop: "SHOP ONLINE (RAKUTEN, YAHOO, GMO)",
+    shop: "SHOP ONLINE（楽天・Yahoo・公式ストア）",
+    /** モバイル固定バー用（短い・モール名は /shop へ） */
+    shopMobile: "ONLINE SHOP",
     bookPark: "パーク・料金を確認",
     maintenance: "メンテを依頼する",
     firstTimers: "はじめての方へ",
@@ -65,7 +67,7 @@ export const copy = {
     tuneUpServices: "チューンアップ・修理サービス",
     requestMaintenance: "メンテナンスを依頼する",
     maintenanceLead:
-      "経験豊富なスタッフがソール・エッジ・ワックスまで対応。シーズン前は混み合いますのでお早めに。",
+      "経験・知識豊富なスタッフがメンテいたします。シーズン中は大変込み合いますのでお早めに。",
     viewMaintenancePage: "メンテナンスページを見る",
     maintenanceOverlayTitle: "メンテナンス",
     maintenanceOverlaySubtitle: "PRECISION CARE",
@@ -95,7 +97,7 @@ export const copy = {
     meta: {
       title: "SPRAY（スプレイ）| 旭川のスケート・スノーショップ＆屋内パーク",
       description:
-        "スケートボード・スノーボードのプロショップ。屋内スケートパーク、スクール、チューンナップ。楽天・Yahoo・公式オンラインから全国発送。",
+        "スケートボード・スノーボードのプロショップ。屋内スケートパーク、スクール、チューンナップ。楽天・Yahoo・公式ストアから全国発送。",
     },
   },
 
@@ -113,7 +115,7 @@ export const copy = {
         feature: "PayPayポイント対象商品あり",
       },
       gmo: {
-        name: "公式オンラインストア",
+        name: "公式ストア",
         feature: "全ブランド・新着を一覧。会員登録でお得情報を受け取れます。",
       },
     },
@@ -169,7 +171,13 @@ export const copy = {
       "経験・知識豊富なスタッフがメンテいたしますので、安心してお申し付け下さい。シーズン中は大変込み合いますのでお早めにメンテナンスを！",
     tuneUpTitle: "TUNE UP",
     laborTitle: "作業工賃",
-    sourceNote: "料金は spray166.com /board-maintenance/ の掲載内容に準拠（税込表記）。",
+    sourceNote:
+      "料金・内容は http://www.spray166.com/board-maintenance/ および店頭掲示のチューンナップ・作業工賃メニュー表に準拠。",
+    priceSheetAlt: "チューンナップ・作業工賃メニュー表",
+    table: {
+      tuneUp: { process: "行程", detail: "内容", price: "価格" },
+      labor: { process: "作業名", detail: "作業内容", price: "金額" },
+    },
     tabs: { snow: "スノーボード", skate: "スケートボード" },
     flow: {
       title: "SERVICE FLOW",

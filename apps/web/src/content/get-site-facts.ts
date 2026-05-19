@@ -62,56 +62,7 @@ const localized = {
       priceNote:
         "Park fees are published as an image chart on spray166.com (no HTML table yet).",
     },
-    maintenance: {
-      lead:
-        "Our experienced team handles your tune-ups with care. Peak season fills up — book early!",
-      tuneUp: [
-        {
-          name: "Sanding",
-          description:
-            "Thins the base to clean minor scratches and refresh oxidized soles. Edges and wax absorption improve.",
-          price: "¥6,600",
-        },
-        {
-          name: "Side edge tune",
-          description: "Edge sharpening",
-          price: "¥3,300",
-          note: "Side + sole edge tune ¥6,600",
-        },
-        {
-          name: "Hot wax",
-          description:
-            "Iron wax for strong glide and durability. Used boards may need sole/edge cleaning.",
-          price: "¥3,300 (snowboard) / ¥4,400 (ski)",
-          note: "Cleaning from +¥2,200",
-        },
-        {
-          name: "Base repair",
-          description: "Repair gouges in the base",
-          price: "Quote required",
-        },
-      ],
-      labor: [
-        {
-          name: "Boot lace / wire replace (1 spot)",
-          description: "We keep your boots overnight due to labor time.",
-          price: "from ¥4,400",
-        },
-        {
-          name: "Boot liner heat molding",
-          description:
-            "About 30 min total (15 min heat + 15 min mold). Bring your riding socks.",
-          price: "from ¥5,500",
-          note: "Hard boots ¥8,800",
-        },
-        {
-          name: "Binding setup (snowboard)",
-          description: "Snowboard",
-          price: "from ¥4,400",
-        },
-      ],
-      priceSheetImageUrl: base.maintenance.priceSheetImageUrl,
-    },
+    maintenance: base.maintenance,
     staff: base.staff.map((s) => ({
       ...s,
       birthplace: "Biei, Kamikawa, Hokkaido",

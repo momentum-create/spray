@@ -14,8 +14,12 @@ export function MobileCtaBar({ locale }: MobileCtaBarProps) {
       <LocaleLink href="/skatepark" locale={locale} className="btn-park flex-1 justify-center py-3 text-center text-[10px]">
         {copy.cta.park}
       </LocaleLink>
-      <LocaleLink href="/shop" locale={locale} className="btn-shop-outline flex-1 justify-center border-0 border-l border-spray-border py-3 text-center text-[10px]">
-        {copy.cta.shop}
+      <LocaleLink
+        href="/shop"
+        locale={locale}
+        className="btn-shop-outline flex-1 justify-center border-0 border-l border-spray-border py-3 text-center text-[10px] leading-tight"
+      >
+        {copy.cta.shopMobile}
       </LocaleLink>
     </div>
   );

@@ -14,24 +14,6 @@ type Props = {
 export function MaintenanceMiddleColumn({ locale, copy, maintenance }: Props) {
   return (
     <div className="flex flex-col border-b border-spray-border bg-black lg:border-b-0 lg:border-r">
-      <section className="border-b border-spray-border p-4">
-        <h2 className="mb-3 text-xs font-bold uppercase tracking-widest text-white">
-          {copy.maintenance.tuneUpTitle} & REPAIR SERVICES
-        </h2>
-        <ul className="space-y-3">
-          {maintenance.tuneUp.map((item, i) => (
-            <li key={item.name} className="border-b border-spray-border/50 pb-3 last:border-0">
-              <span className="mb-1 inline-block bg-spray-orange px-2 py-0.5 text-[9px] font-bold uppercase text-white">
-                {i === 0 ? "WAXING" : i === 1 ? "TUNING" : "REPAIR"}
-              </span>
-              <p className="text-[11px] font-bold uppercase text-white">{item.name}</p>
-              <p className="mt-1 text-[9px] text-spray-muted">{item.description}</p>
-              <p className="mt-1 text-sm font-black text-spray-orange">{item.price}</p>
-            </li>
-          ))}
-        </ul>
-      </section>
-
       <section className="p-4">
         <h2 className="mb-3 text-xs font-bold uppercase tracking-widest text-white">
           {copy.home.boardMaintenance}
@@ -57,7 +39,7 @@ export function MaintenanceMiddleColumn({ locale, copy, maintenance }: Props) {
           </div>
         </div>
         <ul className="mt-3 space-y-2 border border-spray-border">
-          {maintenance.labor.slice(0, 4).map((item) => (
+          {maintenance.labor.map((item) => (
             <li
               key={item.name}
               className="flex items-center justify-between gap-2 border-b border-spray-border px-2 py-1.5 text-[10px] last:border-0"

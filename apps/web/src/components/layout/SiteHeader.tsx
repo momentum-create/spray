@@ -6,7 +6,7 @@ import { LanguageSwitcher } from "@/components/i18n/LanguageSwitcher";
 import { LocaleLink } from "@/components/i18n/LocaleLink";
 import type { Locale } from "@/i18n/config";
 import { getCopy } from "@/i18n/get-copy";
-import { malls, mallUrl } from "@/lib/shops";
+import { mallNavLabel, malls, mallUrl } from "@/lib/shops";
 
 type SiteHeaderProps = {
   locale: Locale;
@@ -59,7 +59,7 @@ export function SiteHeader({ locale }: SiteHeaderProps) {
                     rel="noopener noreferrer"
                     className="block px-4 py-2.5 text-sm font-bold uppercase tracking-wider text-white hover:bg-white/10"
                   >
-                    {mall.id === "rakuten" ? "RAKUTEN" : mall.id === "yahoo" ? "YAHOO" : "GMO"}
+                    {mallNavLabel(mall.id, copy, locale)}
                   </a>
                 ))}
               </div>
@@ -108,7 +108,7 @@ export function SiteHeader({ locale }: SiteHeaderProps) {
                 rel="noopener noreferrer"
                 className="btn-orange-outline text-center"
               >
-                {mall.id.toUpperCase()}
+                {mallNavLabel(mall.id, copy, locale)}
               </a>
             ))}
           </div>

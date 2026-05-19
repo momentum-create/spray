@@ -18,7 +18,8 @@ export const copy = {
 
   cta: {
     park: "VISIT PARK / BOOK A SESSION",
-    shop: "SHOP ONLINE (RAKUTEN, YAHOO, GMO)",
+    shop: "SHOP ONLINE (RAKUTEN, YAHOO, OFFICIAL STORE)",
+    shopMobile: "ONLINE SHOP",
     bookPark: "Park hours & fees",
     maintenance: "Request service",
     firstTimers: "First-time visitors",
@@ -112,7 +113,7 @@ export const copy = {
         feature: "PayPay points on eligible items.",
       },
       gmo: {
-        name: "Official online store",
+        name: "Official Store",
         feature: "Full catalog and new arrivals. Register for updates.",
       },
     },
@@ -172,7 +173,13 @@ export const copy = {
       "Our experienced team tunes your gear with care. Peak season gets busy — book service early!",
     tuneUpTitle: "TUNE UP",
     laborTitle: "Labor",
-    sourceNote: "Prices match spray166.com /board-maintenance/ (tax included).",
+    sourceNote:
+      "Prices and descriptions from spray166.com/board-maintenance/ and in-store menu board.",
+    priceSheetAlt: "Tune-up & labor cost menu",
+    table: {
+      tuneUp: { process: "Service", detail: "Details", price: "Price" },
+      labor: { process: "Service", detail: "Details", price: "Price" },
+    },
     tabs: { snow: "Snowboard", skate: "Skateboard" },
     flow: {
       title: "SERVICE FLOW",
