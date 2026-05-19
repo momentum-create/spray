@@ -5,6 +5,7 @@ name: Sync to Seeker (Vercel)
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   mirror:
@@ -19,10 +20,21 @@ jobs:
           SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
         run: |
           if [ -z "$SEEKER_PUSH_TOKEN" ]; then
-            echo "::error::SEEKER_PUSH_TOKEN が未設定です。momentum-create/spray の Settings → Secrets → Actions に登録してください（README 参照）。"
+            echo "::error::SEEKER_PUSH_TOKEN が未設定です。momentum-create/spray → Settings → Secrets → Actions"
             exit 1
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote add seeker "https://x-access-token:${SEEKER_PUSH_TOKEN}@github.com/Seeker-x1/spray.git"
-          git push seeker HEAD:main
+
+          echo "Checking token can read Seeker-x1/spray..."
+          if ! git ls-remote seeker HEAD >/dev/null 2>&1; then
+            echo "::error::Seeker へ接続できません。Seeker-x1 で classic PAT（repo 権限）を作り直し、Secret を更新してください。"
+            exit 128
+          fi
+
+          echo "Pushing to Seeker-x1/spray..."
+          if ! git push seeker HEAD:main 2>&1; then
+            echo "::warning::通常 push 失敗。履歴差分のため force で再試行します..."
+            git push seeker HEAD:main --force
+          fi
