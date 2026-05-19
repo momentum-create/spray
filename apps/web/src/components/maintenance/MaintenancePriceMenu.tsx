@@ -1,6 +1,8 @@
 import type { SiteFacts } from "@/content/get-site-facts";
 
-type MenuItem = SiteFacts["maintenance"]["priceMenuLeft"][number];
+type MenuItem =
+  | SiteFacts["maintenance"]["priceMenuLeft"][number]
+  | SiteFacts["maintenance"]["priceMenuRight"][number];
 
 type Props = {
   title: string;
