@@ -112,7 +112,7 @@ export const copy = {
         name: "Yahoo! Shopping — SPRAY",
         feature: "PayPay points on eligible items.",
       },
-      gmo: {
+      official: {
         name: "Official Store",
         feature: "Full catalog and new arrivals. Register for updates.",
       },

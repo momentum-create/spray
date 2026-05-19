@@ -3,6 +3,7 @@ import { LocaleLink } from "@/components/i18n/LocaleLink";
 import type { Locale } from "@/i18n/config";
 import type { Copy } from "@/i18n/get-copy";
 import { designAssets } from "@/lib/design-assets";
+import { heroShopCta } from "@/lib/shops";
 
 type Props = { locale: Locale; copy: Copy };
 
@@ -48,7 +49,7 @@ export function MaintenanceHero({ locale, copy }: Props) {
             locale={locale}
             className="btn-shop-gold flex-1 text-center text-[10px] sm:text-xs"
           >
-            {copy.cta.shop}
+            {heroShopCta(copy, locale)}
           </LocaleLink>
         </div>
       </div>

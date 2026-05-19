@@ -3,6 +3,7 @@ import { LocaleLink } from "@/components/i18n/LocaleLink";
 import { getCopy } from "@/i18n/get-copy";
 import { resolveLocale } from "@/i18n/page";
 import { designAssets } from "@/lib/design-assets";
+import { heroShopCta } from "@/lib/shops";
 
 type PageProps = { params: Promise<{ locale: string }> };
 
@@ -40,7 +41,7 @@ export default async function SkateparkPage({ params }: PageProps) {
               {copy.cta.bookPark}
             </LocaleLink>
             <LocaleLink href="/shop" locale={locale} className="btn-shop-outline">
-              {copy.cta.shop}
+              {heroShopCta(copy, locale)}
             </LocaleLink>
           </div>
         </div>

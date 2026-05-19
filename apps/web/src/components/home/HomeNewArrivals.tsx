@@ -18,7 +18,7 @@ const products = [
   {
     id: "skate2",
     name: "SKATEBOARD (Skateboard)",
-    mall: "gmo" as const,
+    mall: "official" as const,
     image: "/images/product-skateboard-complete.png",
   },
 ];
@@ -26,13 +26,13 @@ const products = [
 const mallBadgeClass: Record<MallId, string> = {
   rakuten: "bg-[#bf0000] text-white",
   yahoo: "bg-[#ff0033] text-white",
-  gmo: "bg-[#0068b7] text-white",
+  official: "bg-[#0068b7] text-white",
 };
 
 const mallBadgeFallback: Record<MallId, string> = {
   rakuten: "Rakuten",
   yahoo: "YAHOO! JAPAN",
-  gmo: "公式ストア",
+  official: "公式ストア",
 };
 
 type HomeNewArrivalsProps = { copy: Copy; embedded?: boolean };

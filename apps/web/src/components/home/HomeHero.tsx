@@ -3,6 +3,7 @@ import { LocaleLink } from "@/components/i18n/LocaleLink";
 import type { Locale } from "@/i18n/config";
 import type { Copy } from "@/i18n/get-copy";
 import { designAssets } from "@/lib/design-assets";
+import { heroShopCta } from "@/lib/shops";
 
 type HomeHeroProps = {
   locale: Locale;
@@ -38,7 +39,7 @@ export function HomeHero({ locale, copy }: HomeHeroProps) {
             {copy.cta.park}
           </LocaleLink>
           <LocaleLink href="/shop" locale={locale} className="btn-shop-outline">
-            {copy.cta.shop}
+            {heroShopCta(copy, locale)}
           </LocaleLink>
         </div>
 

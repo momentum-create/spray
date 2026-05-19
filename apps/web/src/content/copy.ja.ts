@@ -20,7 +20,7 @@ export const copy = {
 
   cta: {
     park: "VISIT PARK / BOOK A SESSION",
-    shop: "SHOP ONLINE（楽天・Yahoo・公式ストア）",
+    shop: "オンラインショップ（楽天・Yahoo・公式ストア）",
     /** モバイル固定バー用（短い・モール名は /shop へ） */
     shopMobile: "ONLINE SHOP",
     bookPark: "パーク・料金を確認",
@@ -114,7 +114,7 @@ export const copy = {
         name: "Yahoo!ショッピング SPRAY 店",
         feature: "PayPayポイント対象商品あり",
       },
-      gmo: {
+      official: {
         name: "公式ストア",
         feature: "全ブランド・新着を一覧。会員登録でお得情報を受け取れます。",
       },

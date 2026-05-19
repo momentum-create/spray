@@ -220,6 +220,6 @@ export const siteFacts = {
   ec: {
     rakuten: "https://www.rakuten.ne.jp/gold/spray/",
     yahoo: "https://store.shopping.yahoo.co.jp/spray/",
-    gmo: "https://www.spray166.shop/",
+    official: "https://www.spray166.shop/",
   },
 } as const;

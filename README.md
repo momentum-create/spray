@@ -90,4 +90,6 @@ http://localhost:3000
 
 公開 URL 例: `https://<project>.vercel.app/ja`
 
+**注意:** `spray-xxxxx-ユーザー名-projects.vercel.app` のような長い URL は古いプレビュー用です。Vercel の **Overview → Domains → Production** の URL を使ってください。ブックマークは Production のみにしてください。
+
 ダッシュボードで **Install / Build Command を手動上書きしている場合は OFF** にし、`vercel.json` に任せてください。
