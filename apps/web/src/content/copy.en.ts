@@ -171,8 +171,10 @@ export const copy = {
     title: "Board maintenance",
     lead:
       "Our experienced team tunes your gear with care. Peak season gets busy — book service early!",
-    tuneUpTitle: "TUNE UP",
+    tuneUpTitle: "Tune-up",
     laborTitle: "Labor",
+    workshopTitle: "WORKSHOP",
+    priceMenuTitle: "Tune-up & labor cost menu",
     sourceNote:
       "Prices and descriptions from spray166.com/board-maintenance/ and in-store menu board.",
     priceSheetAlt: "Tune-up & labor cost menu",

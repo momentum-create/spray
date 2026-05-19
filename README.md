@@ -113,4 +113,35 @@ http://localhost:3000
 
 **ワークフロー本体**は **momentum-create/spray** にある必要があります。Seeker 側だけにファイルがある場合は、Cursor から `origin` へ push するか、momentum-create で同じファイルを追加してください。
 
-以降は Cursor からの通常 push だけで本番更新されます。
+**GitHub Actions 用（Vercel の Blocked 回避・任意）:**
+
+| Secret | 値の例 |
+|--------|--------|
+| `SEEKER_GIT_NAME` | `Seeker-x1` |
+| `SEEKER_GIT_EMAIL` | GitHub の Primary または noreply メール |
+
+mirror 後に Seeker 名義の空コミットを足して Vercel を起動します。
+
+### ローカルで `origin` push → 自動で `seeker` push
+
+**初回だけ:**
+
+```powershell
+pnpm run setup:hooks
+git config user.name "Seeker-x1"
+git config user.email "falcosist@gmail.com"
+```
+
+以降は **push だけ** で OK（`origin main` → フックで `seeker` も自動）:
+
+```powershell
+pnpm push
+```
+
+または（初回 `pnpm run setup:hooks` 済みなら）:
+
+```powershell
+git Push
+```
+
+コマンドプロンプトでリポジトリ直下にいる場合は `push` だけでも可（`push.cmd`）。

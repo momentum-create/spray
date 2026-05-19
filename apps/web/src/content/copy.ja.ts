@@ -169,8 +169,10 @@ export const copy = {
     title: "ボードメンテナンス",
     lead:
       "経験・知識豊富なスタッフがメンテいたしますので、安心してお申し付け下さい。シーズン中は大変込み合いますのでお早めにメンテナンスを！",
-    tuneUpTitle: "TUNE UP",
+    tuneUpTitle: "チューンナップ",
     laborTitle: "作業工賃",
+    workshopTitle: "WORKSHOP",
+    priceMenuTitle: "チューンナップ・作業工賃メニュー表",
     sourceNote:
       "料金・内容は http://www.spray166.com/board-maintenance/ および店頭掲示のチューンナップ・作業工賃メニュー表に準拠。",
     priceSheetAlt: "チューンナップ・作業工賃メニュー表",

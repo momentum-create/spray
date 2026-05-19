@@ -5,7 +5,9 @@
     "dev": "pnpm --filter @spray/web dev",
     "build": "pnpm --filter @spray/web build",
     "lint": "pnpm --filter @spray/web lint",
-    "typecheck": "pnpm -r typecheck"
+    "typecheck": "pnpm -r typecheck",
+    "setup:hooks": "powershell -ExecutionPolicy Bypass -File scripts/setup-githooks.ps1",
+    "push": "git push origin main"
   },
   "engines": {
     "node": ">=20"

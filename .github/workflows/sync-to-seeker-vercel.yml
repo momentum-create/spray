@@ -7,6 +7,9 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   mirror:
     runs-on: ubuntu-latest
@@ -19,22 +22,48 @@ jobs:
         env:
           SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
         run: |
+          set -e
           if [ -z "$SEEKER_PUSH_TOKEN" ]; then
-            echo "::error::SEEKER_PUSH_TOKEN が未設定です。momentum-create/spray → Settings → Secrets → Actions"
+            echo "::error::SEEKER_PUSH_TOKEN が未設定。momentum-create/spray → Settings → Secrets → Actions"
             exit 1
           fi
+          if [ "$(echo -n "$SEEKER_PUSH_TOKEN" | wc -c)" -lt 20 ]; then
+            echo "::error::SEEKER_PUSH_TOKEN が短すぎます。ghp_ で始まる classic PAT を Seeker-x1 で作り、Secret を Update してください。"
+            exit 1
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote add seeker "https://x-access-token:${SEEKER_PUSH_TOKEN}@github.com/Seeker-x1/spray.git"
 
-          echo "Checking token can read Seeker-x1/spray..."
-          if ! git ls-remote seeker HEAD >/dev/null 2>&1; then
-            echo "::error::Seeker へ接続できません。Seeker-x1 で classic PAT（repo 権限）を作り直し、Secret を更新してください。"
+          # classic PAT: x-access-token または Seeker-x1 ユーザー名のどちらでも可
+          SEEKER_URL="https://x-access-token:${SEEKER_PUSH_TOKEN}@github.com/Seeker-x1/spray.git"
+          git remote add seeker "$SEEKER_URL"
+
+          echo "=== Test: can we read Seeker-x1/spray? ==="
+          if ! git ls-remote seeker HEAD; then
+            echo "::error::Seeker へ接続できません。"
+            echo "確認: (1) トークンは Seeker-x1 で作成 (2) classic で repo にチェック (3) Secret は momentum-create/spray に登録"
             exit 128
           fi
 
-          echo "Pushing to Seeker-x1/spray..."
-          if ! git push seeker HEAD:main 2>&1; then
-            echo "::warning::通常 push 失敗。履歴差分のため force で再試行します..."
+          echo "=== Push to Seeker-x1/spray ==="
+          if git push seeker HEAD:main; then
+            echo "Push OK (fast-forward)"
+          else
+            echo "::warning::通常 push 失敗。force で再試行..."
             git push seeker HEAD:main --force
+            echo "Push OK (force)"
           fi
+
+          # Vercel Hobby: コミット作者が Seeker 系でないと Blocked になるため、空コミットでデプロイを起動
+          SEEKER_NAME="${{ secrets.SEEKER_GIT_NAME }}"
+          SEEKER_EMAIL="${{ secrets.SEEKER_GIT_EMAIL }}"
+          if [ -z "$SEEKER_EMAIL" ]; then
+            echo "::warning::SEEKER_GIT_EMAIL 未設定のため Vercel 用空コミットはスキップ（mirror のみ）"
+            exit 0
+          fi
+          SEEKER_NAME="${SEEKER_NAME:-Seeker-x1}"
+          git -c user.name="$SEEKER_NAME" -c user.email="$SEEKER_EMAIL" \
+            commit --allow-empty -m "chore: trigger Vercel deploy [automated]"
+          git push seeker HEAD:main
+          echo "Vercel trigger commit pushed (author: $SEEKER_NAME)"

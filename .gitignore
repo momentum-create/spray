@@ -12,3 +12,4 @@ dist
 cms/wordpress/wp-content/uploads
 cms/wordpress/wp-config.php
 .vercel
+.env*.local

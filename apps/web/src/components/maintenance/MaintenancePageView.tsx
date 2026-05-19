@@ -11,7 +11,7 @@ type MaintenancePageViewProps = {
   copy: Copy;
 };
 
-/** メンテナンス — 全幅ヒーロー + 公式料金表 + 2カラム */
+/** メンテナンス — ヒーロー + 店頭料金表（1か所） + 工房写真 / サービスフロー */
 export function MaintenancePageView({ locale, copy }: MaintenancePageViewProps) {
   const facts = getSiteFacts(locale);
 
@@ -25,7 +25,7 @@ export function MaintenancePageView({ locale, copy }: MaintenancePageViewProps) 
 
       <div className="mx-auto grid max-w-site grid-cols-1 lg:grid-cols-2">
         <div className="lg:border-r lg:border-spray-border">
-          <MaintenanceMiddleColumn locale={locale} copy={copy} maintenance={facts.maintenance} />
+          <MaintenanceMiddleColumn locale={locale} copy={copy} />
         </div>
 
         <MaintenanceRightColumn copy={copy} facts={facts} />

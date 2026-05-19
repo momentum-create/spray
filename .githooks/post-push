@@ -1,0 +1,16 @@
+#!/usr/bin/env sh
+# origin/main へ push したあと、Vercel 用に seeker/main へミラーする
+remote="$1"
+branch=$(git symbolic-ref -q HEAD 2>/dev/null | sed 's|^refs/heads/||')
+
+if [ "$remote" != "origin" ] || [ "$branch" != "main" ]; then
+  exit 0
+fi
+
+echo "→ mirroring main to seeker (Vercel)..."
+if git push seeker main; then
+  echo "✓ seeker main updated"
+else
+  echo "✗ git push seeker main failed (認証またはネットワークを確認)"
+  exit 1
+fi

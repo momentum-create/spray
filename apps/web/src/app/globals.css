@@ -78,4 +78,27 @@ body {
   .news-badge {
     @apply absolute left-0 top-0 flex h-6 w-6 items-center justify-center bg-spray-orange text-xs font-bold text-white;
   }
+
+  /* メンテナンス — 店頭料金表（雪山メニュー風をサイトトーンで再構成） */
+  .maintenance-price-menu-bg {
+    background:
+      linear-gradient(180deg, rgba(56, 120, 190, 0.45) 0%, rgba(0, 0, 0, 0.55) 38%, rgba(0, 0, 0, 0.92) 100%),
+      linear-gradient(135deg, #0c1a2e 0%, #000 55%);
+  }
+
+  .maintenance-menu-item {
+    @apply rounded-sm border border-white/10 bg-black/40 p-4 backdrop-blur-sm;
+  }
+
+  .maintenance-menu-item-title {
+    @apply relative pb-2;
+  }
+
+  .maintenance-menu-item-title::after {
+    content: "";
+    @apply absolute bottom-0 left-0 h-1 w-full max-w-[12rem];
+    background: linear-gradient(90deg, #c41e3a 0%, #e63946 70%, transparent 100%);
+    transform: skewX(-3deg);
+    opacity: 0.95;
+  }
 }
