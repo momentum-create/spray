@@ -1,0 +1,14 @@
+{
+  "name": "spray-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter @spray/web dev",
+    "build": "pnpm --filter @spray/web build",
+    "lint": "pnpm --filter @spray/web lint",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "pnpm@9.15.0"
+}
