@@ -1,0 +1,27 @@
+# momentum-create/spray へ push したら Seeker-x1/spray（Vercel 接続先）へ同期する
+name: Sync to Seeker (Vercel)
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to Seeker-x1/spray
+        env:
+          SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
+        run: |
+          if [ -z "$SEEKER_PUSH_TOKEN" ]; then
+            echo "::error::SEEKER_PUSH_TOKEN is not set. Add a Seeker-x1 PAT in repo Secrets (see README)."
+            exit 1
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add seeker "https://x-access-token:${SEEKER_PUSH_TOKEN}@github.com/Seeker-x1/spray.git"
+          git push seeker HEAD:main

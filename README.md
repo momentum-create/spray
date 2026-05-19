@@ -93,3 +93,17 @@ http://localhost:3000
 **注意:** `spray-xxxxx-ユーザー名-projects.vercel.app` のような長い URL は古いプレビュー用です。Vercel の **Overview → Domains → Production** の URL を使ってください。ブックマークは Production のみにしてください。
 
 ダッシュボードで **Install / Build Command を手動上書きしている場合は OFF** にし、`vercel.json` に任せてください。
+
+### Vercel（Seeker-x1）への自動同期
+
+Vercel プロジェクトは **`Seeker-x1/spray`** に接続されています。編集の push 先は **`momentum-create/spray`**（`origin`）のままでよいです。
+
+`main` へ push すると GitHub Actions（`.github/workflows/sync-to-seeker-vercel.yml`）が **Seeker 側へ自動 mirror** し、Vercel がデプロイします。
+
+**初回だけ（リポジトリ Secret）:**
+
+1. **Seeker-x1** で GitHub → Settings → Developer settings → **Personal access tokens** → `repo` 権限で作成
+2. **momentum-create/spray** → Settings → Secrets and variables → Actions → **New repository secret**
+3. Name: `SEEKER_PUSH_TOKEN` / Value: 上記トークン
+
+以降は `git push origin main`（Cursor からの通常 push）だけで本番更新されます。
