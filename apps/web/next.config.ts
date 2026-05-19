@@ -1,10 +1,16 @@
 import type { NextConfig } from "next";
+import fs from "fs";
 import path from "path";
 
 const wpUrl = process.env.WORDPRESS_API_URL ?? "http://localhost:8080";
 
+const monorepoRoot = path.join(process.cwd(), "../..");
+const isMonorepoCheckout =
+  fs.existsSync(path.join(monorepoRoot, "pnpm-workspace.yaml")) &&
+  fs.existsSync(path.join(process.cwd(), "package.json"));
+
 const nextConfig: NextConfig = {
-  outputFileTracingRoot: path.join(process.cwd(), "../.."),
+  ...(isMonorepoCheckout ? { outputFileTracingRoot: monorepoRoot } : {}),
   images: {
     remotePatterns: [
       {
