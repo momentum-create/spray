@@ -1,4 +1,5 @@
 import type { InboundProduct } from "@/content/inbound/products.en";
+import { gentemCollection } from "@/content/inbound/products.en";
 import { ProductBuyBox } from "@/components/inbound/dawn/ProductBuyBox";
 import { ProductGallery } from "@/components/inbound/dawn/ProductGallery";
 
