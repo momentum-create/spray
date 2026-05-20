@@ -8,8 +8,6 @@ import { HomeBrandsGrid } from "@/components/home/HomeBrandsGrid";
 import { HomeNewArrivals } from "@/components/home/HomeNewArrivals";
 import { HomeNews } from "@/components/home/HomeNews";
 import { HomeSkateparkColumn } from "@/components/home/HomeSkateparkColumn";
-import { InboundGuestBanner } from "@/components/inbound/InboundGuestBanner";
-
 type Props = {
   locale: Locale;
   copy: Copy;
@@ -22,7 +20,6 @@ export function HomePageGrid({ locale, copy, posts }: Props) {
 
   return (
     <>
-      {locale === "en" ? <InboundGuestBanner /> : null}
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-3 lg:items-start">
       <div className="flex flex-col gap-6">
         <HomeNewArrivals copy={copy} locale={locale} embedded />

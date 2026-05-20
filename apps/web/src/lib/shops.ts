@@ -50,10 +50,7 @@ export const malls = [
   },
 ] as const;
 
-export function mallUrl(mall: (typeof malls)[number], locale?: Locale): string {
-  if (locale === "en" && mall.id === "official") {
-    return "/en/products/gentemstick";
-  }
+export function mallUrl(mall: (typeof malls)[number], _locale?: Locale): string {
   const sep = mall.url.includes("?") ? "&" : "?";
   return `${mall.url}${sep}${mall.utm}`;
 }
