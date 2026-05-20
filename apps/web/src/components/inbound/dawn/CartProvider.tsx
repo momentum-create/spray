@@ -21,6 +21,7 @@ export type CartAddon = {
 export type CartLine = {
   product: InboundProduct;
   addons: CartAddon[];
+  pickupDate?: string;
   lineKey: string;
   quantity: number;
 };
@@ -30,7 +31,7 @@ type CartContextValue = {
   isOpen: boolean;
   openCart: () => void;
   closeCart: () => void;
-  addToCart: (product: InboundProduct, addons?: CartAddon[]) => void;
+  addToCart: (product: InboundProduct, addons?: CartAddon[], pickupDate?: string) => void;
   removeLine: (lineKey: string) => void;
   subtotalJpy: number;
   subtotalLabel: string;
@@ -43,9 +44,13 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [lines, setLines] = useState<CartLine[]>([]);
   const [isOpen, setIsOpen] = useState(false);
 
-  const addToCart = useCallback((product: InboundProduct, addons: CartAddon[] = []) => {
+  const addToCart = useCallback(
+    (product: InboundProduct, addons: CartAddon[] = [], pickupDate?: string) => {
     const addonSignature = addons.map((a) => a.id).sort().join("+");
-    const lineKey = addonSignature ? `${product.slug}::${addonSignature}` : product.slug;
+      const dateSignature = pickupDate ? `::pickup-${pickupDate}` : "";
+      const lineKey = addonSignature
+        ? `${product.slug}::${addonSignature}${dateSignature}`
+        : `${product.slug}${dateSignature}`;
     setLines((prev) => {
       const existing = prev.find((l) => l.lineKey === lineKey);
       if (existing) {
@@ -53,10 +58,12 @@ export function CartProvider({ children }: { children: ReactNode }) {
           l.lineKey === lineKey ? { ...l, quantity: l.quantity + 1 } : l,
         );
       }
-      return [...prev, { product, addons, lineKey, quantity: 1 }];
+        return [...prev, { product, addons, pickupDate, lineKey, quantity: 1 }];
     });
     setIsOpen(true);
-  }, []);
+    },
+    [],
+  );
 
   const removeLine = useCallback((lineKey: string) => {
     setLines((prev) => prev.filter((l) => l.lineKey !== lineKey));

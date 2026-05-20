@@ -18,6 +18,22 @@ export function ProductBuyBox({ product }: Props) {
   const router = useRouter();
   const [tuneUp, setTuneUp] = useState<"none" | "pre" | "full">("none");
   const [withSoleGuard, setWithSoleGuard] = useState(false);
+  const [pickupDate, setPickupDate] = useState("");
+  const requiresPickupSchedule = tuneUp !== "none";
+  const earliestPickupDate = useMemo(() => {
+    const start = new Date();
+    const leadDays = tuneUp === "full" ? 7 : tuneUp === "pre" ? 3 : 0;
+    start.setHours(0, 0, 0, 0);
+    start.setDate(start.getDate() + leadDays);
+    while (start.getDay() === 3) {
+      // Wednesday closed
+      start.setDate(start.getDate() + 1);
+    }
+    const y = start.getFullYear();
+    const m = String(start.getMonth() + 1).padStart(2, "0");
+    const d = String(start.getDate()).padStart(2, "0");
+    return `${y}-${m}-${d}`;
+  }, [tuneUp]);
   const selectedAddons = useMemo<CartAddon[]>(() => {
     const addons: CartAddon[] = [];
     if (tuneUp === "pre") {
@@ -63,7 +79,10 @@ export function ProductBuyBox({ product }: Props) {
                   type="radio"
                   name={`tune-up-${product.slug}`}
                   checked={tuneUp === "none"}
-                  onChange={() => setTuneUp("none")}
+                  onChange={() => {
+                    setTuneUp("none");
+                    setPickupDate("");
+                  }}
                 />
                 No tune-up
               </span>
@@ -94,6 +113,23 @@ export function ProductBuyBox({ product }: Props) {
               <span>+¥15,400</span>
             </label>
           </div>
+          {requiresPickupSchedule ? (
+            <label className="mt-3 block border-t border-[#e8e8e8] pt-3 text-sm">
+              <span className="mb-1.5 block text-xs font-medium uppercase tracking-wide text-black/70">
+                Earliest pickup date
+              </span>
+              <input
+                type="date"
+                min={earliestPickupDate}
+                value={pickupDate}
+                onChange={(e) => setPickupDate(e.target.value)}
+                className="dawn-input w-full"
+              />
+              <span className="mt-1 block text-[11px] text-black/50">
+                Same-day / next-day pickup is not available. Wednesdays are unavailable.
+              </span>
+            </label>
+          ) : null}
           <label className="mt-3 flex items-center justify-between gap-2 border-t border-[#e8e8e8] pt-3 text-sm">
             <span className="flex items-center gap-2">
               <input
@@ -117,18 +153,24 @@ export function ProductBuyBox({ product }: Props) {
           <>
             <button
               type="button"
-              onClick={() => addToCart(product, selectedAddons)}
-              className="dawn-btn-secondary w-full"
+              onClick={() => addToCart(product, selectedAddons, pickupDate || undefined)}
+              disabled={requiresPickupSchedule && !pickupDate}
+              className={`dawn-btn-secondary w-full ${
+                requiresPickupSchedule && !pickupDate ? "cursor-not-allowed opacity-50" : ""
+              }`}
             >
               {dawnCopy.product.addToCart}
             </button>
             <button
               type="button"
               onClick={() => {
-                addToCart(product, selectedAddons);
+                addToCart(product, selectedAddons, pickupDate || undefined);
                 router.push("/en/checkout");
               }}
-              className="dawn-btn-primary w-full"
+              disabled={requiresPickupSchedule && !pickupDate}
+              className={`dawn-btn-primary w-full ${
+                requiresPickupSchedule && !pickupDate ? "cursor-not-allowed opacity-50" : ""
+              }`}
             >
               {dawnCopy.product.buyNow}
             </button>

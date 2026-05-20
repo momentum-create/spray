@@ -59,6 +59,9 @@ export function ExpressCheckout() {
                     ))}
                   </ul>
                 ) : null}
+                {line.pickupDate ? (
+                  <p className="text-xs text-black/50">Pickup date: {line.pickupDate}</p>
+                ) : null}
               </div>
             );
           })
