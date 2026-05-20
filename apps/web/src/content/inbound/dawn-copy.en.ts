@@ -45,8 +45,9 @@ export const dawnCopy = {
     demoNote: "This is a presentation demo. No payment is processed.",
   },
   banner: {
-    label: "FOR INTERNATIONAL GUESTS",
-    cta: "Shop in English",
+    label: "GENTEMSTICK · English shop demo",
+    body: "5 pre-order boards, cart & checkout demo, tune-up booking — not the full online mall.",
+    cta: "Browse boards",
   },
 } as const;
 

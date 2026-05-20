@@ -20,7 +20,7 @@ export function DawnHeader() {
           <Link href="/en/booking/tune-up" className="hover:underline">
             {dawnCopy.nav.tuneUp}
           </Link>
-          <Link href="/en/about/access" className="hover:underline">
+          <Link href="/en/products/gentemstick#visit-store" className="hover:underline">
             {dawnCopy.nav.visit}
           </Link>
           <Link href="/ja" className="text-black/50 hover:underline">

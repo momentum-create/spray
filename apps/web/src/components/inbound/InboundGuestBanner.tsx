@@ -11,12 +11,10 @@ export function InboundGuestBanner() {
         <p className="text-[10px] font-bold uppercase tracking-widest text-spray-orange">
           {dawnCopy.banner.label}
         </p>
-        <p className="mt-1 text-xs text-spray-muted">
-          Shopify-style English shop preview — products, BOPIS, tune-up booking
-        </p>
+        <p className="mt-1 text-xs text-spray-muted">{dawnCopy.banner.body}</p>
       </div>
       <Link
-        href="/en/products/gentemstick"
+        href="/en/products/gentemstick#products"
         className="btn-orange-outline shrink-0 px-4 py-2 text-[10px]"
       >
         {dawnCopy.banner.cta}

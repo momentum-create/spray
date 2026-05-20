@@ -78,7 +78,7 @@ export function ExpressCheckout() {
       </button>
 
       <Link
-        href="/en/products/gentemstick"
+        href="/en/products/gentemstick#products"
         className="mt-4 block text-center text-sm underline text-black/60"
       >
         Continue shopping
