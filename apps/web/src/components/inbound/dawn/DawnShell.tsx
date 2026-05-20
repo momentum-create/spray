@@ -11,7 +11,7 @@ export function DawnShell({ children }: Props) {
     <CartProvider>
       <div className="dawn-theme min-h-screen bg-white text-black">
         <DawnHeader />
-        <main>{children}</main>
+        <main className="block w-full overflow-x-hidden">{children}</main>
         <DawnFooter />
       </div>
     </CartProvider>

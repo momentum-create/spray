@@ -42,3 +42,21 @@
 .dawn-drawer {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
+
+/* Product page — prevent sticky/flow overlap with global site styles */
+.dawn-product-page .dawn-product-info,
+.dawn-product-page .dawn-product-details {
+  position: relative;
+  z-index: 0;
+}
+
+.dawn-product-page .dawn-product-info > * {
+  position: static;
+}
+
+.dawn-product-page .dawn-product-details h2,
+.dawn-product-page .dawn-product-details p,
+.dawn-product-page .dawn-product-details li {
+  display: block;
+  position: static;
+}

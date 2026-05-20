@@ -17,7 +17,7 @@ export function ProductBuyBox({ product }: Props) {
   const router = useRouter();
 
   return (
-    <div className="relative bg-white">
+    <div className="dawn-buy-box w-full bg-white">
       <p className="text-xs uppercase tracking-widest text-black/50">{product.brand}</p>
       <h1 className="mt-2 text-2xl font-medium leading-tight text-black md:text-3xl">
         {product.name}
