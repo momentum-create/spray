@@ -18,9 +18,12 @@ const products = [
   },
   {
     id: "skate2",
-    name: "SKATEBOARD (Skateboard)",
+    name: "GENTEMSTICK",
+    subtitle: "26-27 MID FISH OUTLINE CORE",
+    price: "¥188,100 JPY",
     mall: "official" as const,
-    image: "/images/product-skateboard-complete.png",
+    image:
+      "https://cdn.shopify.com/s/files/1/0722/7264/2325/files/gt2627-05alt-06-midfish-oc-1.png?v=1769411978",
   },
 ];
 
@@ -78,7 +81,17 @@ export function HomeNewArrivals({ copy, locale, embedded }: HomeNewArrivalsProps
                 />
               </div>
               <div className="flex flex-1 flex-col justify-between bg-spray-elevated p-2">
-                <p className="text-[10px] font-bold uppercase leading-snug text-white">{product.name}</p>
+                <div>
+                  <p className="text-[10px] font-bold uppercase leading-snug text-white">{product.name}</p>
+                  {"subtitle" in product ? (
+                    <p className="mt-1 text-[9px] font-semibold uppercase leading-snug text-white/85">
+                      {product.subtitle}
+                    </p>
+                  ) : null}
+                  {"price" in product ? (
+                    <p className="mt-1 text-[9px] font-bold leading-snug text-spray-orange">{product.price}</p>
+                  ) : null}
+                </div>
                 <a
                   href={mallUrl(mall, locale)}
                   target="_blank"
