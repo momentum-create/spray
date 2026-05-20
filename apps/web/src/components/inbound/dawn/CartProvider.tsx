@@ -13,7 +13,7 @@ import { formatJpy } from "@/content/inbound/products.en";
 import { DrawerCart } from "@/components/inbound/dawn/DrawerCart";
 
 export type CartAddon = {
-  id: "pre-tune" | "full-tune" | "board-case";
+  id: "pre-tune" | "full-tune" | "sole-guard";
   label: string;
   priceJpy: number;
 };

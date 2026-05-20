@@ -17,7 +17,7 @@ export function ProductBuyBox({ product }: Props) {
   const { addToCart } = useCart();
   const router = useRouter();
   const [tuneUp, setTuneUp] = useState<"none" | "pre" | "full">("none");
-  const [withCase, setWithCase] = useState(false);
+  const [withSoleGuard, setWithSoleGuard] = useState(false);
   const selectedAddons = useMemo<CartAddon[]>(() => {
     const addons: CartAddon[] = [];
     if (tuneUp === "pre") {
@@ -26,11 +26,15 @@ export function ProductBuyBox({ product }: Props) {
     if (tuneUp === "full") {
       addons.push({ id: "full-tune", label: "Full tune-up", priceJpy: 15_400 });
     }
-    if (withCase) {
-      addons.push({ id: "board-case", label: "Board case", priceJpy: 8_800 });
+    if (withSoleGuard) {
+      addons.push({
+        id: "sole-guard",
+        label: "Sole guard OR SPRAY Original Knit Sole Guard",
+        priceJpy: 8_800,
+      });
     }
     return addons;
-  }, [tuneUp, withCase]);
+  }, [tuneUp, withSoleGuard]);
 
   return (
     <div className="dawn-buy-box w-full bg-white">
@@ -94,10 +98,10 @@ export function ProductBuyBox({ product }: Props) {
             <span className="flex items-center gap-2">
               <input
                 type="checkbox"
-                checked={withCase}
-                onChange={(e) => setWithCase(e.target.checked)}
+                  checked={withSoleGuard}
+                  onChange={(e) => setWithSoleGuard(e.target.checked)}
               />
-              Add board case
+              Sole guard OR SPRAY Original Knit Sole Guard
             </span>
             <span>+¥8,800</span>
           </label>
