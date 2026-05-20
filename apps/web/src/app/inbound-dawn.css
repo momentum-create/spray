@@ -6,6 +6,19 @@
   background: #ffffff;
 }
 
+.dawn-theme main {
+  background: #ffffff;
+  color: #000000;
+}
+
+.dawn-theme h1,
+.dawn-theme h2,
+.dawn-theme p,
+.dawn-theme dt,
+.dawn-theme dd {
+  color: inherit;
+}
+
 .dawn-btn-primary {
   @apply inline-flex items-center justify-center border border-black bg-black px-6 py-3.5 text-sm font-medium text-white transition hover:bg-black/90;
   border-radius: 4px;

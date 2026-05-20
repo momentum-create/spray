@@ -12,7 +12,7 @@ export function ProductImage({
   product,
   priority = false,
   sizes = "(max-width: 768px) 100vw, 50vw",
-  className = "object-contain p-4",
+  className = "object-contain object-center p-6",
 }: Props) {
   return (
     <Image
