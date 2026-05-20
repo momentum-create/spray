@@ -1,5 +1,5 @@
-# 編集の push 先: momentum-create/spray（origin）
-# Vercel が見る先: Seeker-x1/spray → main への push で自動 mirror
+# 編集の push 先: momentum-create/spray（origin）→ ここだけ mirror 実行
+# Vercel が見る先: Seeker-x1/spray（seeker）→ 直接 push でデプロイ（この workflow は走らない）
 name: Sync to Seeker (Vercel)
 
 on:
@@ -7,11 +7,16 @@ on:
     branches: [main]
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: read
 
 jobs:
   mirror:
+    # Seeker へ直接 push 時は job ごとスキップ（Secret 不要・失敗通知なし）
+    if: github.repository == 'momentum-create/spray'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,31 +28,29 @@ jobs:
           SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
         run: |
           set -e
-          # Seeker へ直接 push している場合は mirror 不要（Secret 未設定でも失敗にしない）
-          if [ "${{ github.repository }}" = "Seeker-x1/spray" ]; then
-            echo "Skip mirror: already on Seeker-x1/spray (direct push triggers Vercel)."
-            exit 0
-          fi
           if [ -z "$SEEKER_PUSH_TOKEN" ]; then
             echo "::error::SEEKER_PUSH_TOKEN が未設定。momentum-create/spray → Settings → Secrets → Actions"
             exit 1
           fi
           if [ "$(echo -n "$SEEKER_PUSH_TOKEN" | wc -c)" -lt 20 ]; then
-            echo "::error::SEEKER_PUSH_TOKEN が短すぎます。ghp_ で始まる classic PAT を Seeker-x1 で作り、Secret を Update してください。"
+            echo "::error::SEEKER_PUSH_TOKEN が短すぎます。Seeker-x1 で classic PAT (repo) を作り Secret を Update。"
             exit 1
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # classic PAT: x-access-token または Seeker-x1 ユーザー名のどちらでも可
           SEEKER_URL="https://x-access-token:${SEEKER_PUSH_TOKEN}@github.com/Seeker-x1/spray.git"
           git remote add seeker "$SEEKER_URL"
 
           echo "=== Test: can we read Seeker-x1/spray? ==="
-          if ! git ls-remote seeker HEAD; then
-            echo "::error::Seeker へ接続できません。"
-            echo "確認: (1) トークンは Seeker-x1 で作成 (2) classic で repo にチェック (3) Secret は momentum-create/spray に登録"
+          if ! git ls-remote seeker HEAD 2>ls-remote.err; then
+            if grep -qi 'not found' ls-remote.err; then
+              echo "::error::Seeker-x1/spray に接続できません（404）。多くは PAT が無効・期限切れ・Seeker-x1 の spray への repo 権限なし。Seeker-x1 で classic PAT (repo) を再発行し、momentum-create/spray の SEEKER_PUSH_TOKEN を更新してください。"
+            else
+              echo "::error::Seeker へ接続できません。"
+              cat ls-remote.err
+            fi
             exit 128
           fi
 
@@ -60,7 +63,6 @@ jobs:
             echo "Push OK (force)"
           fi
 
-          # Vercel Hobby: コミット作者が Seeker 系でないと Blocked になるため、空コミットでデプロイを起動
           SEEKER_NAME="${{ secrets.SEEKER_GIT_NAME }}"
           SEEKER_EMAIL="${{ secrets.SEEKER_GIT_EMAIL }}"
           if [ -z "$SEEKER_EMAIL" ]; then
