@@ -17,7 +17,7 @@ export function ProductBuyBox({ product }: Props) {
   const { addToCart } = useCart();
   const router = useRouter();
   const [tuneUp, setTuneUp] = useState<"none" | "pre" | "full">("none");
-  const [withSoleGuard, setWithSoleGuard] = useState(false);
+  const [soleGuard, setSoleGuard] = useState<"none" | "gentem" | "spray">("none");
   const [pickupDate, setPickupDate] = useState("");
   const requiresPickupSchedule = tuneUp !== "none";
   const earliestPickupDate = useMemo(() => {
@@ -42,15 +42,22 @@ export function ProductBuyBox({ product }: Props) {
     if (tuneUp === "full") {
       addons.push({ id: "full-tune", label: "Full tune-up", priceJpy: 15_400 });
     }
-    if (withSoleGuard) {
+    if (soleGuard === "gentem") {
       addons.push({
-        id: "sole-guard",
-        label: "Sole guard OR SPRAY Original Knit Sole Guard",
+        id: "gentem-sole-guard",
+        label: "GENTEMSTICK Sole Guard",
+        priceJpy: 15_950,
+      });
+    }
+    if (soleGuard === "spray") {
+      addons.push({
+        id: "spray-knit-sole-guard",
+        label: "SPRAY Knit Sole Guard",
         priceJpy: 8_800,
       });
     }
     return addons;
-  }, [tuneUp, withSoleGuard]);
+  }, [tuneUp, soleGuard]);
 
   return (
     <div className="dawn-buy-box w-full bg-white">
@@ -130,17 +137,49 @@ export function ProductBuyBox({ product }: Props) {
               </span>
             </label>
           ) : null}
-          <label className="mt-3 flex items-center justify-between gap-2 border-t border-[#e8e8e8] pt-3 text-sm">
-            <span className="flex items-center gap-2">
-              <input
-                type="checkbox"
-                  checked={withSoleGuard}
-                  onChange={(e) => setWithSoleGuard(e.target.checked)}
-              />
-              Sole guard OR SPRAY Original Knit Sole Guard
-            </span>
-            <span>+¥8,800</span>
-          </label>
+          <div className="mt-3 border-t border-[#e8e8e8] pt-3">
+            <p className="mb-2 text-xs font-medium uppercase tracking-wide text-black/70">
+              Sole guard options
+            </p>
+            <div className="space-y-2">
+              <label className="flex items-center justify-between gap-2 text-sm">
+                <span className="flex items-center gap-2">
+                  <input
+                    type="radio"
+                    name={`sole-guard-${product.slug}`}
+                    checked={soleGuard === "none"}
+                    onChange={() => setSoleGuard("none")}
+                  />
+                  No sole guard
+                </span>
+                <span className="text-black/50">+¥0</span>
+              </label>
+              <label className="flex items-center justify-between gap-2 text-sm">
+                <span className="flex items-center gap-2">
+                  <input
+                    type="radio"
+                    name={`sole-guard-${product.slug}`}
+                    checked={soleGuard === "gentem"}
+                    onChange={() => setSoleGuard("gentem")}
+                  />
+                  GENTEMSTICK Sole Guard
+                </span>
+                <span>+¥15,950</span>
+              </label>
+              <label className="flex items-center justify-between gap-2 text-sm">
+                <span className="flex items-center gap-2">
+                  <input
+                    type="radio"
+                    name={`sole-guard-${product.slug}`}
+                    checked={soleGuard === "spray"}
+                    onChange={() => setSoleGuard("spray")}
+                  />
+                  SPRAY Knit Sole Guard
+                </span>
+                <span>+¥8,800</span>
+              </label>
+            </div>
+          </div>
         </fieldset>
       ) : null}
 
