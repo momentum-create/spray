@@ -45,20 +45,34 @@ export function DrawerCart() {
             <ul className="space-y-4">
               {lines.map((line) => (
                 <li
-                  key={line.product.slug}
+                  key={line.lineKey}
                   className="flex gap-3 border-b border-[#e8e8e8] pb-4"
                 >
-                  <div className="h-20 w-20 shrink-0 bg-[#f3f3f3]" aria-hidden />
+                  <div className="relative h-20 w-20 shrink-0 overflow-hidden border border-[#e8e8e8] bg-white">
+                    <ProductImage product={line.product} sizes="80px" className="object-contain p-1" />
+                  </div>
                   <div className="min-w-0 flex-1">
                     <p className="text-sm font-medium text-black">{line.product.name}</p>
                     <p className="text-xs text-black/50">{line.product.brand}</p>
                     <p className="mt-1 text-sm text-black">
-                      {formatJpy(line.product.priceJpy)}
+                      {formatJpy(
+                        line.product.priceJpy +
+                          line.addons.reduce((sum, addon) => sum + addon.priceJpy, 0),
+                      )}
                       {line.quantity > 1 ? ` × ${line.quantity}` : ""}
                     </p>
+                    {line.addons.length ? (
+                      <ul className="mt-1 space-y-0.5 text-xs text-black/50">
+                        {line.addons.map((addon) => (
+                          <li key={addon.id}>
+                            + {addon.label} ({formatJpy(addon.priceJpy)})
+                          </li>
+                        ))}
+                      </ul>
+                    ) : null}
                     <button
                       type="button"
-                      onClick={() => removeLine(line.product.slug)}
+                      onClick={() => removeLine(line.lineKey)}
                       className="mt-2 text-xs underline text-black/50 hover:text-black"
                     >
                       Remove

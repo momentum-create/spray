@@ -1,12 +1,13 @@
 "use client";
 
+import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import type { InboundProduct } from "@/content/inbound/products.en";
 import { formatJpy } from "@/content/inbound/products.en";
 import { dawnCopy } from "@/content/inbound/dawn-copy.en";
 import { BopisPickup } from "@/components/inbound/dawn/BopisPickup";
 import { TaxFreeNote } from "@/components/inbound/dawn/TaxFreeNote";
-import { useCart } from "@/components/inbound/dawn/CartProvider";
+import { useCart, type CartAddon } from "@/components/inbound/dawn/CartProvider";
 
 type Props = {
   product: InboundProduct;
@@ -15,6 +16,21 @@ type Props = {
 export function ProductBuyBox({ product }: Props) {
   const { addToCart } = useCart();
   const router = useRouter();
+  const [tuneUp, setTuneUp] = useState<"none" | "pre" | "full">("none");
+  const [withCase, setWithCase] = useState(false);
+  const selectedAddons = useMemo<CartAddon[]>(() => {
+    const addons: CartAddon[] = [];
+    if (tuneUp === "pre") {
+      addons.push({ id: "pre-tune", label: "Pre tune-up", priceJpy: 6_600 });
+    }
+    if (tuneUp === "full") {
+      addons.push({ id: "full-tune", label: "Full tune-up", priceJpy: 15_400 });
+    }
+    if (withCase) {
+      addons.push({ id: "board-case", label: "Board case", priceJpy: 8_800 });
+    }
+    return addons;
+  }, [tuneUp, withCase]);
 
   return (
     <div className="dawn-buy-box w-full bg-white">
@@ -31,6 +47,62 @@ export function ProductBuyBox({ product }: Props) {
       <p className="mt-2 text-xs text-black/50">
         {dawnCopy.product.reviews(product.reviewCount)}
       </p>
+      {!product.soldOut ? (
+        <fieldset className="mt-5 border border-[#e8e8e8] p-4">
+          <legend className="px-1 text-xs font-medium uppercase tracking-wide text-black/70">
+            Tune-up options
+          </legend>
+          <div className="space-y-2">
+            <label className="flex items-center justify-between gap-2 text-sm">
+              <span className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name={`tune-up-${product.slug}`}
+                  checked={tuneUp === "none"}
+                  onChange={() => setTuneUp("none")}
+                />
+                No tune-up
+              </span>
+              <span className="text-black/50">+¥0</span>
+            </label>
+            <label className="flex items-center justify-between gap-2 text-sm">
+              <span className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name={`tune-up-${product.slug}`}
+                  checked={tuneUp === "pre"}
+                  onChange={() => setTuneUp("pre")}
+                />
+                Pre tune-up
+              </span>
+              <span>+¥6,600</span>
+            </label>
+            <label className="flex items-center justify-between gap-2 text-sm">
+              <span className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name={`tune-up-${product.slug}`}
+                  checked={tuneUp === "full"}
+                  onChange={() => setTuneUp("full")}
+                />
+                Full tune-up
+              </span>
+              <span>+¥15,400</span>
+            </label>
+          </div>
+          <label className="mt-3 flex items-center justify-between gap-2 border-t border-[#e8e8e8] pt-3 text-sm">
+            <span className="flex items-center gap-2">
+              <input
+                type="checkbox"
+                checked={withCase}
+                onChange={(e) => setWithCase(e.target.checked)}
+              />
+              Add board case
+            </span>
+            <span>+¥8,800</span>
+          </label>
+        </fieldset>
+      ) : null}
 
       <div className="mt-6 space-y-3">
         {product.soldOut ? (
@@ -41,7 +113,7 @@ export function ProductBuyBox({ product }: Props) {
           <>
             <button
               type="button"
-              onClick={() => addToCart(product)}
+              onClick={() => addToCart(product, selectedAddons)}
               className="dawn-btn-secondary w-full"
             >
               {dawnCopy.product.addToCart}
@@ -49,7 +121,7 @@ export function ProductBuyBox({ product }: Props) {
             <button
               type="button"
               onClick={() => {
-                addToCart(product);
+                addToCart(product, selectedAddons);
                 router.push("/en/checkout");
               }}
               className="dawn-btn-primary w-full"

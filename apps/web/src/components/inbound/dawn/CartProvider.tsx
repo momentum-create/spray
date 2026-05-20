@@ -12,8 +12,16 @@ import type { InboundProduct } from "@/content/inbound/products.en";
 import { formatJpy } from "@/content/inbound/products.en";
 import { DrawerCart } from "@/components/inbound/dawn/DrawerCart";
 
+export type CartAddon = {
+  id: "pre-tune" | "full-tune" | "board-case";
+  label: string;
+  priceJpy: number;
+};
+
 export type CartLine = {
   product: InboundProduct;
+  addons: CartAddon[];
+  lineKey: string;
   quantity: number;
 };
 
@@ -22,8 +30,8 @@ type CartContextValue = {
   isOpen: boolean;
   openCart: () => void;
   closeCart: () => void;
-  addToCart: (product: InboundProduct) => void;
-  removeLine: (slug: string) => void;
+  addToCart: (product: InboundProduct, addons?: CartAddon[]) => void;
+  removeLine: (lineKey: string) => void;
   subtotalJpy: number;
   subtotalLabel: string;
   itemCount: number;
@@ -35,25 +43,32 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [lines, setLines] = useState<CartLine[]>([]);
   const [isOpen, setIsOpen] = useState(false);
 
-  const addToCart = useCallback((product: InboundProduct) => {
+  const addToCart = useCallback((product: InboundProduct, addons: CartAddon[] = []) => {
+    const addonSignature = addons.map((a) => a.id).sort().join("+");
+    const lineKey = addonSignature ? `${product.slug}::${addonSignature}` : product.slug;
     setLines((prev) => {
-      const existing = prev.find((l) => l.product.slug === product.slug);
+      const existing = prev.find((l) => l.lineKey === lineKey);
       if (existing) {
         return prev.map((l) =>
-          l.product.slug === product.slug ? { ...l, quantity: l.quantity + 1 } : l,
+          l.lineKey === lineKey ? { ...l, quantity: l.quantity + 1 } : l,
         );
       }
-      return [...prev, { product, quantity: 1 }];
+      return [...prev, { product, addons, lineKey, quantity: 1 }];
     });
     setIsOpen(true);
   }, []);
 
-  const removeLine = useCallback((slug: string) => {
-    setLines((prev) => prev.filter((l) => l.product.slug !== slug));
+  const removeLine = useCallback((lineKey: string) => {
+    setLines((prev) => prev.filter((l) => l.lineKey !== lineKey));
   }, []);
 
   const subtotalJpy = useMemo(
-    () => lines.reduce((sum, l) => sum + l.product.priceJpy * l.quantity, 0),
+    () =>
+      lines.reduce((sum, l) => {
+        const addonTotal = l.addons.reduce((addonSum, a) => addonSum + a.priceJpy, 0);
+        const lineTotal = (l.product.priceJpy + addonTotal) * l.quantity;
+        return sum + lineTotal;
+      }, 0),
     [lines],
   );
 

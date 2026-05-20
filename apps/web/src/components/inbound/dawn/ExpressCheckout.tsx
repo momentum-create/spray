@@ -37,12 +37,31 @@ export function ExpressCheckout() {
         {lines.length === 0 ? (
           <p className="text-black/50">No items — add from a product page.</p>
         ) : (
-          lines.map((line) => (
-            <div key={line.product.slug} className="flex justify-between gap-4">
-              <span className="text-black/80">{line.product.name}</span>
-              <span className="shrink-0 text-black">{formatJpy(line.product.priceJpy)}</span>
-            </div>
-          ))
+          lines.map((line) => {
+            const addonsTotal = line.addons.reduce((sum, addon) => sum + addon.priceJpy, 0);
+            return (
+              <div key={line.lineKey} className="space-y-1">
+                <div className="flex justify-between gap-4">
+                  <span className="text-black/80">
+                    {line.product.name}
+                    {line.quantity > 1 ? ` × ${line.quantity}` : ""}
+                  </span>
+                  <span className="shrink-0 text-black">
+                    {formatJpy((line.product.priceJpy + addonsTotal) * line.quantity)}
+                  </span>
+                </div>
+                {line.addons.length ? (
+                  <ul className="space-y-0.5 text-xs text-black/50">
+                    {line.addons.map((addon) => (
+                      <li key={addon.id}>
+                        + {addon.label} ({formatJpy(addon.priceJpy)})
+                      </li>
+                    ))}
+                  </ul>
+                ) : null}
+              </div>
+            );
+          })
         )}
         <div className="flex justify-between border-t border-[#e8e8e8] pt-3 font-medium text-black">
           <span>{dawnCopy.checkout.total}</span>
