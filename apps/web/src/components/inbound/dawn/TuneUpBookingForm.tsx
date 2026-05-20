@@ -4,8 +4,10 @@ import { useState } from "react";
 import { dawnCopy, tuneUpCourses } from "@/content/inbound/dawn-copy.en";
 import { formatJpy } from "@/content/inbound/products.en";
 
+type TuneUpCourseId = (typeof tuneUpCourses)[number]["id"];
+
 export function TuneUpBookingForm() {
-  const [courseId, setCourseId] = useState(tuneUpCourses[0].id);
+  const [courseId, setCourseId] = useState<TuneUpCourseId>(tuneUpCourses[0].id);
   const [dropOff, setDropOff] = useState("");
   const [pickUp, setPickUp] = useState("");
   const [submitted, setSubmitted] = useState(false);
