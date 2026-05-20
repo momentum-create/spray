@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Copy } from "@/i18n/get-copy";
+import type { Locale } from "@/i18n/config";
 import { malls, mallUrl, type MallId } from "@/lib/shops";
 
 const products = [
@@ -35,9 +36,9 @@ const mallBadgeFallback: Record<MallId, string> = {
   official: "公式ストア",
 };
 
-type HomeNewArrivalsProps = { copy: Copy; embedded?: boolean };
+type HomeNewArrivalsProps = { copy: Copy; locale: Locale; embedded?: boolean };
 
-export function HomeNewArrivals({ copy, embedded }: HomeNewArrivalsProps) {
+export function HomeNewArrivals({ copy, locale, embedded }: HomeNewArrivalsProps) {
   const content = (
     <>
       <div className="mb-4 flex items-center justify-between">
@@ -79,7 +80,7 @@ export function HomeNewArrivals({ copy, embedded }: HomeNewArrivalsProps) {
               <div className="flex flex-1 flex-col justify-between bg-spray-elevated p-2">
                 <p className="text-[10px] font-bold uppercase leading-snug text-white">{product.name}</p>
                 <a
-                  href={mallUrl(mall)}
+                  href={mallUrl(mall, locale)}
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`mt-2 block py-1.5 text-center text-[9px] font-bold uppercase tracking-wider ${mallBadgeClass[mallKey]}`}

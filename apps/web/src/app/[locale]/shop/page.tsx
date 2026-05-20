@@ -17,7 +17,7 @@ export default async function ShopPage({ params }: PageProps) {
         {malls.map((mall) => (
           <a
             key={mall.id}
-            href={mallUrl(mall)}
+            href={mallUrl(mall, locale)}
             target="_blank"
             rel="noopener noreferrer"
             className="rounded border border-spray-border bg-spray-surface p-8 hover:border-spray-orange"

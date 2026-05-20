@@ -58,7 +58,7 @@ export function SiteHeader({ locale }: SiteHeaderProps) {
                 {headerMalls.map((mall) => (
                   <a
                     key={mall.id}
-                    href={mallUrl(mall)}
+                    href={mallUrl(mall, locale)}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block px-4 py-2.5 text-sm font-bold uppercase tracking-wider text-white hover:bg-white/10"
@@ -107,7 +107,7 @@ export function SiteHeader({ locale }: SiteHeaderProps) {
             {headerMalls.map((mall) => (
               <a
                 key={mall.id}
-                href={mallUrl(mall)}
+                href={mallUrl(mall, locale)}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-orange-outline text-center"

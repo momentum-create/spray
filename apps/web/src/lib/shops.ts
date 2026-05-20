@@ -1,4 +1,5 @@
 export type MallId = "rakuten" | "yahoo" | "official";
+type Locale = "ja" | "en";
 
 /** メガメニュー等の短いラベル（公式ストアは copy.shop.malls.official.name を優先） */
 export function mallNavLabel(
@@ -49,7 +50,10 @@ export const malls = [
   },
 ] as const;
 
-export function mallUrl(mall: (typeof malls)[number]): string {
+export function mallUrl(mall: (typeof malls)[number], locale?: Locale): string {
+  if (locale === "en" && mall.id === "official") {
+    return "/en/products/gentemstick";
+  }
   const sep = mall.url.includes("?") ? "&" : "?";
   return `${mall.url}${sep}${mall.utm}`;
 }

@@ -25,7 +25,7 @@ export function HomePageGrid({ locale, copy, posts }: Props) {
       {locale === "en" ? <InboundGuestBanner /> : null}
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-3 lg:items-start">
       <div className="flex flex-col gap-6">
-        <HomeNewArrivals copy={copy} embedded />
+        <HomeNewArrivals copy={copy} locale={locale} embedded />
         <HomeNews locale={locale} copy={copy} posts={posts} />
       </div>
 

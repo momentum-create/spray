@@ -20,7 +20,7 @@ export default async function BrandDetailPage({ params }: Props) {
         {malls.map((mall) => (
           <a
             key={mall.id}
-            href={mallUrl(mall)}
+            href={mallUrl(mall, locale)}
             target="_blank"
             rel="noopener noreferrer"
             className="btn-orange-outline text-sm"
