@@ -106,7 +106,8 @@ export const brandLogos = [
     "name": "GENTEM",
     "slug": "gentem",
     "image": "/images/brands/gentem.jpg",
-    "sourceUrl": "http://www.spray166.com/wp-content/uploads/2024/11/GENTEM.jpg"
+    "sourceUrl": "http://www.spray166.com/wp-content/uploads/2024/11/GENTEM.jpg",
+    "shopUrl": "https://www.spray166.shop/shopbrand/I61078/"
   },
   {
     "name": "HESTRA",
@@ -118,7 +119,8 @@ export const brandLogos = [
     "name": "FIELD EARTH",
     "slug": "fieldearth",
     "image": "/images/brands/fieldearth.jpg",
-    "sourceUrl": "http://www.spray166.com/wp-content/uploads/2024/11/fieldearth.jpg"
+    "sourceUrl": "http://www.spray166.com/wp-content/uploads/2024/11/fieldearth.jpg",
+    "shopUrl": "https://www.spray166.shop/shopbrand/I61203/"
   },
   {
     "name": "DICE",

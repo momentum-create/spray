@@ -1,0 +1,31 @@
+/* Shopify Dawn–inspired tokens (inbound POC only) */
+.dawn-theme {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif;
+  color: #000000;
+  background: #ffffff;
+}
+
+.dawn-btn-primary {
+  @apply inline-flex items-center justify-center border border-black bg-black px-6 py-3.5 text-sm font-medium text-white transition hover:bg-black/90;
+  border-radius: 4px;
+}
+
+.dawn-btn-secondary {
+  @apply inline-flex items-center justify-center border border-black bg-white px-6 py-3.5 text-sm font-medium text-black transition hover:bg-[#fafafa];
+  border-radius: 4px;
+}
+
+.dawn-input {
+  @apply border border-[#e8e8e8] bg-white px-3 py-2.5 text-sm text-black;
+  border-radius: 4px;
+}
+
+.dawn-input:focus {
+  outline: 2px solid #000000;
+  outline-offset: 1px;
+}
+
+.dawn-drawer {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}

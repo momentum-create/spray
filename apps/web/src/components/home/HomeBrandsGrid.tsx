@@ -24,14 +24,10 @@ export function HomeBrandsGrid({ locale, copy }: Props) {
         </LocaleLink>
       </div>
       <div className="grid grid-cols-3 gap-2 sm:grid-cols-4">
-        {brandLogos.map((brand) => (
-          <LocaleLink
-            key={brand.slug}
-            href="/brands"
-            locale={locale}
-            className="flex aspect-square items-center justify-center border border-spray-border bg-white p-2 transition hover:border-spray-orange"
-            title={brand.name}
-          >
+        {brandLogos.map((brand) => {
+          const tileClass =
+            "flex aspect-square items-center justify-center border border-spray-border bg-white p-2 transition hover:border-spray-orange";
+          const image = (
             <Image
               src={brand.image}
               alt={brand.name}
@@ -39,8 +35,35 @@ export function HomeBrandsGrid({ locale, copy }: Props) {
               height={80}
               className="max-h-full max-w-full object-contain"
             />
-          </LocaleLink>
-        ))}
+          );
+
+          if ("shopUrl" in brand && brand.shopUrl) {
+            return (
+              <a
+                key={brand.slug}
+                href={brand.shopUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={tileClass}
+                title={brand.name}
+              >
+                {image}
+              </a>
+            );
+          }
+
+          return (
+            <LocaleLink
+              key={brand.slug}
+              href="/brands"
+              locale={locale}
+              className={tileClass}
+              title={brand.name}
+            >
+              {image}
+            </LocaleLink>
+          );
+        })}
       </div>
     </section>
   );
