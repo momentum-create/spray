@@ -18,6 +18,10 @@ export function SiteHeader({ locale }: SiteHeaderProps) {
   const [shopOpen, setShopOpen] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const isMaintenance = pathname?.includes("/maintenance");
+  const headerMallOrder = ["official", "rakuten", "yahoo"] as const;
+  const headerMalls = headerMallOrder
+    .map((id) => malls.find((mall) => mall.id === id))
+    .filter((mall): mall is (typeof malls)[number] => Boolean(mall));
 
   const navLinks = [
     { key: "park", href: "/skatepark", ...copy.nav.park },
@@ -51,7 +55,7 @@ export function SiteHeader({ locale }: SiteHeaderProps) {
             </button>
             {shopOpen ? (
               <div className="absolute left-0 top-full z-50 min-w-[220px] border border-spray-border bg-spray-elevated py-2 shadow-xl">
-                {malls.map((mall) => (
+                {headerMalls.map((mall) => (
                   <a
                     key={mall.id}
                     href={mallUrl(mall)}
@@ -100,7 +104,7 @@ export function SiteHeader({ locale }: SiteHeaderProps) {
         <nav className="border-t border-spray-border bg-black px-4 py-4 lg:hidden">
           <p className="section-label mb-2">{copy.nav.shop.label}</p>
           <div className="mb-4 flex flex-col gap-2">
-            {malls.map((mall) => (
+            {headerMalls.map((mall) => (
               <a
                 key={mall.id}
                 href={mallUrl(mall)}
