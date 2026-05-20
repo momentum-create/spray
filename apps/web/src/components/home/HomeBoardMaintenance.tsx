@@ -28,7 +28,7 @@ export function HomeBoardMaintenance({ locale, copy }: Props) {
         <LocaleLink
           href="/maintenance"
           locale={locale}
-          className="group relative block min-h-[200px] md:min-h-[240px]"
+          className="group relative block min-h-[200px] overflow-hidden md:min-h-[240px]"
           aria-label={copy.home.viewMaintenancePage}
         >
           <Image
@@ -43,7 +43,7 @@ export function HomeBoardMaintenance({ locale, copy }: Props) {
             aria-hidden
           />
           <div className="absolute inset-0 flex flex-col items-center justify-center p-4 text-center">
-            <p className="font-display text-3xl font-black uppercase tracking-tight text-white md:text-4xl">
+            <p className="max-w-full break-words font-display text-2xl font-black uppercase tracking-tight text-white md:text-3xl">
               {copy.home.maintenanceOverlayTitle}
             </p>
             <p className="mt-2 text-sm font-bold uppercase tracking-[0.2em] text-white/90 md:text-base">
