@@ -13,7 +13,14 @@ type Props = {
 /** トップ — 左: 写真+文字オーバーレイ / 右: 料金リスト（Pict モック） */
 export function HomeBoardMaintenance({ locale, copy }: Props) {
   const facts = getSiteFacts(locale);
-  const services = facts.maintenance.tuneUp.slice(0, 3);
+  const services =
+    locale === "en"
+      ? [
+          { name: "Base sanding", price: "¥6,600" },
+          { name: "Side-edge sharpening", price: "¥3,300" },
+          { name: "Detune + wax", price: "¥7,700" },
+        ]
+      : facts.maintenance.tuneUp.slice(0, 3);
 
   return (
     <section className="overflow-hidden border border-spray-border bg-black">
@@ -58,13 +65,13 @@ export function HomeBoardMaintenance({ locale, copy }: Props) {
         <div className="flex flex-col justify-center bg-[#141414] p-4 md:p-5">
           <h3 className="section-label mb-1">{copy.home.boardMaintenance}</h3>
           <p className="text-xs text-spray-muted">{copy.home.tuneUpServices}</p>
-          <ul className="mt-3 space-y-0 text-xs">
+          <ul className="mt-3 space-y-0 text-xs md:text-sm">
             {services.map((item) => (
               <li
                 key={item.name}
                 className="flex items-start justify-between gap-2 border-b border-spray-border py-2 last:border-0"
               >
-                <span className="text-white">{item.name}</span>
+                <span className="pr-2 leading-snug text-white">{item.name}</span>
                 <span className="shrink-0 text-right font-bold text-spray-orange">{item.price}</span>
               </li>
             ))}

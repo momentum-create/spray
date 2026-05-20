@@ -62,7 +62,118 @@ const localized = {
       priceNote:
         "Park fees are published as an image chart on spray166.com (no HTML table yet).",
     },
-    maintenance: base.maintenance,
+    maintenance: {
+      lead:
+        "Our experienced technicians tune your gear with care. Peak season gets busy, so please book maintenance early.",
+      footerNote: "*Tune-up turnaround may take extra days depending on seasonal demand.",
+      priceMenuLeft: [
+        {
+          name: "Base sanding",
+          price: "¥6,600",
+          description:
+            "Machine sanding removes light scratches and oxidation from old, hardened bases. It refreshes glide, improves wax absorption, and sharpens running-edge contact.",
+        },
+        { name: "Side-edge sharpening", price: "¥3,300" },
+        { name: "Side + base edge sharpening (rust removal)", price: "¥6,600" },
+        { name: "Detune + wax", price: "¥7,700" },
+        {
+          name: "Hot wax",
+          price: "",
+          subItems: [
+            { label: "Snowboard", price: "¥3,300" },
+            { label: "Ski", price: "¥4,400" },
+          ],
+          note:
+            "Used boards may require additional base/edge cleaning depending on condition. Extra fee from +¥2,200.",
+        },
+        { name: "Structure finish", price: "¥19,800〜" },
+        {
+          name: "Edge-shape tune",
+          price: "",
+          subItems: [
+            { label: "Up to 150 cm", price: "¥17,600" },
+            { label: "151–169 cm", price: "¥18,800" },
+            { label: "170 cm and above", price: "¥22,000" },
+          ],
+          description:
+            "Special package including nose/tail work, base-edge beveling, edge detune, base sanding, and SPRAY original thermo wax.",
+        },
+      ],
+      priceMenuRight: [
+        { name: "Boot lace / wire replacement", price: "¥4,400〜" },
+        { name: "BOA dial replacement", price: "¥7,700〜" },
+        {
+          name: "Boot liner heat molding",
+          price: "¥5,500〜",
+          note: "Hard boots: ¥8,800",
+        },
+        {
+          name: "Binding adjustment / setup",
+          price: "¥4,400〜",
+          note: "(Snowboard)",
+        },
+        { name: "Binding mount", price: "¥5,500", note: "(Ski)" },
+        { name: "Skateboard assembly", price: "¥4,400" },
+        { name: "Grip tape replacement", price: "¥3,300" },
+      ],
+      tuneUp: [
+        {
+          name: "Base sanding",
+          description:
+            "Lightly sands the base to remove scratches and oxidation, restoring glide and wax absorption.",
+          price: "¥6,600",
+        },
+        {
+          name: "Side-edge sharpening",
+          description: "Sharpen side edges for better grip and control.",
+          price: "¥3,300",
+        },
+        {
+          name: "Detune + wax",
+          description: "Detune finishing plus wax application.",
+          price: "¥7,700",
+        },
+      ],
+      labor: [
+        {
+          name: "Boot lace / wire replacement (per point)",
+          description: "Boots are kept in-store because replacement takes time.",
+          price: "¥4,400～",
+        },
+        {
+          name: "BOA dial replacement",
+          description: "Replacement of BOA dial components.",
+          price: "¥7,700～",
+        },
+        {
+          name: "Boot liner heat molding",
+          description:
+            "Approx. 30 min (15 min heating + 15 min molding). Please bring socks used for riding.",
+          price: "¥5,500～",
+          note: "Hard boots: ¥8,800",
+        },
+        {
+          name: "Binding adjustment / setup (snowboard)",
+          description: "Snowboard setup and angle/stance adjustment.",
+          price: "¥4,400～",
+        },
+        {
+          name: "Binding mount (ski)",
+          description: "Ski binding mounting service.",
+          price: "¥5,500",
+        },
+        {
+          name: "Skateboard assembly",
+          description: "Deck, truck, wheel and hardware assembly.",
+          price: "¥4,400",
+        },
+        {
+          name: "Grip tape replacement",
+          description: "Replace skateboard deck grip tape.",
+          price: "¥3,300",
+        },
+      ],
+    },
     staff: base.staff.map((s) => ({
       ...s,
       birthplace: "Biei, Kamikawa, Hokkaido",
