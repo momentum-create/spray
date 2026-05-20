@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { dawnCopy } from "@/content/inbound/dawn-copy.en";
 import { formatJpy } from "@/content/inbound/products.en";
+import { ProductImage } from "@/components/inbound/dawn/ProductImage";
 import { useCart } from "@/components/inbound/dawn/CartProvider";
 
 export function DrawerCart() {

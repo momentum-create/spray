@@ -33,23 +33,31 @@ export function ProductBuyBox({ product }: Props) {
       </p>
 
       <div className="mt-6 space-y-3">
-        <button
-          type="button"
-          onClick={() => addToCart(product)}
-          className="dawn-btn-secondary w-full"
-        >
-          {dawnCopy.product.addToCart}
-        </button>
-        <button
-          type="button"
-          onClick={() => {
-            addToCart(product);
-            router.push("/en/checkout");
-          }}
-          className="dawn-btn-primary w-full"
-        >
-          {dawnCopy.product.buyNow}
-        </button>
+        {product.soldOut ? (
+          <p className="w-full border border-[#e8e8e8] bg-[#f3f3f3] px-6 py-3.5 text-center text-sm font-medium text-black/60">
+            Sold out — contact store for availability
+          </p>
+        ) : (
+          <>
+            <button
+              type="button"
+              onClick={() => addToCart(product)}
+              className="dawn-btn-secondary w-full"
+            >
+              {dawnCopy.product.addToCart}
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                addToCart(product);
+                router.push("/en/checkout");
+              }}
+              className="dawn-btn-primary w-full"
+            >
+              {dawnCopy.product.buyNow}
+            </button>
+          </>
+        )}
       </div>
 
       <div className="mt-4">

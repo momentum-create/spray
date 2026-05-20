@@ -24,6 +24,11 @@ const nextConfig: NextConfig = {
         port: "8080",
         pathname: "/wp-content/**",
       },
+      {
+        protocol: "https",
+        hostname: "cdn.shopify.com",
+        pathname: "/s/files/**",
+      },
     ],
   },
   async rewrites() {

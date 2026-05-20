@@ -4,10 +4,13 @@ export type InboundProduct = {
   brand: string;
   priceJpy: number;
   badge?: string;
+  soldOut?: boolean;
   description: string;
   series: string;
   lengthMm: number;
   officialUrl: string;
+  /** Primary image from gentemstick.com (Shopify CDN) */
+  imageUrl: string;
   reviewCount: number;
 };
 
@@ -18,6 +21,7 @@ export const gentemCollection = {
   description:
     "Curated GENTEMSTICK models available through SPRAY Asahikawa. Reserve online, pick up in store, or arrange international shipping.",
   shopCollectionUrl: "https://www.spray166.shop/shopbrand/I61078/",
+  imageCredit: "Product images courtesy of GENTEMSTICK Official Web",
 } as const;
 
 export const inboundProducts: readonly InboundProduct[] = [
@@ -32,6 +36,8 @@ export const inboundProducts: readonly InboundProduct[] = [
     series: "THE SNOWSURF",
     lengthMm: 1570,
     officialUrl: "https://gentemstick.com/products/26-27-aloha-nokaoi",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0722/7264/2325/files/gt2627-06ssurf-08-nokaoi57-1.png?v=1769411662",
     reviewCount: 1,
   },
   {
@@ -45,6 +51,8 @@ export const inboundProducts: readonly InboundProduct[] = [
     series: "THE SNOWSURF",
     lengthMm: 1460,
     officialUrl: "https://gentemstick.com/products/26-27-spoon-fish-146",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0722/7264/2325/files/gt2627-06ssurf-02-spoon46-1.png?v=1769411868",
     reviewCount: 1,
   },
   {
@@ -58,6 +66,8 @@ export const inboundProducts: readonly InboundProduct[] = [
     series: "ALTERNATIVE",
     lengthMm: 1552,
     officialUrl: "https://gentemstick.com/products/26-27-the-chaser-hp",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0722/7264/2325/files/gt2627-05alt-17-chaser55hp-1.png?v=1769412093",
     reviewCount: 17,
   },
   {
@@ -71,7 +81,25 @@ export const inboundProducts: readonly InboundProduct[] = [
     series: "ALTERNATIVE",
     lengthMm: 1520,
     officialUrl: "https://gentemstick.com/products/26-27-mid-fish-oc",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0722/7264/2325/files/gt2627-05alt-06-midfish-oc-1.png?v=1769411978",
     reviewCount: 7,
+  },
+  {
+    slug: "26-27-baby-mantaray-148",
+    name: "26-27 BABY MANTARAY 148",
+    brand: "GENTEMSTICK",
+    priceJpy: 158_400,
+    badge: "Sold out",
+    soldOut: true,
+    description:
+      "Women's scaled-down MANTARAY at 148 cm. Short camber and the same rocker line as the classic — magic all-round board for powder, trees, and pistes. A lightweight-rider bestseller.",
+    series: "INDEPENDENT",
+    lengthMm: 1480,
+    officialUrl: "https://gentemstick.com/products/26-27-baby-mantaray-148",
+    imageUrl:
+      "https://cdn.shopify.com/s/files/1/0722/7264/2325/files/gt2627-04inde-03-bmantaray48-1.png?v=1769410966",
+    reviewCount: 16,
   },
 ] as const;
 
