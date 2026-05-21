@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
+import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { SiteHeader } from "@/components/layout/SiteHeader";
 import { MobileCtaBar } from "@/components/layout/MobileCtaBar";
 import { SetHtmlLang } from "@/components/layout/SetHtmlLang";
+import { DawnShell } from "@/components/inbound/dawn/DawnShell";
 import { isLocale, locales, type Locale } from "@/i18n/config";
 import { getCopy } from "@/i18n/get-copy";
 
@@ -34,6 +36,16 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
   const { locale: raw } = await params;
   if (!isLocale(raw)) notFound();
   const locale: Locale = raw;
+  const dawnLayout = (await headers()).get("x-dawn-layout") === "1";
+
+  if (dawnLayout) {
+    return (
+      <>
+        <SetHtmlLang locale={locale} />
+        <DawnShell>{children}</DawnShell>
+      </>
+    );
+  }
 
   return (
     <>

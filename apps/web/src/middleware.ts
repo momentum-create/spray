@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 import { defaultLocale, isLocale, locales } from "@/i18n/config";
+import { isDawnRoute } from "@/lib/inbound/flags";
 
 function preferredLocale(request: NextRequest): (typeof locales)[number] {
   const header = request.headers.get("accept-language") ?? "";
@@ -21,7 +22,11 @@ export function middleware(request: NextRequest) {
 
   const segment = pathname.split("/")[1];
   if (isLocale(segment)) {
-    return NextResponse.next();
+    const requestHeaders = new Headers(request.headers);
+    if (isDawnRoute(pathname)) {
+      requestHeaders.set("x-dawn-layout", "1");
+    }
+    return NextResponse.next({ request: { headers: requestHeaders } });
   }
 
   const locale = preferredLocale(request);
