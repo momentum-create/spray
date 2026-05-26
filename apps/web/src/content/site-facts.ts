@@ -225,6 +225,7 @@ export const siteFacts = {
       nameEn: "Arai Kenji",
       birthplace: "北海道上川郡美瑛町",
       facebook: "https://www.facebook.com/kenji.arai.712",
+      image: "/images/staff-arai-kenji.png",
     },
   ],
 

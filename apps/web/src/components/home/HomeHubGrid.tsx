@@ -68,11 +68,11 @@ export function HomeHubGrid({ locale, copy }: HomeHubGridProps) {
                 <div key={s.name} className="text-center">
                   <div className="mx-auto h-14 w-14 overflow-hidden rounded-full border-2 border-spray-orange bg-spray-surface">
                     <Image
-                      src={designAssets.pict.maintenance}
+                      src={s.image ?? designAssets.pict.maintenance}
                       alt={s.name}
                       width={56}
                       height={56}
-                      className="h-full w-full object-cover"
+                      className="h-full w-full object-cover object-top"
                     />
                   </div>
                   <p className="mt-1 text-[10px] text-white">{s.nameEn ?? s.name}</p>

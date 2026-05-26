@@ -41,13 +41,13 @@ export function HomePageGrid({ locale, copy, posts }: Props) {
           <div className="flex flex-wrap justify-center gap-3 border border-spray-border bg-[#141414] p-4">
             {facts.staff.map((s) => (
               <div key={s.name} className="text-center">
-                <div className="mx-auto h-12 w-12 overflow-hidden rounded-full border-2 border-spray-orange">
+                <div className="mx-auto h-12 w-12 overflow-hidden rounded-full border-2 border-spray-orange bg-spray-surface">
                   <Image
-                    src={designAssets.pict.maintenance}
+                    src={s.image ?? designAssets.pict.maintenance}
                     alt={s.name}
                     width={48}
                     height={48}
-                    className="h-full w-full object-cover"
+                    className="h-full w-full object-cover object-top"
                   />
                 </div>
                 <p className="mt-1 text-[9px] text-white">{s.nameEn ?? s.name}</p>
