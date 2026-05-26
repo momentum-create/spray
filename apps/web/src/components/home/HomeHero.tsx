@@ -1,5 +1,6 @@
-import Image from "next/image";
 import { LocaleLink } from "@/components/i18n/LocaleLink";
+import { DepthParallaxImage } from "@/components/ui/DepthParallaxImage";
+import { ParallaxTiltImage } from "@/components/ui/ParallaxTiltImage";
 import type { Locale } from "@/i18n/config";
 import type { Copy } from "@/i18n/get-copy";
 import { designAssets } from "@/lib/design-assets";
@@ -15,13 +16,14 @@ export function HomeHero({ locale, copy }: HomeHeroProps) {
 
   return (
     <section className="relative min-h-[320px] overflow-hidden border-b border-spray-border md:min-h-[420px]">
-      <Image
+      <DepthParallaxImage
         src={designAssets.hero}
+        depthSrc="/images/hero-play-on-snow-ride-concrete.depth.png"
         alt=""
-        fill
-        priority
-        className="object-cover object-[center_35%]"
-        sizes="100vw"
+        strength={0.06}
+        smoothing={0.08}
+        focalX={0.5}
+        focalY={0.35}
       />
       <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/50 to-black/30" />
 
@@ -47,12 +49,16 @@ export function HomeHero({ locale, copy }: HomeHeroProps) {
           <p className="text-xs font-bold uppercase tracking-widest text-white/80">
             {copy.home.hero.indoorLabel}
           </p>
-          <Image
+          <ParallaxTiltImage
             src={designAssets.graffiti}
             alt="SPRAY"
             width={160}
             height={80}
-            className="hidden h-auto w-32 opacity-95 md:block md:w-40"
+            className="h-auto w-full"
+            wrapperClassName="hidden w-32 opacity-95 md:block md:w-40"
+            maxTranslate={8}
+            maxRotate={3}
+            scale={1}
           />
         </div>
       </div>
