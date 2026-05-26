@@ -6,7 +6,7 @@ import { designAssets } from "@/lib/design-assets";
 
 const fallbackNews = [
   { n: 1, title: "WINTER OPENING SCHEDULE", image: designAssets.skateparkHero },
-  { n: 2, title: "NEW SKATE DECK LINEUP", image: designAssets.pict.maintenance },
+  { n: 2, title: "NEW SKATE DECK LINEUP", image: "/images/news-new-skate-deck-lineup.png" },
   { n: 3, title: "PARK ENHANCEMENT UPDATE", image: designAssets.pict.homePanels },
 ];
 
