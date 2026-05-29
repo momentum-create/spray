@@ -1,0 +1,51 @@
+{
+  "category": {
+    "slug": "sticker",
+    "makeshopCode": "ct306",
+    "title": "Stickers",
+    "titleJa": "ステッカー",
+    "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct306/",
+    "totalProducts": 2
+  },
+  "brands": [],
+  "products": [
+    {
+      "slug": "sticker-000000001900",
+      "makeshopId": "000000001900",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Cutting Sticker ステッカー",
+      "priceJpy": 770,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001900/ct306/page1/order/"
+    },
+    {
+      "slug": "sticker-000000002090",
+      "makeshopId": "000000002090",
+      "brandSlug": "other",
+      "name": "SPRAY Original Goggle Cutting Sticker",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002090/ct306/page1/order/"
+    }
+  ],
+  "images": {
+    "000000001900": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001900_L3hVBiB.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001900_L3hVBiB.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/00/19/3_000000001900.jpg?1683365019",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/00/19/4_000000001900.jpg?1683365019",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/00/19/5_000000001900.jpg?1683365019",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/00/19/1_000000001900.jpg?1683365019"
+      ]
+    },
+    "000000002090": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002090_aYfCrvr.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002090_aYfCrvr.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/90/20/6_000000002090.jpg?1703304074",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/90/20/7_000000002090.jpg?1703304074",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/90/20/2_000000002090.jpg?1703304074",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/90/20/s6_000000002090.jpg?1703304074"
+      ]
+    }
+  }
+}

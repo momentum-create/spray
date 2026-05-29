@@ -29,6 +29,16 @@ const nextConfig: NextConfig = {
         hostname: "cdn.shopify.com",
         pathname: "/s/files/**",
       },
+      {
+        protocol: "https",
+        hostname: "makeshop-multi-images.akamaized.net",
+        pathname: "/spray166/**",
+      },
+      {
+        protocol: "https",
+        hostname: "www.vicroy.jp",
+        pathname: "/wp-content/**",
+      },
     ],
   },
   async rewrites() {

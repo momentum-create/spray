@@ -1,10 +1,10 @@
 import Link from "next/link";
-import type { InboundProduct } from "@/content/inbound/products.en";
+import type { ShopProduct } from "@/content/inbound/shop-product";
 import { formatJpy } from "@/content/inbound/products.en";
 import { ProductImage } from "@/components/inbound/dawn/ProductImage";
 
 type Props = {
-  product: InboundProduct;
+  product: ShopProduct;
   localePrefix?: string;
 };
 

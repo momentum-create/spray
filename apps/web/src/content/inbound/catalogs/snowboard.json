@@ -1,0 +1,469 @@
+{
+  "category": {
+    "slug": "snowboard",
+    "makeshopCode": "I61077",
+    "title": "Snowboards",
+    "titleJa": "スノーボード",
+    "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
+    "totalProducts": 41
+  },
+  "brands": [
+    {
+      "slug": "gentemstick",
+      "name": "GENTEMSTICK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
+      "productCount": 3
+    },
+    {
+      "slug": "field-earth",
+      "name": "FIELD EARTH",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
+      "productCount": 5
+    },
+    {
+      "slug": "tj-brand",
+      "name": "TJ BRAND",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
+      "productCount": 1
+    },
+    {
+      "slug": "koruashapes",
+      "name": "KORUASHAPES",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
+      "productCount": 1
+    },
+    {
+      "slug": "burton",
+      "name": "BURTON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
+      "productCount": 7
+    },
+    {
+      "slug": "moss-snowstick",
+      "name": "MOSS SNOWSTICK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
+      "productCount": 4
+    },
+    {
+      "slug": "bc-stream",
+      "name": "BC Stream",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct340/",
+      "productCount": 0
+    },
+    {
+      "slug": "wrx",
+      "name": "WRX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct326/",
+      "productCount": 1
+    },
+    {
+      "slug": "november",
+      "name": "NOVEMBER",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
+      "productCount": 0
+    },
+    {
+      "slug": "k2",
+      "name": "K2",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct363/",
+      "productCount": 2
+    },
+    {
+      "slug": "gray",
+      "name": "GRAY",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
+      "productCount": 0
+    },
+    {
+      "slug": "atirom-avs",
+      "name": "atirom-avs",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct337/",
+      "productCount": 2
+    },
+    {
+      "slug": "ogasaka",
+      "name": "OGASAKA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct332/",
+      "productCount": 1
+    },
+    {
+      "slug": "fntc",
+      "name": "FNTC",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
+      "productCount": 2
+    },
+    {
+      "slug": "flux",
+      "name": "FLUX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct268/",
+      "productCount": 2
+    },
+    {
+      "slug": "secca",
+      "name": "SECCA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct309/",
+      "productCount": 0
+    },
+    {
+      "slug": "salomon",
+      "name": "SALOMON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
+      "productCount": 4
+    },
+    {
+      "slug": "arbor",
+      "name": "ARBOR",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct362/",
+      "productCount": 5
+    },
+    {
+      "slug": "ct348",
+      "name": "スプリットボード",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct348/",
+      "productCount": 1
+    },
+    {
+      "slug": "ct310",
+      "name": "スノースケート",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct310/",
+      "productCount": 0
+    },
+    {
+      "slug": "ct311",
+      "name": "キッズ・ジュニア",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
+      "productCount": 8
+    }
+  ],
+  "products": [
+    {
+      "slug": "snowboard-000000002910",
+      "makeshopId": "000000002910",
+      "brandSlug": "gentemstick",
+      "name": "SPRAY Original -Freestyle Snowboards- / オリジナル スノーボード / フリースタイル / スプレイ",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002910/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002748",
+      "makeshopId": "000000002748",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック【ROCKET FISH OUTLINE CORE】 2025-2026 MODEL ロケットフィッシュ アウトラインコア 144 バックカントリー フリーライド スノーボード パウダー",
+      "priceJpy": 187000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002748/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002753",
+      "makeshopId": "000000002753",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック【BABY STINGRAY 151 CHOPSTICKS】 2025-2026 MODEL ベビースティングレイ 151 CS バックカントリー スプリットボード スノーボード パウダー",
+      "priceJpy": 188100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002753/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002813",
+      "makeshopId": "000000002813",
+      "brandSlug": "flux",
+      "name": "フラックス 【FLUX】 【TW-R】 23-24 MODEL スノーボード",
+      "priceJpy": 44220,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002813/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002829",
+      "makeshopId": "000000002829",
+      "brandSlug": "salomon",
+      "name": "サロモン 【SALOMON】 サイト【SIGHT】 25-26 メンズ 男性用 SNOWBOARD スノーボード",
+      "priceJpy": 51900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002829/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002830",
+      "makeshopId": "000000002830",
+      "brandSlug": "salomon",
+      "name": "サロモン 【SALOMON】 パルス【PULSE】 25-26 メンズ 男性用 SNOWBOARD スノーボード",
+      "priceJpy": 48400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002830/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002913",
+      "makeshopId": "000000002913",
+      "brandSlug": "atirom-avs",
+      "name": "【atirom-avs】アチロム 【GROUNDER】グラウンダー スノーボード バックカントリー カービング",
+      "priceJpy": 86944,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002913/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002914",
+      "makeshopId": "000000002914",
+      "brandSlug": "atirom-avs",
+      "name": "【atirom-avs】アチロム 【FORCE】フォース SIZE：152cm スノーボード バックカントリー カービング",
+      "priceJpy": 86944,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002914/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002983",
+      "makeshopId": "000000002983",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】 フィールド アース 【DIRECTIONAL 148】 デレクショナル148 2025-2026 MODEL スノーボード",
+      "priceJpy": 119900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002983/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003139",
+      "makeshopId": "000000003139",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】 フィールド アース 【SVO Lefty】 2025-2026 MODEL スノーボード",
+      "priceJpy": 117700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003139/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003888",
+      "makeshopId": "000000003888",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】 フィールド アース 【T3 162】 Mid 3D Model 2025-2026 MODEL スノーボード",
+      "priceJpy": 167200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003888/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003294",
+      "makeshopId": "000000003294",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】 フィールド アース 【T3 153】 Mid 3D Model 2025-2026 MODEL スノーボード",
+      "priceJpy": 167200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003294/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003500",
+      "makeshopId": "000000003500",
+      "brandSlug": "arbor",
+      "name": "【ARBOR】 アーバー 【CODA】 コーダ 25-26 メンズ 男性用 SNOWBOARD スノーボード",
+      "priceJpy": 79992,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003500/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003501",
+      "makeshopId": "000000003501",
+      "brandSlug": "arbor",
+      "name": "【ARBOR】 アーバー 【MANTRA】 マントラ 25-26 ウィメンズ 女性用 SNOWBOARD スノーボード",
+      "priceJpy": 71984,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003501/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003502",
+      "makeshopId": "000000003502",
+      "brandSlug": "arbor",
+      "name": "【ARBOR】 アーバー 【SWOON】 スウーン 25-26 ウィメンズ 女性用 SNOWBOARD スノーボード",
+      "priceJpy": 71984,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003502/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003504",
+      "makeshopId": "000000003504",
+      "brandSlug": "arbor",
+      "name": "【ARBOR】 アーバー 【CADENCE】 ケイデンス 25-26 ウィメンズ 女性用 SNOWBOARD スノーボード",
+      "priceJpy": 60720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003504/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003503",
+      "makeshopId": "000000003503",
+      "brandSlug": "arbor",
+      "name": "【ARBOR】 アーバー 【KURO NEKO】 クロネコ 25-26 ウィメンズ 女性用 SNOWBOARD スノーボード",
+      "priceJpy": 71984,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003503/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003519",
+      "makeshopId": "000000003519",
+      "brandSlug": "burton",
+      "name": "【BURTON】バートン 【Process Flying V】プロセス Flying V 25-26 メンズボード SNOWBOARD スノーボード",
+      "priceJpy": 73480,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003519/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003520",
+      "makeshopId": "000000003520",
+      "brandSlug": "fntc",
+      "name": "【FNTC】エフエヌティーシー 【TNT R】153cm 157cm 2025/2026 MODEL スノーボード フリースタイル グラトリ ラントリ",
+      "priceJpy": 54560,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003520/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003521",
+      "makeshopId": "000000003521",
+      "brandSlug": "fntc",
+      "name": "【FNTC】エフエヌティーシー 【TNT L】 153cm 157cm 2025/2026 MODEL スノーボード フリースタイル グラトリ ラントリ",
+      "priceJpy": 54560,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003521/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003522",
+      "makeshopId": "000000003522",
+      "brandSlug": "flux",
+      "name": "【FLUX】フラックス 【TW-C】 23-24 MODEL スノーボード",
+      "priceJpy": 47520,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003522/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003526",
+      "makeshopId": "000000003526",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【SLEEPWALKER GROM】スリープ ウォーカー グロム 23-24 キッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 30800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003526/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003527",
+      "makeshopId": "000000003527",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】サロモン 【Grace】グレイス 23-24 キッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 26950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003527/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003643",
+      "makeshopId": "000000003643",
+      "brandSlug": "k2",
+      "name": "【K2】ケーツー 【Gateway】ゲートウェイ 2025-2026モデル / スノーボード / カービング / ディレクショナルツイン / パウダー",
+      "priceJpy": 57200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003643/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003644",
+      "makeshopId": "000000003644",
+      "brandSlug": "k2",
+      "name": "【K2】ケーツー 【Dreamsicle】ドリームシクル 2024-2025モデル / スノーボード / カービング / ディレクショナルツイン / パウダー",
+      "priceJpy": 59840,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003644/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003207",
+      "makeshopId": "000000003207",
+      "brandSlug": "ogasaka",
+      "name": "【OGASAKA】 オガサカ 【FACET】 ファセット 2025-2026 スプリットボード バックカントリー スノーボード",
+      "priceJpy": 162800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003207/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002712",
+      "makeshopId": "000000002712",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Grom Ketchup / Mustard】 グロム Ketchup / Mustard キッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 27280,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002712/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002728",
+      "makeshopId": "000000002728",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Custom Smalls】 カスタム スモールズ 24-25 キッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 41360,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002728/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002726",
+      "makeshopId": "000000002726",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Grom Camber】 グロム キャンバー 24-25 キッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 30800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002726/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002715",
+      "makeshopId": "000000002715",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Smalls Pink】 スモールズ 子供用 キッズ SNOWBOARD スノーボード",
+      "priceJpy": 38720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002715/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002714",
+      "makeshopId": "000000002714",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Smalls Blue】 スモールズ 子供用 キッズ SNOWBOARD スノーボード",
+      "priceJpy": 38720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002714/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002710",
+      "makeshopId": "000000002710",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Mini Grom】 ミニグロムキッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 27280,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002710/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003310",
+      "makeshopId": "000000003310",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【WING PIN 75 FISHBONE】 パウダーボード SNOWBOARD スノーボード",
+      "priceJpy": 178200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003310/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003279",
+      "makeshopId": "000000003279",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【PQ60 FISHBONE】 パウダーボード SNOWBOARD スノーボード",
+      "priceJpy": 174900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003279/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003276",
+      "makeshopId": "000000003276",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【U5 EX】 25-26 パウダーボード SNOWBOARD スノーボード",
+      "priceJpy": 137500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003276/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003274",
+      "makeshopId": "000000003274",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【WING PIN 59】 ウィングピン 59 25-26 パウダーボード SNOWBOARD スノーボード",
+      "priceJpy": 135300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003274/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002838",
+      "makeshopId": "000000002838",
+      "brandSlug": "wrx-snowboard",
+      "name": "【WRX snowboard 】 マークユー【Mk-U】 25-26 ユニセックス SNOWBOARD スノーボード ラントリ",
+      "priceJpy": 133100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002838/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002689",
+      "makeshopId": "000000002689",
+      "brandSlug": "",
+      "name": "TJ BRAND【ティージェイ ブランド】Smooth Groove 2024-2025 Model スノーボード パウダー",
+      "priceJpy": 94050,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002689/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000002687",
+      "makeshopId": "000000002687",
+      "brandSlug": "koruashapes",
+      "name": "【KORUASHAPES】コルアシェイプス【Otto】153 157 161 2024-2025 MODEL スノーボード オットー",
+      "priceJpy": 79200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002687/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003303",
+      "makeshopId": "000000003303",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【X1 165 CUSTOM】 3D Prepreg Carbon 2025-2026 MODEL スノーボード",
+      "priceJpy": 229900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003303/I61077/page1/order/"
+    },
+    {
+      "slug": "snowboard-000000003763",
+      "makeshopId": "000000003763",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【HORNET】ホーネット 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 148500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003763/I61077/page1/order/"
+    }
+  ],
+  "images": {}
+}

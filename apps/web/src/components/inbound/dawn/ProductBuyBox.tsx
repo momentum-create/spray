@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import type { InboundProduct } from "@/content/inbound/products.en";
+import type { ShopProduct } from "@/content/inbound/shop-product";
 import { formatJpy } from "@/content/inbound/products.en";
 import { dawnCopy } from "@/content/inbound/dawn-copy.en";
 import { BopisPickup } from "@/components/inbound/dawn/BopisPickup";
@@ -10,7 +10,7 @@ import { TaxFreeNote } from "@/components/inbound/dawn/TaxFreeNote";
 import { useCart, type CartAddon } from "@/components/inbound/dawn/CartProvider";
 
 type Props = {
-  product: InboundProduct;
+  product: ShopProduct;
 };
 
 export function ProductBuyBox({ product }: Props) {
@@ -26,7 +26,6 @@ export function ProductBuyBox({ product }: Props) {
     start.setHours(0, 0, 0, 0);
     start.setDate(start.getDate() + leadDays);
     while (start.getDay() === 3) {
-      // Wednesday closed
       start.setDate(start.getDate() + 1);
     }
     const y = start.getFullYear();
@@ -71,9 +70,48 @@ export function ProductBuyBox({ product }: Props) {
           {product.badge}
         </span>
       ) : null}
-      <p className="mt-2 text-xs text-black/50">
-        {dawnCopy.product.reviews(product.reviewCount)}
-      </p>
+      {product.reviewCount > 0 ? (
+        <p className="mt-2 text-xs text-black/50">
+          {dawnCopy.product.reviews(product.reviewCount)}
+        </p>
+      ) : null}
+      {product.brandSlug === "gentem" ? (
+        <section className="mt-5 border border-[#e8e8e8] bg-[#fafafa] p-4">
+          <p className="text-xs font-medium uppercase tracking-[0.2em] text-black/60">
+            Pre-order notice
+          </p>
+          <ul className="mt-3 list-disc space-y-1 pl-5 text-sm leading-relaxed text-black/80">
+            <li>No cancellation, modification, or refund after payment.</li>
+            <li>Pick-up in Japan only. No international shipping.</li>
+            <li>
+              Payment is tax-inclusive (10% JP tax). Eligible tax refunds are handled by the
+              customer at airport customs (Japan refund method).
+            </li>
+            <li>
+              If pick-up date changes, contact us in advance. Without notice, orders are held for
+              30 days then may be forfeited.
+            </li>
+          </ul>
+          <p className="mt-2 text-xs text-black/55">
+            日本語: 決済後のキャンセル・変更・返金不可。日本国内受取限定。決済は税込（10%）で、免税還付は条件該当時に出国時空港でお客様ご自身の手続きとなります。受取日変更は事前連絡必須、無連絡の場合は30日保管後に権利失効の対象となります。
+          </p>
+          <details className="mt-2 text-xs text-black/60">
+            <summary className="cursor-pointer select-none">繁體中文（台灣）</summary>
+            <p className="mt-1 leading-relaxed">
+              付款後不可取消、不可修改、不可退款。僅限日本國內取貨，不提供海外配送。付款價格已含日本消費稅（10%）；符合條件者需於出境時由本人在機場海關辦理退稅。若取貨日期變更，請務必事前聯絡；未事前通知者，商品自原定取貨日起保留30天，逾期可能喪失權利。
+            </p>
+          </details>
+          <details className="mt-1 text-xs text-black/60">
+            <summary className="cursor-pointer select-none">简体中文（中国）</summary>
+            <p className="mt-1 leading-relaxed">
+              付款后不可取消、不可修改、不可退款。仅限日本国内自提，不提供国际配送。付款价格已含日本消费税（10%）；符合条件者需在离境时由本人在机场海关办理退税。如提货日期有变更，请务必提前联系；未提前通知的订单将自原定提货日起保留30天，逾期可能视为放弃权益。
+            </p>
+          </details>
+          <a href="/en/products/preorder-terms" className="mt-2 inline-block text-xs underline text-black/65">
+            Read full Terms & Conditions
+          </a>
+        </section>
+      ) : null}
       {!product.soldOut ? (
         <fieldset className="mt-5 border border-[#e8e8e8] p-4">
           <legend className="px-1 text-xs font-medium uppercase tracking-wide text-black/70">
@@ -213,6 +251,14 @@ export function ProductBuyBox({ product }: Props) {
             >
               {dawnCopy.product.buyNow}
             </button>
+            <a
+              href={product.officialUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="dawn-btn-secondary flex w-full items-center justify-center text-center"
+            >
+              Buy on spray166.shop
+            </a>
           </>
         )}
       </div>
@@ -225,14 +271,16 @@ export function ProductBuyBox({ product }: Props) {
 
       <p className="mt-4 text-xs leading-relaxed text-black/50">{dawnCopy.product.shippingNote}</p>
 
-      <a
-        href={product.officialUrl}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="mt-6 inline-block text-sm underline text-black/70 hover:text-black"
-      >
-        {dawnCopy.product.viewOfficial}
-      </a>
+      {product.officialUrl.includes("gentemstick.com") ? (
+        <a
+          href={product.officialUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-6 inline-block text-sm underline text-black/70 hover:text-black"
+        >
+          {dawnCopy.product.viewOfficial}
+        </a>
+      ) : null}
     </div>
   );
 }

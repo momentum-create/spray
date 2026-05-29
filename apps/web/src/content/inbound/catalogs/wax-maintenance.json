@@ -1,0 +1,189 @@
+{
+  "category": {
+    "slug": "wax-maintenance",
+    "makeshopCode": "ct357",
+    "title": "Wax & Maintenance",
+    "titleJa": "WAX＆メンテナンス",
+    "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct357/",
+    "totalProducts": 11
+  },
+  "brands": [],
+  "products": [
+    {
+      "slug": "wax-maintenance-000000003202",
+      "makeshopId": "000000003202",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【CLEANER 200ml】クリーナー / 液体 / メンテナンス",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003202/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000003197",
+      "makeshopId": "000000003197",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE HARD 100ml】リキッド ザ ハード / 液体 / メンテナンス",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003197/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000003539",
+      "makeshopId": "000000003539",
+      "brandSlug": "kossymix",
+      "name": "【kossymix】コシミックス 【N10 Lemongrass ポンプタイプ】 洗剤 ウェア クリーニング",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003539/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000003235",
+      "makeshopId": "000000003235",
+      "brandSlug": "fieldearth",
+      "name": "【Fieldearth】フィールドアース 【LIQUID BASE WAX】リキッド ベース ワックス 液体WAX スノーボード スキー",
+      "priceJpy": 4950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003235/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000003236",
+      "makeshopId": "000000003236",
+      "brandSlug": "fieldearth",
+      "name": "【Fieldearth】フィールドアース 【LIQUID TOP WAX】リキッド トップ ワックス 液体WAX スノーボード スキー",
+      "priceJpy": 6050,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003236/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000002485",
+      "makeshopId": "000000002485",
+      "brandSlug": "",
+      "name": "STORM 【ストーム】 アパレルケアキット 洗剤 クリーニング 撥水 ウェア",
+      "priceJpy": 3080,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002485/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000003201",
+      "makeshopId": "000000003201",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【FOURMULA LIQUID 30ml】フォーミュラ リキッド / 液体 / メンテナンス",
+      "priceJpy": 4620,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003201/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000002417",
+      "makeshopId": "000000002417",
+      "brandSlug": "other",
+      "name": "SPRAY×Kossymix Premium Scraper S",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002417/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000002418",
+      "makeshopId": "000000002418",
+      "brandSlug": "other",
+      "name": "SPRAY×Kossymix Premium Scraper M",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000003000",
+      "makeshopId": "000000003000",
+      "brandSlug": "msr",
+      "name": "【MSR】 エム エス アール 【ALPINE DISH BRUSH/SCRAPER】 アルパイン ディッシュブラシ／スクレイパー バックカントリー 登山 スノーボード スキー",
+      "priceJpy": 1760,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003000/ct357/page1/order/"
+    },
+    {
+      "slug": "wax-maintenance-000000003200",
+      "makeshopId": "000000003200",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE SUMI 100ml】リキッド ザ スミ / 液体 / メンテナンス",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003200/ct357/page1/order/"
+    }
+  ],
+  "images": {
+    "000000003202": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003202_DOvRDLj.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003202_DOvRDLj.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000032022_47IO9py.jpg"
+      ]
+    },
+    "000000003197": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003197_7I2XaYO.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003197_7I2XaYO.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000031972_oL98ugU.jpg"
+      ]
+    },
+    "000000003539": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003539_MEj2FmG.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003539_MEj2FmG.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000035392_ZMLsaM9.jpg"
+      ]
+    },
+    "000000003235": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003235_5eKnOh4.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003235_5eKnOh4.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000032352_7eKs5pq.jpg"
+      ]
+    },
+    "000000003236": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003236_WnDn2Bb.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003236_WnDn2Bb.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000032362_5IxKKdf.jpg"
+      ]
+    },
+    "000000002485": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002485_xIUZVpI.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002485_xIUZVpI.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/85/24/2_000000002485.jpg?1745551599",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/85/24/3_000000002485.jpg?1745551599",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/85/24/s2_000000002485.jpg?1745551599",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/85/24/s3_000000002485.jpg?1745551599"
+      ]
+    },
+    "000000003201": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003201_vt0NLXG.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003201_vt0NLXG.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000032012_q1kIW55.jpg"
+      ]
+    },
+    "000000002417": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002417_WXLrBKQ.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002417_WXLrBKQ.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/17/24/1_000000002417.jpg?1737618038",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/17/24/3_000000002417.jpg?1737618038",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/17/24/4_000000002417.jpg?1737618038",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/17/24/5_000000002417.jpg?1737618038"
+      ]
+    },
+    "000000002418": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002418_9Y1dHVs.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002418_9Y1dHVs.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/18/24/1_000000002418.jpg?1737618846",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/18/24/2_000000002418.jpg?1737618846",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/18/24/6_000000002418.jpg?1737618846",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/18/24/5_000000002418.jpg?1737618846"
+      ]
+    },
+    "000000003000": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003000_2bgMFXI.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003000_2bgMFXI.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000030002_0rnEwIv.jpg"
+      ]
+    },
+    "000000003200": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003200_1K11HcY.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003200_1K11HcY.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000032002_fHnn2hX.jpg"
+      ]
+    }
+  }
+}

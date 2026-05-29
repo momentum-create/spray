@@ -1,0 +1,236 @@
+{
+  "category": {
+    "slug": "skateboard",
+    "makeshopCode": "I61085",
+    "title": "Skateboards",
+    "titleJa": "スケートボード",
+    "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61085/",
+    "totalProducts": 13
+  },
+  "brands": [],
+  "products": [
+    {
+      "slug": "skateboard-000000003737",
+      "makeshopId": "000000003737",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【CALMON 41“ Surfskate Complete】 CHLOE CALMON コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 49500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003737/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000001800",
+      "makeshopId": "000000001800",
+      "brandSlug": "spray-original-skate-deck",
+      "name": "【SPRAY ORIGINAL SKATE DECK】スプレイ オリジナル スケート デッキ SHOWGEKI SKATEBOARDS スケートボード",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001800/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003761",
+      "makeshopId": "000000003761",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【FLAME 33“ Surfskate Complete】 コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 49500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003761/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003759",
+      "makeshopId": "000000003759",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【TEAHUPOO 34\" Surfskate Complete】 コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 47300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003759/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003758",
+      "makeshopId": "000000003758",
+      "brandSlug": "carver-skate-boards",
+      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【38” LONGSWIRL】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003758/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003757",
+      "makeshopId": "000000003757",
+      "brandSlug": "carver-skate-boards",
+      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【37” CI NOSERIDER】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003757/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003755",
+      "makeshopId": "000000003755",
+      "brandSlug": "carver-skate-boards",
+      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【32.5\" BLACK LABEL】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
+      "priceJpy": 64900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003755/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003754",
+      "makeshopId": "000000003754",
+      "brandSlug": "carver-skate-boards",
+      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【32.5\" CI MID】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003754/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003738",
+      "makeshopId": "000000003738",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【GROM HUNTINGTON 30“ Surfskate Complete】 GROM SERIES コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 44000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003738/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003736",
+      "makeshopId": "000000003736",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【LAKEY PEAK 32“ Surfskate Complete】 コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 47300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003736/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003695",
+      "makeshopId": "000000003695",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【PIPE 32\" Surfskate Complete】 2026SP POWER SURFING SERIES コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 49500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003695/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003697",
+      "makeshopId": "000000003697",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【SAN ONOFRE 35.5\" Surfskate Complete】 2026SP CLASSIC SERIES コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 53900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003697/I61085/page1/order/"
+    },
+    {
+      "slug": "skateboard-000000003739",
+      "makeshopId": "000000003739",
+      "brandSlug": "carver-skate-boards",
+      "name": "カーバー スケートボード 【CARVER SKATE BOARDS】【JAPAN LIMITED 32“ AKA FUJI Complete】CX.4 TRACK コンプリート サーフスケート スケートボード スノーボード サーフィン",
+      "priceJpy": 64680,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003739/I61085/page1/order/"
+    }
+  ],
+  "images": {
+    "000000003737": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003737_rsHUMe2.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003737_rsHUMe2.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/37/37/1_000000003737.jpg?1777616910",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/37/37/2_000000003737.jpg?1777616910",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/37/37/s1_000000003737.jpg?1777616910",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/37/37/s2_000000003737.jpg?1777616910"
+      ]
+    },
+    "000000001800": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001800_gKsfxdC.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001800_gKsfxdC.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000018002_Z3LRClR.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001800_1_PwnsBuS.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001800_2_OZLfWMk.jpg"
+      ]
+    },
+    "000000003761": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003761_MJoGZlK.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003761_MJoGZlK.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/61/37/1_000000003761.jpg?1777956075",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/61/37/2_000000003761.jpg?1777956075",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/61/37/s1_000000003761.jpg?1777956075",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/61/37/s2_000000003761.jpg?1777956075"
+      ]
+    },
+    "000000003759": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003759_gyKdU6j.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003759_gyKdU6j.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000037592_eTHFlBZ.jpg"
+      ]
+    },
+    "000000003758": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003758_1ODsy1J.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003758_1ODsy1J.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000037582_2NmXIzA.jpg"
+      ]
+    },
+    "000000003757": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003757_Yej22UF.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003757_Yej22UF.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000037572_zrHUJQo.jpg"
+      ]
+    },
+    "000000003755": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003755_Rzf6zPf.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003755_Rzf6zPf.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000037552_ZiwafL1.jpg"
+      ]
+    },
+    "000000003754": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003754_uJ7qnmq.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003754_uJ7qnmq.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/54/37/1_000000003754.jpg?1777884591",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/54/37/2_000000003754.jpg?1777884591",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/54/37/s1_000000003754.jpg?1777884591",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/54/37/s2_000000003754.jpg?1777884591"
+      ]
+    },
+    "000000003738": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003738_NttYd1h.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003738_NttYd1h.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/38/37/1_000000003738.jpg?1777620184",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/38/37/2_000000003738.jpg?1777620184",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/38/37/s1_000000003738.jpg?1777620184",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/38/37/s2_000000003738.jpg?1777620184"
+      ]
+    },
+    "000000003736": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003736_XJOM8mU.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003736_XJOM8mU.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/36/37/1_000000003736.jpg?1777611147",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/36/37/2_000000003736.jpg?1777611147",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/36/37/s1_000000003736.jpg?1777611147",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/36/37/s2_000000003736.jpg?1777611147"
+      ]
+    },
+    "000000003695": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003695_LtErAzZ.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003695_LtErAzZ.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/95/36/1_000000003695.jpg?1776928871",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/95/36/2_000000003695.jpg?1776928871",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/95/36/s1_000000003695.jpg?1776928871",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/95/36/s2_000000003695.jpg?1776928871"
+      ]
+    },
+    "000000003697": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003697_uruNeX5.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003697_uruNeX5.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/97/36/1_000000003697.jpg?1777085491",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/97/36/2_000000003697.jpg?1777085491",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/97/36/s1_000000003697.jpg?1777085491",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/97/36/s2_000000003697.jpg?1777085491"
+      ]
+    },
+    "000000003739": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003739_mcUMqL5.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003739_mcUMqL5.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/39/37/1_000000003739.jpg?1777621417",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/39/37/2_000000003739.jpg?1777621417",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/39/37/s1_000000003739.jpg?1777621417",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/39/37/s2_000000003739.jpg?1777621417"
+      ]
+    }
+  }
+}

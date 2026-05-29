@@ -1,0 +1,300 @@
+{
+  "category": {
+    "slug": "pants",
+    "makeshopCode": "I61132",
+    "title": "Pants",
+    "titleJa": "パンツ",
+    "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61132/",
+    "totalProducts": 16
+  },
+  "brands": [],
+  "products": [
+    {
+      "slug": "pants-000000003321",
+      "makeshopId": "000000003321",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Flexible Short 11inch】 フレキシブルショーツ 11 inch メンズ ショートパンツ NB22583",
+      "priceJpy": 8140,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003321/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000003320",
+      "makeshopId": "000000003320",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Flexible Short 7inch】 フレキシブルショーツ 7 inch メンズ ショートパンツ NB22581",
+      "priceJpy": 7920,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003320/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000003925",
+      "makeshopId": "000000003925",
+      "brandSlug": "poler",
+      "name": "【POLER】 ポーラー 【NYLON WIDE STUFF SHORTS 6inch】 メンズ ナイロンショートパンツ 261MCV0019",
+      "priceJpy": 7590,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003925/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000003132",
+      "makeshopId": "000000003132",
+      "brandSlug": "burton",
+      "name": "【BURTON】バートン 【Men's ak Helium Stretch Insulated Pants】メンズ ak ヘリウム ストレッチ インサレーテッド パンツ カラー：True Black ミッドレイヤー / パッカブル / スノーボード / バックカントリー",
+      "priceJpy": 29000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003132/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000003464",
+      "makeshopId": "000000003464",
+      "brandSlug": "jemorgan",
+      "name": "【JEMORGAN】 JEモーガン 【ニットフリース クライミングパンツ】 JB262-54C / メンズ / 男性用",
+      "priceJpy": 6952,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003464/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000001856",
+      "makeshopId": "000000001856",
+      "brandSlug": "patagonia",
+      "name": "パタゴニア 【patagonia】 メンズ・テルボンヌ・ジョガーズ 【Men's Terrebonne Joggers】 24540 男性用",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001856/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000001633",
+      "makeshopId": "000000001633",
+      "brandSlug": "patagonia",
+      "name": "パタゴニア 【patagonia】 メンズ・テルボンヌ・ジョガーズ 【Men's Terrebonne Joggers】 24540 男性用",
+      "priceJpy": 12100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001633/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000002466",
+      "makeshopId": "000000002466",
+      "brandSlug": "patagonia",
+      "name": "パタゴニア 【patagonia】 メンズ・バギーズ・ショーツ 【Men's Baggies Shorts-5inch】 57022 短パン 半ズボン 男性用",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002466/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000002486",
+      "makeshopId": "000000002486",
+      "brandSlug": "dotair-comfy-shorts",
+      "name": "ナンガ NANGA ドットエア コンフィーショーツ 【DotAir COMFY SHORTS】 NW2411-I903 / メンズ / 男性用",
+      "priceJpy": 10450,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002486/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000002536",
+      "makeshopId": "000000002536",
+      "brandSlug": "nylon-tusser-easy-shorts",
+      "name": "ナンガ NANGA ナイロンタッサーイージーショーツ 【NYLON TUSSER EASY SHORTS】 NW2321-1I512 / メンズ / 男性用",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002536/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000002820",
+      "makeshopId": "000000002820",
+      "brandSlug": "the-north-face",
+      "name": "ザ・ノース・フェイス【THE NORTH FACE】フィールドフリースパンツ【Field Fleece Pant】",
+      "priceJpy": 16000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002820/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000002944",
+      "makeshopId": "000000002944",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Red Run Long Pants】 レッドランロングパンツ NY82578 / メンズ / 男性用 / ランニング / アウトドア / 登山",
+      "priceJpy": 23100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002944/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000003392",
+      "makeshopId": "000000003392",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Adventure Short】 アドベンチャーショート（キッズ） NBJ42633 / キッズ / 子供用 / アウトドア / ショートパンツ",
+      "priceJpy": 7920,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003392/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000003393",
+      "makeshopId": "000000003393",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Toddler Adventure Short】 トドラーアドベンチャーショート NBT42633 / キッズ / 子供用 / アウトドア / 登山 / ショートパンツ",
+      "priceJpy": 7480,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003393/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000003524",
+      "makeshopId": "000000003524",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】 パタゴニア 【M's Baggies Shorts - 5 in. 】 メンズ・バギーズ・ショーツ ５インチ 57022 ショートパンツ 短パン",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003524/I61132/page1/order/"
+    },
+    {
+      "slug": "pants-000000002647",
+      "makeshopId": "000000002647",
+      "brandSlug": "patagonia",
+      "name": "パタゴニア 【patagonia】 メンズ・ナノエア・ライト・ボトム 【Men's Nano-Air Light Bottoms】 82890",
+      "priceJpy": 25520,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002647/I61132/page1/order/"
+    }
+  ],
+  "images": {
+    "000000003321": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003321_29wivUh.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003321_29wivUh.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/21/33/1_000000003321.jpg?1770108842",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/21/33/2_000000003321.jpg?1770108842",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/21/33/3_000000003321.jpg?1770108842",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/21/33/s1_000000003321.jpg?1770108842"
+      ]
+    },
+    "000000003320": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003320_bBOy0wK.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003320_bBOy0wK.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/33/1_000000003320.jpg?1770106679",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/33/2_000000003320.jpg?1770106679",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/33/3_000000003320.jpg?1770106679",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/33/s1_000000003320.jpg?1770106679"
+      ]
+    },
+    "000000003925": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003925_q4c87YL.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003925_q4c87YL.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/25/39/1_000000003925.jpg?1779943997",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/25/39/2_000000003925.jpg?1779943997",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/25/39/3_000000003925.jpg?1779943997",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/25/39/s1_000000003925.jpg?1779943997"
+      ]
+    },
+    "000000003132": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003132_BSkvnOq.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003132_BSkvnOq.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/32/31/1_000000003132.jpg?1764999718",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/32/31/2_000000003132.jpg?1764999718",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/32/31/3_000000003132.jpg?1764999718",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/32/31/4_000000003132.jpg?1764999718"
+      ]
+    },
+    "000000003464": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003464_4CfdSiy.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003464_4CfdSiy.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/64/34/1_000000003464.jpg?1774857957",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/64/34/2_000000003464.jpg?1774857957",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/64/34/3_000000003464.jpg?1774857957",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/64/34/4_000000003464.jpg?1774857957"
+      ]
+    },
+    "000000001856": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001856_PwH6EUd.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001856_PwH6EUd.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000018562_7QH8id5.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001856_1_8bd3Hm3.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001856_2_4jCe76m.jpg"
+      ]
+    },
+    "000000001633": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001633_DPSV0K7.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001633_DPSV0K7.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000016332_5qfqUOH.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000001633_1_mkGlDku.jpg"
+      ]
+    },
+    "000000002466": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002466_ikAUNpI.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002466_ikAUNpI.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/66/24/1_000000002466.jpg?1745562200",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/66/24/3_000000002466.jpg?1745562200",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/66/24/s1_000000002466.jpg?1745562200",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/66/24/s3_000000002466.jpg?1745562200"
+      ]
+    },
+    "000000002486": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002486_4MDZe96.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002486_4MDZe96.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/86/24/3_000000002486.jpg?1745806936",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/86/24/4_000000002486.jpg?1745806936",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/86/24/s3_000000002486.jpg?1745806936",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/86/24/s4_000000002486.jpg?1745806936"
+      ]
+    },
+    "000000002536": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002536_pndHkxM.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002536_pndHkxM.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/36/25/1_000000002536.jpg?1751178123",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/36/25/2_000000002536.jpg?1751178123",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/36/25/5_000000002536.jpg?1751178123",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/36/25/s1_000000002536.jpg?1751178123"
+      ]
+    },
+    "000000002820": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002820_2Nf3Hcw.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002820_2Nf3Hcw.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/28/1_000000002820.jpg?1757830252",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/28/2_000000002820.jpg?1757830252",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/28/3_000000002820.jpg?1757830252",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/28/4_000000002820.jpg?1757830252"
+      ]
+    },
+    "000000002944": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002944_7RuxS5v.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002944_7RuxS5v.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/44/29/1_000000002944.jpg?1761990700",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/44/29/2_000000002944.jpg?1761990700",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/44/29/3_000000002944.jpg?1761990700",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/44/29/4_000000002944.jpg?1761990700"
+      ]
+    },
+    "000000003392": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003392_A5craZu.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003392_A5craZu.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/92/33/1_000000003392.jpg?1773296629",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/92/33/2_000000003392.jpg?1773296629",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/92/33/3_000000003392.jpg?1773296629",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/92/33/4_000000003392.jpg?1773296629"
+      ]
+    },
+    "000000003393": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003393_f2BN1mC.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003393_f2BN1mC.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/93/33/1_000000003393.jpg?1773299791",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/93/33/2_000000003393.jpg?1773299791",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/93/33/3_000000003393.jpg?1773299791",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/93/33/4_000000003393.jpg?1773299791"
+      ]
+    },
+    "000000003524": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003524_6nKaW01.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003524_6nKaW01.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/24/35/1_000000003524.jpg?1775464980",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/24/35/2_000000003524.jpg?1775464980",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/24/35/3_000000003524.jpg?1775464980",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/24/35/s1_000000003524.jpg?1775464980"
+      ]
+    },
+    "000000002647": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002647_dokgTpR.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000002647_dokgTpR.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/47/26/1_000000002647.jpg?1754819060",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/47/26/2_000000002647.jpg?1754819060",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/47/26/s1_000000002647.jpg?1754819060",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/47/26/s2_000000002647.jpg?1754819060"
+      ]
+    }
+  }
+}

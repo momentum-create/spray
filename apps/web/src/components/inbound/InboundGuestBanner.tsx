@@ -14,7 +14,7 @@ export function InboundGuestBanner() {
         <p className="mt-1 text-xs text-spray-muted">{dawnCopy.banner.body}</p>
       </div>
       <Link
-        href="/en/products/gentemstick#products"
+        href="/en/products"
         className="btn-orange-outline shrink-0 px-4 py-2 text-[10px]"
       >
         {dawnCopy.banner.cta}

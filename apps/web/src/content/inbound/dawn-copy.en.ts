@@ -49,6 +49,44 @@ export const dawnCopy = {
     body: "5 pre-order boards, cart & checkout demo, tune-up booking — not the full online mall.",
     cta: "Browse boards",
   },
+  shopHome: {
+    badge: "Digital-first shop",
+    heroA: "SPRAY",
+    heroB: "SNOW",
+    heroC: "SHOP",
+    lead: "Browse by brand or category. Board collections, tune-up booking, and store pickup in one English storefront.",
+    ctaBrands: "All brands",
+    ctaCategories: "Shop by category",
+    sectionLabel: "How to browse",
+    sectionTitle: "Brands first, or start from the gear you need.",
+    sectionBody:
+      "Pick a brand for curated collections, or filter by snowboard and skateboard to narrow the lineup.",
+    cardBrands: "Brand list",
+    cardCategories: "Item categories",
+    featuredLabel: "Featured collection",
+    featuredTitle: "GENTEMSTICK boards",
+    featuredBody: "Five demo boards with cart, checkout, and BOPIS — our Shopify-style proof of concept.",
+    featuredCta: "View collection →",
+  },
+  shopBrands: {
+    title: "Brands",
+    lead: "Select a brand to open its shop page or official collection.",
+    back: "← Shop home",
+  },
+  shopCategories: {
+    title: "Categories",
+    lead: "Choose a product type, then browse related brands.",
+    back: "← Shop home",
+    stepLead: "Brands in this category — open a brand page to shop.",
+    backCategories: "← All categories",
+  },
+  shopBrand: {
+    back: "← All brands",
+    placeholder:
+      "Full brand page coming soon. Browse this brand on our official online store.",
+    officialCta: "Official store",
+    gentemCta: "View GENTEMSTICK collection",
+  },
 } as const;
 
 export const tuneUpCourses = [

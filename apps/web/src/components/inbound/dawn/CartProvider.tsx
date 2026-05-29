@@ -8,7 +8,7 @@ import {
   useState,
   type ReactNode,
 } from "react";
-import type { InboundProduct } from "@/content/inbound/products.en";
+import type { ShopProduct } from "@/content/inbound/shop-product";
 import { formatJpy } from "@/content/inbound/products.en";
 import { DrawerCart } from "@/components/inbound/dawn/DrawerCart";
 
@@ -19,9 +19,10 @@ export type CartAddon = {
 };
 
 export type CartLine = {
-  product: InboundProduct;
+  product: ShopProduct;
   addons: CartAddon[];
   pickupDate?: string;
+  variantLabel?: string;
   lineKey: string;
   quantity: number;
 };
@@ -31,7 +32,12 @@ type CartContextValue = {
   isOpen: boolean;
   openCart: () => void;
   closeCart: () => void;
-  addToCart: (product: InboundProduct, addons?: CartAddon[], pickupDate?: string) => void;
+  addToCart: (
+    product: ShopProduct,
+    addons?: CartAddon[],
+    pickupDate?: string,
+    variantLabel?: string,
+  ) => void;
   removeLine: (lineKey: string) => void;
   subtotalJpy: number;
   subtotalLabel: string;
@@ -45,12 +51,18 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [isOpen, setIsOpen] = useState(false);
 
   const addToCart = useCallback(
-    (product: InboundProduct, addons: CartAddon[] = [], pickupDate?: string) => {
+    (
+      product: ShopProduct,
+      addons: CartAddon[] = [],
+      pickupDate?: string,
+      variantLabel?: string,
+    ) => {
     const addonSignature = addons.map((a) => a.id).sort().join("+");
       const dateSignature = pickupDate ? `::pickup-${pickupDate}` : "";
+      const variantSignature = variantLabel ? `::${variantLabel}` : "";
       const lineKey = addonSignature
-        ? `${product.slug}::${addonSignature}${dateSignature}`
-        : `${product.slug}${dateSignature}`;
+        ? `${product.slug}::${addonSignature}${dateSignature}${variantSignature}`
+        : `${product.slug}${dateSignature}${variantSignature}`;
     setLines((prev) => {
       const existing = prev.find((l) => l.lineKey === lineKey);
       if (existing) {
@@ -58,7 +70,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
           l.lineKey === lineKey ? { ...l, quantity: l.quantity + 1 } : l,
         );
       }
-        return [...prev, { product, addons, pickupDate, lineKey, quantity: 1 }];
+        return [...prev, { product, addons, pickupDate, variantLabel, lineKey, quantity: 1 }];
     });
     setIsOpen(true);
     },

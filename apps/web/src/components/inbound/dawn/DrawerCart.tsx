@@ -70,6 +70,9 @@ export function DrawerCart() {
                         ))}
                       </ul>
                     ) : null}
+                    {line.variantLabel ? (
+                      <p className="mt-1 text-xs text-black/50">{line.variantLabel}</p>
+                    ) : null}
                     {line.pickupDate ? (
                       <p className="mt-1 text-xs text-black/50">Pickup: {line.pickupDate}</p>
                     ) : null}

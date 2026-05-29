@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useEffect, useMemo, useState } from "react";
 import { dawnCopy } from "@/content/inbound/dawn-copy.en";
 import { useCart } from "@/components/inbound/dawn/CartProvider";
 import { formatJpy } from "@/content/inbound/products.en";
@@ -9,6 +10,23 @@ const PAYMENT_ICONS = ["Apple Pay", "Google Pay", "PayPal", "Visa", "Mastercard"
 
 export function ExpressCheckout() {
   const { lines, subtotalJpy, subtotalLabel } = useCart();
+  const [agreeFinalSale, setAgreeFinalSale] = useState(false);
+  const [agreePickupOnly, setAgreePickupOnly] = useState(false);
+  const [agreeTaxRefundFlow, setAgreeTaxRefundFlow] = useState(false);
+  const hasGentemPreOrder = useMemo(
+    () => lines.some((line) => line.product.brandSlug === "gentem"),
+    [lines],
+  );
+  const canProceed =
+    !hasGentemPreOrder || (agreeFinalSale && agreePickupOnly && agreeTaxRefundFlow);
+
+  useEffect(() => {
+    if (!hasGentemPreOrder) {
+      setAgreeFinalSale(false);
+      setAgreePickupOnly(false);
+      setAgreeTaxRefundFlow(false);
+    }
+  }, [hasGentemPreOrder]);
 
   return (
     <div className="mx-auto max-w-lg px-4 py-12 md:px-6">
@@ -73,12 +91,95 @@ export function ExpressCheckout() {
         <p className="text-xs text-black/50">{dawnCopy.checkout.pickup}</p>
       </div>
 
-      <button type="button" className="dawn-btn-primary mt-6 w-full">
+      {hasGentemPreOrder ? (
+        <div className="mt-4 space-y-3 border border-[#e8e8e8] p-4 text-sm">
+          <p className="text-xs font-medium uppercase tracking-wide text-black/70">
+            Pre-order agreement required
+          </p>
+          <label className="flex items-start gap-2 text-sm leading-relaxed text-black/80">
+            <input
+              type="checkbox"
+              checked={agreeFinalSale}
+              onChange={(e) => setAgreeFinalSale(e.target.checked)}
+              className="mt-1"
+            />
+            <span>
+              I understand that this is a made-to-order product. All sales are final. No
+              cancellations, modifications, or refunds will be accepted under any circumstances.
+            </span>
+          </label>
+          <p className="pl-6 text-xs text-black/55">
+            繁中: 我了解此為訂製商品，付款後不可取消、修改或退款。 / 简中:
+            我理解该商品为定制商品，付款后不可取消、修改或退款。
+          </p>
+          <label className="flex items-start gap-2 text-sm leading-relaxed text-black/80">
+            <input
+              type="checkbox"
+              checked={agreePickupOnly}
+              onChange={(e) => setAgreePickupOnly(e.target.checked)}
+              className="mt-1"
+            />
+            <span>
+              I agree that this product is for PICK-UP IN JAPAN ONLY. No international shipping is
+              provided. Unclaimed items will not be refunded.
+            </span>
+          </label>
+          <p className="pl-6 text-xs text-black/55">
+            繁中: 僅限日本國內取貨，不提供海外配送，未取貨不退款。 / 简中:
+            仅限日本国内自提，不提供国际配送，未提货不退款。
+          </p>
+          <label className="flex items-start gap-2 text-sm leading-relaxed text-black/80">
+            <input
+              type="checkbox"
+              checked={agreeTaxRefundFlow}
+              onChange={(e) => setAgreeTaxRefundFlow(e.target.checked)}
+              className="mt-1"
+            />
+            <span>
+              I understand that payment is tax-inclusive (10% JP tax), and any eligible tax refund
+              must be processed by myself at airport customs under Japan&apos;s tax-free refund
+              rules.
+            </span>
+          </label>
+          <p className="pl-6 text-xs text-black/55">
+            繁中: 本站為含稅價格（10%），符合條件之退稅需於出境時由本人在機場海關辦理。 / 简中:
+            本站为含税价格（10%），符合条件的退税需在离境时由本人在机场海关办理。
+          </p>
+          <p className="text-xs text-black/55">
+            日本語: 受注発注品のためキャンセル・変更・返金不可、日本国内受取限定（海外発送なし・未受取返金なし）に同意します。
+          </p>
+          <p className="text-xs text-black/55">
+            Tax free note: store pick-up with passport verification may be eligible. Hotel/domestic
+            delivery without in-person verification is not tax-free.
+          </p>
+          <p className="text-xs text-black/55">
+            If your pick-up date changes, contact us in advance. Without prior notice, we hold your
+            order for 30 days from the scheduled pick-up date; after that it may be forfeited and
+            resold without refund.
+          </p>
+          <Link href="/en/products/preorder-terms" className="text-xs underline text-black/60">
+            Read full Terms & Conditions
+          </Link>
+        </div>
+      ) : null}
+
+      <button
+        type="button"
+        disabled={!canProceed || lines.length === 0}
+        className={`dawn-btn-primary mt-4 w-full ${
+          !canProceed || lines.length === 0 ? "cursor-not-allowed opacity-50" : ""
+        }`}
+      >
         {dawnCopy.checkout.pay}
       </button>
+      {!canProceed ? (
+        <p className="mt-2 text-xs text-black/55">
+          Please check all required agreement boxes to proceed with payment.
+        </p>
+      ) : null}
 
       <Link
-        href="/en/products/gentemstick#products"
+        href="/en/products"
         className="mt-4 block text-center text-sm underline text-black/60"
       >
         Continue shopping

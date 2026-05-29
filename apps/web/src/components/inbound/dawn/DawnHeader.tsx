@@ -10,18 +10,24 @@ export function DawnHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-[#e8e8e8] bg-white">
       <div className="mx-auto flex max-w-[1200px] items-center justify-between gap-4 px-4 py-4 md:px-6">
-        <Link href="/en/products/gentemstick" className="text-xl font-medium tracking-tight text-black">
+        <Link href="/en/products" className="text-xl font-medium tracking-tight text-black">
           SPRAY
         </Link>
         <nav className="hidden items-center gap-6 text-sm text-black md:flex">
-          <Link href="/en/products/gentemstick" className="hover:underline">
-            {dawnCopy.nav.shop}
+          <Link href="/en/products/categories" className="hover:underline">
+            Categories
+          </Link>
+          <Link href="/en/products/categories/snowboard" className="hover:underline">
+            Snowboards
           </Link>
           <Link href="/en/booking/tune-up" className="hover:underline">
             {dawnCopy.nav.tuneUp}
           </Link>
           <Link href="/en/products/gentemstick#visit-store" className="hover:underline">
             {dawnCopy.nav.visit}
+          </Link>
+          <Link href="/en/products/ops" className="text-black/40 hover:text-black hover:underline">
+            Ops
           </Link>
           <Link href="/ja" className="text-black/50 hover:underline">
             {dawnCopy.nav.mainSite}

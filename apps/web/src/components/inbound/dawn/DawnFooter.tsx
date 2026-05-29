@@ -10,8 +10,11 @@ export function DawnFooter() {
         </p>
         <p className="mt-4 text-xs text-black/50">Open 12:00–19:00 · Closed Wednesdays</p>
         <div className="mt-6 flex flex-wrap gap-4 text-xs text-black/60">
+          <Link href="/en/products" className="hover:underline">
+            Shop home
+          </Link>
           <Link href="/en/products/gentemstick#products" className="hover:underline">
-            All boards
+            GENTEMSTICK boards
           </Link>
           <Link href="/en/booking/tune-up" className="hover:underline">
             Book tune-up
