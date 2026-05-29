@@ -10,212 +10,13 @@
   "brands": [],
   "products": [
     {
-      "slug": "spray-original-000000002939",
-      "makeshopId": "000000002939",
+      "slug": "spray-original-000000001976",
+      "makeshopId": "000000001976",
       "brandSlug": "other",
-      "name": "SPRAY Original Knit Case AINU -Free Style Standard-",
-      "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002939/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002541",
-      "makeshopId": "000000002541",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo DryMesh Long Sleeve T",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002541/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002910",
-      "makeshopId": "000000002910",
-      "brandSlug": "other",
-      "name": "SPRAY Original -Freestyle Snowboards- / オリジナル スノーボード / フリースタイル / スプレイ",
-      "priceJpy": 66000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002910/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002748",
-      "makeshopId": "000000002748",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック【ROCKET FISH OUTLINE CORE】 2025-2026 MODEL ロケットフィッシュ アウトラインコア 144 バックカントリー フリーライド スノーボード パウダー",
-      "priceJpy": 187000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002748/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002884",
-      "makeshopId": "000000002884",
-      "brandSlug": "other",
-      "name": "SPRAY Original Knit Case AINU ダブルピン スタンダード-Wpin Standard-",
-      "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002884/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002040",
-      "makeshopId": "000000002040",
-      "brandSlug": "other",
-      "name": "SPRAY Logo ワッペン",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002040/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001800",
-      "makeshopId": "000000001800",
-      "brandSlug": "spray-original-skate-deck",
-      "name": "【SPRAY ORIGINAL SKATE DECK】スプレイ オリジナル スケート デッキ SHOWGEKI SKATEBOARDS スケートボード",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001800/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002542",
-      "makeshopId": "000000002542",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo DryMesh Tee",
-      "priceJpy": 4950,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002542/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001930",
-      "makeshopId": "000000001930",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee 2",
-      "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001930/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001898",
-      "makeshopId": "000000001898",
-      "brandSlug": "other",
-      "name": "SPRAY Original Tote Bag M",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001898/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002018",
-      "makeshopId": "000000002018",
-      "brandSlug": "other",
-      "name": "SPRAY Original MIZU V7 Bottle AINU Logo",
-      "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002018/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001920",
-      "makeshopId": "000000001920",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee",
-      "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001920/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001926",
-      "makeshopId": "000000001926",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Deck Pad-S",
-      "priceJpy": 1000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001926/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002890",
-      "makeshopId": "000000002890",
-      "brandSlug": "other",
-      "name": "SPRAY Original Knit Case AINU -Free Style Long-",
-      "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002890/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002854",
-      "makeshopId": "000000002854",
-      "brandSlug": "other",
-      "name": "SPRAY Original Knit Case AINU -Free Style Long Wide-",
-      "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002854/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001642",
-      "makeshopId": "000000001642",
-      "brandSlug": "other",
-      "name": "★送料無料★ SPRAY Original Design Neck Tube ランニング 登山 バックカントリー 紫外線対策",
-      "priceJpy": 1200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001642/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001880",
-      "makeshopId": "000000001880",
-      "brandSlug": "other",
-      "name": "SPRAY Original PROVIDENCE CAN COOLER 350",
-      "priceJpy": 2750,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001880/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000002041",
-      "makeshopId": "000000002041",
-      "brandSlug": "other",
-      "name": "SPRAY166 Logo ワッペン",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002041/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001892",
-      "makeshopId": "000000001892",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Long Sleeve T",
-      "priceJpy": 5720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001892/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001657",
-      "makeshopId": "000000001657",
-      "brandSlug": "other",
-      "name": "SPRAY Original Pins ピンバッジ",
-      "priceJpy": 1000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001657/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001932",
-      "makeshopId": "000000001932",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee 3",
-      "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001932/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000003060",
-      "makeshopId": "000000003060",
-      "brandSlug": "gogglesoc",
-      "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
-      "priceJpy": 3000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001896",
-      "makeshopId": "000000001896",
-      "brandSlug": "other",
-      "name": "SPRAY Original Logo Key Ring",
-      "priceJpy": 440,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001896/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001897",
-      "makeshopId": "000000001897",
-      "brandSlug": "other",
-      "name": "SPRAY Original Tote Bag S",
-      "priceJpy": 2530,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001897/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001895",
-      "makeshopId": "000000001895",
-      "brandSlug": "other",
-      "name": "SPRAY Original Kids Zip Up Parka",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001895/ct271/page1/order/"
-    },
-    {
-      "slug": "spray-original-000000001973",
-      "makeshopId": "000000001973",
-      "brandSlug": "other",
-      "name": "SPRAY Original Kids AINU Logo Tee 2",
+      "name": "SPRAY Original Kids AINU Logo Tee 3",
       "priceJpy": 3630,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001973/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001976/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001974",
@@ -223,15 +24,242 @@
       "brandSlug": "other",
       "name": "SPRAY Original Kids AINU Logo Tee",
       "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001974/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001974/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
-      "slug": "spray-original-000000001976",
-      "makeshopId": "000000001976",
+      "slug": "spray-original-000000002939",
+      "makeshopId": "000000002939",
       "brandSlug": "other",
-      "name": "SPRAY Original Kids AINU Logo Tee 3",
+      "name": "SPRAY Original Knit Case AINU -Free Style Standard-",
+      "priceJpy": 9350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002939/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002541",
+      "makeshopId": "000000002541",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo DryMesh Long Sleeve T",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002541/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002910",
+      "makeshopId": "000000002910",
+      "brandSlug": "other",
+      "name": "SPRAY Original -Freestyle Snowboards- / オリジナル スノーボード / フリースタイル / スプレイ",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002910/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002748",
+      "makeshopId": "000000002748",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック【ROCKET FISH OUTLINE CORE】 2025-2026 MODEL ロケットフィッシュ アウトラインコア 144 バックカントリー フリーライド スノーボード パウダー",
+      "priceJpy": 187000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002748/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002884",
+      "makeshopId": "000000002884",
+      "brandSlug": "other",
+      "name": "SPRAY Original Knit Case AINU ダブルピン スタンダード-Wpin Standard-",
+      "priceJpy": 9350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002884/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002040",
+      "makeshopId": "000000002040",
+      "brandSlug": "other",
+      "name": "SPRAY Logo ワッペン",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002040/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001800",
+      "makeshopId": "000000001800",
+      "brandSlug": "spray-original-skate-deck",
+      "name": "【SPRAY ORIGINAL SKATE DECK】スプレイ オリジナル スケート デッキ SHOWGEKI SKATEBOARDS スケートボード",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001800/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002542",
+      "makeshopId": "000000002542",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo DryMesh Tee",
+      "priceJpy": 4950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002542/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001930",
+      "makeshopId": "000000001930",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee 2",
+      "priceJpy": 4620,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001930/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001898",
+      "makeshopId": "000000001898",
+      "brandSlug": "other",
+      "name": "SPRAY Original Tote Bag M",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001898/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002018",
+      "makeshopId": "000000002018",
+      "brandSlug": "other",
+      "name": "SPRAY Original MIZU V7 Bottle AINU Logo",
+      "priceJpy": 5500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002018/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001920",
+      "makeshopId": "000000001920",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001920/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001926",
+      "makeshopId": "000000001926",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Deck Pad-S",
+      "priceJpy": 1000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001926/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002890",
+      "makeshopId": "000000002890",
+      "brandSlug": "other",
+      "name": "SPRAY Original Knit Case AINU -Free Style Long-",
+      "priceJpy": 9350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002890/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002854",
+      "makeshopId": "000000002854",
+      "brandSlug": "other",
+      "name": "SPRAY Original Knit Case AINU -Free Style Long Wide-",
+      "priceJpy": 9350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002854/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001642",
+      "makeshopId": "000000001642",
+      "brandSlug": "other",
+      "name": "★送料無料★ SPRAY Original Design Neck Tube ランニング 登山 バックカントリー 紫外線対策",
+      "priceJpy": 1200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001642/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001880",
+      "makeshopId": "000000001880",
+      "brandSlug": "other",
+      "name": "SPRAY Original PROVIDENCE CAN COOLER 350",
+      "priceJpy": 2750,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001880/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002041",
+      "makeshopId": "000000002041",
+      "brandSlug": "other",
+      "name": "SPRAY166 Logo ワッペン",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002041/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001892",
+      "makeshopId": "000000001892",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Long Sleeve T",
+      "priceJpy": 5720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001892/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001657",
+      "makeshopId": "000000001657",
+      "brandSlug": "other",
+      "name": "SPRAY Original Pins ピンバッジ",
+      "priceJpy": 1000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001657/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001932",
+      "makeshopId": "000000001932",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee 3",
+      "priceJpy": 4620,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001932/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000003060",
+      "makeshopId": "000000003060",
+      "brandSlug": "gogglesoc",
+      "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
+      "priceJpy": 3000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001896",
+      "makeshopId": "000000001896",
+      "brandSlug": "other",
+      "name": "SPRAY Original Logo Key Ring",
+      "priceJpy": 440,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001896/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001897",
+      "makeshopId": "000000001897",
+      "brandSlug": "other",
+      "name": "SPRAY Original Tote Bag S",
+      "priceJpy": 2530,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001897/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001895",
+      "makeshopId": "000000001895",
+      "brandSlug": "other",
+      "name": "SPRAY Original Kids Zip Up Parka",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001895/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000001973",
+      "makeshopId": "000000001973",
+      "brandSlug": "other",
+      "name": "SPRAY Original Kids AINU Logo Tee 2",
       "priceJpy": 3630,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001976/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001973/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001977",
@@ -239,7 +267,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Woman AINU Logo Tee",
       "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001977/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001977/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001979",
@@ -247,7 +276,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Woman AINU Logo Tee 2",
       "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001979/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001979/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001980",
@@ -255,7 +285,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Woman AINU Logo Tee 3",
       "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001980/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001980/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002015",
@@ -263,7 +294,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original MIZU V7 Bottle BC Logo",
       "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002015/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002015/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002016",
@@ -271,7 +303,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original MIZU V7 Bottle Assort Logo",
       "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002016/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002016/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002017",
@@ -279,7 +312,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original MIZU V7 Bottle Random Logo",
       "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002017/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002017/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002019",
@@ -287,7 +321,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original MIZU V7 Bottle HI !! DO-MO !!",
       "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002019/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002019/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002039",
@@ -295,7 +330,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original BC Logo ワッペン",
       "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002039/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002039/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002042",
@@ -303,7 +339,8 @@
       "brandSlug": "other",
       "name": "SPRAY S-Logo ワッペン",
       "priceJpy": 770,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002042/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002042/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002340",
@@ -311,7 +348,8 @@
       "brandSlug": "other",
       "name": "SPRAY × WORKRWN \"SNOW MOUNTAIN ADDICT\" limited version",
       "priceJpy": 6400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002340/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002340/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002417",
@@ -319,7 +357,8 @@
       "brandSlug": "other",
       "name": "SPRAY×Kossymix Premium Scraper S",
       "priceJpy": 2200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002417/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002417/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002855",
@@ -327,7 +366,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Knit Case AINU -Long Nose-",
       "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002855/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002855/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002883",
@@ -335,7 +375,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Knit Case AINU ダブルピン ロング-Wpin Long-",
       "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002883/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002883/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002885",
@@ -343,7 +384,8 @@
       "brandSlug": "",
       "name": "SPRAY Original 手ぬぐい【送料無料】",
       "priceJpy": 2310,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002885/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002885/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001881",
@@ -351,7 +393,8 @@
       "brandSlug": "other",
       "name": "oran'ge Protection Sheet 2 プロテクションシート2 スノーボード デッキ保護シール トップシート保護シール",
       "priceJpy": 1650,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001881/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001881/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002879",
@@ -359,7 +402,8 @@
       "brandSlug": "",
       "name": "【送料無料】SPRAY Original 手ぬぐい AINU LOGO",
       "priceJpy": 2970,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002879/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002879/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001891",
@@ -367,7 +411,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Zip Up Parka",
       "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001891/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001891/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002418",
@@ -375,7 +420,8 @@
       "brandSlug": "other",
       "name": "SPRAY×Kossymix Premium Scraper M",
       "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001900",
@@ -383,7 +429,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original AINU Logo Cutting Sticker ステッカー",
       "priceJpy": 770,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001900/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001900/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001925",
@@ -391,7 +438,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original AINU Logo Deck Pad-L",
       "priceJpy": 1200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001925/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001925/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001899",
@@ -399,7 +447,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Tote Bag L",
       "priceJpy": 3960,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001899/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001899/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000002090",
@@ -407,7 +456,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Goggle Cutting Sticker",
       "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002090/ct271/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002090/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
     }
   ],
   "images": {
@@ -909,5 +959,6 @@
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/90/20/s6_000000002090.jpg?1703304074"
       ]
     }
-  }
+  },
+  "syncedAt": "2026-05-29T06:08:20.775Z"
 }

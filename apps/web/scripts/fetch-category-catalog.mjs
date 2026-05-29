@@ -197,6 +197,30 @@ async function fetchImagesForProducts(products, categoryCode, images, { skipExis
   }
 }
 
+function stampProductUpdates(outPath, catalog) {
+  const now = new Date().toISOString();
+  let previous = null;
+  if (fs.existsSync(outPath)) {
+    try {
+      previous = JSON.parse(fs.readFileSync(outPath, "utf8"));
+    } catch {
+      previous = null;
+    }
+  }
+  const prevById = new Map((previous?.products ?? []).map((p) => [p.makeshopId, p]));
+  catalog.syncedAt = now;
+  catalog.products = catalog.products.map((p) => {
+    const prev = prevById.get(p.makeshopId);
+    const changed =
+      !prev || prev.name !== p.name || prev.priceJpy !== p.priceJpy || prev.slug !== p.slug;
+    return {
+      ...p,
+      updatedAt: changed ? now : (prev.updatedAt ?? now),
+    };
+  });
+  return catalog;
+}
+
 async function buildCatalog(def, { withImages, imagesOnly }) {
   const outPath = path.join(OUT_DIR, `${def.slug}.json`);
 
@@ -270,7 +294,8 @@ async function main() {
     try {
       const catalog = await buildCatalog(def, { withImages, imagesOnly });
       const outPath = path.join(OUT_DIR, `${def.slug}.json`);
-      fs.writeFileSync(outPath, JSON.stringify(catalog, null, 2));
+      const stamped = stampProductUpdates(outPath, catalog);
+      fs.writeFileSync(outPath, JSON.stringify(stamped, null, 2));
       const imgCount = Object.values(catalog.images ?? {}).filter((i) => i.primary).length;
       totalProducts += catalog.products.length;
       totalImages += imgCount;

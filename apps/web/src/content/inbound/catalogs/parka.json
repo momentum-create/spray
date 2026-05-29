@@ -15,7 +15,8 @@
       "brandSlug": "millet",
       "name": "【MILLET】 ミレー 【THROUGH WARM HOODIE】 スルー ウォーム フーディ MIV02058",
       "priceJpy": 16720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003907/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003907/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
       "slug": "parka-000000003162",
@@ -23,7 +24,8 @@
       "brandSlug": "patagonia",
       "name": "【patagonia】パタゴニア 【Mens NanoAir UltraLight FullZip Hoody】メンズ ナノエア ウルトラライト フルジップ フーディー 85365 ジャケット / パーカー / 登山 / バックカントリー / スキー / スノーボード",
       "priceJpy": 35200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003162/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003162/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
       "slug": "parka-000000003177",
@@ -31,7 +33,8 @@
       "brandSlug": "patagonia",
       "name": "【patagonia】パタゴニア 【Mens R1 Air FullZip Hoody】メンズ アールワン フルジップ フーディー 40256 ジャケット / パーカー / 登山 / バックカントリー / スキー / スノーボード",
       "priceJpy": 26400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003177/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003177/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
       "slug": "parka-000000001895",
@@ -39,7 +42,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Kids Zip Up Parka",
       "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001895/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001895/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
       "slug": "parka-000000003325",
@@ -47,7 +51,8 @@
       "brandSlug": "the-north-face",
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Zoo Picker Hoodie】 ズーピッカーフーディ（ユニセックス） パーカー フード ユニセックス NT12645",
       "priceJpy": 17050,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003325/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003325/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
       "slug": "parka-000000001891",
@@ -55,7 +60,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Zip Up Parka",
       "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001891/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001891/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
       "slug": "parka-000000002622",
@@ -63,7 +69,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・R1 サーマル・フルジップ・フーディ 【Men's R1 Thermal Full-Zip Hoody】 40600",
       "priceJpy": 24640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002622/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002622/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
       "slug": "parka-000000002603",
@@ -71,7 +78,8 @@
       "brandSlug": "nanga",
       "name": "ナンガ【NANGA】 エコハイブリッドボックスロゴスウェットフーディー 【ECO HYBRID BOX LOGO SWEAT HOODIE】 NW2441-1F002-A / メンズ / 男性用",
       "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002603/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002603/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
       "slug": "parka-000000002628",
@@ -79,7 +87,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・ナノエア・ライト・ハイブリッド・フーディ 【Men's Nano-Air Hybrid Hoody】 84416",
       "priceJpy": 32560,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002628/ct304/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002628/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
     }
   ],
   "images": {
@@ -173,5 +182,6 @@
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/28/26/s2_000000002628.jpg?1754721068"
       ]
     }
-  }
+  },
+  "syncedAt": "2026-05-29T06:08:26.533Z"
 }

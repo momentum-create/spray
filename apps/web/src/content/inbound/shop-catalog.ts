@@ -15,6 +15,7 @@ export type CatalogProductRaw = {
   name: string;
   priceJpy: number;
   shopUrl: string;
+  updatedAt?: string;
 };
 
 export type CatalogProduct = CatalogProductRaw & {
@@ -101,13 +102,21 @@ export function getAllCatalogProductSlugs(): string[] {
   );
 }
 
-/** spray166.shop 同期カタログ — 画像あり商品を makeshop ID 降順（新しめ） */
+/** spray166.shop 同期カタログ — 直近更新（updatedAt）順、画像あり */
 export function getOfficialStoreNewArrivals(limit = 3): CatalogProduct[] {
   const all = shopCategoryRegistry.flatMap((def) => getCategoryProducts(def.slug));
   return all
     .filter((p) => p.imageUrl)
-    .sort((a, b) => b.makeshopId.localeCompare(a.makeshopId))
+    .sort((a, b) => {
+      const byUpdated = (b.updatedAt ?? "").localeCompare(a.updatedAt ?? "");
+      if (byUpdated !== 0) return byUpdated;
+      return b.makeshopId.localeCompare(a.makeshopId);
+    })
     .slice(0, limit);
+}
+
+export function getEnglishShopProductPath(slug: string): string {
+  return `/en/products/${slug}`;
 }
 
 export function formatCatalogPriceJpy(priceJpy: number, locale: "ja" | "en"): string {

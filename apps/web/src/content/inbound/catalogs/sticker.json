@@ -15,7 +15,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original AINU Logo Cutting Sticker ステッカー",
       "priceJpy": 770,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001900/ct306/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001900/ct306/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.699Z"
     },
     {
       "slug": "sticker-000000002090",
@@ -23,7 +24,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Goggle Cutting Sticker",
       "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002090/ct306/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002090/ct306/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.699Z"
     }
   ],
   "images": {
@@ -47,5 +49,6 @@
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/90/20/s6_000000002090.jpg?1703304074"
       ]
     }
-  }
+  },
+  "syncedAt": "2026-05-29T06:08:32.699Z"
 }

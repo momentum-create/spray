@@ -49,8 +49,10 @@ export type CatalogFile = {
     name: string;
     priceJpy: number;
     shopUrl: string;
+    updatedAt?: string;
   }[];
   images: Record<string, { primary: string | null; gallery: string[] }>;
+  syncedAt?: string;
 };
 
 export const catalogJsonBySlug: Record<string, CatalogFile> = {

@@ -5,161 +5,18 @@
     "title": "T-Shirts",
     "titleJa": "Tシャツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61116/",
-    "totalProducts": 36
+    "totalProducts": 37
   },
   "brands": [],
   "products": [
     {
-      "slug": "tshirt-000000003932",
-      "makeshopId": "000000003932",
+      "slug": "tshirt-000000003933",
+      "makeshopId": "000000003933",
       "brandSlug": "poler",
-      "name": "【POLER】 ポーラー 【PRM CLOTH STITCH EMB TEE】 メンズ 半袖Tシャツ 261MCV0051",
-      "priceJpy": 7480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003932/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000003931",
-      "makeshopId": "000000003931",
-      "brandSlug": "poler",
-      "name": "【POLER】 ポーラー 【OUTSIDE POCKET SUMMIT TEE】 メンズ 半袖Tシャツ 261MCV0044",
-      "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003931/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000003529",
-      "makeshopId": "000000003529",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【M's P-6 Logo Responsibili-Tee 】 メンズ・P-6ロゴ・レスポンシビリティー 38504 Tシャツ 半袖",
-      "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003529/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000003887",
-      "makeshopId": "000000003887",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】ザ・ノース・フェイス 【S/S ONEPOINT LOGO TEE】ショートスリーブ ワンポイントロゴ ティー（ユニセックス） Tシャツ 半袖 ユニセックス NT32588",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003887/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000002541",
-      "makeshopId": "000000002541",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo DryMesh Long Sleeve T",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002541/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000003457",
-      "makeshopId": "000000003457",
-      "brandSlug": "chums",
-      "name": "【CHUMS】 チャムス 【Kids Anti-Bug Fast Food Pocket T-Shirt】 キッズアンチバグファストフードポケットTシャツ Tシャツ / 半袖 / キッズ CH21-1436",
-      "priceJpy": 4950,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003457/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000003506",
-      "makeshopId": "000000003506",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【M's L/S Cap Cool Trail Shirt-Stratapeaks 】メンズ・ロングスリーブ・キャプリーン・クール・トレイル・シャツ（ストラタピークス） 23711 Tシャツ 長袖",
-      "priceJpy": 8580,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003506/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000003507",
-      "makeshopId": "000000003507",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【M's Cap Cool Trail Shirt-Stratapeaks 】 メンズ・キャプリーン・クール・トレイル・シャツ（ストラタピークス） 23721 Tシャツ 半袖",
-      "priceJpy": 7150,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003507/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000003528",
-      "makeshopId": "000000003528",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【M's '73 Skyline Easy Cut Responsibili-Tee 】 メンズ・'73 スカイライン・Tシャツ 37841 Tシャツ 半袖",
-      "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003528/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000002542",
-      "makeshopId": "000000002542",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo DryMesh Tee",
-      "priceJpy": 4950,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002542/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000001930",
-      "makeshopId": "000000001930",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee 2",
-      "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001930/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000001920",
-      "makeshopId": "000000001920",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee",
-      "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001920/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000002467",
-      "makeshopId": "000000002467",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 キッズ・グラフィック・Tシャツ 62146 半袖 子供用",
-      "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002467/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000003336",
-      "makeshopId": "000000003336",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【S/S Shiretoto Toko Tee】 ショートスリーブシレトコトコティー（キッズ） Tシャツ 半袖 キッズ NTJ32642ST",
-      "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003336/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000001892",
-      "makeshopId": "000000001892",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Long Sleeve T",
-      "priceJpy": 5720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001892/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000001932",
-      "makeshopId": "000000001932",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee 3",
-      "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001932/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000002306",
-      "makeshopId": "000000002306",
-      "brandSlug": "other",
-      "name": "CMF OUTDOOR GARMENT シーエムエフ アウトドア ガーメント QUICK DRY MESH TEE S/S PT】 登山 キャンプ アウトドア",
-      "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002306/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000001973",
-      "makeshopId": "000000001973",
-      "brandSlug": "other",
-      "name": "SPRAY Original Kids AINU Logo Tee 2",
-      "priceJpy": 3630,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001973/I61116/page1/order/"
-    },
-    {
-      "slug": "tshirt-000000001974",
-      "makeshopId": "000000001974",
-      "brandSlug": "other",
-      "name": "SPRAY Original Kids AINU Logo Tee",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001974/I61116/page1/order/"
+      "name": "【POLER】 ポーラー 【PIGMENT WIZARD RELAX FIT TEE】 メンズ 半袖Tシャツ 261MCV0053",
+      "priceJpy": 7040,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003933/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000001976",
@@ -167,7 +24,179 @@
       "brandSlug": "other",
       "name": "SPRAY Original Kids AINU Logo Tee 3",
       "priceJpy": 3630,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001976/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001976/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000001974",
+      "makeshopId": "000000001974",
+      "brandSlug": "other",
+      "name": "SPRAY Original Kids AINU Logo Tee",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001974/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003932",
+      "makeshopId": "000000003932",
+      "brandSlug": "poler",
+      "name": "【POLER】 ポーラー 【PRM CLOTH STITCH EMB TEE】 メンズ 半袖Tシャツ 261MCV0051",
+      "priceJpy": 7480,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003932/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003931",
+      "makeshopId": "000000003931",
+      "brandSlug": "poler",
+      "name": "【POLER】 ポーラー 【OUTSIDE POCKET SUMMIT TEE】 メンズ 半袖Tシャツ 261MCV0044",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003931/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003529",
+      "makeshopId": "000000003529",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】 パタゴニア 【M's P-6 Logo Responsibili-Tee 】 メンズ・P-6ロゴ・レスポンシビリティー 38504 Tシャツ 半袖",
+      "priceJpy": 6930,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003529/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003887",
+      "makeshopId": "000000003887",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】ザ・ノース・フェイス 【S/S ONEPOINT LOGO TEE】ショートスリーブ ワンポイントロゴ ティー（ユニセックス） Tシャツ 半袖 ユニセックス NT32588",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003887/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000002541",
+      "makeshopId": "000000002541",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo DryMesh Long Sleeve T",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002541/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003457",
+      "makeshopId": "000000003457",
+      "brandSlug": "chums",
+      "name": "【CHUMS】 チャムス 【Kids Anti-Bug Fast Food Pocket T-Shirt】 キッズアンチバグファストフードポケットTシャツ Tシャツ / 半袖 / キッズ CH21-1436",
+      "priceJpy": 4950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003457/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003506",
+      "makeshopId": "000000003506",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】 パタゴニア 【M's L/S Cap Cool Trail Shirt-Stratapeaks 】メンズ・ロングスリーブ・キャプリーン・クール・トレイル・シャツ（ストラタピークス） 23711 Tシャツ 長袖",
+      "priceJpy": 8580,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003506/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003507",
+      "makeshopId": "000000003507",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】 パタゴニア 【M's Cap Cool Trail Shirt-Stratapeaks 】 メンズ・キャプリーン・クール・トレイル・シャツ（ストラタピークス） 23721 Tシャツ 半袖",
+      "priceJpy": 7150,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003507/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003528",
+      "makeshopId": "000000003528",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】 パタゴニア 【M's '73 Skyline Easy Cut Responsibili-Tee 】 メンズ・'73 スカイライン・Tシャツ 37841 Tシャツ 半袖",
+      "priceJpy": 6930,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003528/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000002542",
+      "makeshopId": "000000002542",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo DryMesh Tee",
+      "priceJpy": 4950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002542/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000001930",
+      "makeshopId": "000000001930",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee 2",
+      "priceJpy": 4620,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001930/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000001920",
+      "makeshopId": "000000001920",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001920/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000002467",
+      "makeshopId": "000000002467",
+      "brandSlug": "patagonia",
+      "name": "パタゴニア 【patagonia】 キッズ・グラフィック・Tシャツ 62146 半袖 子供用",
+      "priceJpy": 5500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002467/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000003336",
+      "makeshopId": "000000003336",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【S/S Shiretoto Toko Tee】 ショートスリーブシレトコトコティー（キッズ） Tシャツ 半袖 キッズ NTJ32642ST",
+      "priceJpy": 4620,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003336/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000001892",
+      "makeshopId": "000000001892",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Long Sleeve T",
+      "priceJpy": 5720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001892/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000001932",
+      "makeshopId": "000000001932",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee 3",
+      "priceJpy": 4620,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001932/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000002306",
+      "makeshopId": "000000002306",
+      "brandSlug": "other",
+      "name": "CMF OUTDOOR GARMENT シーエムエフ アウトドア ガーメント QUICK DRY MESH TEE S/S PT】 登山 キャンプ アウトドア",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002306/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000001973",
+      "makeshopId": "000000001973",
+      "brandSlug": "other",
+      "name": "SPRAY Original Kids AINU Logo Tee 2",
+      "priceJpy": 3630,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001973/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000001977",
@@ -175,7 +204,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Woman AINU Logo Tee",
       "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001977/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001977/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000001979",
@@ -183,7 +213,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Woman AINU Logo Tee 2",
       "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001979/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001979/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000001980",
@@ -191,7 +222,8 @@
       "brandSlug": "other",
       "name": "SPRAY Original Woman AINU Logo Tee 3",
       "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001980/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001980/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000002455",
@@ -199,7 +231,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・ホーム・ウォーター・トラウト・オーガニック・Tシャツ 37547 半袖 男性用",
       "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002455/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002455/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000002458",
@@ -207,7 +240,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 ショップ・ステッカー・ポケット・レスポンシビリティー 37762 半袖 男性用",
       "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002458/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002458/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000002462",
@@ -215,7 +249,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・'73 テキスト・ロゴ・オーガニック・Tシャツ 37776 半袖 男性用",
       "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002462/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002462/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000002463",
@@ -223,7 +258,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・クリーンクライム・ルーツ・レスポンシビリティー 37795 半袖 男性用",
       "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002463/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002463/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000002464",
@@ -231,7 +267,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・アクアティック・アクション・オーガニック・Tシャツ 37801 半袖 男性用",
       "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002464/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002464/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000002468",
@@ -239,7 +276,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 キッズ・P-6 ロゴ・Tシャツ 62148 半袖 子供用",
       "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002468/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002468/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000002470",
@@ -247,7 +285,8 @@
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・ロングスリーブ・'73 テキスト・ロゴ・レスポンシビリティー 37780 長袖 男性用",
       "priceJpy": 8250,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002470/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002470/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000003327",
@@ -255,7 +294,8 @@
       "brandSlug": "the-north-face",
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【S/S Zoo Picker Tee】 ショートスリーブズーピッカーティー（ユニセックス） Tシャツ 半袖 ユニセックス NT32659",
       "priceJpy": 7920,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003327/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003327/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000003394",
@@ -263,7 +303,8 @@
       "brandSlug": "the-north-face",
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Adventure Tee】 アドベンチャーティー（キッズ） NTJ32634 Tシャツ 半袖 キッズ 子供用",
       "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003394/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003394/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000003397",
@@ -271,7 +312,8 @@
       "brandSlug": "the-north-face",
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Toddler S/S Shiretoto Toko Tee】 トドラーショートスリーブシレトコトコティー（キッズ） Tシャツ 半袖 キッズ NTT32642ST",
       "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003397/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003397/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000003421",
@@ -279,7 +321,8 @@
       "brandSlug": "millet",
       "name": "【MILLET】 ミレー 【SYMBOLIC TS SS】 シンボリック ショートスリーブTシャツ MIV02184 Tシャツ",
       "priceJpy": 4950,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003421/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003421/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000003510",
@@ -287,7 +330,8 @@
       "brandSlug": "patagonia",
       "name": "【patagonia】 パタゴニア 【M's Forge Born T-Shirt 】 メンズ・フォージ・ボーン・Tシャツ 37872 Tシャツ 半袖",
       "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003510/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003510/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
       "slug": "tshirt-000000003525",
@@ -295,7 +339,8 @@
       "brandSlug": "patagonia",
       "name": "【patagonia】 パタゴニア 【Baby Fitz Roy Flurries T-Shirt 】 ベビー・フィッツロイ・フラーリーズ・Tシャツ 60382 キッズ 子供用",
       "priceJpy": 3960,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003525/I61116/page1/order/"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003525/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
     }
   ],
   "images": {
@@ -641,5 +686,6 @@
         "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000035252_ZktRMAm.jpg"
       ]
     }
-  }
+  },
+  "syncedAt": "2026-05-29T06:08:26.207Z"
 }
