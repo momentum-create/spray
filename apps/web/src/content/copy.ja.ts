@@ -50,7 +50,7 @@ export const copy = {
     categories: { snow: "スノーボード", skate: "スケートボード" },
     arrivals: {
       heading: "新着アイテム",
-      note: "取扱店舗により商品・価格が異なります。",
+      note: "公式オンラインストア（spray166.shop）から自動反映。",
     },
     park: {
       heading: "本日のパーク",

@@ -48,7 +48,7 @@ export const copy = {
     categories: { snow: "Snowboard", skate: "Skateboard" },
     arrivals: {
       heading: "New arrivals",
-      note: "Products and prices may vary by store.",
+      note: "Synced from spray166.shop (official online store).",
     },
     park: {
       heading: "Park today",

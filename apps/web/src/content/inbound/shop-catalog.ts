@@ -101,6 +101,20 @@ export function getAllCatalogProductSlugs(): string[] {
   );
 }
 
+/** spray166.shop 同期カタログ — 画像あり商品を makeshop ID 降順（新しめ） */
+export function getOfficialStoreNewArrivals(limit = 3): CatalogProduct[] {
+  const all = shopCategoryRegistry.flatMap((def) => getCategoryProducts(def.slug));
+  return all
+    .filter((p) => p.imageUrl)
+    .sort((a, b) => b.makeshopId.localeCompare(a.makeshopId))
+    .slice(0, limit);
+}
+
+export function formatCatalogPriceJpy(priceJpy: number, locale: "ja" | "en"): string {
+  if (locale === "ja") return `¥${priceJpy.toLocaleString("ja-JP")}`;
+  return `¥${priceJpy.toLocaleString("en-US")}`;
+}
+
 export function categoryBrandPath(categorySlug: string, brandSlug: string): string {
   return `/en/products/categories/${categorySlug}/brands/${brandSlug}`;
 }
