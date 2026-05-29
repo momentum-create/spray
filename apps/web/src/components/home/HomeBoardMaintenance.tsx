@@ -65,16 +65,16 @@ export function HomeBoardMaintenance({ locale, copy }: Props) {
         <div className="flex flex-col justify-center bg-[#141414] p-4 md:p-5">
           <h3 className="section-label mb-1 break-keep">{copy.home.boardMaintenance}</h3>
           <p className="text-xs text-spray-muted break-keep">{copy.home.tuneUpServices}</p>
-          <ul className="mt-3 space-y-0 text-xs md:text-sm">
+          <ul className="mt-3 space-y-0 text-[11px] md:text-sm">
             {services.map((item) => (
               <li
                 key={item.name}
-                className="flex items-start justify-between gap-2 border-b border-spray-border py-2 last:border-0"
+                className="grid grid-cols-[minmax(0,1fr)_auto] items-baseline gap-x-3 border-b border-spray-border py-2 last:border-0"
               >
-                <span className="min-w-0 flex-1 pr-2 leading-snug text-white break-keep">
-                  {item.name}
+                <span className="min-w-0 leading-snug text-white">{item.name}</span>
+                <span className="shrink-0 whitespace-nowrap text-right font-bold tabular-nums text-spray-orange">
+                  {item.price}
                 </span>
-                <span className="shrink-0 text-right font-bold text-spray-orange">{item.price}</span>
               </li>
             ))}
           </ul>
