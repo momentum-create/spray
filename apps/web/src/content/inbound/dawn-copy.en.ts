@@ -9,13 +9,21 @@ export const dawnCopy = {
     addToCart: "Add to cart",
     buyNow: "Buy it now",
     preOrder: "Pre-order",
-    taxFreeTitle: "Tax-free shopping (visitors to Japan)",
+    taxFreeTitle: "Tax-free pickup — step by step",
+    taxFreeSteps: [
+      "Place your order online. Prices shown include 10% Japanese consumption tax. Select store pickup at SPRAY Asahikawa.",
+      "When your order is ready, collect it at the shop during opening hours only (12:00–19:00, closed Wednesdays). At the counter, bring (1) your passport — original document, not a photo or copy — and (2) your order confirmation email (on your phone or printed).",
+      "Tell staff you want tax-free (duty-free) and show your passport. We check it at the counter. Tax-free cannot be applied if you do not bring your passport in person.",
+      "If you qualify as a non-resident visitor, we process the tax-free record at pickup. You complete the consumption tax refund at airport customs when you depart Japan (Japan refund method).",
+    ] as const,
+    taxFreeNotEligible:
+      "Not eligible for tax-free: delivery to a hotel or any address in Japan, or any order not collected in person with passport verification at our store.",
     taxFreeBody:
-      "Eligible international visitors may claim tax exemption in store with passport. Online prices shown include Japanese consumption tax. Customs duties and import fees may apply for overseas shipping.",
+      "Domestic shipping within Japan is always tax-inclusive (no tax-free). International shipping quotes are separate; import duties in your country are not included.",
     shippingNote:
-      "International shipping fees and customs are not included in the listed price. Contact us for estimates.",
+      "Pickup at SPRAY Asahikawa, 1-8 Toyooka 12-jo 1-chome — shop hours only (12:00–19:00, closed Wednesdays). For tax-free, follow the steps above and bring your passport.",
     bopis:
-      "Pickup available at SPRAY Asahikawa (Usually ready in 24 hours)",
+      "Store pickup at SPRAY Asahikawa — collection during shop hours only (12:00–19:00, closed Wednesdays). Want tax-free? Bring your passport to the counter — see steps below.",
     viewOfficial: "View on GENTEMSTICK official store",
     reviews: (n: number) => `${n} review${n === 1 ? "" : "s"}`,
   },
@@ -39,7 +47,7 @@ export const dawnCopy = {
     title: "Checkout",
     express: "Express checkout",
     subtotal: "Subtotal",
-    pickup: "Store pickup — Asahikawa",
+    pickup: "Store pickup — Asahikawa (12:00–19:00, closed Wed · passport for tax-free)",
     total: "Total",
     pay: "Complete order (demo)",
     demoNote: "This is a presentation demo. No payment is processed.",
