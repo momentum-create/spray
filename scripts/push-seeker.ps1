@@ -1,4 +1,4 @@
-# Seeker-x1/spray へ main を push（Vercel 用）
+# Push main to Seeker-x1/spray (Vercel). Prefers .seeker-keys/ deploy key, else PAT from .env.local
 $ErrorActionPreference = "Stop"
 $root = Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Path)
 Set-Location $root
@@ -18,15 +18,6 @@ function Write-DebugLog {
   Add-Content -Path $logPath -Value $entry -Encoding utf8
 }
 
-$token = $env:SEEKER_PUSH_TOKEN
-if (-not $token -and (Test-Path (Join-Path $root ".env.local"))) {
-  Get-Content (Join-Path $root ".env.local") | ForEach-Object {
-    if ($_ -match '^\s*SEEKER_PUSH_TOKEN\s*=\s*(.+)\s*$') {
-      $token = $matches[1].Trim().Trim('"').Trim("'")
-    }
-  }
-}
-
 $deployKey = Join-Path $root ".seeker-keys\seeker_deploy"
 if (Test-Path $deployKey) {
   Write-DebugLog "H-deploy-key" "push_via_ssh" @{ keyFile = ".seeker-keys/seeker_deploy" }
@@ -38,20 +29,25 @@ if (Test-Path $deployKey) {
     Write-Host "OK: Seeker-x1/spray updated via Deploy Key (Vercel will deploy)."
     exit 0
   }
-  Write-Host "SSH push failed. Register the public key on Seeker-x1/spray Deploy keys, or use PAT in .env.local"
+  Write-Host "SSH push failed. Check Deploy key on Seeker-x1/spray or use PAT in .env.local"
   exit $code
+}
+
+$token = $env:SEEKER_PUSH_TOKEN
+if (-not $token -and (Test-Path (Join-Path $root ".env.local"))) {
+  Get-Content (Join-Path $root ".env.local") | ForEach-Object {
+    if ($_ -match '^\s*SEEKER_PUSH_TOKEN\s*=\s*(.+)\s*$') {
+      $token = $matches[1].Trim().Trim('"').Trim("'")
+    }
+  }
 }
 
 if (-not $token -or $token -eq "YOUR_TOKEN") {
   Write-Host ""
-  Write-Host "SEEKER_PUSH_TOKEN が未設定です。"
-  Write-Host "1) Seeker-x1 → Settings → Developer settings → Tokens (classic) → repo"
-  Write-Host "2) リポジトリ直下に .env.local を作成:"
-  Write-Host "   SEEKER_PUSH_TOKEN=ghp_xxxxxxxx"
-  Write-Host "3) もう一度: pnpm run push:seeker"
-  Write-Host ""
-  Write-Host "または Deploy Key 方式: pnpm run setup:seeker-deploy"
-  Write-DebugLog "H2" "abort_no_token" @{ hasToken = $false }
+  Write-Host "No Deploy Key and no SEEKER_PUSH_TOKEN."
+  Write-Host "Run: pnpm run setup:seeker-deploy"
+  Write-Host "Or add .env.local with SEEKER_PUSH_TOKEN=ghp_..."
+  Write-DebugLog "H2" "abort_no_auth" @{ hasToken = $false }
   exit 1
 }
 
@@ -68,10 +64,9 @@ Write-DebugLog "H1" "push_done" @{ exitCode = $code }
 
 if ($code -ne 0) {
   Write-Host ""
-  Write-Host "push 失敗。Windows に別アカウントの GitHub 認証が残っている可能性があります:"
-  Write-Host "  cmdkey /delete:git:https://github.com"
-  Write-Host "その後もう一度 pnpm run push:seeker"
+  Write-Host "push failed. Try: cmdkey /delete:git:https://github.com"
+  Write-Host "Then: pnpm run push:seeker"
   exit $code
 }
 
-Write-Host "OK: Seeker-x1/spray の main を更新しました（Vercel がデプロイします）"
+Write-Host "OK: Seeker-x1/spray main updated (Vercel will deploy)."
