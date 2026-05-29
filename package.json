@@ -8,6 +8,7 @@
     "typecheck": "pnpm -r typecheck",
     "setup:hooks": "powershell -ExecutionPolicy Bypass -File scripts/setup-githooks.ps1",
     "setup:seeker-deploy": "powershell -ExecutionPolicy Bypass -File scripts/setup-seeker-deploy-key.ps1",
+    "print:seeker-key": "powershell -ExecutionPolicy Bypass -File scripts/print-seeker-deploy-key-instructions.ps1",
     "diagnose:seeker": "powershell -ExecutionPolicy Bypass -File scripts/diagnose-seeker-auth.ps1",
     "push": "git push origin main",
     "push:seeker": "powershell -ExecutionPolicy Bypass -File scripts/push-seeker.ps1"
