@@ -16,6 +16,7 @@ type Props = {
 export function ProductBuyBox({ product }: Props) {
   const { addToCart } = useCart();
   const router = useRouter();
+  const isSnowboard = product.categorySlug === "snowboard";
   const [tuneUp, setTuneUp] = useState<"none" | "pre" | "full">("none");
   const [soleGuard, setSoleGuard] = useState<"none" | "gentem" | "spray">("none");
   const [pickupDate, setPickupDate] = useState("");
@@ -34,6 +35,7 @@ export function ProductBuyBox({ product }: Props) {
     return `${y}-${m}-${d}`;
   }, [tuneUp]);
   const selectedAddons = useMemo<CartAddon[]>(() => {
+    if (!isSnowboard) return [];
     const addons: CartAddon[] = [];
     if (tuneUp === "pre") {
       addons.push({ id: "pre-tune", label: "Pre tune-up", priceJpy: 6_600 });
@@ -56,7 +58,7 @@ export function ProductBuyBox({ product }: Props) {
       });
     }
     return addons;
-  }, [tuneUp, soleGuard]);
+  }, [isSnowboard, tuneUp, soleGuard]);
 
   return (
     <div className="dawn-buy-box w-full bg-white">
@@ -112,7 +114,7 @@ export function ProductBuyBox({ product }: Props) {
           </a>
         </section>
       ) : null}
-      {!product.soldOut ? (
+      {!product.soldOut && isSnowboard ? (
         <fieldset className="mt-5 border border-[#e8e8e8] p-4">
           <legend className="px-1 text-xs font-medium uppercase tracking-wide text-black/70">
             Tune-up options
