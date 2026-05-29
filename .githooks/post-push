@@ -8,9 +8,11 @@ if [ "$remote" != "origin" ] || [ "$branch" != "main" ]; then
 fi
 
 echo "→ mirroring main to seeker (Vercel)..."
-if git push seeker main; then
-  echo "✓ seeker main updated"
+if command -v pwsh >/dev/null 2>&1; then
+  pwsh -NoProfile -ExecutionPolicy Bypass -File scripts/push-seeker.ps1
+elif command -v powershell >/dev/null 2>&1; then
+  powershell -NoProfile -ExecutionPolicy Bypass -File scripts/push-seeker.ps1
 else
-  echo "✗ git push seeker main failed (認証またはネットワークを確認)"
+  echo "✗ push-seeker.ps1 には PowerShell が必要です。pnpm run push:seeker を手動実行してください。"
   exit 1
 fi

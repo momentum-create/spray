@@ -7,7 +7,10 @@
     "lint": "pnpm --filter @spray/web lint",
     "typecheck": "pnpm -r typecheck",
     "setup:hooks": "powershell -ExecutionPolicy Bypass -File scripts/setup-githooks.ps1",
-    "push": "git push origin main"
+    "setup:seeker-deploy": "powershell -ExecutionPolicy Bypass -File scripts/setup-seeker-deploy-key.ps1",
+    "diagnose:seeker": "powershell -ExecutionPolicy Bypass -File scripts/diagnose-seeker-auth.ps1",
+    "push": "git push origin main",
+    "push:seeker": "powershell -ExecutionPolicy Bypass -File scripts/push-seeker.ps1"
   },
   "engines": {
     "node": ">=20"

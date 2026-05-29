@@ -103,13 +103,21 @@ http://localhost:3000
 
 `momentum-create/spray` の `main` に push すると Actions が Seeker へ mirror し、Vercel がデプロイします。
 
-**初回だけ（Secret は momentum-create 側に登録）:**
+**初回だけ（Secret は momentum-create 側に登録）— 推奨: Deploy Key（PAT より失敗しにくい）:**
 
-1. **Seeker-x1** でログイン → 右上アイコン → **Settings** → 下の方 **Developer settings** → **Personal access tokens** → **Generate new token (classic)** → 権限 **`repo`**
-2. **momentum-create/spray** を開く → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**
-3. Name: **`SEEKER_PUSH_TOKEN`** / Value: 手順1のトークン
+```powershell
+pnpm run setup:seeker-deploy
+```
 
-※ Secret を **Seeker-x1/spray** に入れると Actions が `SEEKER_PUSH_TOKEN is not set` で失敗します（よくある誤り）。
+表示どおりに **Seeker-x1/spray** に Deploy Key（write 可）を登録し、**momentum-create/spray** の Actions secret **`SEEKER_DEPLOY_KEY`** に private key を貼る。Actions → **Sync to Seeker (Vercel)** → **Run workflow**。
+
+**代替: classic PAT**
+
+1. **Seeker-x1** → **Tokens (classic)** → 権限 **`repo`** → `ghp_...` をコピー
+2. **momentum-create/spray** → Secrets → **`SEEKER_PUSH_TOKEN`**
+3. ローカル: `.env.local` に `SEEKER_PUSH_TOKEN=ghp_...` → `pnpm run push:seeker`
+
+※ `YOUR_TOKEN` という文字列のままでは動きません。Secret を **Seeker-x1/spray** に入れるのも誤りです。
 
 **ワークフロー本体**は **momentum-create/spray** にある必要があります。Seeker 側だけにファイルがある場合は、Cursor から `origin` へ push するか、momentum-create で同じファイルを追加してください。
 

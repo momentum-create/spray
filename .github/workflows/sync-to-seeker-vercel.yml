@@ -1,5 +1,5 @@
-# 編集の push 先: momentum-create/spray（origin）→ ここだけ mirror 実行
-# Vercel が見る先: Seeker-x1/spray（seeker）→ 直接 push でデプロイ（この workflow は走らない）
+# momentum-create/spray → Seeker-x1/spray へ mirror（Vercel デプロイ用）
+# 認証: SEEKER_DEPLOY_KEY（推奨）または SEEKER_PUSH_TOKEN（classic PAT）
 name: Sync to Seeker (Vercel)
 
 on:
@@ -24,78 +24,78 @@ jobs:
 
       - name: Push to Seeker-x1/spray
         env:
+          SEEKER_DEPLOY_KEY: ${{ secrets.SEEKER_DEPLOY_KEY }}
           SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
         run: |
           set -e
-          if [ -z "$SEEKER_PUSH_TOKEN" ]; then
-            echo "::error::SEEKER_PUSH_TOKEN が未設定。momentum-create/spray → Settings → Secrets → Actions"
-            exit 1
-          fi
-          if [ "$(printf '%s' "$SEEKER_PUSH_TOKEN" | wc -c)" -lt 20 ]; then
-            echo "::error::SEEKER_PUSH_TOKEN が短すぎます。Seeker-x1 で classic PAT (repo) を作り Secret を Update。"
-            exit 1
-          fi
-
-          case "$SEEKER_PUSH_TOKEN" in
-            ghp_*) echo "Token type: classic (ghp_) — OK" ;;
-            github_pat_*)
-              echo "::warning::Fine-grained PAT です。Seeker-x1/spray への Contents Read and write を付与してください。classic PAT (repo) を推奨します。"
-              ;;
-            *)
-              echo "::warning::トークン形式が不明です。Seeker-x1 の classic PAT (ghp_...) を推奨します。"
-              ;;
-          esac
-
-          echo "=== Verify token (GitHub API) ==="
-          HTTP_CODE=$(curl -s -o /tmp/seeker-api.json -w "%{http_code}" \
-            -H "Authorization: Bearer ${SEEKER_PUSH_TOKEN}" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/Seeker-x1/spray")
-          if [ "$HTTP_CODE" = "200" ]; then
-            echo "API OK: token can access Seeker-x1/spray"
-          elif [ "$HTTP_CODE" = "401" ]; then
-            echo "::error::API 401: トークンが無効または期限切れです。Seeker-x1 で classic PAT (repo) を再発行し、SEEKER_PUSH_TOKEN を Update してください。"
-            exit 1
-          elif [ "$HTTP_CODE" = "404" ]; then
-            echo "::error::API 404: このトークンでは Seeker-x1/spray を読めません。"
-            echo "確認: ① Seeker-x1 でログインして作った classic PAT (repo) か ② Fine-grained なら Repository access に spray を追加し Contents Read and write ③ momentum-create/spray の Secret（Seeker 側ではない）"
-            exit 1
-          else
-            echo "::error::GitHub API returned HTTP ${HTTP_CODE}"
-            cat /tmp/seeker-api.json
-            exit 1
-          fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git remote add seeker "https://github.com/Seeker-x1/spray.git"
-          AUTH_HEADER="AUTHORIZATION: bearer ${SEEKER_PUSH_TOKEN}"
-          GIT_AUTH=(-c "http.https://github.com/.extraheader=${AUTH_HEADER}")
+          push_seeker() {
+            if git push seeker HEAD:main; then
+              echo "Push OK (fast-forward)"
+            else
+              echo "::warning::通常 push 失敗。force で再試行..."
+              git push seeker HEAD:main --force
+              echo "Push OK (force)"
+            fi
+          }
 
-          echo "=== Test: git ls-remote Seeker-x1/spray ==="
-          if ! git "${GIT_AUTH[@]}" ls-remote seeker HEAD; then
-            echo "::error::git ls-remote に失敗しました。上の API テストが OK なら再実行してください。"
-            exit 128
-          fi
-
-          echo "=== Push to Seeker-x1/spray ==="
-          if git "${GIT_AUTH[@]}" push seeker HEAD:main; then
-            echo "Push OK (fast-forward)"
+          if [ -n "$SEEKER_DEPLOY_KEY" ]; then
+            echo "=== Auth: Deploy Key (SSH) ==="
+            mkdir -p ~/.ssh
+            printf '%s\n' "$SEEKER_DEPLOY_KEY" > ~/.ssh/seeker_deploy
+            chmod 600 ~/.ssh/seeker_deploy
+            ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null || true
+            export GIT_SSH_COMMAND="ssh -i ~/.ssh/seeker_deploy -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
+            git remote add seeker "git@github.com:Seeker-x1/spray.git"
+            git ls-remote seeker HEAD
+            push_seeker
+          elif [ -n "$SEEKER_PUSH_TOKEN" ]; then
+            echo "=== Auth: PAT (HTTPS) ==="
+            if [ "$(printf '%s' "$SEEKER_PUSH_TOKEN" | wc -c)" -lt 20 ]; then
+              echo "::error::SEEKER_PUSH_TOKEN が短すぎます。"
+              exit 1
+            fi
+            case "$SEEKER_PUSH_TOKEN" in
+              YOUR_TOKEN*|your_token*) echo "::error::YOUR_TOKEN のままです。実際の ghp_... を Secret に設定してください。"; exit 1 ;;
+            esac
+            HTTP_CODE=$(curl -s -o /tmp/seeker-api.json -w "%{http_code}" \
+              -H "Authorization: Bearer ${SEEKER_PUSH_TOKEN}" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/Seeker-x1/spray")
+            if [ "$HTTP_CODE" != "200" ]; then
+              echo "::error::PAT で Seeker-x1/spray にアクセスできません (HTTP ${HTTP_CODE})。Seeker-x1 の classic PAT (repo) を使うか、Deploy Key を設定してください: scripts/setup-seeker-deploy-key.ps1"
+              exit 1
+            fi
+            git remote add seeker "https://github.com/Seeker-x1/spray.git"
+            AUTH_HEADER="AUTHORIZATION: bearer ${SEEKER_PUSH_TOKEN}"
+            GIT_AUTH=(-c "http.https://github.com/.extraheader=${AUTH_HEADER}")
+            git "${GIT_AUTH[@]}" ls-remote seeker HEAD
+            if git "${GIT_AUTH[@]}" push seeker HEAD:main; then
+              echo "Push OK (fast-forward)"
+            else
+              git "${GIT_AUTH[@]}" push seeker HEAD:main --force
+              echo "Push OK (force)"
+            fi
           else
-            echo "::warning::通常 push 失敗。force で再試行..."
-            git "${GIT_AUTH[@]}" push seeker HEAD:main --force
-            echo "Push OK (force)"
+            echo "::error::SEEKER_DEPLOY_KEY または SEEKER_PUSH_TOKEN が未設定です。"
+            echo "推奨: リポジトリで pnpm run setup:seeker-deploy → Seeker に Deploy Key 登録 → momentum-create の Secret SEEKER_DEPLOY_KEY"
+            exit 1
           fi
 
           SEEKER_NAME="${{ secrets.SEEKER_GIT_NAME }}"
           SEEKER_EMAIL="${{ secrets.SEEKER_GIT_EMAIL }}"
           if [ -z "$SEEKER_EMAIL" ]; then
-            echo "::warning::SEEKER_GIT_EMAIL 未設定のため Vercel 用空コミットはスキップ（mirror のみ）"
+            echo "::warning::SEEKER_GIT_EMAIL 未設定のため Vercel 用空コミットはスキップ"
             exit 0
           fi
           SEEKER_NAME="${SEEKER_NAME:-Seeker-x1}"
           git -c user.name="$SEEKER_NAME" -c user.email="$SEEKER_EMAIL" \
             commit --allow-empty -m "chore: trigger Vercel deploy [automated]"
-          git "${GIT_AUTH[@]}" push seeker HEAD:main
-          echo "Vercel trigger commit pushed (author: $SEEKER_NAME)"
+          if [ -n "$SEEKER_DEPLOY_KEY" ]; then
+            git push seeker HEAD:main
+          else
+            git "${GIT_AUTH[@]}" push seeker HEAD:main
+          fi
+          echo "Vercel trigger commit pushed"
