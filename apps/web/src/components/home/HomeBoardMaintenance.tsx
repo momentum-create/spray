@@ -43,7 +43,7 @@ export function HomeBoardMaintenance({ locale, copy }: Props) {
             aria-hidden
           />
           <div className="absolute inset-0 flex flex-col items-center justify-center p-4 text-center">
-            <p className="max-w-full break-words font-display text-2xl font-black uppercase tracking-tight text-white md:text-3xl">
+            <p className="font-display text-lg font-black uppercase tracking-tight text-white break-keep sm:text-xl lg:text-2xl">
               {copy.home.maintenanceOverlayTitle}
             </p>
             <p className="mt-2 text-sm font-bold uppercase tracking-[0.2em] text-white/90 md:text-base">
@@ -63,15 +63,17 @@ export function HomeBoardMaintenance({ locale, copy }: Props) {
         </LocaleLink>
 
         <div className="flex flex-col justify-center bg-[#141414] p-4 md:p-5">
-          <h3 className="section-label mb-1">{copy.home.boardMaintenance}</h3>
-          <p className="text-xs text-spray-muted">{copy.home.tuneUpServices}</p>
+          <h3 className="section-label mb-1 break-keep">{copy.home.boardMaintenance}</h3>
+          <p className="text-xs text-spray-muted break-keep">{copy.home.tuneUpServices}</p>
           <ul className="mt-3 space-y-0 text-xs md:text-sm">
             {services.map((item) => (
               <li
                 key={item.name}
                 className="flex items-start justify-between gap-2 border-b border-spray-border py-2 last:border-0"
               >
-                <span className="pr-2 leading-snug text-white">{item.name}</span>
+                <span className="min-w-0 flex-1 pr-2 leading-snug text-white break-keep">
+                  {item.name}
+                </span>
                 <span className="shrink-0 text-right font-bold text-spray-orange">{item.price}</span>
               </li>
             ))}
@@ -79,7 +81,7 @@ export function HomeBoardMaintenance({ locale, copy }: Props) {
           <LocaleLink
             href="/maintenance/request"
             locale={locale}
-            className="btn-orange-outline mt-4 w-full text-center text-[11px] md:text-xs"
+            className="btn-orange-outline mt-4 w-full text-center text-[11px] normal-case break-keep md:text-xs"
           >
             {copy.home.requestMaintenance}
           </LocaleLink>
