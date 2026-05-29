@@ -19,7 +19,7 @@ const IMAGE_DELAY_MS = 150;
 
 const REGISTRY = [
   { slug: "spray-original", makeshopCode: "ct271", title: "SPRAY Original", titleJa: "SPRAYオリジナル" },
-  { slug: "snowboard", makeshopCode: "I61077", title: "Snowboards", titleJa: "スノーボード", skipImages: true },
+  { slug: "snowboard", makeshopCode: "I61077", title: "Snowboards", titleJa: "スノーボード" },
   { slug: "binding", makeshopCode: "ct296", title: "Bindings", titleJa: "バインディング" },
   { slug: "boots", makeshopCode: "ct297", title: "Boots", titleJa: "ブーツ" },
   { slug: "wear", makeshopCode: "ct298", title: "Wear", titleJa: "ウェア" },

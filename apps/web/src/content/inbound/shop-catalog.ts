@@ -1,17 +1,5 @@
-import {
-  getSnowboardBrand,
-  getSnowboardBrandProductCount,
-  getSnowboardBrandsWithStock,
-  getSnowboardProduct,
-  getSnowboardProductsByBrand,
-  snowboardCategory,
-  snowboardProducts,
-  type SnowboardProduct,
-} from "@/content/inbound/snowboard-catalog.en";
 import { catalogJsonBySlug, type CatalogFile } from "@/content/inbound/catalog-data";
 import { getCategoryDef, shopCategoryRegistry } from "@/content/inbound/shop-categories.registry";
-
-type ImageEntry = { primary: string | null; gallery: string[] };
 
 export type CatalogBrand = {
   slug: string;
@@ -48,7 +36,6 @@ export type CategoryCatalogMeta = {
 };
 
 function catalogFileBySlug(slug: string): CatalogFile | undefined {
-  if (slug === "snowboard") return undefined;
   return catalogJsonBySlug[slug];
 }
 
@@ -70,60 +57,21 @@ function enrichJsonProduct(raw: CatalogProductRaw, file: CatalogFile): CatalogPr
   };
 }
 
-function snowboardToCatalogProduct(p: SnowboardProduct): CatalogProduct {
-  return {
-    slug: p.slug,
-    makeshopId: p.makeshopId,
-    brandSlug: p.brandSlug,
-    name: p.name,
-    priceJpy: p.priceJpy,
-    shopUrl: p.shopUrl,
-    brand: p.brand,
-    imageUrl: p.imageUrl,
-    imageGallery: p.imageGallery,
-    description: p.description,
-    categorySlug: "snowboard",
-    categoryTitle: snowboardCategory.title,
-  };
-}
-
 export function getAllCategorySlugs(): string[] {
   return shopCategoryRegistry.map((c) => c.slug);
 }
 
 export function getCategoryMeta(slug: string): CategoryCatalogMeta | undefined {
-  if (slug === "snowboard") {
-    return {
-      slug: "snowboard",
-      title: snowboardCategory.title,
-      titleJa: "スノーボード",
-      makeshopCode: "I61077",
-      shopCategoryUrl: snowboardCategory.shopCategoryUrl,
-      totalProducts: snowboardCategory.totalProducts,
-    };
-  }
-  const file = catalogFileBySlug(slug);
-  return file?.category;
+  return catalogFileBySlug(slug)?.category;
 }
 
 export function getCategoryBrands(slug: string): CatalogBrand[] {
-  if (slug === "snowboard") {
-    return getSnowboardBrandsWithStock().map((b) => ({
-      slug: b.slug,
-      name: b.name,
-      shopBrandUrl: b.shopBrandUrl,
-      productCount: getSnowboardBrandProductCount(b.slug),
-    }));
-  }
   const file = catalogFileBySlug(slug);
   if (!file) return [];
   return file.brands.filter((b) => b.productCount > 0 || file.products.some((p) => p.brandSlug === b.slug));
 }
 
 export function getCategoryProducts(slug: string): CatalogProduct[] {
-  if (slug === "snowboard") {
-    return snowboardProducts.map(snowboardToCatalogProduct);
-  }
   const file = catalogFileBySlug(slug);
   if (!file) return [];
   return file.products.map((p) => enrichJsonProduct(p, file));
@@ -134,18 +82,11 @@ export function getCategoryBrand(slug: string, brandSlug: string): CatalogBrand 
 }
 
 export function getCategoryProductsByBrand(slug: string, brandSlug: string): CatalogProduct[] {
-  if (slug === "snowboard") {
-    return getSnowboardProductsByBrand(brandSlug).map(snowboardToCatalogProduct);
-  }
   return getCategoryProducts(slug).filter((p) => p.brandSlug === brandSlug);
 }
 
 export function getCatalogProduct(slug: string): CatalogProduct | undefined {
-  const snowboard = getSnowboardProduct(slug);
-  if (snowboard) return snowboardToCatalogProduct(snowboard);
-
   for (const def of shopCategoryRegistry) {
-    if (def.slug === "snowboard") continue;
     const file = catalogFileBySlug(def.slug);
     if (!file) continue;
     const raw = file.products.find((p) => p.slug === slug);
@@ -155,11 +96,9 @@ export function getCatalogProduct(slug: string): CatalogProduct | undefined {
 }
 
 export function getAllCatalogProductSlugs(): string[] {
-  const snowboardSlugs = snowboardProducts.map((p) => p.slug);
-  const jsonSlugs = shopCategoryRegistry
-    .filter((c) => c.slug !== "snowboard")
-    .flatMap((c) => catalogFileBySlug(c.slug)?.products.map((p) => p.slug) ?? []);
-  return [...snowboardSlugs, ...jsonSlugs];
+  return shopCategoryRegistry.flatMap(
+    (c) => catalogFileBySlug(c.slug)?.products.map((p) => p.slug) ?? [],
+  );
 }
 
 export function categoryBrandPath(categorySlug: string, brandSlug: string): string {

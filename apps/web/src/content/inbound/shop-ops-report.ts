@@ -1,11 +1,6 @@
 import { catalogJsonBySlug } from "@/content/inbound/catalog-data";
 import { inboundProducts } from "@/content/inbound/products.en";
 import { shopCategoryRegistry } from "@/content/inbound/shop-categories.registry";
-import {
-  getSnowboardBrandsWithStock,
-  snowboardCategory,
-  snowboardProducts,
-} from "@/content/inbound/snowboard-catalog.en";
 
 export type ShopOpsCategoryRow = {
   slug: string;
@@ -35,22 +30,6 @@ function countJsonImages(file: (typeof catalogJsonBySlug)[string]): number {
 
 export function getShopOpsReport(): ShopOpsReport {
   const categories: ShopOpsCategoryRow[] = shopCategoryRegistry.map((def) => {
-    if (def.slug === "snowboard") {
-      const imageCount = snowboardProducts.filter((p) => p.imageUrl).length;
-      return {
-        slug: def.slug,
-        title: snowboardCategory.title,
-        titleJa: def.titleJa,
-        makeshopCode: def.makeshopCode,
-        productCount: snowboardProducts.length,
-        imageCount,
-        missingImages: snowboardProducts.length - imageCount,
-        brandCount: getSnowboardBrandsWithStock().length,
-        officialUrl: snowboardCategory.shopCategoryUrl,
-        sitePath: `/en/products/categories/${def.slug}`,
-      };
-    }
-
     const file = catalogJsonBySlug[def.slug];
     const productCount = file?.products.length ?? 0;
     const imageCount = file ? countJsonImages(file) : 0;
@@ -109,7 +88,7 @@ export const shopOpsSourceFiles = [
     note: "JSON の import（新カテゴリ時に1行追加）",
   },
   {
-    path: "apps/web/src/content/inbound/snowboard-catalog.en.ts",
-    note: "スノーボードのみ手入れカタログ",
+    path: "apps/web/src/content/inbound/catalogs/",
+    note: "カテゴリ別カタログ JSON（スノーボード含む）",
   },
 ] as const;

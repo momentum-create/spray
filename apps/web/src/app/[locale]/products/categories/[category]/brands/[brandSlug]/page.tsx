@@ -35,10 +35,12 @@ export default async function CategoryBrandPage({ params }: PageProps) {
       categorySlug={category}
       brandSlug={brandSlug}
       pocCollectionHref={
-        category === "snowboard" && brandSlug === "gentem" ? "/en/products/gentemstick" : undefined
+        category === "snowboard" && brandSlug === "gentemstick"
+          ? "/en/products/gentemstick"
+          : undefined
       }
       pocCollectionLabel={
-        category === "snowboard" && brandSlug === "gentem"
+        category === "snowboard" && brandSlug === "gentemstick"
           ? "Open GENTEMSTICK demo shop (cart & checkout)"
           : undefined
       }

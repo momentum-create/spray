@@ -16,6 +16,7 @@ import longSleeve from "@/content/inbound/catalogs/long-sleeve.json";
 import pants from "@/content/inbound/catalogs/pants.json";
 import parka from "@/content/inbound/catalogs/parka.json";
 import sale from "@/content/inbound/catalogs/sale.json";
+import snowboard from "@/content/inbound/catalogs/snowboard.json";
 import skateboard from "@/content/inbound/catalogs/skateboard.json";
 import skateboardParts from "@/content/inbound/catalogs/skateboard-parts.json";
 import sprayOriginal from "@/content/inbound/catalogs/spray-original.json";
@@ -80,4 +81,5 @@ export const catalogJsonBySlug: Record<string, CatalogFile> = {
   accessories: accessories as CatalogFile,
   kids: kids as CatalogFile,
   sale: sale as CatalogFile,
+  snowboard: snowboard as CatalogFile,
 };

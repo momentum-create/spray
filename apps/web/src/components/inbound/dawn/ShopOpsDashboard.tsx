@@ -127,10 +127,6 @@ export function ShopOpsDashboard({
           </li>
           <li>ビルド後、下表にカテゴリが表示されることを確認</li>
         </ol>
-        <p className="mt-3 text-sm text-black/60">
-          スノーボード（<code className="text-xs">I61077</code>
-          ）だけは <code className="text-xs">snowboard-catalog.en.ts</code> で手入れしています。
-        </p>
       </section>
 
       <section className="mt-12">
