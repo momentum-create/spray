@@ -217,7 +217,12 @@ async function buildCatalog(def, { withImages, imagesOnly }) {
   const { brands, products } = parseCategoryHtml(html, def.slug, def.makeshopCode);
   console.log(`  pages: ${pages}, brands: ${brands.length}, products: ${products.length}`);
 
-  const images = {};
+  const existingImages =
+    !withImages && !imagesOnly && fs.existsSync(outPath)
+      ? (JSON.parse(fs.readFileSync(outPath, "utf8")).images ?? {})
+      : {};
+
+  const images = { ...existingImages };
   if (withImages && products.length > 0 && !def.skipImages) {
     await fetchImagesForProducts(products, def.makeshopCode, images);
   }

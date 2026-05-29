@@ -49,6 +49,7 @@ export function ShopOpsDashboard({
           <p className="mt-3 max-w-2xl text-sm text-black/65">
             公式オンラインストア（spray166.shop）の内容を英語ショップに反映するための手順と状態です。
             商品の追加・価格変更後は、下記コマンドで JSON を再取得し、ビルド・デプロイしてください。
+            GitHub Actions により毎日 03:00（JST）に一覧同期、日曜 02:00（JST）に画像の追補が自動実行されます。
           </p>
         </div>
         {protectionEnabled ? (

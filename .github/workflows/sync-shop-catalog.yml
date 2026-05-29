@@ -1,0 +1,74 @@
+# spray166.shop -> English shop catalog JSON (daily) + image backfill (weekly)
+name: Sync shop catalog
+
+on:
+  schedule:
+    # 03:00 JST — product list & prices (quick sync)
+    - cron: "0 18 * * *"
+    # 02:00 JST Sunday — fetch images for new products only
+    - cron: "0 17 * * 6"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Sync mode
+        required: true
+        default: quick
+        type: choice
+        options:
+          - quick
+          - full
+          - images-only
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.repository == 'momentum-create/spray'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: apps/web/package-lock.json
+
+      - name: Resolve sync mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "value=${{ github.event.inputs.mode }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "0 17 * * 6" ]; then
+            echo "value=images-only" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=quick" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch catalog from spray166.shop
+        working-directory: apps/web
+        run: |
+          case "${{ steps.mode.outputs.value }}" in
+            full)
+              npm run fetch-catalogs
+              ;;
+            images-only)
+              node scripts/fetch-category-catalog.mjs --all --images-only
+              ;;
+            *)
+              npm run fetch-catalogs:quick
+              ;;
+          esac
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add apps/web/src/content/inbound/catalogs/
+          if git diff --staged --quiet; then
+            echo "No catalog changes."
+            exit 0
+          fi
+          git commit -m "chore(shop): sync catalog from spray166.shop [automated]"
+          git push
