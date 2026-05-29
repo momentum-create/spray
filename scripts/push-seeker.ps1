@@ -27,6 +27,21 @@ if (-not $token -and (Test-Path (Join-Path $root ".env.local"))) {
   }
 }
 
+$deployKey = Join-Path $root ".seeker-keys\seeker_deploy"
+if (Test-Path $deployKey) {
+  Write-DebugLog "H-deploy-key" "push_via_ssh" @{ keyFile = ".seeker-keys/seeker_deploy" }
+  $env:GIT_SSH_COMMAND = "ssh -i `"$deployKey`" -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
+  git push git@github.com:Seeker-x1/spray.git main
+  $code = $LASTEXITCODE
+  Write-DebugLog "H-deploy-key" "push_done" @{ exitCode = $code; method = "ssh" }
+  if ($code -eq 0) {
+    Write-Host "OK: Seeker-x1/spray updated via Deploy Key (Vercel will deploy)."
+    exit 0
+  }
+  Write-Host "SSH push failed. Register the public key on Seeker-x1/spray Deploy keys, or use PAT in .env.local"
+  exit $code
+}
+
 if (-not $token -or $token -eq "YOUR_TOKEN") {
   Write-Host ""
   Write-Host "SEEKER_PUSH_TOKEN が未設定です。"
