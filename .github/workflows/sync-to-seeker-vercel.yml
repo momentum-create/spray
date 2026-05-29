@@ -22,91 +22,72 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Diagnose secrets (no values logged)
+      - name: Mirror to Seeker-x1/spray
         env:
           SEEKER_DEPLOY_KEY: ${{ secrets.SEEKER_DEPLOY_KEY }}
           SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
+          SEEKER_GIT_NAME: ${{ secrets.SEEKER_GIT_NAME }}
+          SEEKER_GIT_EMAIL: ${{ secrets.SEEKER_GIT_EMAIL }}
         run: |
           set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           deploy_len=0
           pat_len=0
           [ -n "$SEEKER_DEPLOY_KEY" ] && deploy_len=$(printf '%s' "$SEEKER_DEPLOY_KEY" | wc -c)
           [ -n "$SEEKER_PUSH_TOKEN" ] && pat_len=$(printf '%s' "$SEEKER_PUSH_TOKEN" | wc -c)
           echo "SEEKER_DEPLOY_KEY length: ${deploy_len} bytes"
           echo "SEEKER_PUSH_TOKEN length: ${pat_len} bytes"
-          if [ "$deploy_len" -lt 200 ] && [ "$pat_len" -lt 20 ]; then
-            echo "::error::Set SEEKER_DEPLOY_KEY (private key file) on momentum-create/spray Actions secrets."
-            exit 1
-          fi
 
-      - name: Setup SSH (Deploy Key)
-        id: ssh
-        if: ${{ secrets.SEEKER_DEPLOY_KEY != '' }}
-        uses: webfactory/ssh-agent@v0.9.0
-        with:
-          ssh-private-key: ${{ secrets.SEEKER_DEPLOY_KEY }}
-
-      - name: Push to Seeker-x1/spray (SSH)
-        if: ${{ secrets.SEEKER_DEPLOY_KEY != '' }}
-        run: |
-          set -e
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote add seeker "git@github.com:Seeker-x1/spray.git"
-          echo "=== git ls-remote ==="
-          git ls-remote seeker HEAD
-          echo "=== git push ==="
-          if git push seeker HEAD:main; then
-            echo "Push OK"
-          else
-            git push seeker HEAD:main --force
-            echo "Push OK (force)"
-          fi
-
-      - name: Push to Seeker-x1/spray (PAT fallback)
-        if: ${{ secrets.SEEKER_DEPLOY_KEY == '' }}
-        env:
-          SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
-        run: |
-          set -e
-          if [ -z "$SEEKER_PUSH_TOKEN" ]; then
-            echo "::error::SEEKER_DEPLOY_KEY or SEEKER_PUSH_TOKEN required."
-            exit 1
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          HTTP_CODE=$(curl -s -o /tmp/seeker-api.json -w "%{http_code}" \
-            -H "Authorization: Bearer ${SEEKER_PUSH_TOKEN}" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/Seeker-x1/spray")
-          if [ "$HTTP_CODE" != "200" ]; then
-            echo "::error::PAT cannot access Seeker-x1/spray (HTTP ${HTTP_CODE}). Use SEEKER_DEPLOY_KEY instead."
-            exit 1
-          fi
-          git remote add seeker "https://github.com/Seeker-x1/spray.git"
-          AUTH_HEADER="AUTHORIZATION: bearer ${SEEKER_PUSH_TOKEN}"
-          GIT_AUTH=(-c "http.https://github.com/.extraheader=${AUTH_HEADER}")
-          git "${GIT_AUTH[@]}" ls-remote seeker HEAD
-          git "${GIT_AUTH[@]}" push seeker HEAD:main || git "${GIT_AUTH[@]}" push seeker HEAD:main --force
-
-      - name: Vercel trigger commit (optional)
-        if: ${{ secrets.SEEKER_GIT_EMAIL != '' }}
-        env:
-          SEEKER_DEPLOY_KEY: ${{ secrets.SEEKER_DEPLOY_KEY }}
-          SEEKER_PUSH_TOKEN: ${{ secrets.SEEKER_PUSH_TOKEN }}
-        run: |
-          set -e
-          SEEKER_NAME="${{ secrets.SEEKER_GIT_NAME }}"
-          SEEKER_EMAIL="${{ secrets.SEEKER_GIT_EMAIL }}"
-          SEEKER_NAME="${SEEKER_NAME:-Seeker-x1}"
-          git config user.name "$SEEKER_NAME"
-          git config user.email "$SEEKER_EMAIL"
-          git commit --allow-empty -m "chore: trigger Vercel deploy [automated]"
-          if [ -n "$SEEKER_DEPLOY_KEY" ]; then
-            git remote add seeker "git@github.com:Seeker-x1/spray.git" 2>/dev/null || true
-            git push seeker HEAD:main
-          else
+          if [ "$deploy_len" -ge 200 ]; then
+            echo "=== Auth: Deploy Key (SSH) ==="
+            mkdir -p ~/.ssh
+            printf '%s\n' "$SEEKER_DEPLOY_KEY" | sed 's/\r$//' > ~/.ssh/seeker_deploy
+            chmod 600 ~/.ssh/seeker_deploy
+            if ! ssh-keygen -y -f ~/.ssh/seeker_deploy >/dev/null 2>&1; then
+              echo "::error::Invalid SEEKER_DEPLOY_KEY. Paste full private key including BEGIN/END lines."
+              exit 1
+            fi
+            eval "$(ssh-agent -s)"
+            ssh-add ~/.ssh/seeker_deploy
+            ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null || true
+            git remote add seeker "git@github.com:Seeker-x1/spray.git"
+            git ls-remote seeker HEAD
+            if git push seeker HEAD:main; then
+              echo "Push OK"
+            else
+              git push seeker HEAD:main --force
+              echo "Push OK (force)"
+            fi
+          elif [ "$pat_len" -ge 20 ]; then
+            echo "=== Auth: PAT (HTTPS) ==="
+            HTTP_CODE=$(curl -s -o /tmp/seeker-api.json -w "%{http_code}" \
+              -H "Authorization: Bearer ${SEEKER_PUSH_TOKEN}" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/Seeker-x1/spray")
+            if [ "$HTTP_CODE" != "200" ]; then
+              echo "::error::PAT cannot access Seeker-x1/spray (HTTP ${HTTP_CODE})."
+              exit 1
+            fi
+            git remote add seeker "https://github.com/Seeker-x1/spray.git"
             AUTH_HEADER="AUTHORIZATION: bearer ${SEEKER_PUSH_TOKEN}"
-            git -c "http.https://github.com/.extraheader=${AUTH_HEADER}" \
-              push https://github.com/Seeker-x1/spray.git HEAD:main
+            GIT_AUTH=(-c "http.https://github.com/.extraheader=${AUTH_HEADER}")
+            git "${GIT_AUTH[@]}" ls-remote seeker HEAD
+            git "${GIT_AUTH[@]}" push seeker HEAD:main || git "${GIT_AUTH[@]}" push seeker HEAD:main --force
+          else
+            echo "::error::Set SEEKER_DEPLOY_KEY (full private key) on momentum-create/spray Actions secrets."
+            exit 1
+          fi
+
+          if [ -n "$SEEKER_GIT_EMAIL" ]; then
+            echo "=== Optional Vercel trigger commit ==="
+            SEEKER_NAME="${SEEKER_NAME:-Seeker-x1}"
+            git -c user.name="$SEEKER_NAME" -c user.email="$SEEKER_GIT_EMAIL" \
+              commit --allow-empty -m "chore: trigger Vercel deploy [automated]"
+            if [ "$deploy_len" -ge 200 ]; then
+              git push seeker HEAD:main
+            else
+              git "${GIT_AUTH[@]}" push seeker HEAD:main
+            fi
           fi
