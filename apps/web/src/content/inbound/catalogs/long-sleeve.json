@@ -5,10 +5,37 @@
     "title": "Long Sleeve",
     "titleJa": "長袖",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct303/",
-    "totalProducts": 14
+    "totalProducts": 17
   },
   "brands": [],
   "products": [
+    {
+      "slug": "long-sleeve-000000003941",
+      "makeshopId": "000000003941",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【L/S Nuptse Shirt】 ロングスリーブヌプシシャツ 長袖 シャツ アウトドア NR12552",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003941/ct303/page1/order/",
+      "updatedAt": "2026-05-30T19:10:34.263Z"
+    },
+    {
+      "slug": "long-sleeve-000000003937",
+      "makeshopId": "000000003937",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Infinity Trail Hoodie】 インフィニティトレイルフーディ（ユニセックス） NP22370",
+      "priceJpy": 19360,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003937/ct303/page1/order/",
+      "updatedAt": "2026-05-30T19:10:34.263Z"
+    },
+    {
+      "slug": "long-sleeve-000000003935",
+      "makeshopId": "000000003935",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Expedition Dry Dot Zip High】 エクスペディションドライドットジップハイ（ユニセックス） NT12122",
+      "priceJpy": 11440,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003935/ct303/page1/order/",
+      "updatedAt": "2026-05-30T19:10:34.263Z"
+    },
     {
       "slug": "long-sleeve-000000003906",
       "makeshopId": "000000003906",
@@ -275,5 +302,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:40.446Z"
+  "syncedAt": "2026-05-30T19:10:34.263Z"
 }

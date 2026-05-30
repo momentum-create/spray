@@ -5,10 +5,19 @@
     "title": "Layering & Inner",
     "titleJa": "レイヤリング・インナー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct302/",
-    "totalProducts": 31
+    "totalProducts": 32
   },
   "brands": [],
   "products": [
+    {
+      "slug": "layering-000000003935",
+      "makeshopId": "000000003935",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Expedition Dry Dot Zip High】 エクスペディションドライドットジップハイ（ユニセックス） NT12122",
+      "priceJpy": 11440,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003935/ct302/page1/order/",
+      "updatedAt": "2026-05-30T19:10:33.450Z"
+    },
     {
       "slug": "layering-000000003898",
       "makeshopId": "000000003898",
@@ -598,5 +607,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:39.050Z"
+  "syncedAt": "2026-05-30T19:10:33.450Z"
 }

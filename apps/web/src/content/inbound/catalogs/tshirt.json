@@ -10,6 +10,33 @@
   "brands": [],
   "products": [
     {
+      "slug": "tshirt-000000003421",
+      "makeshopId": "000000003421",
+      "brandSlug": "millet",
+      "name": "【MILLET】 ミレー 【SYMBOLIC TS SS】 シンボリック ショートスリーブTシャツ MIV02184 Tシャツ",
+      "priceJpy": 4950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003421/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000001920",
+      "makeshopId": "000000001920",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001920/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
+      "slug": "tshirt-000000002542",
+      "makeshopId": "000000002542",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo DryMesh Tee",
+      "priceJpy": 4950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002542/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
       "slug": "tshirt-000000003933",
       "makeshopId": "000000003933",
       "brandSlug": "poler",
@@ -118,30 +145,12 @@
       "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
-      "slug": "tshirt-000000002542",
-      "makeshopId": "000000002542",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo DryMesh Tee",
-      "priceJpy": 4950,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002542/I61116/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.207Z"
-    },
-    {
       "slug": "tshirt-000000001930",
       "makeshopId": "000000001930",
       "brandSlug": "other",
       "name": "SPRAY Original AINU Logo Tee 2",
       "priceJpy": 4620,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000001930/I61116/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.207Z"
-    },
-    {
-      "slug": "tshirt-000000001920",
-      "makeshopId": "000000001920",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee",
-      "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001920/I61116/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
@@ -313,15 +322,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Toddler S/S Shiretoto Toko Tee】 トドラーショートスリーブシレトコトコティー（キッズ） Tシャツ 半袖 キッズ NTT32642ST",
       "priceJpy": 4400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003397/I61116/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.207Z"
-    },
-    {
-      "slug": "tshirt-000000003421",
-      "makeshopId": "000000003421",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【SYMBOLIC TS SS】 シンボリック ショートスリーブTシャツ MIV02184 Tシャツ",
-      "priceJpy": 4950,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003421/I61116/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
@@ -697,5 +697,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:40.445Z"
+  "syncedAt": "2026-05-30T19:10:33.865Z"
 }

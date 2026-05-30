@@ -5,10 +5,19 @@
     "title": "Pants",
     "titleJa": "パンツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61132/",
-    "totalProducts": 16
+    "totalProducts": 17
   },
   "brands": [],
   "products": [
+    {
+      "slug": "pants-000000003936",
+      "makeshopId": "000000003936",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Versatile Short】 バーサタイルショーツ（レディース） NBW42335 レディース 女性用 アウトドア 登山",
+      "priceJpy": 5544,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003936/I61132/page1/order/",
+      "updatedAt": "2026-05-30T19:10:35.990Z"
+    },
     {
       "slug": "pants-000000003321",
       "makeshopId": "000000003321",
@@ -313,5 +322,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:40.449Z"
+  "syncedAt": "2026-05-30T19:10:35.990Z"
 }

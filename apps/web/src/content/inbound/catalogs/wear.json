@@ -53,6 +53,24 @@
   ],
   "products": [
     {
+      "slug": "wear-000000003135",
+      "makeshopId": "000000003135",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】パタゴニア【Men's SnowDrifter Jacket】メンズ スノードリフター ジャケット 25/26 ウェア 30066 スノーボード バックカントリー",
+      "priceJpy": 63800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003135/ct298/page1/order/",
+      "updatedAt": "2026-05-29T06:08:23.356Z"
+    },
+    {
+      "slug": "wear-000000003173",
+      "makeshopId": "000000003173",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】パタゴニア 【Men's SnowDrifter Bibs】メンズ スノードリフター ビブ（レギュラー） 25/26 ウェア 30076 スノーボード バックカントリー パンツ",
+      "priceJpy": 56100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003173/ct298/page1/order/",
+      "updatedAt": "2026-05-29T06:08:23.356Z"
+    },
+    {
       "slug": "wear-000000003006",
       "makeshopId": "000000003006",
       "brandSlug": "h-i-d",
@@ -68,15 +86,6 @@
       "name": "【H.I.D】エイチアイディ 【Zero Fighter Jacket】ゼロファイタージャケット ユニセックス/スノーボードウェア/ジャケット/バックカントリー",
       "priceJpy": 85800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003008/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000003135",
-      "makeshopId": "000000003135",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】パタゴニア【Men's SnowDrifter Jacket】メンズ スノードリフター ジャケット 25/26 ウェア 30066 スノーボード バックカントリー",
-      "priceJpy": 63800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003135/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -131,15 +140,6 @@
       "name": "【patagonia】パタゴニア 【Women's PowderTown Bibs】ウィメンズ パウダータウン ビブ 25/26 ウェア 31651 スノーボード バックカントリー",
       "priceJpy": 42900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003172/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000003173",
-      "makeshopId": "000000003173",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】パタゴニア 【Men's SnowDrifter Bibs】メンズ スノードリフター ビブ（レギュラー） 25/26 ウェア 30076 スノーボード バックカントリー パンツ",
-      "priceJpy": 56100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003173/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -831,5 +831,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:39.045Z"
+  "syncedAt": "2026-05-30T19:10:28.613Z"
 }

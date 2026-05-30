@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 14
+    "totalProducts": 13
   },
   "brands": [
     {
@@ -36,7 +36,7 @@
       "slug": "revolt",
       "name": "REVOLT",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct353/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "dice",
@@ -80,15 +80,6 @@
       "name": "【REVOLT】リボルト 【Super Light Frame】スーパーライトフレーム Black Gross Matte ブラック グロス マット R26BLK 調光レンズ goggles ゴーグル",
       "priceJpy": 23760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003092/ct327/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.557Z"
-    },
-    {
-      "slug": "goggles-000000003483",
-      "makeshopId": "000000003483",
-      "brandSlug": "revolt",
-      "name": "【REVOLT】 リボルト 【Super Light Frame】 スーパーライトフレーム Matte 山吹 Wood マット ヤマブキ ウッド R26YAM 調光レンズ goggles ゴーグル",
-      "priceJpy": 23760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003483/ct327/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.557Z"
     },
     {
@@ -315,5 +306,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:39.046Z"
+  "syncedAt": "2026-05-30T19:10:29.313Z"
 }

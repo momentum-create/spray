@@ -5,10 +5,55 @@
     "title": "Bags",
     "titleJa": "バッグ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61075/",
-    "totalProducts": 30
+    "totalProducts": 32
   },
   "brands": [],
   "products": [
+    {
+      "slug": "bag-000000003410",
+      "makeshopId": "000000003410",
+      "brandSlug": "millet",
+      "name": "【MILLET】 ミレー 【VARIETE POUCH】 ヴァリエ ポーチ MIS0592",
+      "priceJpy": 3740,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003410/I61075/page1/order/",
+      "updatedAt": "2026-05-29T06:08:27.717Z"
+    },
+    {
+      "slug": "bag-000000003712",
+      "makeshopId": "000000003712",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【BC Duffel XXS】 BCダッフルXXS NN32102 ポーチ",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003712/I61075/page1/order/",
+      "updatedAt": "2026-05-29T06:08:27.717Z"
+    },
+    {
+      "slug": "bag-000000003530",
+      "makeshopId": "000000003530",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】 パタゴニア 【Atom Sling 8L】 アトム・スリング 8L 48262 バッグ ショルダー",
+      "priceJpy": 9350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003530/I61075/page1/order/",
+      "updatedAt": "2026-05-29T06:08:27.717Z"
+    },
+    {
+      "slug": "bag-000000003939",
+      "makeshopId": "000000003939",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ノースフェイス 【Base Camp Voyager Lite 42L】 ベースキャンプボイジャーライト42L ダッフルバッグ リュック アウトドア 旅行 NM82379",
+      "priceJpy": 20240,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003939/I61075/page1/order/",
+      "updatedAt": "2026-05-30T19:10:37.915Z"
+    },
+    {
+      "slug": "bag-000000003940",
+      "makeshopId": "000000003940",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ノースフェイス 【Base Camp Voyager Lite 62L】 ベースキャンプボイジャーライト62L ダッフルバッグ リュック アウトドア 旅行 NM82378",
+      "priceJpy": 22264,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003940/I61075/page1/order/",
+      "updatedAt": "2026-05-30T19:10:37.915Z"
+    },
     {
       "slug": "bag-000000003588",
       "makeshopId": "000000003588",
@@ -97,15 +142,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Factor 3】 ファクター 3 ショルダーバッグ ポーチ NM82520",
       "priceJpy": 7150,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003391/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000003410",
-      "makeshopId": "000000003410",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【VARIETE POUCH】 ヴァリエ ポーチ MIS0592",
-      "priceJpy": 3740,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003410/I61075/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
@@ -217,15 +253,6 @@
       "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
-      "slug": "bag-000000003712",
-      "makeshopId": "000000003712",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【BC Duffel XXS】 BCダッフルXXS NN32102 ポーチ",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003712/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
       "slug": "bag-000000001897",
       "makeshopId": "000000001897",
       "brandSlug": "other",
@@ -259,15 +286,6 @@
       "name": "ナンガ NANGA ヒノックサコッシュ 【HINOC SACOCHE】 NA2441-3A100-A / ショルダーバッグ",
       "priceJpy": 11000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002559/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000003530",
-      "makeshopId": "000000003530",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【Atom Sling 8L】 アトム・スリング 8L 48262 バッグ ショルダー",
-      "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003530/I61075/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
@@ -582,5 +600,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:40.451Z"
+  "syncedAt": "2026-05-30T19:10:37.915Z"
 }

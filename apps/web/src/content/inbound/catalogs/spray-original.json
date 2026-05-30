@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "spray-original-000000001920",
+      "makeshopId": "000000001920",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001920/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002542",
+      "makeshopId": "000000002542",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo DryMesh Tee",
+      "priceJpy": 4950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002542/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
       "slug": "spray-original-000000001976",
       "makeshopId": "000000001976",
       "brandSlug": "other",
@@ -91,15 +109,6 @@
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
-      "slug": "spray-original-000000002542",
-      "makeshopId": "000000002542",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo DryMesh Tee",
-      "priceJpy": 4950,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002542/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
       "slug": "spray-original-000000001930",
       "makeshopId": "000000001930",
       "brandSlug": "other",
@@ -124,15 +133,6 @@
       "name": "SPRAY Original MIZU V7 Bottle AINU Logo",
       "priceJpy": 5500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002018/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000001920",
-      "makeshopId": "000000001920",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee",
-      "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001920/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
@@ -960,5 +960,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:39.039Z"
+  "syncedAt": "2026-05-30T19:10:24.738Z"
 }

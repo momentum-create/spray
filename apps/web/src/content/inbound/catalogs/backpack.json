@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "backpack-000000003530",
+      "makeshopId": "000000003530",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】 パタゴニア 【Atom Sling 8L】 アトム・スリング 8L 48262 バッグ ショルダー",
+      "priceJpy": 9350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003530/ct300/page1/order/",
+      "updatedAt": "2026-05-29T06:08:24.220Z"
+    },
+    {
       "slug": "backpack-000000003024",
       "makeshopId": "000000003024",
       "brandSlug": "millet",
@@ -142,15 +151,6 @@
       "name": "【MILLET】 ミレー 【CHAMONIX 25+5】 シャモニー 25+5 デイパック バックパック MIS2483",
       "priceJpy": 28600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003431/ct300/page1/order/",
-      "updatedAt": "2026-05-29T06:08:24.220Z"
-    },
-    {
-      "slug": "backpack-000000003530",
-      "makeshopId": "000000003530",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【Atom Sling 8L】 アトム・スリング 8L 48262 バッグ ショルダー",
-      "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003530/ct300/page1/order/",
       "updatedAt": "2026-05-29T06:08:24.220Z"
     }
   ],
@@ -316,5 +316,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:39.047Z"
+  "syncedAt": "2026-05-30T19:10:30.508Z"
 }

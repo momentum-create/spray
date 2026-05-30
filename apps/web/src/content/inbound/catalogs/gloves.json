@@ -53,6 +53,15 @@
   ],
   "products": [
     {
+      "slug": "gloves-000000003385",
+      "makeshopId": "000000003385",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Etip Glove】 NN62527 イーチップグローブ（ユニセックス） インナーグローブ / 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 5280,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003385/ct299/page1/order/",
+      "updatedAt": "2026-05-29T06:08:23.920Z"
+    },
+    {
       "slug": "gloves-000000002892",
       "makeshopId": "000000002892",
       "brandSlug": "ebs",
@@ -203,15 +212,6 @@
       "name": "【eb's】 エビス 【POLARTEC DRY INNER】 ポーラテック ドライ インナー GLOVES グローブ 2025/2026 スノーボード",
       "priceJpy": 2640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003384/ct299/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.920Z"
-    },
-    {
-      "slug": "gloves-000000003385",
-      "makeshopId": "000000003385",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Etip Glove】 NN62527 イーチップグローブ（ユニセックス） インナーグローブ / 登山 / バックカントリー / スキー / スノーボード",
-      "priceJpy": 5280,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003385/ct299/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.920Z"
     },
     {
@@ -697,5 +697,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T17:59:39.047Z"
+  "syncedAt": "2026-05-30T19:10:30.106Z"
 }
