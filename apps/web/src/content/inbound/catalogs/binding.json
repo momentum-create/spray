@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 87
+    "totalProducts": 89
   },
   "brands": [
     {
@@ -42,7 +42,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
-      "productCount": 2
+      "productCount": 4
     },
     {
       "slug": "rome",
@@ -84,7 +84,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
-      "productCount": 2
+      "productCount": 4
     },
     {
       "slug": "rome",
@@ -94,6 +94,33 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000002282",
+      "makeshopId": "000000002282",
+      "brandSlug": "flux",
+      "name": "【FLUX】 フラックス 【PR】 ピ－アール 23-24 MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 19250,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002282/ct296/page1/order/",
+      "updatedAt": "2026-05-31T19:13:50.678Z"
+    },
+    {
+      "slug": "binding-000000003949",
+      "makeshopId": "000000003949",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
+      "priceJpy": 17710,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/ct296/page1/order/",
+      "updatedAt": "2026-05-31T19:13:50.678Z"
+    },
+    {
+      "slug": "binding-000000003947",
+      "makeshopId": "000000003947",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【DISTRICT】 ディストリクト 23-24 MODEL ユニセックス スノーボード ビンディング バインディング",
+      "priceJpy": 32340,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003947/ct296/page1/order/",
+      "updatedAt": "2026-05-31T19:13:50.678Z"
+    },
     {
       "slug": "binding-000000003014",
       "makeshopId": "000000003014",
@@ -560,15 +587,6 @@
       "name": "【KARAKORAM】 カラコラム 【AIRFORM ANKLE STRAP】 エアフォーム・アンクルストラップ バックカントリー スノーボード ソリッドボード スプリットボード",
       "priceJpy": 18480,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003080/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002282",
-      "makeshopId": "000000002282",
-      "brandSlug": "pr",
-      "name": "フラックス FLUX 【PR】 23-24 MODEL ビンディング バインディング スノーボード",
-      "priceJpy": 19250,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002282/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1661,5 +1679,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T19:10:27.090Z"
+  "syncedAt": "2026-05-31T19:13:50.678Z"
 }

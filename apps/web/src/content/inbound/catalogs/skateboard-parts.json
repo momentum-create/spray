@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003790",
+      "makeshopId": "000000003790",
+      "brandSlug": "bones",
+      "name": "【BONES】 ボーンズ 【HARDCORE BUSHING】 ブッシュ クッシュ スケートボード ブッシュゴム",
+      "priceJpy": 1760,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003790/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000003847",
       "makeshopId": "000000003847",
       "brandSlug": "paris",
@@ -439,15 +448,6 @@
       "name": "【SPITFIRE】 スピットファイア 【80HD CHARGERS CONICAL FULL 58mm】 ウィール スケートボード",
       "priceJpy": 8250,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003793/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003790",
-      "makeshopId": "000000003790",
-      "brandSlug": "bones",
-      "name": "【BONES】 ボーンズ 【HARDCORE BUSHING】 ブッシュ クッシュ スケートボード ブッシュゴム",
-      "priceJpy": 1760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003790/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1225,5 +1225,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T19:10:45.356Z"
+  "syncedAt": "2026-05-31T19:14:10.926Z"
 }

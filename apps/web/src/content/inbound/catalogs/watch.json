@@ -5,7 +5,7 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 218
+    "totalProducts": 217
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 27
+      "productCount": 26
     },
     {
       "slug": "pro-trek",
@@ -48,7 +48,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 27
+      "productCount": 26
     },
     {
       "slug": "pro-trek",
@@ -78,7 +78,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 27
+      "productCount": 26
     },
     {
       "slug": "pro-trek",
@@ -108,7 +108,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 27
+      "productCount": 26
     },
     {
       "slug": "pro-trek",
@@ -138,7 +138,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 27
+      "productCount": 26
     },
     {
       "slug": "pro-trek",
@@ -1427,15 +1427,6 @@
       "name": "【BABY-G】 ベビーG BGR-3003SP-7JR 【スプリングパッケージ】 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
       "priceJpy": 19800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003662/I61066/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.635Z"
-    },
-    {
-      "slug": "watch-000000003663",
-      "makeshopId": "000000003663",
-      "brandSlug": "baby-g",
-      "name": "【BABY-G】 ベビーG BA-110YK-3AJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
-      "priceJpy": 14850,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003663/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
     },
     {
@@ -4193,5 +4184,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T19:10:41.689Z"
+  "syncedAt": "2026-05-31T19:14:06.346Z"
 }

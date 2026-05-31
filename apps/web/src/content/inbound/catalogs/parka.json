@@ -5,10 +5,19 @@
     "title": "Parkas",
     "titleJa": "パーカー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct304/",
-    "totalProducts": 11
+    "totalProducts": 12
   },
   "brands": [],
   "products": [
+    {
+      "slug": "parka-000000003938",
+      "makeshopId": "000000003938",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Enride Waffle Hoodie】 エンライドワッフルフーディー パーカー 自転車 アウトドア NT12460",
+      "priceJpy": 14080,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003938/ct304/page1/order/",
+      "updatedAt": "2026-05-31T19:13:58.514Z"
+    },
     {
       "slug": "parka-000000003944",
       "makeshopId": "000000003944",
@@ -201,5 +210,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-30T19:10:34.986Z"
+  "syncedAt": "2026-05-31T19:13:58.514Z"
 }
