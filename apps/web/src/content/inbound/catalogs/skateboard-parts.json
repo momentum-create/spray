@@ -10,6 +10,33 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003826",
+      "makeshopId": "000000003826",
+      "brandSlug": "w-p-s-i",
+      "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 100mm 】 スケートボード クルーザートラック",
+      "priceJpy": 8360,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003826/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003799",
+      "makeshopId": "000000003799",
+      "brandSlug": "loaded",
+      "name": "【LOADED】 ローデッド 【JEHU(Jehunion) V2 BEARINGS】 ジェフニオン・ベアリング スケートボード ベアリング ロンスケ",
+      "priceJpy": 4180,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003799/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003749",
+      "makeshopId": "000000003749",
+      "brandSlug": "jacuzzi-unlimited",
+      "name": "【JACUZZI UNLIMITED】 ジャグジー 【Jacuzzi Rails】 ジャグジーレール レールバー スケートボード",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003749/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000003790",
       "makeshopId": "000000003790",
       "brandSlug": "bones",
@@ -55,15 +82,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003826",
-      "makeshopId": "000000003826",
-      "brandSlug": "w-p-s-i",
-      "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 100mm 】 スケートボード クルーザートラック",
-      "priceJpy": 8360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003826/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003750",
       "makeshopId": "000000003750",
       "brandSlug": "jacuzzi-unlimited",
@@ -106,15 +124,6 @@
       "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicarip 78A 60mm】 ミニビカリップ 78A 60mm スケートボード ウィール ロンスケ",
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003893/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003891",
-      "makeshopId": "000000003891",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Bicarip 78A 65mm】 ビカリップ 78A 65mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003891/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -424,15 +433,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003799",
-      "makeshopId": "000000003799",
-      "brandSlug": "loaded",
-      "name": "【LOADED】 ローデッド 【JEHU(Jehunion) V2 BEARINGS】 ジェフニオン・ベアリング スケートボード ベアリング ロンスケ",
-      "priceJpy": 4180,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003799/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003798",
       "makeshopId": "000000003798",
       "brandSlug": "heaven-skateboard",
@@ -532,15 +532,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003749",
-      "makeshopId": "000000003749",
-      "brandSlug": "jacuzzi-unlimited",
-      "name": "【JACUZZI UNLIMITED】 ジャグジー 【Jacuzzi Rails】 ジャグジーレール レールバー スケートボード",
-      "priceJpy": 1870,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003749/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003748",
       "makeshopId": "000000003748",
       "brandSlug": "spitfire",
@@ -619,6 +610,15 @@
       "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【YOW URA 66×51mm Mustard 80A Wheels Pack 】 ウィール スケートボード",
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003699/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003891",
+      "makeshopId": "000000003891",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Bicarip 78A 65mm】 ビカリップ 78A 65mm スケートボード ウィール ロンスケ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003891/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1225,5 +1225,5 @@
       ]
     }
   },
-  "syncedAt": "2026-05-31T19:14:10.926Z"
+  "syncedAt": "2026-06-01T21:30:57.392Z"
 }
