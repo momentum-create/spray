@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "bag-000000003588",
+      "makeshopId": "000000003588",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【BC Fuse Box Eco Tote】 BCヒューズボックスエコトート NN32328",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003588/I61075/page1/order/",
+      "updatedAt": "2026-05-29T06:08:27.717Z"
+    },
+    {
       "slug": "bag-000000003410",
       "makeshopId": "000000003410",
       "brandSlug": "millet",
@@ -53,15 +62,6 @@
       "priceJpy": 22264,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003940/I61075/page1/order/",
       "updatedAt": "2026-05-30T19:10:37.915Z"
-    },
-    {
-      "slug": "bag-000000003588",
-      "makeshopId": "000000003588",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【BC Fuse Box Eco Tote】 BCヒューズボックスエコトート NN32328",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003588/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
       "slug": "bag-000000003484",
@@ -600,5 +600,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-01T21:30:48.036Z"
+  "syncedAt": "2026-06-02T20:45:50.379Z"
 }

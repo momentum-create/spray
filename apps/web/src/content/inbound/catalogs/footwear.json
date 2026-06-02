@@ -29,15 +29,6 @@
   ],
   "products": [
     {
-      "slug": "footwear-000000003945",
-      "makeshopId": "000000003945",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Nuptse Bootie WP VII】 ヌプシ ブーティ ウォータープルーフ VII （ユニセックス） 男女兼用 メンズ レディース ブーツ 長靴 NF52272",
-      "priceJpy": 19976,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003945/I61086/page1/order/",
-      "updatedAt": "2026-05-30T19:10:36.891Z"
-    },
-    {
       "slug": "footwear-000000003458",
       "makeshopId": "000000003458",
       "brandSlug": "lakai",
@@ -45,6 +36,15 @@
       "priceJpy": 10000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003458/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
+    },
+    {
+      "slug": "footwear-000000003945",
+      "makeshopId": "000000003945",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Nuptse Bootie WP VII】 ヌプシ ブーティ ウォータープルーフ VII （ユニセックス） 男女兼用 メンズ レディース ブーツ 長靴 NF52272",
+      "priceJpy": 19976,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003945/I61086/page1/order/",
+      "updatedAt": "2026-05-30T19:10:36.891Z"
     },
     {
       "slug": "footwear-000000003467",
@@ -743,5 +743,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-01T21:30:47.496Z"
+  "syncedAt": "2026-06-02T20:45:49.828Z"
 }

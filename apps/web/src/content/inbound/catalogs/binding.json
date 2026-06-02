@@ -95,6 +95,33 @@
   ],
   "products": [
     {
+      "slug": "binding-000000002825",
+      "makeshopId": "000000002825",
+      "brandSlug": "flux",
+      "name": "【FLUX】 フラックス 【DS STEP ON】 25-26 MODEL ステップオン ビンディング バインディング スノーボード",
+      "priceJpy": 39600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002825/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000002925",
+      "makeshopId": "000000002925",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Pillow Line Toe Straps】 ピローライン トゥストラップ バインディング スノーボード スプリットボード",
+      "priceJpy": 8250,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002925/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000002990",
+      "makeshopId": "000000002990",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ARC Pillow Line Ankle Straps】 アーク ピローライン アンクルストラップ バインディング スノーボード スプリットボード",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002990/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
       "slug": "binding-000000002282",
       "makeshopId": "000000002282",
       "brandSlug": "flux",
@@ -218,15 +245,6 @@
       "name": "【BURTON】 バートン 【Smalls Re:Flex】 スモールズ Re:Flex 24-25 キッズ 子供用 BINDING ビンディング SNOWBOARD スノーボード",
       "priceJpy": 19300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002765/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002825",
-      "makeshopId": "000000002825",
-      "brandSlug": "flux",
-      "name": "【FLUX】 フラックス 【DS STEP ON】 25-26 MODEL ステップオン ビンディング バインディング スノーボード",
-      "priceJpy": 39600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002825/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -380,15 +398,6 @@
       "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット バインディング スノーボード スプリットボード",
       "priceJpy": 12375,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002925",
-      "makeshopId": "000000002925",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Pillow Line Toe Straps】 ピローライン トゥストラップ バインディング スノーボード スプリットボード",
-      "priceJpy": 8250,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002925/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -623,15 +632,6 @@
       "name": "【BURTON】 バートン 【Escapade Re:Flex】 エスカペイド Re:Flex Black 23-24 ウィメンズ 女性用 BINDING ビンディング SNOWBOARD スノーボード",
       "priceJpy": 46200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002733/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002990",
-      "makeshopId": "000000002990",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【ARC Pillow Line Ankle Straps】 アーク ピローライン アンクルストラップ バインディング スノーボード スプリットボード",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002990/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1679,5 +1679,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-01T21:30:39.202Z"
+  "syncedAt": "2026-06-02T20:45:39.054Z"
 }

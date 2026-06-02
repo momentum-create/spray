@@ -10,6 +10,33 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000002825",
+      "makeshopId": "000000002825",
+      "brandSlug": "flux",
+      "name": "【FLUX】 フラックス 【DS STEP ON】 25-26 MODEL ステップオン ビンディング バインディング スノーボード",
+      "priceJpy": 39600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002825/I61093/page1/order/",
+      "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
+    {
+      "slug": "sale-000000003458",
+      "makeshopId": "000000003458",
+      "brandSlug": "lakai",
+      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード BlackSuede ブラックスエード スニーカー スケートボード SK8 スケシュー スケボー",
+      "priceJpy": 10000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003458/I61093/page1/order/",
+      "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
+    {
+      "slug": "sale-000000003157",
+      "makeshopId": "000000003157",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【WAVERANGE X Step On】 ウェイブレンジ X Step On 25-26 メンズ 男性用 BOOTS ブーツ SNOWBOARD スノーボード ステップオン",
+      "priceJpy": 50050,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003157/I61093/page1/order/",
+      "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
+    {
       "slug": "sale-000000002282",
       "makeshopId": "000000002282",
       "brandSlug": "flux",
@@ -80,15 +107,6 @@
       "priceJpy": 7920,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003944/I61093/page1/order/",
       "updatedAt": "2026-05-30T19:10:51.996Z"
-    },
-    {
-      "slug": "sale-000000003458",
-      "makeshopId": "000000003458",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード BlackSuede ブラックスエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 10000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003458/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
       "slug": "sale-000000003941",
@@ -376,15 +394,6 @@
       "name": "【BURTON】 バートン 【Grom BOA】 グロム BOA 24-25 White キッズ 子供用 ブーツ SNOWBOARD スノーボード",
       "priceJpy": 18480,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002804/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000002825",
-      "makeshopId": "000000002825",
-      "brandSlug": "flux",
-      "name": "【FLUX】 フラックス 【DS STEP ON】 25-26 MODEL ステップオン ビンディング バインディング スノーボード",
-      "priceJpy": 39600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002825/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -1213,15 +1222,6 @@
       "name": "【VANS】 ヴァンズ バンズ 【Half Cab GORE-TEX】 ハーフキャブ GORE-TEX スニーカー 防水 冬靴",
       "priceJpy": 18920,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003097/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003157",
-      "makeshopId": "000000003157",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【WAVERANGE X Step On】 ウェイブレンジ X Step On 25-26 メンズ 男性用 BOOTS ブーツ SNOWBOARD スノーボード ステップオン",
-      "priceJpy": 50050,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003157/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -3727,5 +3727,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-01T21:31:03.841Z"
+  "syncedAt": "2026-06-02T20:46:06.009Z"
 }
