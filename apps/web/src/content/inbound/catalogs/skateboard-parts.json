@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003831",
+      "makeshopId": "000000003831",
+      "brandSlug": "cpsl-the-bearings",
+      "name": "【cpsl.×THE BEARINGS】 カプセル×ザ・ベアリングス 【SKATE SOCK】 スケートソック スケートボード SK8",
+      "priceJpy": 2860,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003831/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003832",
+      "makeshopId": "000000003832",
+      "brandSlug": "independent",
+      "name": "【INDEPENDENT】 インディペンデント 【139 FORGED HOLLOW SLAYER BLACK TRUCKS】 スケートボード トラック 139",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003832/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000003794",
       "makeshopId": "000000003794",
       "brandSlug": "zulu-wheels",
@@ -208,15 +226,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003831",
-      "makeshopId": "000000003831",
-      "brandSlug": "cpsl-the-bearings",
-      "name": "【cpsl.×THE BEARINGS】 カプセル×ザ・ベアリングス 【SKATE SOCK】 スケートソック スケートボード SK8",
-      "priceJpy": 2860,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003831/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003844",
       "makeshopId": "000000003844",
       "brandSlug": "venture",
@@ -295,15 +304,6 @@
       "name": "【INDEPENDENT】 インディペンデント 【129 STAGE 11 POLISHED STANDARD SILVER TRUCKS】 スケートボード トラック 129",
       "priceJpy": 8360,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003834/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003832",
-      "makeshopId": "000000003832",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【139 FORGED HOLLOW SLAYER BLACK TRUCKS】 スケートボード トラック 139",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003832/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1225,5 +1225,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-04T20:03:25.560Z"
+  "syncedAt": "2026-06-05T19:51:49.390Z"
 }
