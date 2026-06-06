@@ -32,6 +32,15 @@
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
+      "slug": "accessories-000000002879",
+      "makeshopId": "000000002879",
+      "brandSlug": "",
+      "name": "【送料無料】SPRAY Original 手ぬぐい AINU LOGO",
+      "priceJpy": 2970,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002879/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
       "brandSlug": "uchiko",
@@ -587,15 +596,6 @@
       "name": "oran'ge Protection Sheet 2 プロテクションシート2 スノーボード デッキ保護シール トップシート保護シール",
       "priceJpy": 1650,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000001881/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000002879",
-      "makeshopId": "000000002879",
-      "brandSlug": "",
-      "name": "【送料無料】SPRAY Original 手ぬぐい AINU LOGO",
-      "priceJpy": 2970,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002879/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -1610,5 +1610,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-06T18:02:29.861Z"
+  "syncedAt": "2026-06-06T19:19:14.864Z"
 }

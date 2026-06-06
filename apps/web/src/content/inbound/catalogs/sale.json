@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 203
+    "totalProducts": 202
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003428",
+      "makeshopId": "000000003428",
+      "brandSlug": "lakai",
+      "name": "【LAKAI】 ラカイ 【TRUDGER CHOCOLATE/GUM SUEDE】 スニーカー スケートボード SK8",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003428/I61093/page1/order/",
+      "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
     {
       "slug": "sale-000000003498",
       "makeshopId": "000000003498",
@@ -1225,15 +1234,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003097",
-      "makeshopId": "000000003097",
-      "brandSlug": "vans",
-      "name": "【VANS】 ヴァンズ バンズ 【Half Cab GORE-TEX】 ハーフキャブ GORE-TEX スニーカー 防水 冬靴",
-      "priceJpy": 18920,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003097/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003169",
       "makeshopId": "000000003169",
       "brandSlug": "burton",
@@ -1537,15 +1537,6 @@
       "name": "【LAKAI】 ラカイ 【TELFORD LOW NAVY/FLAME SUEDE】 スニーカー スケートボード SK8",
       "priceJpy": 10010,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003429/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003428",
-      "makeshopId": "000000003428",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TRUDGER CHOCOLATE/GUM SUEDE】 スニーカー スケートボード SK8",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003428/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -3864,5 +3855,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-06T18:02:40.183Z"
+  "syncedAt": "2026-06-06T19:19:19.359Z"
 }

@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "tshirt-000000003932",
+      "makeshopId": "000000003932",
+      "brandSlug": "poler",
+      "name": "【POLER】 ポーラー 【PRM CLOTH STITCH EMB TEE】 メンズ 半袖Tシャツ 261MCV0051",
+      "priceJpy": 7480,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003932/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
       "slug": "tshirt-000000002542",
       "makeshopId": "000000002542",
       "brandSlug": "other",
@@ -70,15 +79,6 @@
       "name": "SPRAY Original Kids AINU Logo Tee",
       "priceJpy": 3300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000001974/I61116/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.207Z"
-    },
-    {
-      "slug": "tshirt-000000003932",
-      "makeshopId": "000000003932",
-      "brandSlug": "poler",
-      "name": "【POLER】 ポーラー 【PRM CLOTH STITCH EMB TEE】 メンズ 半袖Tシャツ 261MCV0051",
-      "priceJpy": 7480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003932/I61116/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
@@ -697,5 +697,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-06T18:02:09.838Z"
+  "syncedAt": "2026-06-06T19:19:02.157Z"
 }

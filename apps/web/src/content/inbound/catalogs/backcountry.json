@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000002935",
+      "makeshopId": "000000002935",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット バインディング スノーボード スプリットボード",
+      "priceJpy": 12375,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
+    {
+      "slug": "backcountry-000000002727",
+      "makeshopId": "000000002727",
+      "brandSlug": "pomoca",
+      "name": "【POMOCA】ポモカ 【SplitBoard Explore】スプリットボード エクスプローラー 145mm シール／スキン バックカントリー スノーボード",
+      "priceJpy": 38060,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002727/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
+    {
       "slug": "backcountry-000000002995",
       "makeshopId": "000000002995",
       "brandSlug": "spark-r-d",
@@ -142,24 +160,6 @@
       "name": "スパーク SPARK R&D 【Arc ST】 Splitboard Bindings バインディング スノーボード スプリットボード",
       "priceJpy": 73700,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002278/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000002935",
-      "makeshopId": "000000002935",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット バインディング スノーボード スプリットボード",
-      "priceJpy": 12375,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000002727",
-      "makeshopId": "000000002727",
-      "brandSlug": "pomoca",
-      "name": "【POMOCA】ポモカ 【SplitBoard Explore】スプリットボード エクスプローラー 145mm シール／スキン バックカントリー スノーボード",
-      "priceJpy": 38060,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002727/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -1414,5 +1414,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-06T18:02:09.066Z"
+  "syncedAt": "2026-06-06T19:19:00.341Z"
 }
