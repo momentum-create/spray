@@ -95,6 +95,33 @@
   ],
   "products": [
     {
+      "slug": "binding-000000002923",
+      "makeshopId": "000000002923",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Arc ST】 アーク ST 25-26 Splitboard Bindings バインディング スノーボード スプリットボード",
+      "priceJpy": 81400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002923/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000002929",
+      "makeshopId": "000000002929",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ibex ST PRO CRAMPON】 アイベックス ST プロ クランポン バインディング スノーボード スプリットボード",
+      "priceJpy": 25850,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002929/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
       "slug": "binding-000000002050",
       "makeshopId": "000000002050",
       "brandSlug": "flux",
@@ -119,15 +146,6 @@
       "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット バインディング スノーボード スプリットボード",
       "priceJpy": 6325,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -191,15 +209,6 @@
       "name": "【BURTON】 バートン 【Step On Re:Flex】 ステップオン 25-26 メンズ 男性用 BINDING ビンディング SNOWBOARD スノーボード ステップオン",
       "priceJpy": 34300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003014/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002929",
-      "makeshopId": "000000002929",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【ibex ST PRO CRAMPON】 アイベックス ST プロ クランポン バインディング スノーボード スプリットボード",
-      "priceJpy": 25850,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002929/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -398,15 +407,6 @@
       "name": "karakoram用 トゥーストラップ固定ビス",
       "priceJpy": 1320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003679/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002923",
-      "makeshopId": "000000002923",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Arc ST】 アーク ST 25-26 Splitboard Bindings バインディング スノーボード スプリットボード",
-      "priceJpy": 81400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002923/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1699,5 +1699,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-06T19:18:55.666Z"
+  "syncedAt": "2026-06-07T19:19:16.769Z"
 }
