@@ -41,6 +41,15 @@
   ],
   "products": [
     {
+      "slug": "boots-000000003376",
+      "makeshopId": "000000003376",
+      "brandSlug": "burton",
+      "name": "【BURTON 】 バートン 【Smalls BOA】 スモールズ BOA Dusty Blue 25-26 キッズ 子供用 KIDS ブーツ SNOWBOARD スノーボード",
+      "priceJpy": 22000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003376/ct297/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.942Z"
+    },
+    {
       "slug": "boots-000000003157",
       "makeshopId": "000000003157",
       "brandSlug": "burton",
@@ -218,15 +227,6 @@
       "name": "【DEELUXE】ディーラックス 【CTF LINER】カスタム サーモフィット ライナー 2025-2026 スノーボード ブーツ インナー 熱成型 シーティーエフ",
       "priceJpy": 33000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003230/ct297/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.942Z"
-    },
-    {
-      "slug": "boots-000000003376",
-      "makeshopId": "000000003376",
-      "brandSlug": "burton",
-      "name": "【BURTON 】 バートン 【Smalls BOA】 スモールズ BOA Dusty Blue 25-26 キッズ 子供用 KIDS ブーツ SNOWBOARD スノーボード",
-      "priceJpy": 22000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003376/ct297/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.942Z"
     },
     {
@@ -911,5 +911,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-07T19:19:17.735Z"
+  "syncedAt": "2026-06-08T20:11:39.363Z"
 }

@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "tshirt-000000001930",
+      "makeshopId": "000000001930",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Tee 2",
+      "priceJpy": 4620,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001930/I61116/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.207Z"
+    },
+    {
       "slug": "tshirt-000000003932",
       "makeshopId": "000000003932",
       "brandSlug": "poler",
@@ -151,15 +160,6 @@
       "name": "【patagonia】 パタゴニア 【M's '73 Skyline Easy Cut Responsibili-Tee 】 メンズ・'73 スカイライン・Tシャツ 37841 Tシャツ 半袖",
       "priceJpy": 6930,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003528/I61116/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.207Z"
-    },
-    {
-      "slug": "tshirt-000000001930",
-      "makeshopId": "000000001930",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Tee 2",
-      "priceJpy": 4620,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001930/I61116/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
@@ -697,5 +697,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-07T19:19:24.086Z"
+  "syncedAt": "2026-06-08T20:11:45.389Z"
 }

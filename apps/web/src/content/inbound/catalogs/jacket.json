@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "jacket-000000002943",
+      "makeshopId": "000000002943",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Red Run Hoodie】 レッドランフーディ NY82576 / メンズ / 男性用 / ランニング / アウトドア",
+      "priceJpy": 30800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002943/ct308/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.893Z"
+    },
+    {
       "slug": "jacket-000000003938",
       "makeshopId": "000000003938",
       "brandSlug": "the-north-face",
@@ -142,15 +151,6 @@
       "name": "【THE NORTH FACE】 ザ・ノースフェイス 【Baltro Light Jacket】 バルトロライトジャケット ND92551 ブラック・K / ダウン / アウトドア / 登山",
       "priceJpy": 51100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002941/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
-    },
-    {
-      "slug": "jacket-000000002943",
-      "makeshopId": "000000002943",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Red Run Hoodie】 レッドランフーディ NY82576 / メンズ / 男性用 / ランニング / アウトドア",
-      "priceJpy": 30800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002943/ct308/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.893Z"
     },
     {
@@ -555,5 +555,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-07T19:19:25.613Z"
+  "syncedAt": "2026-06-08T20:11:47.643Z"
 }

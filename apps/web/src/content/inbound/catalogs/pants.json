@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "pants-000000003524",
+      "makeshopId": "000000003524",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】 パタゴニア 【M's Baggies Shorts - 5 in. 】 メンズ・バギーズ・ショーツ ５インチ 57022 ショートパンツ 短パン",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003524/I61132/page1/order/",
+      "updatedAt": "2026-05-29T06:08:27.093Z"
+    },
+    {
       "slug": "pants-000000003936",
       "makeshopId": "000000003936",
       "brandSlug": "the-north-face",
@@ -142,15 +151,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Toddler Adventure Short】 トドラーアドベンチャーショート NBT42633 / キッズ / 子供用 / アウトドア / 登山 / ショートパンツ",
       "priceJpy": 7480,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003393/I61132/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.093Z"
-    },
-    {
-      "slug": "pants-000000003524",
-      "makeshopId": "000000003524",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【M's Baggies Shorts - 5 in. 】 メンズ・バギーズ・ショーツ ５インチ 57022 ショートパンツ 短パン",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003524/I61132/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.093Z"
     },
     {
@@ -332,5 +332,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-07T19:19:26.023Z"
+  "syncedAt": "2026-06-08T20:11:47.991Z"
 }

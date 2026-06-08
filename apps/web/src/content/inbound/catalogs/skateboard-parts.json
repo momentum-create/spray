@@ -5,7 +5,7 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 70
+    "totalProducts": 68
   },
   "brands": [],
   "products": [
@@ -16,6 +16,15 @@
       "name": "【Zulu Wheels】 ズールーウィール 【Fuzimi Built-In Bearings】 ジミビルトインベアリング スケートボード ベアリング ロンスケ",
       "priceJpy": 4070,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003896/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003819",
+      "makeshopId": "000000003819",
+      "brandSlug": "w-p-s-i",
+      "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 88mm 】 スケートボード クルーザートラック",
+      "priceJpy": 8360,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003819/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -115,24 +124,6 @@
       "name": "【JACUZZI UNLIMITED】 ジャグジー 【Tribal Rails】 トライバルレール レールバー スケートボード",
       "priceJpy": 2860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003750/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003895",
-      "makeshopId": "000000003895",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numerip 78A 60mm Green】 ミニヌメリップ 78A 65mm グリーン スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003894",
-      "makeshopId": "000000003894",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -331,15 +322,6 @@
       "name": "【NINJA BEARINGS】 ニンジャ ベアリングス 【SPEEDOIL SHORT RED】 スピードオイル ショート(RED/10ml) スケートボード SK8",
       "priceJpy": 500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003827/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003819",
-      "makeshopId": "000000003819",
-      "brandSlug": "w-p-s-i",
-      "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 88mm 】 スケートボード クルーザートラック",
-      "priceJpy": 8360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003819/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1225,5 +1207,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-07T19:19:36.656Z"
+  "syncedAt": "2026-06-08T20:11:56.421Z"
 }
