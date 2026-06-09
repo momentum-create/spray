@@ -5,90 +5,162 @@
     "title": "Sunglasses",
     "titleJa": "サングラス",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61109/",
-    "totalProducts": 9
+    "totalProducts": 17
   },
   "brands": [],
   "products": [
     {
-      "slug": "sunglasses-000000002574",
-      "makeshopId": "000000002574",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 SUTRO【スートロ】 男性用サングラス Matte Black / Prizm Road",
-      "priceJpy": 27610,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002574/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
+      "slug": "sunglasses-000000003981",
+      "makeshopId": "000000003981",
+      "brandSlug": "fullon",
+      "name": "【Fullon】 フローン 【FBL 043-2】 サングラス 偏光レンズ",
+      "priceJpy": 5720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003981/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003980",
+      "makeshopId": "000000003980",
+      "brandSlug": "fullon",
+      "name": "【Fullon】 フローン 【FBL 039-16】 サングラス 偏光レンズ",
+      "priceJpy": 5720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003980/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003971",
+      "makeshopId": "000000003971",
+      "brandSlug": "fullon",
+      "name": "【Fullon】 フローン 【FBL 039-1】 サングラス 偏光レンズ",
+      "priceJpy": 5720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003971/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003978",
+      "makeshopId": "000000003978",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins 35th (A)】 フロッグスキン 35th Matte Black/Prizm Black Iridium OO9444F",
+      "priceJpy": 23100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003978/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003977",
+      "makeshopId": "000000003977",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins (A)】 フロッグスキン Grey Smoke/Prizm Sapphire OO9245",
+      "priceJpy": 21120,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003977/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003976",
+      "makeshopId": "000000003976",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins (A)】 フロッグスキン Hi Res Polished Sapphire/Prizm Black OO9245",
+      "priceJpy": 21120,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003976/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003975",
+      "makeshopId": "000000003975",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins (A)】 フロッグスキン Woodgrain /Prizm Black Iridium OO9245",
+      "priceJpy": 21120,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003975/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003973",
+      "makeshopId": "000000003973",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Castel】 カステル Matte Black/Prizm Dark Golf OO9147",
+      "priceJpy": 24310,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003973/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003974",
+      "makeshopId": "000000003974",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins (A)】 フロッグスキン Polished Clear/Prizm Violet OO9245",
+      "priceJpy": 20020,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003974/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
     },
     {
       "slug": "sunglasses-000000002584",
       "makeshopId": "000000002584",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 Corridor A【コリドー】 男性用サングラス Matte Black / Prizm Road",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Corridor A】 コリドー 男性用サングラス Matte Black / Prizm Road",
       "priceJpy": 27610,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002584/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
+      "updatedAt": "2026-06-09T20:05:24.074Z"
     },
     {
       "slug": "sunglasses-000000002589",
       "makeshopId": "000000002589",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 Frogskins Range A【フロッグスキン レンジ】 Brown Tortoise/Brown Smoke",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins Range A】 フロッグスキン レンジ Brown Tortoise/Brown Smoke",
       "priceJpy": 26730,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002589/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
+      "updatedAt": "2026-06-09T20:05:24.074Z"
     },
     {
       "slug": "sunglasses-000000002590",
       "makeshopId": "000000002590",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 Frogskins Range A【フロッグスキン レンジ】 Matte Grey Smoke/Grey ink/Prizm Ruby",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins Range A】 フロッグスキン レンジ Matte Grey Smoke/Grey ink/Prizm Ruby",
       "priceJpy": 26730,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002590/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
+      "updatedAt": "2026-06-09T20:05:24.074Z"
     },
     {
       "slug": "sunglasses-000000002592",
       "makeshopId": "000000002592",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 Holbrook (A)【ホルブルック】 Grey Smoke / Prizm Ruby",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Holbrook (A)】 ホルブルック Grey Smoke / Prizm Ruby",
       "priceJpy": 24310,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002592/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
-    },
-    {
-      "slug": "sunglasses-000000002594",
-      "makeshopId": "000000002594",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 Latch Squared (A)【ラッチ スクエアード】 Matte Black/Prizm Grey",
-      "priceJpy": 24860,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002594/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
+      "updatedAt": "2026-06-09T20:05:24.074Z"
     },
     {
       "slug": "sunglasses-000000002595",
       "makeshopId": "000000002595",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 Castel【カステル】 Matte Black Ink/Prizm Black Polarized",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Castel】 カステル Matte Black Ink/Prizm Black Polarized",
       "priceJpy": 34210,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002595/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
+      "updatedAt": "2026-06-09T20:05:24.074Z"
     },
     {
       "slug": "sunglasses-000000002596",
       "makeshopId": "000000002596",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 Frogskins (A)【フロッグスキン】 Polished Black/Prizm Grey",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins (A)】 フロッグスキン Polished Black/Prizm Grey",
       "priceJpy": 18920,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002596/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
+      "updatedAt": "2026-06-09T20:05:24.074Z"
     },
     {
       "slug": "sunglasses-000000002597",
       "makeshopId": "000000002597",
-      "brandSlug": "",
-      "name": "OAKLEY【オークリー】 Frogskins (A)【フロッグスキン】 Matte Black Camo/Prizm Black",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【Frogskins (A)】 フロッグスキン Matte Black Camo/Prizm Black",
       "priceJpy": 21120,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002597/I61109/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.810Z"
+      "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003972",
+      "makeshopId": "000000003972",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】 オークリー 【SUTRO LITE SWEEP】 スートロ Spectrum Gamma Green / Prizm Black OO9465",
+      "priceJpy": 27610,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003972/I61109/page1/order/",
+      "updatedAt": "2026-06-09T20:05:24.074Z"
     }
   ],
   "images": {
@@ -193,5 +265,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-08T20:11:53.683Z"
+  "syncedAt": "2026-06-09T20:05:24.074Z"
 }

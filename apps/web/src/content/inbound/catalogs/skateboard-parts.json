@@ -5,7 +5,7 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 68
+    "totalProducts": 67
   },
   "brands": [],
   "products": [
@@ -43,15 +43,6 @@
       "name": "【INDEPENDENT】 インディペンデント 【139 FORGED HOLLOW SLAYER BLACK TRUCKS】 スケートボード トラック 139",
       "priceJpy": 9900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003832/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003794",
-      "makeshopId": "000000003794",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Petari 78a 82.5mm】 ペタリ 78A 82.5mm スケートボード ウィール ロンスケ",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003794/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -133,15 +124,6 @@
       "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicarip 78A 60mm】 ミニビカリップ 78A 60mm スケートボード ウィール ロンスケ",
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003893/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003890",
-      "makeshopId": "000000003890",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Cimeri 78A 65mm】 シメリ 78A 65mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7040,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003890/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -592,6 +574,15 @@
       "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【YOW URA 66×51mm Mustard 80A Wheels Pack 】 ウィール スケートボード",
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003699/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003794",
+      "makeshopId": "000000003794",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Petari 78a 82.5mm】 ペタリ 78A 82.5mm スケートボード ウィール ロンスケ",
+      "priceJpy": 9240,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003794/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1207,5 +1198,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-08T20:11:56.421Z"
+  "syncedAt": "2026-06-09T20:05:27.379Z"
 }
