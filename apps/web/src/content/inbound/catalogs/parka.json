@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "parka-000000002603",
+      "makeshopId": "000000002603",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【ECO HYBRID BOX LOGO SWEAT HOODIE】 エコハイブリッドボックスロゴスウェットフーディー NW2441-1F002-A / メンズ / 男性用",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002603/ct304/page1/order/",
+      "updatedAt": "2026-06-11T20:19:07.076Z"
+    },
+    {
       "slug": "parka-000000003938",
       "makeshopId": "000000003938",
       "brandSlug": "the-north-face",
@@ -97,15 +106,6 @@
       "name": "パタゴニア 【patagonia】 メンズ・R1 サーマル・フルジップ・フーディ 【Men's R1 Thermal Full-Zip Hoody】 40600",
       "priceJpy": 24640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002622/ct304/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.533Z"
-    },
-    {
-      "slug": "parka-000000002603",
-      "makeshopId": "000000002603",
-      "brandSlug": "nanga",
-      "name": "ナンガ【NANGA】 エコハイブリッドボックスロゴスウェットフーディー 【ECO HYBRID BOX LOGO SWEAT HOODIE】 NW2441-1F002-A / メンズ / 男性用",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002603/ct304/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
@@ -237,5 +237,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-10T20:27:06.485Z"
+  "syncedAt": "2026-06-11T20:19:07.076Z"
 }

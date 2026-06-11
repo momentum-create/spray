@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 86
+    "totalProducts": 87
   },
   "brands": [
     {
@@ -22,6 +22,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "accessories-000000003987",
+      "makeshopId": "000000003987",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【CARABINER KEY HOLDER】 カラビナ キーホルダー NA2243-1Z104-A",
+      "priceJpy": 2112,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003987/I61079/page1/order/",
+      "updatedAt": "2026-06-11T20:19:20.508Z"
+    },
     {
       "slug": "accessories-000000002879",
       "makeshopId": "000000002879",
@@ -1610,5 +1619,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-10T20:27:15.220Z"
+  "syncedAt": "2026-06-11T20:19:20.508Z"
 }

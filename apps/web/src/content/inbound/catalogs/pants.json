@@ -5,10 +5,37 @@
     "title": "Pants",
     "titleJa": "パンツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61132/",
-    "totalProducts": 17
+    "totalProducts": 19
   },
   "brands": [],
   "products": [
+    {
+      "slug": "pants-000000002536",
+      "makeshopId": "000000002536",
+      "brandSlug": "nylon-tusser-easy-shorts",
+      "name": "ナンガ NANGA ナイロンタッサーイージーショーツ 【NYLON TUSSER EASY SHORTS】 NW2321-1I512 / メンズ / 男性用",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002536/I61132/page1/order/",
+      "updatedAt": "2026-05-29T06:08:27.093Z"
+    },
+    {
+      "slug": "pants-000000003985",
+      "makeshopId": "000000003985",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【DotAir COMFY SHORTS】 ドットエア コンフィーショーツ NW2411-I903 / メンズ / 男性用",
+      "priceJpy": 8360,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003985/I61132/page1/order/",
+      "updatedAt": "2026-06-11T20:19:08.439Z"
+    },
+    {
+      "slug": "pants-000000003984",
+      "makeshopId": "000000003984",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【NYLON TUSSER EASY SHORTS】 ナイロンタッサーイージーショーツ NW2321-1I512 / メンズ / 男性用",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003984/I61132/page1/order/",
+      "updatedAt": "2026-06-11T20:19:08.439Z"
+    },
     {
       "slug": "pants-000000003524",
       "makeshopId": "000000003524",
@@ -106,15 +133,6 @@
       "name": "ナンガ NANGA ドットエア コンフィーショーツ 【DotAir COMFY SHORTS】 NW2411-I903 / メンズ / 男性用",
       "priceJpy": 10450,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002486/I61132/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.093Z"
-    },
-    {
-      "slug": "pants-000000002536",
-      "makeshopId": "000000002536",
-      "brandSlug": "nylon-tusser-easy-shorts",
-      "name": "ナンガ NANGA ナイロンタッサーイージーショーツ 【NYLON TUSSER EASY SHORTS】 NW2321-1I512 / メンズ / 男性用",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002536/I61132/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.093Z"
     },
     {
@@ -332,5 +350,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-10T20:27:07.211Z"
+  "syncedAt": "2026-06-11T20:19:08.439Z"
 }

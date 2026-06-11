@@ -35,6 +35,15 @@
   ],
   "products": [
     {
+      "slug": "hat-000000002601",
+      "makeshopId": "000000002601",
+      "brandSlug": "nanga",
+      "name": "ナンガ【NANGA】 オーロラテックス ダウン ダック ビル キャップ 【AURORA TEX DOWN DUCK BILL CAP】 NA2441-3B102-A キャップ / 帽子",
+      "priceJpy": 10560,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002601/I61098/page1/order/",
+      "updatedAt": "2026-06-11T20:19:16.167Z"
+    },
+    {
       "slug": "hat-000000003942",
       "makeshopId": "000000003942",
       "brandSlug": "the-north-face",
@@ -410,15 +419,6 @@
       "name": "【AFDICEGEAR×POLER】 AFD×ポーラー 【AFD×POLER 3.0L STORM PROOF SHELL CAP】 コラボモデル ユニセックス キャップ 帽子",
       "priceJpy": 8250,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003124/I61098/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.320Z"
-    },
-    {
-      "slug": "hat-000000002601",
-      "makeshopId": "000000002601",
-      "brandSlug": "nanga",
-      "name": "ナンガ【NANGA】 オーロラテックス ダウン ダック ビル キャップ 【AURORA TEX DOWN DUCK BILL CAP】 NA2441-3B102-A キャップ / 帽子",
-      "priceJpy": 13200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002601/I61098/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.320Z"
     }
   ],
@@ -819,5 +819,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-10T20:27:12.228Z"
+  "syncedAt": "2026-06-11T20:19:16.167Z"
 }

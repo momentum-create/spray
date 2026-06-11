@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "bag-000000002558",
+      "makeshopId": "000000002558",
+      "brandSlug": "aurora-tex-sacoche",
+      "name": "ナンガ NANGA オーロラテックス サコッシュ 【AURORA TEX SACOCHE】 NA2441-3A199-A / ショルダーバッグ",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002558/I61075/page1/order/",
+      "updatedAt": "2026-06-11T20:19:10.282Z"
+    },
+    {
+      "slug": "bag-000000002559",
+      "makeshopId": "000000002559",
+      "brandSlug": "hinoc-sacoche",
+      "name": "ナンガ NANGA ヒノックサコッシュ 【HINOC SACOCHE】 NA2441-3A100-A / ショルダーバッグ",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002559/I61075/page1/order/",
+      "updatedAt": "2026-05-29T06:08:27.717Z"
+    },
+    {
       "slug": "bag-000000003588",
       "makeshopId": "000000003588",
       "brandSlug": "the-north-face",
@@ -268,24 +286,6 @@
       "name": "パタゴニア 【patagonia】 ウルトラライト・ブラック・ホール・トート・パック 27L 【Ultralight Black Hole Tote Pack 27L】 48809",
       "priceJpy": 14300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002233/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000002558",
-      "makeshopId": "000000002558",
-      "brandSlug": "aurora-tex-sacoche",
-      "name": "ナンガ NANGA オーロラテックス サコッシュ 【AURORA TEX SACOCHE】 NA2441-3A199-A / ショルダーバッグ",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002558/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000002559",
-      "makeshopId": "000000002559",
-      "brandSlug": "hinoc-sacoche",
-      "name": "ナンガ NANGA ヒノックサコッシュ 【HINOC SACOCHE】 NA2441-3A100-A / ショルダーバッグ",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002559/I61075/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
@@ -620,5 +620,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-10T20:27:08.148Z"
+  "syncedAt": "2026-06-11T20:19:10.282Z"
 }
