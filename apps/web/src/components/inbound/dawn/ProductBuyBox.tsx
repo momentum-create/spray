@@ -5,8 +5,13 @@ import { useRouter } from "next/navigation";
 import type { ShopProduct } from "@/content/inbound/shop-product";
 import { formatJpy } from "@/content/inbound/products.en";
 import { dawnCopy } from "@/content/inbound/dawn-copy.en";
-import { BopisPickup } from "@/components/inbound/dawn/BopisPickup";
 import { TaxFreeNote } from "@/components/inbound/dawn/TaxFreeNote";
+import { DawnDateInput } from "@/components/inbound/dawn/DawnDateInput";
+import { FulfillmentMethodSelector } from "@/components/inbound/dawn/FulfillmentMethodSelector";
+import {
+  DEFAULT_FULFILLMENT_METHOD,
+  type FulfillmentMethod,
+} from "@/components/inbound/dawn/fulfillment";
 import { useCart, type CartAddon } from "@/components/inbound/dawn/CartProvider";
 
 type Props = {
@@ -20,7 +25,11 @@ export function ProductBuyBox({ product }: Props) {
   const [tuneUp, setTuneUp] = useState<"none" | "pre" | "full">("none");
   const [soleGuard, setSoleGuard] = useState<"none" | "gentem" | "spray">("none");
   const [pickupDate, setPickupDate] = useState("");
-  const requiresPickupSchedule = tuneUp !== "none";
+  const [fulfillmentMethod, setFulfillmentMethod] = useState<FulfillmentMethod>(
+    DEFAULT_FULFILLMENT_METHOD,
+  );
+  const isStorePickup = fulfillmentMethod === "store_pickup";
+  const requiresPickupSchedule = isStorePickup && tuneUp !== "none";
   const earliestPickupDate = useMemo(() => {
     const start = new Date();
     const leadDays = tuneUp === "full" ? 7 : tuneUp === "pre" ? 3 : 0;
@@ -60,6 +69,24 @@ export function ProductBuyBox({ product }: Props) {
     return addons;
   }, [isSnowboard, tuneUp, soleGuard]);
 
+  const handleFulfillmentChange = (method: FulfillmentMethod) => {
+    setFulfillmentMethod(method);
+    if (method === "domestic_shipping") {
+      setTuneUp("none");
+      setPickupDate("");
+    }
+  };
+
+  const cartOptions = {
+    addons: selectedAddons,
+    fulfillmentMethod,
+    pickupDate:
+      isStorePickup && requiresPickupSchedule ? pickupDate || undefined : undefined,
+  };
+
+  const canPurchase =
+    !requiresPickupSchedule || (isStorePickup && Boolean(pickupDate));
+
   return (
     <div className="dawn-buy-box w-full bg-white">
       <p className="text-xs uppercase tracking-widest text-black/50">{product.brand}</p>
@@ -84,7 +111,7 @@ export function ProductBuyBox({ product }: Props) {
           </p>
           <ul className="mt-3 list-disc space-y-1 pl-5 text-sm leading-relaxed text-black/80">
             <li>No cancellation, modification, or refund after payment.</li>
-            <li>Pick-up in Japan only. No international shipping.</li>
+            <li>Japan only — store pickup or domestic shipping. No international shipping.</li>
             <li>
               Payment is tax-inclusive (10% JP tax). Eligible tax refunds are handled by the
               customer at airport customs (Japan refund method).
@@ -114,7 +141,17 @@ export function ProductBuyBox({ product }: Props) {
           </a>
         </section>
       ) : null}
-      {!product.soldOut && isSnowboard ? (
+      {!product.soldOut ? (
+        <div className="mt-5">
+          <FulfillmentMethodSelector
+            name={`fulfillment-${product.slug}`}
+            value={fulfillmentMethod}
+            onChange={handleFulfillmentChange}
+          />
+        </div>
+      ) : null}
+
+      {!product.soldOut && isSnowboard && isStorePickup ? (
         <fieldset className="mt-5 border border-[#e8e8e8] p-4">
           <legend className="px-1 text-xs font-medium uppercase tracking-wide text-black/70">
             Tune-up options
@@ -161,66 +198,80 @@ export function ProductBuyBox({ product }: Props) {
             </label>
           </div>
           {requiresPickupSchedule ? (
-            <label className="mt-3 block border-t border-[#e8e8e8] pt-3 text-sm">
-              <span className="mb-1.5 block text-xs font-medium uppercase tracking-wide text-black/70">
+            <div
+              className="mt-3 border-t border-[#e8e8e8] pt-3 text-sm"
+              role="group"
+              aria-labelledby={`pickup-date-${product.slug}`}
+              lang="en"
+            >
+              <p
+                id={`pickup-date-${product.slug}`}
+                className="mb-1.5 text-xs font-medium uppercase tracking-wide text-black/70"
+              >
                 Earliest pickup date
-              </span>
-              <input
-                type="date"
+              </p>
+              <DawnDateInput
+                key={`${product.slug}-${earliestPickupDate}`}
                 min={earliestPickupDate}
                 value={pickupDate}
-                onChange={(e) => setPickupDate(e.target.value)}
-                className="dawn-input w-full"
+                onChange={setPickupDate}
               />
-              <span className="mt-1 block text-[11px] text-black/50">
+              <p className="mt-1 text-[11px] text-black/50">
                 Same-day / next-day pickup is not available. Wednesdays are unavailable.
-              </span>
-            </label>
-          ) : null}
-          <div className="mt-3 border-t border-[#e8e8e8] pt-3">
-            <p className="mb-2 text-xs font-medium uppercase tracking-wide text-black/70">
-              Sole guard options
-            </p>
-            <div className="space-y-2">
-              <label className="flex items-center justify-between gap-2 text-sm">
-                <span className="flex items-center gap-2">
-                  <input
-                    type="radio"
-                    name={`sole-guard-${product.slug}`}
-                    checked={soleGuard === "none"}
-                    onChange={() => setSoleGuard("none")}
-                  />
-                  No sole guard
-                </span>
-                <span className="text-black/50">+¥0</span>
-              </label>
-              <label className="flex items-center justify-between gap-2 text-sm">
-                <span className="flex items-center gap-2">
-                  <input
-                    type="radio"
-                    name={`sole-guard-${product.slug}`}
-                    checked={soleGuard === "gentem"}
-                    onChange={() => setSoleGuard("gentem")}
-                  />
-                  GENTEMSTICK Sole Guard
-                </span>
-                <span>+¥15,950</span>
-              </label>
-              <label className="flex items-center justify-between gap-2 text-sm">
-                <span className="flex items-center gap-2">
-                  <input
-                    type="radio"
-                    name={`sole-guard-${product.slug}`}
-                    checked={soleGuard === "spray"}
-                    onChange={() => setSoleGuard("spray")}
-                  />
-                  SPRAY Knit Sole Guard
-                </span>
-                <span>+¥8,800</span>
-              </label>
+              </p>
             </div>
+          ) : null}
+        </fieldset>
+      ) : null}
+
+      {!product.soldOut && isSnowboard ? (
+        <fieldset className="mt-5 border border-[#e8e8e8] p-4">
+          <legend className="px-1 text-xs font-medium uppercase tracking-wide text-black/70">
+            Sole guard options
+          </legend>
+          <div className="space-y-2">
+            <label className="flex items-center justify-between gap-2 text-sm">
+              <span className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name={`sole-guard-${product.slug}`}
+                  checked={soleGuard === "none"}
+                  onChange={() => setSoleGuard("none")}
+                />
+                No sole guard
+              </span>
+              <span className="text-black/50">+¥0</span>
+            </label>
+            <label className="flex items-center justify-between gap-2 text-sm">
+              <span className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name={`sole-guard-${product.slug}`}
+                  checked={soleGuard === "gentem"}
+                  onChange={() => setSoleGuard("gentem")}
+                />
+                GENTEMSTICK Sole Guard
+              </span>
+              <span>+¥15,950</span>
+            </label>
+            <label className="flex items-center justify-between gap-2 text-sm">
+              <span className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name={`sole-guard-${product.slug}`}
+                  checked={soleGuard === "spray"}
+                  onChange={() => setSoleGuard("spray")}
+                />
+                SPRAY Knit Sole Guard
+              </span>
+              <span>+¥8,800</span>
+            </label>
           </div>
         </fieldset>
+      ) : null}
+
+      {!product.soldOut && isSnowboard && !isStorePickup ? (
+        <p className="mt-3 text-xs text-black/55">{dawnCopy.fulfillment.tuneUpRequiresPickup}</p>
       ) : null}
 
       <div className="mt-6 space-y-3">
@@ -232,10 +283,10 @@ export function ProductBuyBox({ product }: Props) {
           <>
             <button
               type="button"
-              onClick={() => addToCart(product, selectedAddons, pickupDate || undefined)}
-              disabled={requiresPickupSchedule && !pickupDate}
+              onClick={() => addToCart(product, cartOptions)}
+              disabled={!canPurchase}
               className={`dawn-btn-secondary w-full ${
-                requiresPickupSchedule && !pickupDate ? "cursor-not-allowed opacity-50" : ""
+                !canPurchase ? "cursor-not-allowed opacity-50" : ""
               }`}
             >
               {dawnCopy.product.addToCart}
@@ -243,12 +294,12 @@ export function ProductBuyBox({ product }: Props) {
             <button
               type="button"
               onClick={() => {
-                addToCart(product, selectedAddons, pickupDate || undefined);
+                addToCart(product, cartOptions);
                 router.push("/en/checkout");
               }}
-              disabled={requiresPickupSchedule && !pickupDate}
+              disabled={!canPurchase}
               className={`dawn-btn-primary w-full ${
-                requiresPickupSchedule && !pickupDate ? "cursor-not-allowed opacity-50" : ""
+                !canPurchase ? "cursor-not-allowed opacity-50" : ""
               }`}
             >
               {dawnCopy.product.buyNow}
@@ -265,13 +316,27 @@ export function ProductBuyBox({ product }: Props) {
         )}
       </div>
 
-      <div className="mt-4">
-        <BopisPickup />
-      </div>
+      {isStorePickup ? (
+        <div className="mt-4 flex items-start gap-2 rounded-sm border border-[#e8e8e8] bg-[#f9f9f9] px-3 py-3 text-sm text-black">
+          <span className="mt-0.5 shrink-0 font-bold text-[#108043]" aria-hidden>
+            ✓
+          </span>
+          <span>{dawnCopy.product.bopis}</span>
+        </div>
+      ) : (
+        <div className="mt-4 flex items-start gap-2 rounded-sm border border-[#e8e8e8] bg-[#f9f9f9] px-3 py-3 text-sm text-black">
+          <span className="mt-0.5 shrink-0 font-bold text-black/70" aria-hidden>
+            →
+          </span>
+          <span>{dawnCopy.product.domesticShippingSelected}</span>
+        </div>
+      )}
 
-      <TaxFreeNote />
+      <TaxFreeNote show={isStorePickup} />
 
-      <p className="mt-4 text-xs leading-relaxed text-black/50">{dawnCopy.product.shippingNote}</p>
+      <p className="mt-4 text-xs leading-relaxed text-black/50">
+        {isStorePickup ? dawnCopy.product.shippingNotePickup : dawnCopy.product.shippingNoteDomestic}
+      </p>
 
       {product.officialUrl.includes("gentemstick.com") ? (
         <a

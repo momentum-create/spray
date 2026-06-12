@@ -10,7 +10,7 @@ export function MobileCtaBar({ locale }: MobileCtaBarProps) {
   const copy = getCopy(locale);
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 flex gap-0 border-t border-spray-border bg-black md:hidden">
+    <div className="fixed bottom-0 left-0 right-0 z-50 flex gap-0 border-t border-spray-border bg-spray-bg md:hidden">
       <LocaleLink href="/skatepark" locale={locale} className="btn-park flex-1 justify-center py-3 text-center text-[10px]">
         {copy.cta.park}
       </LocaleLink>

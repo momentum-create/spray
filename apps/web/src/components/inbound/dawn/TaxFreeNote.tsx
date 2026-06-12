@@ -1,6 +1,12 @@
 import { dawnCopy } from "@/content/inbound/dawn-copy.en";
 
-export function TaxFreeNote() {
+type Props = {
+  show?: boolean;
+};
+
+export function TaxFreeNote({ show = true }: Props) {
+  if (!show) return null;
+
   return (
     <div className="mt-4 border border-[#e8e8e8] p-4">
       <p className="text-xs font-medium uppercase tracking-wide text-black">

@@ -1,46 +1,27 @@
-import { PageHero } from "@/components/ui/PageHero";
-import { getSiteFacts } from "@/content/get-site-facts";
+import type { Metadata } from "next";
+import { SkateparkPricesView } from "@/components/skatepark/SkateparkPricesView";
 import { getCopy } from "@/i18n/get-copy";
 import { resolveLocale } from "@/i18n/page";
 
 type PageProps = { params: Promise<{ locale: string }> };
 
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const locale = await resolveLocale(params);
+  const copy = getCopy(locale);
+  const isJa = locale === "ja";
+
+  return {
+    title: isJa
+      ? "料金・営業時間 | SPRAY 屋内スケートパーク（旭川）"
+      : "Fees & hours | SPRAY indoor skate park, Asahikawa",
+    description: isJa
+      ? "北海道旭川・SPRAY 屋内スケートパークの利用料金と営業時間。会員・ビジター・レンタル・見学の料金表（税込）と定休日。"
+      : "Admission and hours for SPRAY’s indoor skate park in Asahikawa. Member, visitor, rental, and spectator info — tax included.",
+  };
+}
+
 export default async function SkateparkPricesPage({ params }: PageProps) {
   const locale = await resolveLocale(params);
   const copy = getCopy(locale);
-  const { hours, skatepark } = getSiteFacts(locale);
-  const labels = copy.skatepark.prices;
-
-  return (
-    <>
-      <PageHero title={labels.title} lead={copy.skatepark.lead} />
-      <section className="container-page space-y-8 pb-12">
-        <dl className="grid gap-2 text-sm sm:grid-cols-[8rem_1fr]">
-          <dt className="text-spray-muted">{labels.storeHours}</dt>
-          <dd>
-            {hours.label} ({labels.closedPrefix}: {hours.closedDay})
-          </dd>
-        </dl>
-        <p className="text-sm text-spray-muted">{skatepark.priceNote}</p>
-        <figure>
-          <a
-            href={skatepark.priceImageUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block overflow-hidden rounded-lg border border-spray-border"
-          >
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={skatepark.priceImageUrl}
-              alt={labels.priceAlt}
-              className="w-full max-w-md"
-            />
-          </a>
-          <figcaption className="mt-2 text-xs text-spray-muted">
-            {labels.priceCaption}
-          </figcaption>
-        </figure>
-      </section>
-    </>
-  );
+  return <SkateparkPricesView locale={locale} copy={copy} />;
 }

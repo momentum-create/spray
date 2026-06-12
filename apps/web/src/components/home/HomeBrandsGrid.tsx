@@ -55,7 +55,7 @@ export function HomeBrandsGrid({ locale, copy }: Props) {
           return (
             <LocaleLink
               key={brand.slug}
-              href="/brands"
+              href={`/brands/${brand.slug}`}
               locale={locale}
               className={tileClass}
               title={brand.name}

@@ -32,8 +32,8 @@ export default async function SkateparkPage({ params }: PageProps) {
         />
         <div className="absolute inset-0 bg-black/60" />
         <div className="relative mx-auto max-w-site px-4 py-16 md:px-6">
-          <h1 className="max-w-2xl font-display text-2xl font-black uppercase text-white md:text-4xl">
-            UNLEASH YOUR RIDE: Enhanced Skate Park & Lessons.
+          <h1 className="max-w-2xl font-display text-2xl font-black text-white md:text-4xl">
+            {copy.skatepark.hubHeadline}
           </h1>
           <p className="mt-4 max-w-xl text-sm text-white/80">{copy.skatepark.lead}</p>
           <div className="mt-6 flex flex-wrap gap-3">

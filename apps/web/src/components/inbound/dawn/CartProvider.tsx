@@ -11,6 +11,11 @@ import {
 import type { ShopProduct } from "@/content/inbound/shop-product";
 import { formatJpy } from "@/content/inbound/products.en";
 import { DrawerCart } from "@/components/inbound/dawn/DrawerCart";
+import {
+  DEFAULT_FULFILLMENT_METHOD,
+  fulfillmentLineKeySuffix,
+  type FulfillmentMethod,
+} from "@/components/inbound/dawn/fulfillment";
 
 export type CartAddon = {
   id: "pre-tune" | "full-tune" | "gentem-sole-guard" | "spray-knit-sole-guard";
@@ -21,10 +26,18 @@ export type CartAddon = {
 export type CartLine = {
   product: ShopProduct;
   addons: CartAddon[];
+  fulfillmentMethod: FulfillmentMethod;
   pickupDate?: string;
   variantLabel?: string;
   lineKey: string;
   quantity: number;
+};
+
+export type AddToCartOptions = {
+  addons?: CartAddon[];
+  fulfillmentMethod?: FulfillmentMethod;
+  pickupDate?: string;
+  variantLabel?: string;
 };
 
 type CartContextValue = {
@@ -32,12 +45,7 @@ type CartContextValue = {
   isOpen: boolean;
   openCart: () => void;
   closeCart: () => void;
-  addToCart: (
-    product: ShopProduct,
-    addons?: CartAddon[],
-    pickupDate?: string,
-    variantLabel?: string,
-  ) => void;
+  addToCart: (product: ShopProduct, options?: AddToCartOptions) => void;
   removeLine: (lineKey: string) => void;
   subtotalJpy: number;
   subtotalLabel: string;
@@ -50,19 +58,24 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [lines, setLines] = useState<CartLine[]>([]);
   const [isOpen, setIsOpen] = useState(false);
 
-  const addToCart = useCallback(
-    (
-      product: ShopProduct,
-      addons: CartAddon[] = [],
-      pickupDate?: string,
-      variantLabel?: string,
-    ) => {
-    const addonSignature = addons.map((a) => a.id).sort().join("+");
-      const dateSignature = pickupDate ? `::pickup-${pickupDate}` : "";
-      const variantSignature = variantLabel ? `::${variantLabel}` : "";
-      const lineKey = addonSignature
-        ? `${product.slug}::${addonSignature}${dateSignature}${variantSignature}`
-        : `${product.slug}${dateSignature}${variantSignature}`;
+  const addToCart = useCallback((product: ShopProduct, options: AddToCartOptions = {}) => {
+    const {
+      addons = [],
+      fulfillmentMethod = DEFAULT_FULFILLMENT_METHOD,
+      pickupDate,
+      variantLabel,
+    } = options;
+    const addonSignature = addons
+      .map((a) => a.id)
+      .sort()
+      .join("+");
+    const dateSignature =
+      fulfillmentMethod === "store_pickup" && pickupDate ? `::pickup-${pickupDate}` : "";
+    const variantSignature = variantLabel ? `::${variantLabel}` : "";
+    const fulfillmentSignature = fulfillmentLineKeySuffix(fulfillmentMethod);
+    const lineKey = addonSignature
+      ? `${product.slug}::${addonSignature}${fulfillmentSignature}${dateSignature}${variantSignature}`
+      : `${product.slug}${fulfillmentSignature}${dateSignature}${variantSignature}`;
     setLines((prev) => {
       const existing = prev.find((l) => l.lineKey === lineKey);
       if (existing) {
@@ -70,12 +83,22 @@ export function CartProvider({ children }: { children: ReactNode }) {
           l.lineKey === lineKey ? { ...l, quantity: l.quantity + 1 } : l,
         );
       }
-        return [...prev, { product, addons, pickupDate, variantLabel, lineKey, quantity: 1 }];
+      return [
+        ...prev,
+        {
+          product,
+          addons,
+          fulfillmentMethod,
+          pickupDate:
+            fulfillmentMethod === "store_pickup" ? pickupDate : undefined,
+          variantLabel,
+          lineKey,
+          quantity: 1,
+        },
+      ];
     });
     setIsOpen(true);
-    },
-    [],
-  );
+  }, []);
 
   const removeLine = useCallback((lineKey: string) => {
     setLines((prev) => prev.filter((l) => l.lineKey !== lineKey));

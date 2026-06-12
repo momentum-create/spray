@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { dawnCopy, tuneUpCourses } from "@/content/inbound/dawn-copy.en";
 import { formatJpy } from "@/content/inbound/products.en";
+import { DawnDateInput } from "@/components/inbound/dawn/DawnDateInput";
 
 type TuneUpCourseId = (typeof tuneUpCourses)[number]["id"];
 
@@ -25,6 +26,7 @@ export function TuneUpBookingForm() {
       className="space-y-8"
       onSubmit={(e) => {
         e.preventDefault();
+        if (!dropOff || !pickUp) return;
         setSubmitted(true);
       }}
     >
@@ -64,31 +66,23 @@ export function TuneUpBookingForm() {
           <span className="mb-2 block text-sm font-medium text-black">
             {dawnCopy.tuneUp.dropOff}
           </span>
-          <input
-            type="date"
-            required
-            value={dropOff}
-            onChange={(e) => setDropOff(e.target.value)}
-            className="dawn-input w-full"
-          />
+          <DawnDateInput value={dropOff} onChange={setDropOff} />
         </label>
         <label className="block">
           <span className="mb-2 block text-sm font-medium text-black">
             {dawnCopy.tuneUp.pickUp}
           </span>
-          <input
-            type="date"
-            required
-            value={pickUp}
-            onChange={(e) => setPickUp(e.target.value)}
-            className="dawn-input w-full"
-          />
+          <DawnDateInput value={pickUp} onChange={setPickUp} />
         </label>
       </div>
 
       <p className="text-sm leading-relaxed text-black/60">{dawnCopy.tuneUp.note}</p>
 
-      <button type="submit" className="dawn-btn-primary w-full sm:w-auto sm:min-w-[240px]">
+      <button
+        type="submit"
+        disabled={!dropOff || !pickUp}
+        className="dawn-btn-primary w-full sm:w-auto sm:min-w-[240px] disabled:cursor-not-allowed disabled:opacity-50"
+      >
         {dawnCopy.tuneUp.submit}
       </button>
     </form>

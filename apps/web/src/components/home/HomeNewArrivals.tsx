@@ -23,23 +23,32 @@ function officialProductHref(shopUrl: string): string {
 
 type HomeNewArrivalsProps = { copy: Copy; locale: Locale; embedded?: boolean };
 
+function productHref(product: { slug: string; shopUrl: string }, locale: Locale) {
+  if (locale === "en" && isInboundShopifyPocEnabled()) {
+    return { href: getEnglishShopProductPath(product.slug), external: false };
+  }
+  return { href: officialProductHref(product.shopUrl), external: true };
+}
+
 export function HomeNewArrivals({ copy, locale, embedded }: HomeNewArrivalsProps) {
-  const englishShopEnabled = isInboundShopifyPocEnabled();
   const officialMall = malls.find((m) => m.id === "official")!;
   const products = getOfficialStoreNewArrivals(NEW_ARRIVAL_COUNT);
+  const emptyHref =
+    locale === "en" && isInboundShopifyPocEnabled()
+      ? "/en/products"
+      : mallUrl(officialMall, locale);
 
   const cards: NewArrivalCard[] = products.map((product) => {
-    const englishHref = getEnglishShopProductPath(product.slug);
-    const href = englishShopEnabled ? englishHref : officialProductHref(product.shopUrl);
+    const link = productHref(product, locale);
     return {
       slug: product.slug,
       name: product.name,
       brand: product.brand,
       imageUrl: product.imageUrl,
       priceLabel: formatCatalogPriceJpy(product.priceJpy, locale),
-      href,
-      ctaLabel: englishShopEnabled ? copy.home.arrivals.cta : copy.shop.malls.official.name,
-      external: !englishShopEnabled,
+      href: link.href,
+      ctaLabel: copy.home.arrivals.cta,
+      external: link.external,
     };
   });
 
@@ -55,12 +64,23 @@ export function HomeNewArrivals({ copy, locale, embedded }: HomeNewArrivalsProps
       ) : (
         <div className="card-dark p-4 text-center">
           <p className="text-xs text-spray-muted">{copy.home.arrivals.note}</p>
-          <Link
-            href={englishShopEnabled ? "/en/products" : mallUrl(officialMall, locale)}
-            className="mt-3 inline-block bg-[#0068b7] px-4 py-2 text-[10px] font-bold uppercase tracking-wider text-white"
-          >
-            {englishShopEnabled ? copy.home.arrivals.cta : copy.shop.malls.official.name}
-          </Link>
+          {locale === "en" && isInboundShopifyPocEnabled() ? (
+            <Link
+              href={emptyHref}
+              className="mt-3 inline-block bg-[#0068b7] px-4 py-2 text-[10px] font-bold uppercase tracking-wider text-white"
+            >
+              {copy.home.arrivals.cta}
+            </Link>
+          ) : (
+            <a
+              href={emptyHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-block bg-[#0068b7] px-4 py-2 text-[10px] font-bold uppercase tracking-wider text-white"
+            >
+              {copy.home.arrivals.cta}
+            </a>
+          )}
         </div>
       )}
     </>

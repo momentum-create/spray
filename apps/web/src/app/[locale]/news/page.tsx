@@ -16,7 +16,13 @@ export default async function NewsPage({ params }: PageProps) {
       <PageHero title={copy.news.title} />
       <section className="container-page pb-12">
         {posts.length === 0 ? (
-          <p className="text-spray-muted">{copy.news.empty}</p>
+          <div className="max-w-xl space-y-3">
+            <p className="text-spray-muted">{copy.news.empty}</p>
+            <p className="text-sm text-spray-muted">{copy.news.emptyHint}</p>
+            <LocaleLink href="/about/access" locale={locale} className="btn-park inline-block">
+              {copy.ui.contactCta}
+            </LocaleLink>
+          </div>
         ) : (
           <ul className="space-y-6">
             {posts.map((post) => (

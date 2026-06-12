@@ -4,6 +4,7 @@ import Link from "next/link";
 import { dawnCopy } from "@/content/inbound/dawn-copy.en";
 import { formatJpy } from "@/content/inbound/products.en";
 import { ProductImage } from "@/components/inbound/dawn/ProductImage";
+import { fulfillmentMethodLabel } from "@/components/inbound/dawn/fulfillment";
 import { useCart } from "@/components/inbound/dawn/CartProvider";
 
 export function DrawerCart() {
@@ -73,6 +74,9 @@ export function DrawerCart() {
                     {line.variantLabel ? (
                       <p className="mt-1 text-xs text-black/50">{line.variantLabel}</p>
                     ) : null}
+                    <p className="mt-1 text-xs text-black/50">
+                      {fulfillmentMethodLabel(line.fulfillmentMethod)}
+                    </p>
                     {line.pickupDate ? (
                       <p className="mt-1 text-xs text-black/50">Pickup: {line.pickupDate}</p>
                     ) : null}

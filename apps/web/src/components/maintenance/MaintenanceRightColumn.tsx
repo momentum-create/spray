@@ -94,7 +94,7 @@ export function MaintenanceRightColumn({ copy, facts }: Props) {
             Facebook
           </a>
         </div>
-        <p className="mt-4 text-[8px]">{copy.footer.copyright(new Date().getFullYear())}</p>
+        <p className="mt-4 text-[8px]">© {new Date().getFullYear()} {copy.footer.copyright}</p>
       </footer>
     </div>
   );

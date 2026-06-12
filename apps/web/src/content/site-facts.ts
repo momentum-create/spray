@@ -31,6 +31,13 @@ export const siteFacts = {
     note: "店舗・パークともにサイト表記は上記（パーク料金は別画像表を参照）",
   },
 
+  parkStatus: {
+    state: "open" as "open" | "limited" | "closed",
+    messageJa: "",
+    messageEn: "",
+    updatedAt: "2026-06-02",
+  },
+
   access: {
     byCarFromStation: "旭川駅より約15分",
     byCarFromAirport: "旭川空港より約30分",
@@ -73,10 +80,15 @@ export const siteFacts = {
   ],
 
   skatepark: {
-    headline: "国内最大級！全面580㎡の広々としたパーク",
-    subhead: "＊spray skate park＊",
+    headline: "国内最大級！全面５８０㎡の広々としたパーク",
+    subhead: "＊SPRAY SKATE PARK＊",
     intro:
       "ストリートコースが拡張されより楽しくなりましたので、皆さん気軽におこし下さいませ！",
+    /** トップヒーロー（出典: spray166.com/aircraft/ 2026-05 撮影） */
+    heroImage: "/images/skatepark/hero.jpg",
+    /** 各フィーチャー横のアイコン（旧 home_jet_list2） */
+    featureIcon: "/images/skatepark/feature-icon.png",
+    /** 施設写真: public/images/skatepark/（旧公式 WP から取り込み・店舗撮影差し替え可） */
     sections: [
       {
         name: "ストリートコース",
@@ -89,12 +101,81 @@ export const siteFacts = {
         description: "エアー（ジャンプ）の高さや空中姿勢等を競い合う為のセクション。",
       },
     ],
-    priceImageUrl:
-      "https://www.spray166.com/wp-content/uploads/2019/09/parkrpice.jpg",
     scheduleImageUrl:
       "https://www.spray166.com/wp-content/uploads/2019/09/radysday.jpg",
     priceNote:
-      "パーク利用料金は公式サイト上「パーク利用時間料金表」の画像で掲載（HTML表なし）。再構築時に表へ転記予定。",
+      "料金は税込表示です。変更になる場合があります。詳細は店頭またはお電話でご確認ください。",
+    pricing: {
+      usageFees: {
+        rows: [
+          { id: "1h", item: "1時間", price: "¥500" },
+          { id: "2h", item: "2時間", price: "¥800" },
+          { id: "3h", item: "3時間", price: "¥1,000" },
+          { id: "day", item: "1日", price: "¥1,300" },
+        ],
+      },
+      purposeNote:
+        "パークの利用料金は基材の修理費、パーク維持経費等に役立つお金です。",
+      registerNote:
+        "＊レジカウンターにて、氏名と入場時間を利用表にご記入下さい。ご協力お願いします。",
+      legacyChart: {
+        src: "/images/skatepark/park-price-chart.jpg",
+        altJa: "パーク利用時間料金表",
+        altEn: "Park usage fee chart by session length",
+      },
+    },
+    facilityAreas: [
+      {
+        id: "section1",
+        headline: "クオーターバンクに挟まれたロングストレートセクション",
+        images: ["/images/skatepark/section-1.jpg"],
+        features: [
+          { name: "TABLE TOP", description: "カーブBOXとキンクレールの2WAY仕様" },
+          { name: "LONG BOX", description: "両側からエントリー可能なコンクリートBOX" },
+        ],
+      },
+      {
+        id: "section2",
+        headline: "レギュラーサイズのハーフボウルセクション",
+        images: [
+          "/images/skatepark/section-2a.jpg",
+          "/images/skatepark/section-2b.jpg",
+        ],
+        features: [
+          {
+            name: "HALF BOWL",
+            description: "ランページとしての練習もボウルとしての練習もOK",
+          },
+        ],
+      },
+      {
+        id: "section3",
+        headline: "幅広でゆったりとしたフラットトリックセクション",
+        images: ["/images/skatepark/section-3.jpg"],
+        features: [
+          { name: "CONCRETE SURFACE", description: "跳ねやすく滑りやすい幅広コンクリート" },
+          { name: "MINI BOX", description: "低いボックスで初期練習もOK" },
+        ],
+      },
+      {
+        id: "section4",
+        headline: "初めての方から上級者まで楽しめるランプセクション",
+        images: ["/images/skatepark/section-4-ramp.jpg"],
+        features: [
+          {
+            name: "MINI RAMPAGE",
+            description: "初めての方はロープを掴みながらドロップインから練習OK",
+          },
+        ],
+      },
+    ],
+    rules: [
+      "ヘルメットの着用を推奨します（未装着の場合は自己責任でご利用ください）。",
+      "他の利用者への配慮とマナーを守ってください。",
+      "飲食物の持ち込み・店内飲食エリアのルールは店頭表示に従ってください。",
+      "貸切・スクール開催日は一般利用できない場合があります。来店前にカレンダーをご確認ください。",
+      "危険な行為・器具の持ち込みはお断りする場合があります。",
+    ],
   },
 
   school: {

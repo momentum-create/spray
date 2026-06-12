@@ -1,4 +1,4 @@
-import { StubPage } from "@/components/ui/StubPage";
+import { LegalPage } from "@/components/content/LegalPage";
 import { getCopy } from "@/i18n/get-copy";
 import { resolveLocale } from "@/i18n/page";
 
@@ -7,12 +7,16 @@ type PageProps = { params: Promise<{ locale: string }> };
 export default async function PrivacyPage({ params }: PageProps) {
   const locale = await resolveLocale(params);
   const copy = getCopy(locale);
+  const { privacy } = copy.legal;
+
   return (
-    <StubPage
+    <LegalPage
       locale={locale}
-      title={copy.legal.privacy.title}
-      lead={copy.legal.privacy.lead}
-      path="/legal/privacy"
+      copy={copy}
+      title={privacy.title}
+      lead={privacy.lead}
+      sections={privacy.sections}
+      updated={privacy.updated}
     />
   );
 }

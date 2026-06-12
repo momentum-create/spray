@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { dawnCopy } from "@/content/inbound/dawn-copy.en";
+import { fulfillmentMethodLabel } from "@/components/inbound/dawn/fulfillment";
 import { useCart } from "@/components/inbound/dawn/CartProvider";
 import { formatJpy } from "@/content/inbound/products.en";
 
@@ -17,6 +18,12 @@ export function ExpressCheckout() {
     () => lines.some((line) => line.product.brandSlug === "gentem"),
     [lines],
   );
+  const fulfillmentSummary = useMemo(() => {
+    const methods = new Set(lines.map((line) => line.fulfillmentMethod));
+    if (methods.size > 1) return "mixed" as const;
+    if (methods.has("domestic_shipping")) return "domestic_shipping" as const;
+    return "store_pickup" as const;
+  }, [lines]);
   const canProceed =
     !hasGentemPreOrder || (agreeFinalSale && agreePickupOnly && agreeTaxRefundFlow);
 
@@ -77,6 +84,9 @@ export function ExpressCheckout() {
                     ))}
                   </ul>
                 ) : null}
+                <p className="text-xs text-black/50">
+                  {fulfillmentMethodLabel(line.fulfillmentMethod)}
+                </p>
                 {line.pickupDate ? (
                   <p className="text-xs text-black/50">Pickup date: {line.pickupDate}</p>
                 ) : null}
@@ -88,7 +98,13 @@ export function ExpressCheckout() {
           <span>{dawnCopy.checkout.total}</span>
           <span>{subtotalLabel}</span>
         </div>
-        <p className="text-xs text-black/50">{dawnCopy.checkout.pickup}</p>
+        <p className="text-xs text-black/50">
+          {fulfillmentSummary === "mixed"
+            ? dawnCopy.checkout.mixedFulfillment
+            : fulfillmentSummary === "domestic_shipping"
+              ? dawnCopy.checkout.domesticShipping
+              : dawnCopy.checkout.pickup}
+        </p>
       </div>
 
       {hasGentemPreOrder ? (
@@ -120,13 +136,14 @@ export function ExpressCheckout() {
               className="mt-1"
             />
             <span>
-              I agree that this product is for PICK-UP IN JAPAN ONLY. No international shipping is
-              provided. Unclaimed items will not be refunded.
+              I agree that fulfillment is within Japan only (store pickup at SPRAY Asahikawa or
+              domestic shipping to a Japan address). No international shipping is provided. Unclaimed
+              store pickup orders will not be refunded.
             </span>
           </label>
           <p className="pl-6 text-xs text-black/55">
-            繁中: 僅限日本國內取貨，不提供海外配送，未取貨不退款。 / 简中:
-            仅限日本国内自提，不提供国际配送，未提货不退款。
+            繁中: 僅限日本國內（店取或國內配送），不提供海外配送；未取貨不退款。 / 简中:
+            仅限日本国内（自提或国内配送），不提供国际配送；未提货不退款。
           </p>
           <label className="flex items-start gap-2 text-sm leading-relaxed text-black/80">
             <input
@@ -146,7 +163,7 @@ export function ExpressCheckout() {
             本站为含税价格（10%），符合条件的退税需在离境时由本人在机场海关办理。
           </p>
           <p className="text-xs text-black/55">
-            日本語: 受注発注品のためキャンセル・変更・返金不可、日本国内受取限定（海外発送なし・未受取返金なし）に同意します。
+            日本語: 受注発注品のためキャンセル・変更・返金不可、日本国内のみ（店頭受取または国内配送・海外発送なし）に同意します。
           </p>
           <p className="text-xs text-black/55">
             Tax free note: store pick-up with passport verification may be eligible. Hotel/domestic

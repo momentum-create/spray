@@ -60,7 +60,22 @@ const localized = {
         },
       ],
       priceNote:
-        "Park fees are published as an image chart on spray166.com (no HTML table yet).",
+        "Prices include tax and may change. Please confirm the latest fees in store or by phone.",
+      pricing: {
+        ...base.skatepark.pricing,
+        usageFees: {
+          rows: [
+            { id: "1h", item: "1 hour", price: "¥500" },
+            { id: "2h", item: "2 hours", price: "¥800" },
+            { id: "3h", item: "3 hours", price: "¥1,000" },
+            { id: "day", item: "Full day", price: "¥1,300" },
+          ],
+        },
+        purposeNote:
+          "Park fees support base repairs, maintenance, and other operating costs.",
+        registerNote:
+          "*At the register, please write your name and entry time on the usage sheet. Thank you.",
+      },
     },
     maintenance: {
       lead:

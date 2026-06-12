@@ -20,10 +20,14 @@ export const dawnCopy = {
       "Not eligible for tax-free: delivery to a hotel or any address in Japan, or any order not collected in person with passport verification at our store.",
     taxFreeBody:
       "Domestic shipping within Japan is always tax-inclusive (no tax-free). International shipping quotes are separate; import duties in your country are not included.",
-    shippingNote:
-      "Pickup at SPRAY Asahikawa, 1-8 Toyooka 12-jo 1-chome — shop hours only (12:00–19:00, closed Wednesdays). For tax-free, follow the steps above and bring your passport.",
+    shippingNotePickup:
+      "Store pickup at SPRAY Asahikawa, 1-8 Toyooka 12-jo 1-chome — shop hours only (12:00–19:00, closed Wednesdays). For tax-free, follow the steps above and bring your passport.",
+    shippingNoteDomestic:
+      "Domestic shipping within Japan only. Shipping fee and delivery timing are confirmed by email after order (demo). Not eligible for tax-free.",
     bopis:
       "Store pickup at SPRAY Asahikawa — collection during shop hours only (12:00–19:00, closed Wednesdays). Want tax-free? Bring your passport to the counter — see steps below.",
+    domesticShippingSelected:
+      "Domestic shipping to a Japan address. Prices are tax-inclusive (10% JP tax) — not eligible for tax-free. We will contact you to confirm shipping fee and delivery.",
     viewOfficial: "View on GENTEMSTICK official store",
     reviews: (n: number) => `${n} review${n === 1 ? "" : "s"}`,
   },
@@ -33,6 +37,24 @@ export const dawnCopy = {
     checkout: "Checkout",
     continue: "Continue shopping",
     added: "Added to cart",
+  },
+  fulfillment: {
+    title: "Delivery method",
+    storePickup: "Store pickup",
+    storePickupNote:
+      "Collect at SPRAY Asahikawa (12:00–19:00, closed Wednesdays). Passport required for tax-free.",
+    domesticShipping: "Domestic shipping",
+    domesticShippingNote:
+      "Delivery to an address in Japan only. Tax-inclusive — not eligible for tax-free.",
+    tuneUpRequiresPickup: "Tune-up add-ons are available with store pickup only.",
+    noInternational: "International shipping is not available on this English shop.",
+    labelStorePickup: "Store pickup",
+    labelDomesticShipping: "Domestic shipping (Japan)",
+  },
+  dateField: {
+    month: "Month",
+    day: "Day",
+    year: "Year",
   },
   tuneUp: {
     title: "Book a pro tune-up",
@@ -48,6 +70,9 @@ export const dawnCopy = {
     express: "Express checkout",
     subtotal: "Subtotal",
     pickup: "Store pickup — Asahikawa (12:00–19:00, closed Wed · passport for tax-free)",
+    domesticShipping: "Domestic shipping — Japan address (tax-inclusive, not tax-free)",
+    mixedFulfillment:
+      "Your cart includes both store pickup and domestic shipping. Each line is fulfilled as selected on the product page.",
     total: "Total",
     pay: "Complete order (demo)",
     demoNote: "This is a presentation demo. No payment is processed.",

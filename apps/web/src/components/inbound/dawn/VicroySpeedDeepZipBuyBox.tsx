@@ -9,8 +9,12 @@ import {
   getVicroySpeedDeepZipProduct,
   vicroySpeedDeepZip,
 } from "@/content/inbound/vicroy-speed-deep-zip.en";
-import { BopisPickup } from "@/components/inbound/dawn/BopisPickup";
 import { TaxFreeNote } from "@/components/inbound/dawn/TaxFreeNote";
+import { FulfillmentMethodSelector } from "@/components/inbound/dawn/FulfillmentMethodSelector";
+import {
+  DEFAULT_FULFILLMENT_METHOD,
+  type FulfillmentMethod,
+} from "@/components/inbound/dawn/fulfillment";
 import { useCart } from "@/components/inbound/dawn/CartProvider";
 
 type Props = {
@@ -21,13 +25,22 @@ export function VicroySpeedDeepZipBuyBox({ product }: Props) {
   const { addToCart } = useCart();
   const router = useRouter();
   const [size, setSize] = useState<(typeof vicroySpeedDeepZip.sizes)[number] | "">("");
+  const [fulfillmentMethod, setFulfillmentMethod] = useState<FulfillmentMethod>(
+    DEFAULT_FULFILLMENT_METHOD,
+  );
+  const isStorePickup = fulfillmentMethod === "store_pickup";
 
   const variantLabel = size ? `Size ${size} · BLACK` : "";
   const canPurchase = size !== "";
 
+  const cartOptions = {
+    fulfillmentMethod,
+    variantLabel: canPurchase ? variantLabel : undefined,
+  };
+
   const addLine = () => {
     if (!canPurchase) return;
-    addToCart(product, [], undefined, variantLabel);
+    addToCart(product, cartOptions);
   };
 
   return (
@@ -73,13 +86,13 @@ export function VicroySpeedDeepZipBuyBox({ product }: Props) {
         <ul className="mt-3 list-disc space-y-1 pl-5 text-sm leading-relaxed text-black/80">
           <li>先行予約のため、納品までお時間をいただきます（11月中旬予定）。</li>
           <li>決済後のキャンセル・変更・返金はお受けできません。</li>
-          <li>日本国内の店舗受取のみ。海外発送は行いません。</li>
+          <li>日本国内の店舗受取または国内配送。海外発送は行いません。</li>
           <li>サイズによっては在庫がない場合がございます。確定は店舗にてご連絡します。</li>
         </ul>
         <ul className="mt-3 list-disc space-y-1 pl-5 text-xs leading-relaxed text-black/65">
           <li>Pre-order only; estimated delivery mid-November.</li>
           <li>No cancellation, modification, or refund after payment.</li>
-          <li>Pick-up in Japan only. Size availability may vary — we will confirm by email.</li>
+          <li>Japan only — store pickup or domestic shipping. Size availability may vary.</li>
         </ul>
       </section>
 
@@ -113,6 +126,14 @@ export function VicroySpeedDeepZipBuyBox({ product }: Props) {
         ) : null}
       </fieldset>
 
+      <div className="mt-5">
+        <FulfillmentMethodSelector
+          name="fulfillment-vicroy"
+          value={fulfillmentMethod}
+          onChange={setFulfillmentMethod}
+        />
+      </div>
+
       <div className="mt-6 space-y-3">
         <button
           type="button"
@@ -143,13 +164,27 @@ export function VicroySpeedDeepZipBuyBox({ product }: Props) {
         </a>
       </div>
 
-      <div className="mt-4">
-        <BopisPickup />
-      </div>
+      {isStorePickup ? (
+        <div className="mt-4 flex items-start gap-2 rounded-sm border border-[#e8e8e8] bg-[#f9f9f9] px-3 py-3 text-sm text-black">
+          <span className="mt-0.5 shrink-0 font-bold text-[#108043]" aria-hidden>
+            ✓
+          </span>
+          <span>{dawnCopy.product.bopis}</span>
+        </div>
+      ) : (
+        <div className="mt-4 flex items-start gap-2 rounded-sm border border-[#e8e8e8] bg-[#f9f9f9] px-3 py-3 text-sm text-black">
+          <span className="mt-0.5 shrink-0 font-bold text-black/70" aria-hidden>
+            →
+          </span>
+          <span>{dawnCopy.product.domesticShippingSelected}</span>
+        </div>
+      )}
 
-      <TaxFreeNote />
+      <TaxFreeNote show={isStorePickup} />
 
-      <p className="mt-4 text-xs leading-relaxed text-black/50">{dawnCopy.product.shippingNote}</p>
+      <p className="mt-4 text-xs leading-relaxed text-black/50">
+        {isStorePickup ? dawnCopy.product.shippingNotePickup : dawnCopy.product.shippingNoteDomestic}
+      </p>
     </div>
   );
 }

@@ -1,0 +1,11 @@
+{
+  "state": "success",
+  "mode": "full",
+  "startedAt": "2026-05-28T13:15:24.477Z",
+  "endedAt": "2026-05-28T13:21:34.818Z",
+  "pid": 16324,
+  "command": "node scripts/fetch-category-catalog.mjs --all --images",
+  "lastMessage": "Sync completed.",
+  "lastExitCode": 0,
+  "logPath": "C:\\Users\\Takum\\Desktop\\Cloude\\SPRAY\\apps\\web\\.ops\\update-center.log"
+}

@@ -57,3 +57,60 @@ export function mallUrl(mall: (typeof malls)[number], locale?: Locale): string {
   const sep = mall.url.includes("?") ? "&" : "?";
   return `${mall.url}${sep}${mall.utm}`;
 }
+
+const LEGAL_UTM_TOKUSHO = "utm_source=spray166&utm_medium=site&utm_campaign=legal_tokusho";
+const LEGAL_UTM_INFO = "utm_source=spray166&utm_medium=site&utm_campaign=legal_info";
+
+export type MallLegalLink = {
+  href: string;
+  label: string;
+  internal?: boolean;
+  kind: "tokusho" | "info" | "guide";
+};
+
+export function mallLegalLinks(
+  id: MallId,
+  locale: Locale,
+  labels: {
+    tokusho: string;
+    info: string;
+    guide: string;
+  },
+): MallLegalLink[] {
+  if (id === "official") {
+    return [
+      {
+        href: `/${locale}/legal/tokusho`,
+        label: labels.tokusho,
+        internal: true,
+        kind: "tokusho",
+      },
+      {
+        href: `https://www.spray166.shop/html/info.html?${LEGAL_UTM_INFO}`,
+        label: labels.info,
+        kind: "info",
+      },
+    ];
+  }
+  if (id === "rakuten") {
+    return [
+      {
+        href: `https://www.rakuten.co.jp/spray/info.html?${LEGAL_UTM_TOKUSHO}`,
+        label: labels.tokusho,
+        kind: "tokusho",
+      },
+    ];
+  }
+  return [
+    {
+      href: `https://store.shopping.yahoo.co.jp/spray/info.html?${LEGAL_UTM_TOKUSHO}`,
+      label: labels.tokusho,
+      kind: "tokusho",
+    },
+    {
+      href: `https://store.shopping.yahoo.co.jp/spray/guide.html?${LEGAL_UTM_INFO}`,
+      label: labels.guide,
+      kind: "guide",
+    },
+  ];
+}

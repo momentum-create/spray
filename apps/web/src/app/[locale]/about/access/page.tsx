@@ -1,4 +1,6 @@
-﻿import { PageHero } from "@/components/ui/PageHero";
+﻿import { ContactForm } from "@/components/forms/ContactForm";
+import { LocalBusinessJsonLd } from "@/components/seo/LocalBusinessJsonLd";
+import { PageHero } from "@/components/ui/PageHero";
 import { getSiteFacts } from "@/content/get-site-facts";
 import { getCopy } from "@/i18n/get-copy";
 import { resolveLocale } from "@/i18n/page";
@@ -13,6 +15,7 @@ export default async function AccessPage({ params }: PageProps) {
 
   return (
     <>
+      <LocalBusinessJsonLd locale={locale} />
       <PageHero
         title={copy.about.access.title}
         lead={`${address.full} / TEL ${contact.tel}`}
@@ -37,6 +40,8 @@ export default async function AccessPage({ params }: PageProps) {
             <dd>{hours.closedDay}</dd>
           </dl>
         </section>
+
+        <ContactForm locale={locale} copy={copy} />
 
         <section>
           <h2 className="text-xl font-bold">{labels.byCar}</h2>

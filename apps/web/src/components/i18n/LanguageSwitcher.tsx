@@ -30,7 +30,7 @@ export function LanguageSwitcher({ locale }: LanguageSwitcherProps) {
             className={`rounded px-2 py-1 font-medium transition ${
               active
                 ? "bg-spray-orange text-black"
-                : "text-spray-muted hover:text-white"
+                : "text-spray-muted hover:text-spray-text"
             }`}
             aria-current={active ? "page" : undefined}
             hrefLang={l}
