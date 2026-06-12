@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { LocaleLink } from "@/components/i18n/LocaleLink";
-import { OwlGoggleReserveForm } from "@/components/forms/OwlGoggleReserveForm";
+import { OwlGoggleJaCheckout } from "@/components/shop/OwlGoggleJaCheckout";
 import type { Locale } from "@/i18n/config";
 import type { Copy } from "@/i18n/get-copy";
 
@@ -166,7 +166,7 @@ export function OwlGoggleReserveView({ locale, copy }: Props) {
           <h2 className="text-xl font-bold text-white">{o.form.title}</h2>
           <p className="mt-2 text-sm text-white/70">{o.form.lead}</p>
           <div className="mt-6">
-            <OwlGoggleReserveForm locale={locale} copy={copy} />
+            <OwlGoggleJaCheckout copy={copy} />
           </div>
         </section>
 

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { redirect } from "next/navigation";
+import { CartProvider } from "@/components/inbound/dawn/CartProvider";
 import { OwlGoggleReserveView } from "@/components/shop/OwlGoggleReserveView";
 import { getCopy } from "@/i18n/get-copy";
 import { resolveLocale } from "@/i18n/page";
@@ -32,5 +33,9 @@ export default async function OwlGogglePage({ params }: PageProps) {
   }
 
   const copy = getCopy(locale);
-  return <OwlGoggleReserveView locale={locale} copy={copy} />;
+  return (
+    <CartProvider drawer="ja">
+      <OwlGoggleReserveView locale={locale} copy={copy} />
+    </CartProvider>
+  );
 }

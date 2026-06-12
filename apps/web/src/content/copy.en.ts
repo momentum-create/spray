@@ -286,7 +286,44 @@ export const copy = {
       shippingNote:
         "Planned rule: free shipping on ¥5,000+ tax incl. (this item at ¥25,000 qualifies at qty 1).",
       paymentNote:
-        "Test mode — no payment is processed. Live checkout will be added at launch.",
+        "Demo site — no real payment is processed at checkout.",
+    },
+    checkout: {
+      cartTitle: "Your cart",
+      cartEmpty: "Your cart is empty",
+      checkout: "Checkout",
+      continue: "Continue shopping",
+      remove: "Remove",
+      addToCart: "Add to cart",
+      buyNow: "Buy it now",
+      pageTitle: "Checkout",
+      demoNote: "Presentation demo — no payment is processed.",
+      total: "Total (tax incl.)",
+      pay: "Complete order (demo)",
+      agreementTitle: "Pre-order agreement",
+      owlDeliveryNote: "Estimated delivery early November 2026. Fixed lenses: Flow black, Vent blue.",
+      agreeFinalSale:
+        "I understand that after payment, cancellation, modification, and refunds are not accepted.",
+      agreePickupOnly:
+        "I agree to Japan-only fulfillment (SPRAY Asahikawa pickup or domestic shipping).",
+      agreeTax:
+        "I understand prices are tax-inclusive (10%) and any tax refund is my responsibility at departure.",
+      agreementHint: "Please check all boxes to proceed.",
+      pickupSummary: "Store pickup — Asahikawa SPRAY",
+      shipSummary: "Domestic shipping — Japan address",
+      mixedSummary: "Your cart includes both pickup and shipping lines.",
+      pickupSelected: "Collect at SPRAY Asahikawa during shop hours.",
+      shipSelected: "Domestic shipping within Japan. Fee confirmed separately (demo).",
+      fulfillment: {
+        title: "Fulfillment",
+        storePickup: "Store pickup (SPRAY Asahikawa)",
+        storePickupNote: "12:00–19:00, closed Wednesdays.",
+        domesticShipping: "Domestic shipping",
+        domesticShippingNote: "Delivery to a Japan address only.",
+        noInternational: "No international shipping.",
+        labelStorePickup: "Store pickup",
+        labelDomesticShipping: "Domestic shipping",
+      },
     },
     notices: {
       title: "Pre-order notes",

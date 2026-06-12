@@ -4,6 +4,7 @@ import {
   createContext,
   useCallback,
   useContext,
+  useEffect,
   useMemo,
   useState,
   type ReactNode,
@@ -11,11 +12,24 @@ import {
 import type { ShopProduct } from "@/content/inbound/shop-product";
 import { formatJpy } from "@/content/inbound/products.en";
 import { DrawerCart } from "@/components/inbound/dawn/DrawerCart";
+import { OwlGoggleJaDrawerCart } from "@/components/shop/OwlGoggleJaDrawerCart";
 import {
   DEFAULT_FULFILLMENT_METHOD,
   fulfillmentLineKeySuffix,
   type FulfillmentMethod,
 } from "@/components/inbound/dawn/fulfillment";
+
+const CART_STORAGE_KEY = "spray-dawn-cart-v1";
+
+function readStoredLines(): CartLine[] {
+  if (typeof window === "undefined") return [];
+  try {
+    const raw = sessionStorage.getItem(CART_STORAGE_KEY);
+    return raw ? (JSON.parse(raw) as CartLine[]) : [];
+  } catch {
+    return [];
+  }
+}
 
 export type CartAddon = {
   id: "pre-tune" | "full-tune" | "gentem-sole-guard" | "spray-knit-sole-guard";
@@ -38,7 +52,10 @@ export type AddToCartOptions = {
   fulfillmentMethod?: FulfillmentMethod;
   pickupDate?: string;
   variantLabel?: string;
+  quantity?: number;
 };
+
+export type CartDrawerLocale = "en" | "ja" | "none";
 
 type CartContextValue = {
   lines: CartLine[];
@@ -54,9 +71,24 @@ type CartContextValue = {
 
 const CartContext = createContext<CartContextValue | null>(null);
 
-export function CartProvider({ children }: { children: ReactNode }) {
+export function CartProvider({
+  children,
+  drawer = "en",
+}: {
+  children: ReactNode;
+  drawer?: CartDrawerLocale;
+}) {
   const [lines, setLines] = useState<CartLine[]>([]);
   const [isOpen, setIsOpen] = useState(false);
+
+  useEffect(() => {
+    setLines(readStoredLines());
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    sessionStorage.setItem(CART_STORAGE_KEY, JSON.stringify(lines));
+  }, [lines]);
 
   const addToCart = useCallback((product: ShopProduct, options: AddToCartOptions = {}) => {
     const {
@@ -64,7 +96,9 @@ export function CartProvider({ children }: { children: ReactNode }) {
       fulfillmentMethod = DEFAULT_FULFILLMENT_METHOD,
       pickupDate,
       variantLabel,
+      quantity = 1,
     } = options;
+    const addQty = Math.max(1, quantity);
     const addonSignature = addons
       .map((a) => a.id)
       .sort()
@@ -80,7 +114,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
       const existing = prev.find((l) => l.lineKey === lineKey);
       if (existing) {
         return prev.map((l) =>
-          l.lineKey === lineKey ? { ...l, quantity: l.quantity + 1 } : l,
+          l.lineKey === lineKey ? { ...l, quantity: l.quantity + addQty } : l,
         );
       }
       return [
@@ -93,7 +127,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
             fulfillmentMethod === "store_pickup" ? pickupDate : undefined,
           variantLabel,
           lineKey,
-          quantity: 1,
+          quantity: addQty,
         },
       ];
     });
@@ -137,7 +171,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
   return (
     <CartContext.Provider value={value}>
       {children}
-      <DrawerCart />
+      {drawer === "en" ? <DrawerCart /> : drawer === "ja" ? <OwlGoggleJaDrawerCart /> : null}
     </CartContext.Provider>
   );
 }
