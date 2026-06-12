@@ -1,26 +1,48 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import Script from "next/script";
 import { LocaleLink } from "@/components/i18n/LocaleLink";
 import type { Locale } from "@/i18n/config";
 import type { Copy } from "@/i18n/get-copy";
 import { trackEvent } from "@/lib/analytics";
+import type { OwlGoggleModel } from "@/lib/forms/types";
 import { getRecaptchaToken } from "@/lib/forms/use-recaptcha";
 import type { FormResponse } from "@/lib/forms/types";
+import {
+  OWL_GOGGLE_SHOP_INFO_URL,
+  calcOwlGoggleOrder,
+} from "@/lib/owl-goggle-commerce";
 
 type Props = { locale: Locale; copy: Copy };
 
+function formatJpy(n: number, locale: Locale) {
+  return new Intl.NumberFormat(locale === "ja" ? "ja-JP" : "en-US", {
+    style: "currency",
+    currency: "JPY",
+    maximumFractionDigits: 0,
+  }).format(n);
+}
+
 export function OwlGoggleReserveForm({ locale, copy }: Props) {
   const o = copy.owlGoggle.form;
+  const pricing = copy.owlGoggle.pricing;
   const f = copy.form;
   const tel = copy.footer.tel;
   const telLink = copy.footer.telLink;
-  const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
+
+  const [model, setModel] = useState<OwlGoggleModel>("flow");
+  const [quantity, setQuantity] = useState(1);
+  const [status, setStatus] = useState<"idle" | "submitting" | "error">("idle");
+  const [errorMsg, setErrorMsg] = useState("");
+
+  const order = useMemo(() => calcOwlGoggleOrder(model, quantity), [model, quantity]);
 
   async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     setStatus("submitting");
+    setErrorMsg("");
+
     const form = e.currentTarget;
     const fd = new FormData(form);
     const token = await getRecaptchaToken("owl_goggle_reserve");
@@ -45,20 +67,18 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
     });
 
     const data = (await res.json()) as FormResponse;
-    if (data.ok) {
-      setStatus("success");
-      trackEvent("form_submit_owl_goggle_reserve", { locale });
+    if (data.ok && data.checkoutUrl) {
+      trackEvent("owl_goggle_checkout_redirect", { locale, model });
+      window.location.href = data.checkoutUrl;
       return;
     }
-    setStatus("error");
-  }
 
-  if (status === "success") {
-    return (
-      <div role="status" className="rounded border border-spray-border bg-spray-surface p-6">
-        <p className="text-spray-text">{f.owlGoggle.success}</p>
-      </div>
-    );
+    setStatus("error");
+    if (!data.ok && data.error === "CHECKOUT_NOT_CONFIGURED") {
+      setErrorMsg(f.owlGoggle.checkoutNotConfigured);
+      return;
+    }
+    setErrorMsg(f.owlGoggle.fail);
   }
 
   const siteKey = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY;
@@ -73,19 +93,45 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
           strategy="afterInteractive"
         />
       ) : null}
+
+      <div className="mb-6 rounded border border-white/20 bg-black/30 p-4 text-sm text-white">
+        <p className="font-bold">{pricing.summaryTitle}</p>
+        <dl className="mt-3 space-y-1">
+          <div className="flex justify-between gap-4">
+            <dt className="text-white/70">{pricing.subtotal}</dt>
+            <dd>{formatJpy(order.subtotal, locale)}</dd>
+          </div>
+          <div className="flex justify-between gap-4">
+            <dt className="text-white/70">{pricing.shipping}</dt>
+            <dd>
+              {order.shipping === 0 ? pricing.shippingFree : formatJpy(order.shipping, locale)}
+            </dd>
+          </div>
+          <div className="flex justify-between gap-4 border-t border-white/20 pt-2 font-bold">
+            <dt>{pricing.total}</dt>
+            <dd>{formatJpy(order.total, locale)}</dd>
+          </div>
+        </dl>
+        <p className="mt-3 text-xs leading-relaxed text-white/60">{pricing.shippingNote}</p>
+        <p className="mt-2 text-xs leading-relaxed text-white/60">{pricing.paymentNote}</p>
+      </div>
+
       <p className="text-sm text-white/70">
         {o.phoneCta}:{" "}
         <a href={telLink} className="font-bold text-white underline">
           {tel}
         </a>
       </p>
-      {status === "error" ? (
+
+      {status === "error" && errorMsg ? (
         <p role="alert" className="mt-4 rounded border border-red-500/50 p-3 text-sm text-red-300">
-          {f.owlGoggle.fail}
+          {errorMsg}
         </p>
       ) : null}
+
       <form className="mt-6 space-y-5" onSubmit={onSubmit} noValidate>
         <input type="text" name="website" tabIndex={-1} className="sr-only" aria-hidden />
+
         <div className="grid gap-4 sm:grid-cols-2">
           <div>
             <label className="text-sm text-white/70" htmlFor="og-name">
@@ -100,6 +146,7 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
             <input id="og-phone" name="phone" type="tel" required className={inputClass} />
           </div>
         </div>
+
         <div>
           <label className="text-sm text-white/70" htmlFor="og-email">
             {f.contact.email} *
@@ -112,7 +159,14 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
             <label className="text-sm text-white/70" htmlFor="og-model">
               {o.model} *
             </label>
-            <select id="og-model" name="model" required className={inputClass}>
+            <select
+              id="og-model"
+              name="model"
+              required
+              className={inputClass}
+              value={model}
+              onChange={(e) => setModel(e.target.value as OwlGoggleModel)}
+            >
               <option value="flow">{o.models.flow}</option>
               <option value="vent">{o.models.vent}</option>
               <option value="both">{o.models.both}</option>
@@ -134,7 +188,14 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
             <label className="text-sm text-white/70" htmlFor="og-qty">
               {o.quantity} *
             </label>
-            <select id="og-qty" name="quantity" required defaultValue="1" className={inputClass}>
+            <select
+              id="og-qty"
+              name="quantity"
+              required
+              className={inputClass}
+              value={quantity}
+              onChange={(e) => setQuantity(Number(e.target.value))}
+            >
               {[1, 2, 3, 4, 5].map((n) => (
                 <option key={n} value={n}>
                   {n}
@@ -184,10 +245,22 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
         <button
           type="submit"
           disabled={status === "submitting"}
-          className="btn-park min-h-12 w-full sm:w-auto"
+          className="btn-orange-solid min-h-12 w-full sm:w-auto"
         >
           {status === "submitting" ? f.submitting : f.owlGoggle.submit}
         </button>
+
+        <p className="text-xs text-white/50">
+          {o.checkoutNote}{" "}
+          <a
+            href={OWL_GOGGLE_SHOP_INFO_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline"
+          >
+            {pricing.shopInfoLink}
+          </a>
+        </p>
         <p className="text-xs text-white/50">{f.recaptcha.notice}</p>
       </form>
     </>

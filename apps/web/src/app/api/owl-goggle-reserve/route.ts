@@ -2,6 +2,7 @@ import { verifyRecaptcha } from "@/lib/forms/recaptcha";
 import { sendOwlGoggleReserveMail } from "@/lib/forms/send-mail";
 import type { FormErrorResponse, FormSuccessResponse } from "@/lib/forms/types";
 import { validateOwlGoggleReserveBody } from "@/lib/forms/validate";
+import { getOwlGoggleCheckoutUrl } from "@/lib/owl-goggle-commerce";
 import { NextResponse } from "next/server";
 
 export async function POST(request: Request) {
@@ -24,6 +25,14 @@ export async function POST(request: Request) {
   }
 
   const { data } = validated;
+  const checkoutUrl = getOwlGoggleCheckoutUrl(data.model);
+  if (!checkoutUrl) {
+    return NextResponse.json(
+      { ok: false, error: "CHECKOUT_NOT_CONFIGURED" } satisfies FormErrorResponse,
+      { status: 503 },
+    );
+  }
+
   const recaptchaOk = await verifyRecaptcha(data.recaptchaToken, "owl_goggle_reserve");
   if (!recaptchaOk) {
     return NextResponse.json(
@@ -40,5 +49,5 @@ export async function POST(request: Request) {
     );
   }
 
-  return NextResponse.json({ ok: true } satisfies FormSuccessResponse);
+  return NextResponse.json({ ok: true, checkoutUrl } satisfies FormSuccessResponse);
 }

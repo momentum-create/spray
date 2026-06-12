@@ -265,19 +265,32 @@ export const copy = {
         "Ainu motif: 79.41 mm × 45.46 mm",
       ],
     },
+    pricing: {
+      summaryTitle: "Payment summary (estimate)",
+      subtotal: "Subtotal (tax incl.)",
+      shipping: "Shipping (tax incl.)",
+      shippingFree: "Free",
+      total: "Total (tax incl.)",
+      shippingNote:
+        "Shipping follows the official store guide. Free on orders of ¥5,000+ tax incl. (this item qualifies at qty 1). Otherwise ¥550 tax incl. nationwide.",
+      paymentNote:
+        "Pay by credit card, bank transfer, or cash on delivery on the official store checkout.",
+      shopInfoLink: "Official store guide",
+    },
     notices: {
       title: "Pre-order notes",
       items: [
-        "This page is for reservations. We arrange orders after payment is confirmed.",
+        "After confirming your choices, you will check out and pay on spray166.shop immediately.",
         "Delivery is planned for early November 2026 and may shift with production.",
-        "Shipping ¥500 (tax incl.) under ¥27,500; free shipping on two or more units.",
-        "No cancellation or refund for customer convenience. Defects: contact within 7 days of arrival.",
+        "Free shipping on ¥5,000+ tax incl. (single unit at ¥25,000 qualifies).",
+        "No cancellation or refund after payment. Defects: contact within 7 days of arrival.",
         "Store pickup (Asahikawa) or domestic shipping in Japan.",
       ],
     },
     form: {
-      title: "Reservation form",
-      lead: "Choose model and quantity. We will reply with payment and pickup/shipping details.",
+      title: "Reserve & pay",
+      lead: "Choose model and quantity, then continue to checkout on the official store.",
+      checkoutNote: "Checkout happens on the official store. See",
       model: "Model",
       models: {
         flow: "Flow Ainu Logo White (black lens)",
@@ -309,7 +322,11 @@ export const copy = {
         },
         {
           q: "How do I pay?",
-          a: "After you submit the form, we will email or call with payment options.",
+          a: "After submitting the form you are redirected to spray166.shop to pay by credit card, bank transfer, or cash on delivery.",
+        },
+        {
+          q: "What about shipping?",
+          a: "Per the official store guide: free shipping on ¥5,000+ tax incl., so one goggle at ¥25,000 ships free.",
         },
         {
           q: "Flow vs Vent?",
@@ -725,9 +742,11 @@ export const copy = {
       fail: "Could not send. Please call 0166-33-2779.",
     },
     owlGoggle: {
-      success: "Thank you. We will confirm your reservation and contact you shortly.",
+      success: "Redirecting to the official store checkout.",
       fail: "Submission failed. Please call 0166-33-2779 to reserve by phone.",
-      submit: "Submit reservation",
+      checkoutNotConfigured:
+        "Checkout URLs are not configured yet. Please call 0166-33-2779 or visit the store.",
+      submit: "Continue to checkout (official store)",
     },
     maintenance: {
       name: "Name",

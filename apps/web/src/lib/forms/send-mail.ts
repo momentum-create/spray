@@ -1,3 +1,4 @@
+import { calcOwlGoggleOrder } from "@/lib/owl-goggle-commerce";
 import type {
   ContactFormRequest,
   MaintenanceRequestFormRequest,
@@ -77,18 +78,22 @@ export async function sendOwlGoggleReserveMail(
     return false;
   }
 
-  const subject = `[SPRAY] OWLゴーグル予約 (${data.locale}) — ${data.model} x${data.quantity}`;
+  const order = calcOwlGoggleOrder(data.model, data.quantity);
+  const subject = `[SPRAY] OWLゴーグル予約・決済へ (${data.locale}) — ${data.model} x${data.quantity}`;
   const body = formatLines([
     `名前: ${data.name}`,
     `メール: ${data.email}`,
     `電話: ${data.phone}`,
     `モデル: ${data.model}`,
     `バックル: ${data.buckle}`,
-    `数量: ${data.quantity}`,
+    `数量: ${data.quantity}（${order.units}本）`,
     `受取: ${data.fulfillment}`,
+    `小計: ¥${order.subtotal.toLocaleString("ja-JP")}`,
+    `送料: ¥${order.shipping.toLocaleString("ja-JP")}`,
+    `合計: ¥${order.total.toLocaleString("ja-JP")}`,
     data.note ? `メモ: ${data.note}` : "",
     "",
-    "— SPRAY × OWL オリジナルゴーグル予約",
+    "— 公式ストア決済画面へ遷移予定",
   ]);
 
   return sendViaResend(to, subject, body);
