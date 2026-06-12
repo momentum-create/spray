@@ -82,7 +82,17 @@ export const copy = {
         closed: "Closed to public",
       },
     },
-    news: { heading: "NEWS" },
+    news: {
+      heading: "NEWS",
+      promoted: [
+        {
+          href: "/shop/owl-goggle",
+          title: "[Test] SPRAY × OWL original goggle pre-order",
+          date: "2026.06.12",
+          image: "/images/owl-goggle/design-sheet-flow-vent.png",
+        },
+      ],
+    },
     brandsWeCarry: "BRANDS WE CARRY",
     staffAccess: "STAFF & ACCESS",
     boardMaintenance: "BOARD MAINTENANCE",

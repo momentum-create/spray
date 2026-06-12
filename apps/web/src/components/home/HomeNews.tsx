@@ -10,8 +10,28 @@ type HomeNewsProps = {
   posts: { id: number; slug: string; title: { rendered: string }; date: string }[];
 };
 
+const HOME_NEWS_LIMIT = 3;
+
 export function HomeNews({ locale, copy, posts }: HomeNewsProps) {
-  if (posts.length === 0) {
+  const promoted = copy.home.news.promoted.map((item, i) => ({
+    key: `promo-${item.href}`,
+    n: i + 1,
+    title: item.title,
+    href: item.href,
+    image: item.image ?? designAssets.pict.homeFull,
+  }));
+
+  const wpItems = posts.map((p, i) => ({
+    key: `wp-${p.slug}`,
+    n: promoted.length + i + 1,
+    title: p.title.rendered.replace(/<[^>]+>/g, ""),
+    href: `/news/${p.slug}`,
+    image: designAssets.pict.homeFull,
+  }));
+
+  const items = [...promoted, ...wpItems].slice(0, HOME_NEWS_LIMIT);
+
+  if (items.length === 0) {
     return (
       <section>
         <h2 className="section-label mb-3">{copy.home.news.heading}</h2>
@@ -30,21 +50,14 @@ export function HomeNews({ locale, copy, posts }: HomeNewsProps) {
     );
   }
 
-  const items = posts.slice(0, 3).map((p, i) => ({
-    n: i + 1,
-    title: p.title.rendered.replace(/<[^>]+>/g, ""),
-    slug: p.slug,
-    image: designAssets.pict.homeFull,
-  }));
-
   return (
     <section>
       <h2 className="section-label mb-3">{copy.home.news.heading}</h2>
       <div className="grid grid-cols-1 gap-3">
         {items.map((item) => (
           <LocaleLink
-            key={item.slug}
-            href={`/news/${item.slug}`}
+            key={item.key}
+            href={item.href}
             locale={locale}
             className="block hover:opacity-90"
           >
@@ -52,7 +65,7 @@ export function HomeNews({ locale, copy, posts }: HomeNewsProps) {
               <span className="news-badge">{item.n}</span>
               <Image src={item.image} alt="" fill className="object-cover opacity-80" sizes="33vw" />
             </div>
-            <p className="mt-2 text-xs font-bold leading-snug text-white">{item.title}</p>
+            <p className="mt-2 text-xs font-bold leading-snug text-spray-text">{item.title}</p>
           </LocaleLink>
         ))}
       </div>

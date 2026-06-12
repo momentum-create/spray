@@ -84,7 +84,17 @@ export const copy = {
         closed: "一般利用不可",
       },
     },
-    news: { heading: "お知らせ" },
+    news: {
+      heading: "お知らせ",
+      promoted: [
+        {
+          href: "/shop/owl-goggle",
+          title: "【テスト】SPRAY × OWL オリジナルゴーグル 予約受付",
+          date: "2026.06.12",
+          image: "/images/owl-goggle/design-sheet-flow-vent.png",
+        },
+      ],
+    },
     brandsWeCarry: "取扱ブランド",
     staffAccess: "スタッフ・アクセス",
     boardMaintenance: "ボードメンテナンス",
