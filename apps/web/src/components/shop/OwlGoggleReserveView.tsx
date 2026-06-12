@@ -21,10 +21,10 @@ function ModelCard({
   const refUrl = o.refUrls[modelKey];
 
   return (
-    <article className="flex flex-col border border-spray-border bg-spray-surface">
+    <article className="card-dark flex flex-col">
       <div className="border-b border-spray-border p-4">
         <p className="text-xs font-bold uppercase tracking-widest text-spray-orange">{m.name}</p>
-        <h3 className="mt-1 text-lg font-bold leading-snug text-white">{m.variant}</h3>
+        <h3 className="mt-1 text-lg font-bold leading-snug text-spray-text">{m.variant}</h3>
         <p className="mt-2 text-sm text-spray-muted">{m.tagline}</p>
       </div>
       <div className="flex flex-1 flex-col p-4">
@@ -174,8 +174,8 @@ export function OwlGoggleReserveView({ locale, copy }: Props) {
           <h2 className="section-label mb-4">{o.faq.title}</h2>
           <dl className="space-y-4">
             {o.faq.items.map((item) => (
-              <div key={item.q} className="border border-spray-border bg-spray-surface p-4">
-                <dt className="font-bold text-white">{item.q}</dt>
+              <div key={item.q} className="card-dark p-4">
+                <dt className="font-bold text-spray-text">{item.q}</dt>
                 <dd className="mt-2 text-sm text-spray-muted">{item.a}</dd>
               </div>
             ))}

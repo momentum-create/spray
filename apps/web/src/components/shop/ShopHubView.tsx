@@ -55,7 +55,7 @@ export function ShopHubView({ locale, copy }: Props) {
                   href={mallUrl(mall, locale)}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex min-h-[140px] flex-col rounded border border-spray-border bg-spray-surface p-6 hover:border-spray-orange"
+                  className="card-dark flex min-h-[140px] flex-col rounded p-6 hover:border-spray-orange"
                   onClick={() => trackEvent(`ec_click_${mall.id}`, { source: "shop_hub" })}
                 >
                   <h3 className="text-lg font-bold text-spray-text">
@@ -76,7 +76,7 @@ export function ShopHubView({ locale, copy }: Props) {
           <h2 className="section-label mb-4">{s.faqTitle}</h2>
           <dl className="space-y-4">
             {s.faq.map((item) => (
-              <div key={item.q} className="border border-spray-border bg-spray-surface p-4">
+              <div key={item.q} className="card-dark p-4">
                 <dt className="font-bold text-spray-text">{item.q}</dt>
                 <dd className="mt-2 text-sm text-spray-muted">{item.a}</dd>
               </div>

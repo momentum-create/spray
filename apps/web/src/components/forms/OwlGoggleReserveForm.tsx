@@ -76,8 +76,8 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
 
   if (status === "success") {
     return (
-      <div role="status" className="rounded border border-spray-border bg-spray-surface p-6">
-        <p className="font-bold text-white">{f.owlGoggle.success}</p>
+      <div role="status" className="card-dark rounded p-6">
+        <p className="font-bold text-spray-text">{f.owlGoggle.success}</p>
       </div>
     );
   }

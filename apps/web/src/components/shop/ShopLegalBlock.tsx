@@ -33,7 +33,7 @@ export function ShopLegalBlock({ locale, copy }: Props) {
         {cards.map(({ id, links }) => (
           <div
             key={id}
-            className="flex flex-col rounded border border-spray-border bg-spray-surface p-4"
+            className="card-dark flex flex-col rounded p-4"
           >
             <h3 className="font-bold text-spray-text">{mallNavLabel(id, copy, locale)}</h3>
             <p className="mt-2 flex-1 text-sm text-spray-muted">
