@@ -5,7 +5,7 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 67
+    "totalProducts": 65
   },
   "brands": [],
   "products": [
@@ -16,15 +16,6 @@
       "name": "【JACUZZI UNLIMITED】 ジャグジー 【Tribal Rails】 トライバルレール レールバー スケートボード",
       "priceJpy": 2860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003750/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003896",
-      "makeshopId": "000000003896",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Fuzimi Built-In Bearings】 ジミビルトインベアリング スケートボード ベアリング ロンスケ",
-      "priceJpy": 4070,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003896/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -115,15 +106,6 @@
       "name": "【PARIS】 パリス 【7° DEGREE RISER】 (2個SET) スケートボード ライザーパッド",
       "priceJpy": 990,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003846/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003893",
-      "makeshopId": "000000003893",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicarip 78A 60mm】 ミニビカリップ 78A 60mm スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003893/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1198,5 +1180,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-11T20:19:18.672Z"
+  "syncedAt": "2026-06-12T20:07:46.316Z"
 }
