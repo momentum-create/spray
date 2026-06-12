@@ -20,6 +20,8 @@ concurrency:
 
 jobs:
   deploy:
+    # momentum-create のみ（Seeker ミラーでは Pages 未設定のため 404 になる）
+    if: github.repository == 'momentum-create/spray'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

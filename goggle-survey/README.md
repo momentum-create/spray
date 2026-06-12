@@ -6,9 +6,12 @@ SPRAY オリジナルゴーグル（ストラップ4案）の投票用シング�
 
 `main` に push すると [Deploy goggle survey](../.github/workflows/goggle-survey-pages.yml) が `goggle-survey/` をデプロイします。
 
-1. GitHub リポジトリ → **Settings** → **Pages**
-2. **Build and deployment** → Source: **GitHub Actions**
-3. 初回デプロイ後: `https://<org-or-user>.github.io/<repo>/`（`index.html` がエントリ）
+1. [momentum-create/spray の Settings → Pages](https://github.com/momentum-create/spray/settings/pages) を開く
+2. **Build and deployment** → Source: **GitHub Actions** を選んで Save
+3. **Actions** で「Deploy goggle survey」を **Re-run**（初回は push で自動実行）
+4. 成功後: `https://momentum-create.github.io/spray/`（`index.html` がエントリ）
+
+> Seeker-x1/spray にミラーされるが、Pages デプロイは momentum-create 側のみ実行します。
 
 ローカル確認: `index.html` をブラウザで開く（`file://` で可）。
 
