@@ -24,7 +24,7 @@ function ModelCard({
     <article className="flex flex-col border border-spray-border bg-spray-surface">
       <div className="border-b border-spray-border p-4">
         <p className="text-xs font-bold uppercase tracking-widest text-spray-orange">{m.name}</p>
-        <h3 className="mt-1 text-lg font-bold leading-snug text-spray-text">{m.variant}</h3>
+        <h3 className="mt-1 text-lg font-bold leading-snug text-white">{m.variant}</h3>
         <p className="mt-2 text-sm text-spray-muted">{m.tagline}</p>
       </div>
       <div className="flex flex-1 flex-col p-4">
@@ -90,6 +90,13 @@ export function OwlGoggleReserveView({ locale, copy }: Props) {
 
   return (
     <>
+      <div
+        role="status"
+        className="border-b border-amber-400/60 bg-amber-50 px-4 py-3 text-center text-sm font-medium text-amber-950"
+      >
+        {o.testBanner}
+      </div>
+
       <section className="border-b border-spray-border bg-[#001c2c] text-white">
         <div className="container-page py-10 md:py-12">
           <div className="max-w-2xl">
@@ -168,7 +175,7 @@ export function OwlGoggleReserveView({ locale, copy }: Props) {
           <dl className="space-y-4">
             {o.faq.items.map((item) => (
               <div key={item.q} className="border border-spray-border bg-spray-surface p-4">
-                <dt className="font-bold text-spray-text">{item.q}</dt>
+                <dt className="font-bold text-white">{item.q}</dt>
                 <dd className="mt-2 text-sm text-spray-muted">{item.a}</dd>
               </div>
             ))}

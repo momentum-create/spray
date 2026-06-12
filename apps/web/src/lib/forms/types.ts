@@ -1,11 +1,6 @@
 export type ApiLocale = "ja" | "en";
 
-export type FormErrorCode =
-  | "VALIDATION"
-  | "RECAPTCHA"
-  | "RATE_LIMIT"
-  | "SERVER"
-  | "CHECKOUT_NOT_CONFIGURED";
+export type FormErrorCode = "VALIDATION" | "RECAPTCHA" | "RATE_LIMIT" | "SERVER";
 
 export type ContactSubject = "visit" | "product" | "school" | "other";
 
@@ -57,7 +52,6 @@ export interface MaintenanceRequestFormRequest {
 
 export interface FormSuccessResponse {
   ok: true;
-  checkoutUrl?: string;
 }
 
 export interface FormErrorResponse {

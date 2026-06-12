@@ -202,8 +202,10 @@ export const copy = {
       description:
         "SPRAY original goggles with OWL OPTICAL. Flow (black lens) and Vent (blue lens) at ¥25,000 tax incl. Delivery scheduled early November 2026.",
     },
+    testBanner:
+      "Sample site (test mode). For trying the reservation form only — not connected to live checkout.",
     hero: {
-      badge: "Pre-order open",
+      badge: "Test pre-order",
       title: "SPRAY × OWL\nOriginal Goggles",
       lead: "Limited Ainu-pattern strap with OWL branding. Two flip-up magnetic models available for pre-order at SPRAY.",
     },
@@ -272,25 +274,23 @@ export const copy = {
       shippingFree: "Free",
       total: "Total (tax incl.)",
       shippingNote:
-        "Shipping follows the official store guide. Free on orders of ¥5,000+ tax incl. (this item qualifies at qty 1). Otherwise ¥550 tax incl. nationwide.",
+        "Planned rule: free shipping on ¥5,000+ tax incl. (this item at ¥25,000 qualifies at qty 1).",
       paymentNote:
-        "Pay by credit card, bank transfer, or cash on delivery on the official store checkout.",
-      shopInfoLink: "Official store guide",
+        "Test mode — no payment is processed. Live checkout will be added at launch.",
     },
     notices: {
       title: "Pre-order notes",
       items: [
-        "After confirming your choices, you will check out and pay on spray166.shop immediately.",
-        "Delivery is planned for early November 2026 and may shift with production.",
-        "Free shipping on ¥5,000+ tax incl. (single unit at ¥25,000 qualifies).",
-        "No cancellation or refund after payment. Defects: contact within 7 days of arrival.",
+        "Test mode: submission logs your request only. No real order or payment.",
+        "Delivery target is early November 2026 when live pre-orders open.",
+        "Planned free shipping on ¥5,000+ tax incl. (¥25,000 unit qualifies).",
+        "Live policy (no refund after payment, etc.) will be shown at launch.",
         "Store pickup (Asahikawa) or domestic shipping in Japan.",
       ],
     },
     form: {
-      title: "Reserve & pay",
-      lead: "Choose model and quantity, then continue to checkout on the official store.",
-      checkoutNote: "Checkout happens on the official store. See",
+      title: "Test reservation form",
+      lead: "Choose model and quantity and submit (test mode — no payment).",
       model: "Model",
       models: {
         flow: "Flow Ainu Logo White (black lens)",
@@ -322,11 +322,11 @@ export const copy = {
         },
         {
           q: "How do I pay?",
-          a: "After submitting the form you are redirected to spray166.shop to pay by credit card, bank transfer, or cash on delivery.",
+          a: "Test mode logs your request only. Live checkout is planned for launch.",
         },
         {
           q: "What about shipping?",
-          a: "Per the official store guide: free shipping on ¥5,000+ tax incl., so one goggle at ¥25,000 ships free.",
+          a: "Planned: free shipping on ¥5,000+ tax incl., so one goggle at ¥25,000 ships free.",
         },
         {
           q: "Flow vs Vent?",
@@ -742,11 +742,9 @@ export const copy = {
       fail: "Could not send. Please call 0166-33-2779.",
     },
     owlGoggle: {
-      success: "Redirecting to the official store checkout.",
-      fail: "Submission failed. Please call 0166-33-2779 to reserve by phone.",
-      checkoutNotConfigured:
-        "Checkout URLs are not configured yet. Please call 0166-33-2779 or visit the store.",
-      submit: "Continue to checkout (official store)",
+      success: "Submitted (test mode). Your request was logged. No payment was taken.",
+      fail: "Submission failed. Check configuration or call 0166-33-2779.",
+      submit: "Submit reservation (test)",
     },
     maintenance: {
       name: "Name",

@@ -9,10 +9,7 @@ import { trackEvent } from "@/lib/analytics";
 import type { OwlGoggleModel } from "@/lib/forms/types";
 import { getRecaptchaToken } from "@/lib/forms/use-recaptcha";
 import type { FormResponse } from "@/lib/forms/types";
-import {
-  OWL_GOGGLE_SHOP_INFO_URL,
-  calcOwlGoggleOrder,
-} from "@/lib/owl-goggle-commerce";
+import { calcOwlGoggleOrder } from "@/lib/owl-goggle-commerce";
 
 type Props = { locale: Locale; copy: Copy };
 
@@ -33,7 +30,7 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
 
   const [model, setModel] = useState<OwlGoggleModel>("flow");
   const [quantity, setQuantity] = useState(1);
-  const [status, setStatus] = useState<"idle" | "submitting" | "error">("idle");
+  const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
   const [errorMsg, setErrorMsg] = useState("");
 
   const order = useMemo(() => calcOwlGoggleOrder(model, quantity), [model, quantity]);
@@ -67,18 +64,22 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
     });
 
     const data = (await res.json()) as FormResponse;
-    if (data.ok && data.checkoutUrl) {
-      trackEvent("owl_goggle_checkout_redirect", { locale, model });
-      window.location.href = data.checkoutUrl;
+    if (data.ok) {
+      setStatus("success");
+      trackEvent("form_submit_owl_goggle_reserve", { locale, model });
       return;
     }
 
     setStatus("error");
-    if (!data.ok && data.error === "CHECKOUT_NOT_CONFIGURED") {
-      setErrorMsg(f.owlGoggle.checkoutNotConfigured);
-      return;
-    }
     setErrorMsg(f.owlGoggle.fail);
+  }
+
+  if (status === "success") {
+    return (
+      <div role="status" className="rounded border border-spray-border bg-spray-surface p-6">
+        <p className="font-bold text-white">{f.owlGoggle.success}</p>
+      </div>
+    );
   }
 
   const siteKey = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY;
@@ -245,22 +246,10 @@ export function OwlGoggleReserveForm({ locale, copy }: Props) {
         <button
           type="submit"
           disabled={status === "submitting"}
-          className="btn-orange-solid min-h-12 w-full sm:w-auto"
+          className="btn-park min-h-12 w-full sm:w-auto"
         >
           {status === "submitting" ? f.submitting : f.owlGoggle.submit}
         </button>
-
-        <p className="text-xs text-white/50">
-          {o.checkoutNote}{" "}
-          <a
-            href={OWL_GOGGLE_SHOP_INFO_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="underline"
-          >
-            {pricing.shopInfoLink}
-          </a>
-        </p>
         <p className="text-xs text-white/50">{f.recaptcha.notice}</p>
       </form>
     </>

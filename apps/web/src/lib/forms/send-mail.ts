@@ -93,7 +93,7 @@ export async function sendOwlGoggleReserveMail(
     `合計: ¥${order.total.toLocaleString("ja-JP")}`,
     data.note ? `メモ: ${data.note}` : "",
     "",
-    "— 公式ストア決済画面へ遷移予定",
+    "— サンプルサイト予約（テスト運用）",
   ]);
 
   return sendViaResend(to, subject, body);
