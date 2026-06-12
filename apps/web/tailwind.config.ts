@@ -6,15 +6,14 @@ const config: Config = {
     extend: {
       colors: {
         spray: {
-          bg: "var(--spray-bg)",
-          surface: "var(--spray-surface)",
-          elevated: "var(--spray-surface-elevated)",
-          border: "var(--spray-border)",
-          text: "var(--spray-text)",
-          orange: "var(--spray-orange)",
-          "orange-dim": "var(--spray-orange-dim)",
-          blue: "var(--spray-blue)",
-          muted: "var(--spray-muted)",
+          bg: "#000000",
+          surface: "#141414",
+          elevated: "#1a1a1a",
+          border: "#2a2a2a",
+          orange: "#ff6600",
+          "orange-dim": "#cc5200",
+          blue: "#00b4d8",
+          muted: "#9ca3af",
         },
       },
       fontFamily: {

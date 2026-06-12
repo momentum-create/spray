@@ -4,22 +4,22 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Pict モック準拠デザイントークン — light theme */
+/* Pict モック準拠デザイントークン */
 :root {
-  --spray-bg: #ffffff;
-  --spray-surface: #f7f7f7;
-  --spray-surface-elevated: #ffffff;
-  --spray-border: #e5e7eb;
+  --spray-bg: #000000;
+  --spray-surface: #141414;
+  --spray-surface-elevated: #1a1a1a;
+  --spray-border: #2a2a2a;
   --spray-orange: #ff6600;
   --spray-orange-dim: #cc5200;
   --spray-blue: #00b4d8;
   --spray-blue-hover: #0096c7;
-  --spray-muted: #6b7280;
-  --spray-text: #111827;
+  --spray-muted: #9ca3af;
+  --spray-text: #ffffff;
 }
 
 body {
-  @apply bg-spray-bg text-spray-text antialiased;
+  @apply bg-black text-white antialiased;
   font-family: var(--font-sans), "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo,
     sans-serif;
 }
@@ -32,12 +32,8 @@ body {
   }
 
   .btn-shop-outline {
-    @apply inline-flex items-center justify-center border-2 bg-transparent px-6 py-3 text-xs font-bold uppercase tracking-wider text-spray-orange transition md:text-sm;
+    @apply inline-flex items-center justify-center border-2 bg-transparent px-6 py-3 text-xs font-bold uppercase tracking-wider text-white transition hover:bg-white/5 md:text-sm;
     border-color: var(--spray-orange);
-  }
-
-  .btn-shop-outline:hover {
-    background-color: rgb(255 102 0 / 0.1);
   }
 
   .btn-orange-solid {
@@ -46,12 +42,8 @@ body {
   }
 
   .btn-orange-outline {
-    @apply inline-flex items-center justify-center border-2 bg-transparent px-5 py-2.5 text-xs font-bold uppercase tracking-wider text-spray-orange-dim transition;
+    @apply inline-flex items-center justify-center border-2 bg-transparent px-5 py-2.5 text-xs font-bold uppercase tracking-wider text-white transition hover:bg-orange-500/10;
     border-color: var(--spray-orange);
-  }
-
-  .btn-orange-outline:hover {
-    background-color: rgb(255 102 0 / 0.1);
   }
 
   /* Pict メンテナンスヒーロー — SHOP ONLINE（ゴールド） */
@@ -66,7 +58,7 @@ body {
   }
 
   .section-label {
-    @apply text-xs font-bold uppercase tracking-[0.2em] text-spray-text;
+    @apply text-xs font-bold uppercase tracking-[0.2em] text-white;
   }
 
   .nav-item-cell {
@@ -75,7 +67,7 @@ body {
   }
 
   .nav-item-label {
-    @apply flex min-h-[13px] items-center justify-center text-[11px] font-bold uppercase leading-none tracking-widest text-spray-text;
+    @apply flex min-h-[13px] items-center justify-center text-[11px] font-bold uppercase leading-none tracking-widest text-white;
   }
 
   .nav-item-sub {
@@ -94,15 +86,15 @@ body {
     @apply absolute left-0 top-0 flex h-6 w-6 items-center justify-center bg-spray-orange text-xs font-bold text-white;
   }
 
-  /* メンテナンス — 店頭料金表（雪山メニュー風をライトトーンで再構成） */
+  /* メンテナンス — 店頭料金表（雪山メニュー風をサイトトーンで再構成） */
   .maintenance-price-menu-bg {
     background:
-      linear-gradient(180deg, rgba(0, 180, 216, 0.1) 0%, rgba(247, 247, 247, 0.9) 45%, #f7f7f7 100%),
-      linear-gradient(135deg, #eef6fb 0%, #ffffff 60%);
+      linear-gradient(180deg, rgba(56, 120, 190, 0.45) 0%, rgba(0, 0, 0, 0.55) 38%, rgba(0, 0, 0, 0.92) 100%),
+      linear-gradient(135deg, #0c1a2e 0%, #000 55%);
   }
 
   .maintenance-menu-item {
-    @apply rounded-sm border border-spray-border bg-white p-4 shadow-sm;
+    @apply rounded-sm border border-white/10 bg-black/40 p-4 backdrop-blur-sm;
   }
 
   .maintenance-menu-item-title {

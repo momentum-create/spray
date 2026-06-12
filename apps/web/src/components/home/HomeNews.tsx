@@ -65,7 +65,7 @@ export function HomeNews({ locale, copy, posts }: HomeNewsProps) {
               <span className="news-badge">{item.n}</span>
               <Image src={item.image} alt="" fill className="object-cover opacity-80" sizes="33vw" />
             </div>
-            <p className="mt-2 text-xs font-bold leading-snug text-spray-text">{item.title}</p>
+            <p className="mt-2 text-xs font-bold leading-snug text-white">{item.title}</p>
           </LocaleLink>
         ))}
       </div>
