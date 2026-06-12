@@ -86,8 +86,8 @@ export const copy = {
       heading: "NEWS",
       promoted: [
         {
-          href: "/shop/owl-goggle",
-          title: "[Test] SPRAY × OWL original goggle pre-order",
+          href: "/en/products/spray/owl-goggle",
+          title: "SPRAY × OWL original goggle pre-order",
           date: "2026.06.12",
           image: "/images/owl-goggle/design-sheet-flow-vent.png",
         },
@@ -202,7 +202,7 @@ export const copy = {
     owlGoggleBanner: {
       title: "SPRAY × OWL Original Goggles",
       lead: "Pre-order Flow / Vent with the Ainu Logo White strap. ¥25,000 tax incl., delivery early Nov 2026.",
-      cta: "Reserve now",
+      cta: "Pre-order in shop",
     },
   },
 
@@ -213,9 +213,9 @@ export const copy = {
         "SPRAY original goggles with OWL OPTICAL. Flow (black lens) and Vent (blue lens) at ¥25,000 tax incl. Delivery scheduled early November 2026.",
     },
     testBanner:
-      "Sample site (test mode). For trying the reservation form only — not connected to live checkout.",
+      "Pre-order via the English shop cart at /en/products — add to cart and checkout.",
     hero: {
-      badge: "Test pre-order",
+      badge: "Pre-order",
       title: "SPRAY × OWL\nOriginal Goggles",
       lead: "Limited Ainu-pattern strap with OWL branding. Two flip-up magnetic models available for pre-order at SPRAY.",
     },

@@ -1,6 +1,11 @@
 import type { InboundProduct } from "@/content/inbound/products.en";
 import { getInboundProduct, inboundProducts } from "@/content/inbound/products.en";
 import {
+  getOwlGoggleFlowProduct,
+  getOwlGoggleVentProduct,
+  isOwlGoggleSlug,
+} from "@/content/inbound/owl-goggle.en";
+import {
   categoryBrandPath,
   getAllCatalogProductSlugs,
   getCatalogProduct,
@@ -65,6 +70,9 @@ export function catalogToShopProduct(product: CatalogProduct): ShopProduct {
 }
 
 export function getShopProduct(slug: string): ShopProduct | undefined {
+  if (slug === "spray-owl-goggle-flow") return getOwlGoggleFlowProduct();
+  if (slug === "spray-owl-goggle-vent") return getOwlGoggleVentProduct();
+
   const inbound = getInboundProduct(slug);
   if (inbound) return inboundToShopProduct(inbound);
 
@@ -74,6 +82,10 @@ export function getShopProduct(slug: string): ShopProduct | undefined {
   return undefined;
 }
 
+export function isOwlGoggleProduct(slug: string): boolean {
+  return isOwlGoggleSlug(slug);
+}
+
 export function getShopBrandHref(product: ShopProduct): string {
   return categoryBrandPath(product.categorySlug, product.brandSlug);
 }
@@ -81,5 +93,5 @@ export function getShopBrandHref(product: ShopProduct): string {
 export function getAllShopProductSlugs(): string[] {
   const inbound = inboundProducts.map((p) => p.slug);
   const catalog = getAllCatalogProductSlugs();
-  return [...inbound, ...catalog];
+  return [...inbound, ...catalog, "spray-owl-goggle-flow", "spray-owl-goggle-vent"];
 }

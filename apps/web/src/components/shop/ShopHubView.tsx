@@ -23,14 +23,13 @@ export function ShopHubView({ locale, copy }: Props) {
             <div className="p-6">
               <h2 className="text-lg font-bold text-white">{s.owlGoggleBanner.title}</h2>
               <p className="mt-2 text-sm text-white/80">{s.owlGoggleBanner.lead}</p>
-              <LocaleLink
-                href="/shop/owl-goggle"
-                locale={locale}
+              <a
+                href="/en/products/spray/owl-goggle"
                 className="btn-park mt-4 inline-flex min-h-11 items-center"
                 onClick={() => trackEvent("owl_goggle_banner_click", { source: "shop_hub" })}
               >
                 {s.owlGoggleBanner.cta}
-              </LocaleLink>
+              </a>
             </div>
             <div className="relative hidden min-h-[140px] bg-white md:block">
               <Image

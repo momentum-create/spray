@@ -9,6 +9,7 @@ const staticPaths = [
   "",
   "/shop",
   "/shop/owl-goggle",
+  "/en/products/spray/owl-goggle",
   "/skatepark",
   "/skatepark/facility",
   "/skatepark/prices",

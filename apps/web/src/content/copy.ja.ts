@@ -88,8 +88,8 @@ export const copy = {
       heading: "お知らせ",
       promoted: [
         {
-          href: "/shop/owl-goggle",
-          title: "【テスト】SPRAY × OWL オリジナルゴーグル 予約受付",
+          href: "/en/products/spray/owl-goggle",
+          title: "SPRAY × OWL オリジナルゴーグル 予約受付",
           date: "2026.06.12",
           image: "/images/owl-goggle/design-sheet-flow-vent.png",
         },
@@ -204,7 +204,7 @@ export const copy = {
     owlGoggleBanner: {
       title: "SPRAY × OWL オリジナルゴーグル",
       lead: "アイヌロゴ白ストラップの Flow / Vent を予約受付中。税込 ¥25,000、11月上旬お届け予定。",
-      cta: "予約ページを見る",
+      cta: "英語ショップで予約",
     },
   },
 
@@ -215,9 +215,9 @@ export const copy = {
         "OWL OPTICAL コラボの SPRAY オリジナルゴーグル。Flow（黒レンズ）と Vent（ブルーレンズ）を税込25,000円で予約受付。2026年11月上旬お届け予定。",
     },
     testBanner:
-      "サンプルサイト（テスト運用）。予約フォームの動作確認用です。公式ストア・本番決済には未連携です。",
+      "英語ショップ（/en/products）のカートから予約・決済できます。",
     hero: {
-      badge: "テスト予約受付中",
+      badge: "予約受付中",
       title: "SPRAY × OWL\nオリジナルゴーグル",
       lead: "アイヌ文様と OWL ロゴをあしらった限定ストラップ。フリップアップ換気とマグネットレンズを搭載した2モデルを、SPRAY 店頭・Web から予約できます。",
     },

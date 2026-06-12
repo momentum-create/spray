@@ -50,7 +50,17 @@ export function DawnShopHome() {
               {dawnCopy.shopHome.featuredCta}
             </Link>
           </div>
-          <div className="mt-6 grid gap-4 md:grid-cols-2">
+          <div className="mt-6 grid gap-4 md:grid-cols-3">
+            <Link
+              href="/en/products/spray/owl-goggle"
+              className="block border border-[#e8e8e8] bg-white p-8 transition hover:border-black"
+            >
+              <p className="text-xs uppercase tracking-widest text-black/50">SPRAY × OWL · Pre-order</p>
+              <p className="mt-2 text-2xl font-medium text-black">Original Goggles</p>
+              <p className="mt-3 max-w-xl text-sm text-black/60">
+                Flow / Vent with Ainu Logo White strap. ¥25,000 tax incl. Delivery early Nov 2026.
+              </p>
+            </Link>
             <Link
               href="/en/products/gentemstick"
               className="block border border-[#e8e8e8] bg-white p-8 transition hover:border-black"

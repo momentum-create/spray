@@ -12,6 +12,8 @@ export function stripLocale(pathname: string): string {
 
 export function localizedHref(locale: Locale, path: string): string {
   const normalized = path.startsWith("/") ? path : `/${path}`;
+  const firstSegment = normalized.split("/").filter(Boolean)[0];
+  if (firstSegment && isLocale(firstSegment)) return normalized;
   if (normalized === "/") return `/${locale}`;
   return `/${locale}${normalized}`;
 }

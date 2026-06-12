@@ -6,6 +6,7 @@ import { dawnCopy } from "@/content/inbound/dawn-copy.en";
 import { fulfillmentMethodLabel } from "@/components/inbound/dawn/fulfillment";
 import { useCart } from "@/components/inbound/dawn/CartProvider";
 import { formatJpy } from "@/content/inbound/products.en";
+import { isOwlGoggleSlug } from "@/content/inbound/owl-goggle.en";
 
 const PAYMENT_ICONS = ["Apple Pay", "Google Pay", "PayPal", "Visa", "Mastercard"] as const;
 
@@ -18,6 +19,11 @@ export function ExpressCheckout() {
     () => lines.some((line) => line.product.brandSlug === "gentem"),
     [lines],
   );
+  const hasOwlPreOrder = useMemo(
+    () => lines.some((line) => isOwlGoggleSlug(line.product.slug)),
+    [lines],
+  );
+  const hasPreOrderAgreement = hasGentemPreOrder || hasOwlPreOrder;
   const fulfillmentSummary = useMemo(() => {
     const methods = new Set(lines.map((line) => line.fulfillmentMethod));
     if (methods.size > 1) return "mixed" as const;
@@ -25,15 +31,15 @@ export function ExpressCheckout() {
     return "store_pickup" as const;
   }, [lines]);
   const canProceed =
-    !hasGentemPreOrder || (agreeFinalSale && agreePickupOnly && agreeTaxRefundFlow);
+    !hasPreOrderAgreement || (agreeFinalSale && agreePickupOnly && agreeTaxRefundFlow);
 
   useEffect(() => {
-    if (!hasGentemPreOrder) {
+    if (!hasPreOrderAgreement) {
       setAgreeFinalSale(false);
       setAgreePickupOnly(false);
       setAgreeTaxRefundFlow(false);
     }
-  }, [hasGentemPreOrder]);
+  }, [hasPreOrderAgreement]);
 
   return (
     <div className="mx-auto max-w-lg px-4 py-12 md:px-6">
@@ -107,11 +113,17 @@ export function ExpressCheckout() {
         </p>
       </div>
 
-      {hasGentemPreOrder ? (
+      {hasPreOrderAgreement ? (
         <div className="mt-4 space-y-3 border border-[#e8e8e8] p-4 text-sm">
           <p className="text-xs font-medium uppercase tracking-wide text-black/70">
             Pre-order agreement required
           </p>
+          {hasOwlPreOrder ? (
+            <p className="text-xs text-black/60">
+              SPRAY × OWL goggles: estimated delivery early November 2026. Lens colors are fixed
+              (Flow black / Vent blue).
+            </p>
+          ) : null}
           <label className="flex items-start gap-2 text-sm leading-relaxed text-black/80">
             <input
               type="checkbox"
