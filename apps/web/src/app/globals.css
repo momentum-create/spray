@@ -32,8 +32,12 @@ body {
   }
 
   .btn-shop-outline {
-    @apply inline-flex items-center justify-center border-2 bg-transparent px-6 py-3 text-xs font-bold uppercase tracking-wider text-spray-orange transition hover:bg-spray-orange/10 md:text-sm;
+    @apply inline-flex items-center justify-center border-2 bg-transparent px-6 py-3 text-xs font-bold uppercase tracking-wider text-spray-orange transition md:text-sm;
     border-color: var(--spray-orange);
+  }
+
+  .btn-shop-outline:hover {
+    background-color: rgb(255 102 0 / 0.1);
   }
 
   .btn-orange-solid {
@@ -42,8 +46,12 @@ body {
   }
 
   .btn-orange-outline {
-    @apply inline-flex items-center justify-center border-2 bg-transparent px-5 py-2.5 text-xs font-bold uppercase tracking-wider text-spray-orange-dim transition hover:bg-spray-orange/10;
+    @apply inline-flex items-center justify-center border-2 bg-transparent px-5 py-2.5 text-xs font-bold uppercase tracking-wider text-spray-orange-dim transition;
     border-color: var(--spray-orange);
+  }
+
+  .btn-orange-outline:hover {
+    background-color: rgb(255 102 0 / 0.1);
   }
 
   /* Pict メンテナンスヒーロー — SHOP ONLINE（ゴールド） */
