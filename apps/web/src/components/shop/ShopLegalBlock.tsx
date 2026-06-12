@@ -35,7 +35,7 @@ export function ShopLegalBlock({ locale, copy }: Props) {
             key={id}
             className="flex flex-col rounded border border-spray-border bg-spray-surface p-4"
           >
-            <h3 className="font-bold text-white">{mallNavLabel(id, copy, locale)}</h3>
+            <h3 className="font-bold text-spray-text">{mallNavLabel(id, copy, locale)}</h3>
             <p className="mt-2 flex-1 text-sm text-spray-muted">
               {id === "official"
                 ? s.officialNote

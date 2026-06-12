@@ -4,7 +4,8 @@ import Image from "next/image";
 import { LocaleLink } from "@/components/i18n/LocaleLink";
 import { ShopLegalBlock } from "@/components/shop/ShopLegalBlock";
 import { PageHero } from "@/components/ui/PageHero";
-import { trackEvent } from "@/lib/analytics";import type { Locale } from "@/i18n/config";
+import { trackEvent } from "@/lib/analytics";
+import type { Locale } from "@/i18n/config";
 import type { Copy } from "@/i18n/get-copy";
 import { mallNavLabel, malls, mallUrl } from "@/lib/shops";
 
@@ -56,7 +57,8 @@ export function ShopHubView({ locale, copy }: Props) {
                   rel="noopener noreferrer"
                   className="flex min-h-[140px] flex-col rounded border border-spray-border bg-spray-surface p-6 hover:border-spray-orange"
                   onClick={() => trackEvent(`ec_click_${mall.id}`, { source: "shop_hub" })}
-                >                  <h3 className="text-lg font-bold text-white">
+                >
+                  <h3 className="text-lg font-bold text-spray-text">
                     {mallNavLabel(mall.id, copy, locale)}
                   </h3>
                   <p className="mt-2 flex-1 text-sm text-spray-muted">{mallCopy.feature}</p>
@@ -75,7 +77,7 @@ export function ShopHubView({ locale, copy }: Props) {
           <dl className="space-y-4">
             {s.faq.map((item) => (
               <div key={item.q} className="border border-spray-border bg-spray-surface p-4">
-                <dt className="font-bold text-white">{item.q}</dt>
+                <dt className="font-bold text-spray-text">{item.q}</dt>
                 <dd className="mt-2 text-sm text-spray-muted">{item.a}</dd>
               </div>
             ))}
