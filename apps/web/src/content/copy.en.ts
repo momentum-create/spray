@@ -86,7 +86,7 @@ export const copy = {
       heading: "NEWS",
       promoted: [
         {
-          href: "/en/products/spray/owl-goggle",
+          href: "/products/spray/owl-goggle",
           title: "SPRAY × OWL original goggle pre-order",
           date: "2026.06.12",
           image: "/images/owl-goggle/design-sheet-flow-vent.png",

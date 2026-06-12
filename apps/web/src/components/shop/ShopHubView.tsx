@@ -7,6 +7,7 @@ import { PageHero } from "@/components/ui/PageHero";
 import { trackEvent } from "@/lib/analytics";
 import type { Locale } from "@/i18n/config";
 import type { Copy } from "@/i18n/get-copy";
+import { owlGoggleReserveHref } from "@/lib/owl-goggle-routes";
 import { mallNavLabel, malls, mallUrl } from "@/lib/shops";
 
 type Props = { locale: Locale; copy: Copy };
@@ -23,13 +24,14 @@ export function ShopHubView({ locale, copy }: Props) {
             <div className="p-6">
               <h2 className="text-lg font-bold text-white">{s.owlGoggleBanner.title}</h2>
               <p className="mt-2 text-sm text-white/80">{s.owlGoggleBanner.lead}</p>
-              <a
-                href="/en/products/spray/owl-goggle"
+              <LocaleLink
+                href={owlGoggleReserveHref(locale)}
+                locale={locale}
                 className="btn-park mt-4 inline-flex min-h-11 items-center"
                 onClick={() => trackEvent("owl_goggle_banner_click", { source: "shop_hub" })}
               >
                 {s.owlGoggleBanner.cta}
-              </a>
+              </LocaleLink>
             </div>
             <div className="relative hidden min-h-[140px] bg-white md:block">
               <Image
