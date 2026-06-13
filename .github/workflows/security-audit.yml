@@ -13,38 +13,17 @@ permissions:
   contents: read
 
 jobs:
-  audit-apps-web:
-    name: npm audit (apps/web)
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: apps/web
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "22"
-          cache: npm
-          cache-dependency-path: apps/web/package-lock.json
-
-      - run: npm ci
-      - run: npm audit --audit-level=high
-
   audit-pnpm-workspace:
     name: pnpm audit (workspace)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: pnpm/action-setup@v4
         with:
           version: 9.15.0
-
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
           cache: pnpm
-
       - run: pnpm install --frozen-lockfile
       - run: pnpm audit --audit-level high
