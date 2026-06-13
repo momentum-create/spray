@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   deploy:
-    # momentum-create のみ（Seeker ミラーでは Pages 未設定のため 404 になる）
+    # Pages is configured only on momentum-create/spray (Seeker mirror skips deploy).
     if: github.repository == 'momentum-create/spray'
     environment:
       name: github-pages
