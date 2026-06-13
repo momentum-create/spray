@@ -2,10 +2,16 @@
 
 北海道旭川・スケート＆スノーショップ SPRAY のコーポレートサイト（Next.js + WordPress ヘッドレス）。
 
+## エージェント運用（Cursor）
+
+役割別にスレッドを分けて開発する（JAPOWSERCH 方式）。概要は [AGENTS.md](AGENTS.md)、詳細は [.claude/agents/README.md](.claude/agents/README.md)。公式スキル適合表は [docs/skills-verification.md](docs/skills-verification.md)、プロジェクトスキルは `.cursor/skills/spray-*`。
+
 ## ドキュメント
 
 | ファイル | 内容 |
 |----------|------|
+| [docs/agent-workflow.md](docs/agent-workflow.md) | エージェント運用（概要） |
+| [docs/指示書-プレゼン改定.txt](docs/指示書-プレゼン改定.txt) | **プレゼン改定指示書（平文・正本）** |
 | [docs/spray-fundamental-concept.md](docs/spray-fundamental-concept.md) | IA・参考サイト・サイトマップ（北極星） |
 | [docs/japanese-copy-sheet.md](docs/japanese-copy-sheet.md) | 日本語コピー表（画面別） |
 | [docs/website-rebuild-roadmap-v2-design.md](docs/website-rebuild-roadmap-v2-design.md) | 技術ロードマップ |
@@ -17,6 +23,7 @@
 ```
 SPRAY/
 ├── apps/web/          # Next.js 15 フロント（本番 www）
+├── goggle-survey/     # ゴーグルストラップ投票（静的 HTML・GitHub Pages）
 ├── packages/tsconfig/ # 共有 TypeScript 設定
 ├── cms/               # WordPress（Docker ローカル / 本番は別ホスト可）
 └── docs/
@@ -30,16 +37,20 @@ SPRAY/
 
 ```bash
 corepack enable
-pnpm install
+pnpm install --frozen-lockfile
 ```
+
+パッケージの追加・更新時のみ `pnpm add <pkg>` を使い、`pnpm-lock.yaml` をコミットする。
 
 **npm のみの場合**
 
 ```bash
 cd apps/web
-npm install
+npm ci
 npm run dev
 ```
+
+パッケージの追加・更新時のみ `npm install <pkg>` を使う。
 
 ### 2. 環境変数
 
@@ -79,8 +90,8 @@ http://localhost:3000
 
 リポジトリルートがプロジェクトルートです。**Root Directory は空のまま**（`apps/web` にしない）で、ルートの `vercel.json` が次を実行します。
 
-1. `pnpm install`（ワークスペース全体）
-2. `pnpm run build` → `apps/web` の Next.js をビルド
+1. `cd apps/web && npm ci`（`vercel.json` の `installCommand`）
+2. `cd apps/web && npm run build` → Next.js をビルド
 
 | 項目 | 値 |
 |------|-----|
