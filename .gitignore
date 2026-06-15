@@ -15,3 +15,5 @@ cms/wordpress/wp-config.php
 .vercel
 .env*.local
 .seeker-keys/
+apps/japowserch-guides/public
+apps/japowserch-guides/.cache

@@ -1,0 +1,10 @@
+{
+  "name": "japowserch-guides",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/sync.mjs",
+    "dev": "npm run build && npx --yes serve public -p 3456",
+    "preview": "npx --yes serve public -p 3456"
+  }
+}
