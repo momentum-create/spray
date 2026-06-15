@@ -22,9 +22,8 @@
 
 ```
 SPRAY/
-├── apps/web/                 # Next.js 15 フロント（本番 www）
-├── apps/japowserch-guides/   # スキー場ガイド静的サイト（guides.japowserch.com）
-├── goggle-survey/            # ゴーグルストラップ投票（静的 HTML・GitHub Pages）
+├── apps/web/          # Next.js 15 フロント（本番 www）
+├── goggle-survey/     # ゴーグルストラップ投票（静的 HTML・GitHub Pages）
 ├── packages/tsconfig/ # 共有 TypeScript 設定
 ├── cms/               # WordPress（Docker ローカル / 本番は別ホスト可）
 └── docs/
