@@ -1,6 +1,9 @@
 {
   "version": 2,
   "name": "spray-ground-zero-lp",
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
