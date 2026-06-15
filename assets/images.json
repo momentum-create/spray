@@ -1,0 +1,25 @@
+{
+  "base": "https://www.spray166.com/wp-content/uploads",
+  "heroPoster": "https://www.spray166.com/wp-content/uploads/2026/05/20260510_121301.jpg",
+  "secondHero": "https://www.spray166.com/wp-content/uploads/2026/05/f233acc52af38d72137cec7f9d0efb87-1.jpg",
+  "logo": "https://www.spray166.com/wp-content/uploads/2019/01/spraylogo3.png",
+  "insight": {
+    "maintenance": "https://www.spray166.com/wp-content/uploads/2019/05/title_board.jpg",
+    "park": "https://www.spray166.com/wp-content/uploads/2026/05/20260519_162531.jpg",
+    "shop": "https://www.spray166.com/wp-content/uploads/2019/05/shop.jpg"
+  },
+  "park": {
+    "section1": "https://www.spray166.com/wp-content/uploads/2026/05/20260519_162531.jpg",
+    "section2": "https://www.spray166.com/wp-content/uploads/2026/05/20260519_162458-1.jpg",
+    "section3": "https://www.spray166.com/wp-content/uploads/2026/05/20260519_162518.jpg",
+    "section4": "https://www.spray166.com/wp-content/uploads/2026/05/20260519_162606-1.jpg"
+  },
+  "stories": {
+    "owl": "https://www.spray166.com/wp-content/uploads/2026/05/ph240217_012.jpg",
+    "course": "https://www.spray166.com/wp-content/uploads/2026/05/20260519_162531.jpg",
+    "school": "https://www.spray166.com/wp-content/uploads/2019/04/sp1.jpg",
+    "maintenance": "https://www.spray166.com/wp-content/uploads/2026/04/Screenshot_20260426_130115_Adobe-Acrobat.jpg"
+  },
+  "snow": "https://www.spray166.com/wp-content/uploads/2019/04/sp19.jpg",
+  "calendar": "https://www.spray166.com/wp-content/uploads/2019/09/radysday.jpg"
+}

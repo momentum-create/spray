@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SPRAY — Concrete Ground Zer0</title>
+  <meta name="description" content="北海道旭川のスケート＆スノーショップ SPRAY。屋内580㎡パーク・スクール・メンテナンス・3モールEC。" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --gl-yellow: #e2fc07;
+      --gl-off-white: #f4f0e8;
+      --gl-brown: #1a1208;
+      --spray-orange: #ff6600;
+      --spray-blue: #00b4d8;
+      --black: #000;
+      --white: #fff;
+      --muted: #9ca3af;
+      --font-display: "Space Grotesk", system-ui, sans-serif;
+      --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--black);
+      color: var(--white);
+      font-family: var(--font-display);
+      font-size: 16px;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+    a:hover { color: var(--gl-yellow); }
+    img { max-width: 100%; display: block; }
+    .visually-hidden {
+      position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+      overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+    }
+    .skip-link {
+      position: absolute; left: -9999px; top: 0; z-index: 100;
+      padding: 8px 16px; background: var(--gl-yellow); color: var(--black);
+    }
+    .skip-link:focus { left: 16px; top: 16px; }
+
+    .site-header {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 50;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 1.25rem 1.5rem;
+      background: linear-gradient(180deg, rgba(0,0,0,.65) 0%, transparent 100%);
+      pointer-events: none;
+    }
+    .site-header a, .site-header button { pointer-events: auto; }
+    .site-title img { height: 28px; width: auto; }
+    .nav-cta { display: flex; gap: 0.5rem; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      min-height: 44px; min-width: 44px;
+      padding: 0.6rem 1.1rem;
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      text-decoration: none;
+      border: 1px solid currentColor;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s;
+    }
+    .btn-park { color: var(--spray-blue); border-color: var(--spray-blue); }
+    .btn-park:hover { background: var(--spray-blue); color: var(--black); }
+    .btn-shop { color: var(--spray-orange); border-color: var(--spray-orange); }
+    .btn-shop:hover { background: var(--spray-orange); color: var(--black); }
+
+    /* Hero */
+    .hero {
+      position: relative;
+      height: 100svh;
+      min-height: 560px;
+      overflow: hidden;
+      background: var(--black);
+    }
+    .hero-media {
+      position: absolute; inset: 0;
+      overflow: hidden;
+    }
+    .hero-media::after {
+      content: "";
+      position: absolute; inset: 0;
+      background: rgba(0,0,0,.22);
+      z-index: 4;
+      pointer-events: none;
+    }
+    #pixelCanvas {
+      position: absolute; inset: 0;
+      z-index: 20;
+      width: 100%; height: 100%;
+      transform-origin: bottom center;
+    }
+    @media (min-width: 768px) {
+      #pixelCanvas { transform: scale(1.3); }
+    }
+    #hero-yt,
+    .hero-poster {
+      position: absolute;
+      top: 50%; left: 50%;
+      width: max(100vw, 177.78vh);
+      height: max(100vh, 56.25vw);
+      transform: translate(-50%, -50%);
+      border: 0;
+      object-fit: cover;
+      transform-origin: bottom center;
+    }
+    @media (min-width: 768px) {
+      #hero-yt, .hero-poster { transform: translate(-50%, -50%) scale(1.3); }
+    }
+    .hero-poster { z-index: 1; }
+    #hero-yt { z-index: 2; opacity: 0; pointer-events: none; }
+    #hero-yt.is-visible { opacity: 1; }
+    .hero-gradient {
+      position: absolute; bottom: 0; left: 0; right: 0; z-index: 5;
+      height: 45%;
+      background: linear-gradient(180deg, transparent 0%, var(--black) 88%);
+      pointer-events: none;
+    }
+    .hero-content {
+      position: relative; z-index: 30;
+      display: flex; flex-direction: column;
+      justify-content: space-between;
+      height: 100%;
+      padding: 4.5rem 1rem 1.75rem;
+    }
+    @media (min-width: 768px) { .hero-content { padding: 5rem 1.5rem 2.5rem; } }
+    @media (min-width: 1024px) { .hero-content { padding: 5rem 2.8rem 3rem; } }
+
+    .hero-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      width: 100%;
+    }
+    .first-hero-text {
+      font-family: var(--font-mono);
+      font-size: clamp(1.1rem, 2.2vw, 1.65rem);
+      font-weight: 500;
+      line-height: 0.92;
+      letter-spacing: -0.02em;
+      text-transform: uppercase;
+      color: var(--gl-yellow);
+      opacity: 0;
+      max-width: 5.5em;
+    }
+    .hero-title-block {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      gap: 0.35rem;
+    }
+    .hero-title-main {
+      margin: 0;
+      font-size: clamp(2.8rem, 12vw, 8rem);
+      font-weight: 500;
+      line-height: 0.88;
+      letter-spacing: -0.05em;
+      text-transform: uppercase;
+      color: var(--gl-yellow);
+      opacity: 0;
+    }
+    .hero-title-main .zero { font-feature-settings: "zero" 0; }
+    .hero-theme-ja {
+      margin: 0.5rem 0 0;
+      font-size: clamp(0.85rem, 2vw, 1.1rem);
+      font-weight: 400;
+      letter-spacing: 0.12em;
+      color: var(--white);
+      opacity: 0;
+    }
+    .hero-theme-en {
+      margin: 0.35rem 0 0;
+      font-family: var(--font-mono);
+      font-size: clamp(0.6rem, 1.4vw, 0.75rem);
+      font-weight: 300;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--gl-yellow);
+      opacity: 0;
+    }
+    .hero-meta {
+      display: flex; flex-direction: column; gap: 1rem;
+      font-family: var(--font-mono);
+      font-size: 0.62rem;
+      font-weight: 300;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--gl-yellow);
+    }
+    .first-sub-text, .second-sub-text, .third-sub-text { opacity: 0; }
+    @media (min-width: 768px) {
+      .hero-meta {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+      }
+      .third-sub-text { display: block; }
+    }
+    .hero-meta-divider {
+      width: 1px; height: 1.1rem;
+      background: var(--gl-yellow);
+      opacity: 0.5;
+      display: none;
+    }
+    @media (min-width: 768px) { .hero-meta-divider { display: block; } }
+    .hero-date {
+      font-size: clamp(1rem, 2vw, 1.2rem);
+      letter-spacing: -0.03em;
+    }
+    .collab-logos {
+      display: flex; align-items: center; gap: 0.65rem;
+      flex-wrap: wrap;
+    }
+    .collab-logos img { height: 14px; width: auto; filter: brightness(1.2); }
+
+    /* Intro */
+    .intro {
+      background: var(--black);
+      padding: 5.5rem 1rem 3.75rem;
+    }
+    @media (min-width: 768px) { .intro { padding: 4.5rem 1.5rem 2rem; } }
+    @media (min-width: 1024px) { .intro { padding: 7rem 2.8rem 3.75rem; } }
+    .hero-description {
+      margin: 0;
+      font-size: clamp(1.75rem, 4.5vw, 2.9rem);
+      line-height: 1.12;
+      letter-spacing: -0.04em;
+      max-width: 52rem;
+    }
+    .hero-description .number {
+      font-family: var(--font-mono);
+    }
+
+    .second-hero {
+      position: relative;
+      height: 200px;
+      overflow: hidden;
+      background: var(--black);
+    }
+    @media (min-width: 768px) { .second-hero { height: 240px; } }
+    @media (min-width: 1024px) { .second-hero { height: 450px; } }
+    .second-hero .media-reveal {
+      position: absolute; inset: 0;
+    }
+    .second-hero img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      opacity: 0;
+    }
+    .second-hero canvas {
+      position: absolute; inset: 0;
+      width: 100%; height: 100%;
+      z-index: 2;
+    }
+
+    /* Insight */
+    .insight {
+      background: var(--gl-off-white);
+      color: var(--black);
+      padding: 6.25rem 1rem;
+    }
+    @media (min-width: 768px) { .insight { padding: 5.6rem 1.5rem; } }
+    @media (min-width: 1024px) { .insight { padding: 7.5rem 2.8rem; } }
+    .section-title {
+      margin: 0 0 4rem;
+      font-size: clamp(2.6rem, 8vw, 5.6rem);
+      font-weight: 500;
+      line-height: 1;
+      letter-spacing: -0.05em;
+      text-transform: uppercase;
+    }
+    .insight-grid {
+      display: flex; flex-direction: column; gap: 3.75rem;
+    }
+    @media (min-width: 768px) {
+      .insight-grid { flex-direction: row; gap: 0.75rem; }
+    }
+    .insight-card { flex: 1; }
+    .card-num {
+      font-family: var(--font-mono);
+      font-size: 1.05rem;
+      font-weight: 300;
+      text-transform: uppercase;
+      margin-bottom: 1.9rem;
+    }
+    @media (min-width: 1024px) { .card-num { font-size: 1.25rem; margin-bottom: 5rem; } }
+    .card-head {
+      margin: 0 0 1.4rem;
+      font-size: clamp(1.35rem, 3vw, 1.75rem);
+      font-weight: 500;
+      line-height: 1.25;
+      text-transform: uppercase;
+    }
+    .highlight { position: relative; display: inline; }
+    .highlight::after {
+      content: "";
+      position: absolute;
+      left: 0; right: 0; bottom: 0.05em;
+      height: 0.45em;
+      background: var(--gl-yellow);
+      z-index: -1;
+    }
+    .card-body {
+      margin: 0 0 1.5rem;
+      font-size: 0.95rem;
+      line-height: 1.55;
+      max-width: 26rem;
+    }
+    .media-reveal {
+      position: relative;
+      height: 220px;
+      overflow: hidden;
+      margin-bottom: 0.25rem;
+      background: #ccc;
+    }
+    @media (min-width: 768px) { .media-reveal { height: 160px; } }
+    @media (min-width: 1024px) { .media-reveal { height: 240px; } }
+    .media-reveal img {
+      position: absolute; inset: 0;
+      width: 100%; height: 100%;
+      object-fit: cover;
+      opacity: 0;
+    }
+    .media-reveal canvas {
+      position: absolute; inset: 0;
+      width: 100%; height: 100%;
+      z-index: 2;
+    }
+    .card-credit {
+      margin: 0;
+      font-family: var(--font-mono);
+      font-size: 0.5rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      line-height: 2.5;
+    }
+
+    /* Process */
+    .process {
+      background: var(--gl-brown);
+      color: var(--white);
+      padding: 6.25rem 1rem;
+      overflow: hidden;
+    }
+    @media (min-width: 1024px) { .process { padding: 7.5rem 2.8rem; } }
+    .process .section-title {
+      text-align: center;
+      color: var(--gl-yellow);
+      margin-bottom: 3.75rem;
+    }
+    .process-flow { max-width: 52rem; margin: 0 auto; }
+    .flow-label {
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      background: var(--gl-yellow);
+      color: var(--black);
+      padding: 0.65rem 1rem;
+      display: inline-block;
+      margin: 0 auto;
+      width: fit-content;
+    }
+    .flow-label-wrap { text-align: center; }
+    .hl-wrapper {
+      display: inline-block;
+      overflow: hidden;
+      white-space: nowrap;
+      width: 0;
+    }
+    .flow-line {
+      width: 1px; height: 100px;
+      background: var(--gl-yellow);
+      margin: 0 auto;
+    }
+    .flow-step {
+      display: flex; flex-direction: column;
+      align-items: center; gap: 1.5rem;
+      margin-bottom: 0;
+    }
+    @media (min-width: 768px) {
+      .flow-step { flex-direction: row; justify-content: center; gap: 1rem; }
+    }
+    .flow-step-title {
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      background: var(--white);
+      color: var(--black);
+      padding: 0.65rem 1rem;
+      white-space: nowrap;
+    }
+    .flow-dash {
+      display: none;
+      width: 70px; height: 1px;
+      background: repeating-linear-gradient(90deg, #fff 0 6px, transparent 6px 12px);
+    }
+    @media (min-width: 768px) { .flow-dash { display: block; } }
+    @media (min-width: 1024px) { .flow-dash { width: 120px; } }
+    .flow-desc {
+      max-width: 270px;
+      font-size: 0.9rem;
+      line-height: 1.5;
+      text-align: center;
+    }
+    @media (min-width: 768px) { .flow-desc { text-align: left; } }
+    .flow-thumb-wrap {
+      width: 120px; height: 80px;
+      display: none;
+      position: relative;
+      overflow: hidden;
+    }
+    @media (min-width: 768px) { .flow-thumb-wrap { display: block; } }
+    .flow-thumb-wrap img { width: 100%; height: 100%; object-fit: cover; opacity: 0; }
+    .flow-thumb-wrap canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+
+    .cycle { margin: 4rem auto 0; max-width: 36rem; text-align: center; }
+    .cycle-ring {
+      position: relative;
+      width: min(100%, 320px);
+      aspect-ratio: 1;
+      margin: 0 auto 2rem;
+      border: 1px dashed rgba(226,252,7,.35);
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+    }
+    .cycle-center {
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      color: var(--gl-yellow);
+      letter-spacing: 0.1em;
+    }
+    .cycle-node {
+      position: absolute;
+      font-family: var(--font-mono);
+      font-size: 0.55rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0.35rem 0.5rem;
+      background: rgba(0,0,0,.6);
+      border: 1px solid rgba(226,252,7,.4);
+    }
+    .cycle-node:nth-child(2) { top: 4%; left: 50%; transform: translateX(-50%); }
+    .cycle-node:nth-child(3) { top: 22%; right: 2%; }
+    .cycle-node:nth-child(4) { bottom: 22%; right: 2%; }
+    .cycle-node:nth-child(5) { bottom: 4%; left: 50%; transform: translateX(-50%); }
+    .cycle-node:nth-child(6) { bottom: 22%; left: 2%; }
+    .cycle-node:nth-child(7) { top: 22%; left: 2%; }
+
+    /* Stories */
+    .stories {
+      background: var(--black);
+      padding: 6.25rem 1rem;
+    }
+    @media (min-width: 1024px) { .stories { padding: 7.5rem 2.8rem; } }
+    .stories .section-title { color: var(--white); margin-bottom: 3rem; }
+    .stories-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+    }
+    @media (min-width: 768px) { .stories-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 1024px) { .stories-grid { grid-template-columns: repeat(4, 1fr); } }
+    .story-card { text-decoration: none; color: inherit; display: block; }
+    .story-card:hover .story-title { color: var(--gl-yellow); }
+    .story-img-wrap { height: 240px; margin-bottom: 1rem; }
+    @media (min-width: 768px) { .story-img-wrap { height: 224px; } }
+    @media (min-width: 1024px) { .story-img-wrap { height: 420px; } }
+    .story-title {
+      margin: 0 0 0.75rem;
+      font-size: 1.15rem;
+      line-height: 1.2;
+      transition: color 0.2s;
+    }
+    .story-date {
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      font-weight: 300;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .stories-more { margin-top: 3rem; text-align: center; }
+    .stories-more a {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--gl-yellow);
+      text-decoration: none;
+      border-bottom: 1px solid var(--gl-yellow);
+    }
+
+    /* Access */
+    .access {
+      background: var(--gl-off-white);
+      color: var(--black);
+      padding: 6.25rem 1rem;
+    }
+    @media (min-width: 1024px) { .access { padding: 7.5rem 2.8rem; } }
+    .access-layout {
+      display: grid; gap: 2rem;
+    }
+    @media (min-width: 1024px) {
+      .access-layout { grid-template-columns: 1fr 1.2fr; gap: 3rem; }
+    }
+    .access-facts { list-style: none; margin: 0; padding: 0; }
+    .access-facts li {
+      font-size: 0.95rem;
+      line-height: 1.5;
+      padding-bottom: 1rem;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid rgba(0,0,0,.12);
+    }
+    .access-facts strong {
+      display: block;
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 0.35rem;
+      color: rgba(0,0,0,.55);
+    }
+    .filter-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.5rem 0; }
+    .chip {
+      min-height: 44px;
+      padding: 0.5rem 1rem;
+      font-family: var(--font-mono);
+      font-size: 0.6rem;
+      text-transform: uppercase;
+      border: 1px solid var(--black);
+      background: transparent;
+      cursor: pointer;
+    }
+    .chip.is-active { background: var(--black); color: var(--gl-yellow); }
+    .map-embed { width: 100%; aspect-ratio: 4/3; border: 0; }
+
+    .footer-cta {
+      background: var(--black);
+      padding: 5rem 1rem 3rem;
+      text-align: center;
+    }
+    .footer-cta h2 {
+      margin: 0 0 1.5rem;
+      font-size: clamp(2rem, 6vw, 4rem);
+      font-weight: 500;
+      line-height: 1.05;
+      letter-spacing: -0.04em;
+      text-transform: uppercase;
+      color: var(--gl-yellow);
+    }
+    .footer-actions {
+      display: flex; flex-wrap: wrap;
+      justify-content: center; gap: 0.75rem;
+      margin-bottom: 3rem;
+    }
+    .site-footer {
+      border-top: 1px solid #2a2a2a;
+      padding: 2rem 1rem;
+      display: flex; flex-wrap: wrap;
+      justify-content: space-between; gap: 1rem;
+      font-family: var(--font-mono);
+      font-size: 0.6rem;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .site-footer a { color: var(--muted); text-decoration: none; }
+    .social { display: flex; gap: 1rem; }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      #hero-yt, .hero-poster { display: none; }
+      .hero { background: #111 url("https://www.spray166.com/wp-content/uploads/2026/05/20260510_121301.jpg") center/cover; }
+      #pixelCanvas { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#primary">本文へスキップ</a>
+
+  <header class="site-header">
+    <a class="site-title" href="#" aria-label="SPRAY">
+      <img src="https://www.spray166.com/wp-content/uploads/2019/01/spraylogo3.png" alt="SPRAY" width="142" height="22" />
+    </a>
+    <nav class="nav-cta" aria-label="クイックアクション">
+      <a class="btn btn-park" href="#access">パークを見る</a>
+      <a class="btn btn-shop" href="#stories">オンラインで買う</a>
+    </nav>
+  </header>
+
+  <main id="primary">
+    <section class="hero main-hero" aria-label="ファーストビュー">
+      <div class="hero-media">
+        <canvas id="pixelCanvas" aria-hidden="true"></canvas>
+        <img class="hero-poster" id="heroPoster" src="https://www.spray166.com/wp-content/uploads/2026/05/20260510_121301.jpg" alt="" crossorigin="anonymous" />
+        <div id="hero-yt" aria-hidden="true"></div>
+      </div>
+      <div class="hero-gradient" aria-hidden="true"></div>
+      <div class="hero-content">
+        <div class="hero-top">
+          <p class="first-hero-text">C0ncrete</p>
+        </div>
+        <div class="hero-title-block">
+          <h1 class="hero-title-main">
+            Ground<br /><span class="zero">Zer0</span>
+          </h1>
+          <p class="hero-theme-ja">旭川の地面から、文化が広がる。</p>
+          <p class="hero-theme-en">Play on Snow · Ride on Concrete</p>
+        </div>
+        <div class="hero-meta">
+          <div class="first-sub-text">
+            <span>Designed &amp; Operated By</span><br />
+            <strong>有限会社 SPRAY</strong>
+          </div>
+          <div class="hero-meta-divider" aria-hidden="true"></div>
+          <div class="second-sub-text">
+            <span>In Collaboration With</span>
+            <div class="collab-logos">
+              <img src="https://www.spray166.com/wp-content/uploads/2024/11/b4525391236b4a29e470b97d633a95fe.jpg" alt="楽天市場" height="14" />
+              <img src="https://www.spray166.com/wp-content/uploads/2024/11/3e4cbb507bcbf77e541b8a65ef15edd1.png" alt="Yahoo!ショッピング" height="14" />
+              <span>spray166.shop</span>
+            </div>
+          </div>
+          <p class="hero-date third-sub-text">1996 — 2026 · 12:00—19:00</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="intro hero-description-wrapper" aria-labelledby="intro-heading">
+      <h2 id="intro-heading" class="visually-hidden">SPRAYについて</h2>
+      <p class="hero-description">
+        旭川で愛される屋内スケートパークは全面約
+        <span class="number">580㎡</span>。
+        1998年から続くこの
+        <span class="number">Ground Zer0</span>で、
+        <span class="number">買う・滑る・習う・直す・来る</span>
+        — 5つの意思を迷わず1クリックで。
+      </p>
+    </section>
+
+    <div class="second-hero" aria-hidden="true">
+      <div class="media-reveal" data-reveal>
+        <img src="https://www.spray166.com/wp-content/uploads/2026/05/f233acc52af38d72137cec7f9d0efb87-1.jpg" alt="" crossorigin="anonymous" loading="lazy" />
+        <canvas></canvas>
+      </div>
+    </div>
+
+    <section class="insight" aria-labelledby="insight-title">
+      <h2 id="insight-title" class="section-title">Pause Before<br />You Replace</h2>
+      <div class="insight-grid">
+        <article class="insight-card">
+          <div class="card-num">01</div>
+          <h3 class="card-head">Worn Edges<br /><span class="highlight">Slow You Down</span></h3>
+          <p class="card-body">エッジの鈍りやベースの傷は滑走の楽しさを奪います。新品に買い替える前に、プロのチューンナップで性能を取り戻せます。</p>
+          <div class="media-reveal" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2019/05/title_board.jpg" alt="ボードメンテナンス" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+          <p class="card-credit">Photo: spray166.com/board-maintenance · <a href="#">料金表</a></p>
+        </article>
+        <article class="insight-card">
+          <div class="card-num">02</div>
+          <h3 class="card-head">Park Fees<br /><span class="highlight">Fund the Park</span><br />You Ride</h3>
+          <p class="card-body">利用料金は基材修理・維持経費に。¥500（1h）から。雪のない日も旭川のライダーが集まる屋内580㎡が続きます。</p>
+          <div class="media-reveal" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2026/05/20260519_162531.jpg" alt="屋内スケートパーク" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+          <p class="card-credit">Photo: spray166.com/aircraft · <a href="#">料金表</a></p>
+        </article>
+        <article class="insight-card">
+          <div class="card-num">03</div>
+          <h3 class="card-head">Gear Is Culture,<br /><span class="highlight">Not Disposable</span></h3>
+          <p class="card-body">SPRAY＝広がる、広まる。100+ブランド・約930点の公式ネット店が、道具と文化を旭川から全国へ届けます。</p>
+          <div class="media-reveal" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2019/05/shop.jpg" alt="ショップフロア" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+          <p class="card-credit">Photo: spray166.com · <a href="#">ブランド一覧</a></p>
+        </article>
+      </div>
+    </section>
+
+    <section class="process diagram-section" aria-labelledby="process-title">
+      <h2 id="process-title" class="section-title">Begin Your<br />First Session</h2>
+      <div class="process-flow">
+        <div class="flow-label-wrap">
+          <div class="flow-label"><span class="hl-wrapper" data-hl>はじめてのパーク利用</span></div>
+        </div>
+        <div class="flow-line" aria-hidden="true"></div>
+        <div class="flow-step">
+          <div class="flow-step-title"><span class="hl-wrapper" data-hl>受付</span></div>
+          <div class="flow-dash" aria-hidden="true"></div>
+          <p class="flow-desc">レジで氏名と入場時間を記入。スタッフが案内します。</p>
+          <div class="flow-thumb-wrap" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2019/09/radysday.jpg" alt="" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+        </div>
+        <div class="flow-line" aria-hidden="true"></div>
+        <div class="flow-step">
+          <div class="flow-step-title"><span class="hl-wrapper" data-hl>ルール確認</span></div>
+          <div class="flow-dash" aria-hidden="true"></div>
+          <p class="flow-desc">ヘルメット推奨・他利用者への配慮。貸切日はカレンダーで確認。</p>
+        </div>
+        <div class="flow-line" aria-hidden="true"></div>
+        <div class="flow-step">
+          <div class="flow-step-title"><span class="hl-wrapper" data-hl>パークへ</span></div>
+          <div class="flow-dash" aria-hidden="true"></div>
+          <p class="flow-desc">ストリート・ハーフボウル・ミニランプ。ロープ付きドロップインOK。</p>
+          <div class="flow-thumb-wrap" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2026/05/20260519_162458-1.jpg" alt="" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+        </div>
+        <div class="flow-line" aria-hidden="true"></div>
+        <div class="flow-step">
+          <div class="flow-step-title"><span class="hl-wrapper" data-hl>メンテ依頼</span></div>
+          <div class="flow-dash" aria-hidden="true"></div>
+          <p class="flow-desc">診断→クリーニング→エッジ・ベース→ワックス→仕上げの5工程。</p>
+        </div>
+      </div>
+      <div class="cycle" aria-label="5軸サイクル">
+        <div class="cycle-ring">
+          <span class="cycle-center">SPRAY<br />5 Axes</span>
+          <span class="cycle-node">Shop</span>
+          <span class="cycle-node">Park</span>
+          <span class="cycle-node">School</span>
+          <span class="cycle-node">Maint.</span>
+          <span class="cycle-node">Store</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="stories" id="stories" aria-labelledby="stories-title">
+      <h2 id="stories-title" class="section-title">More Than<br />Gear</h2>
+      <div class="stories-grid">
+        <a class="story-card" href="#">
+          <div class="media-reveal story-img-wrap" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2026/05/ph240217_012.jpg" alt="" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+          <p class="story-title">SPRAY × OWL オリジナルゴーグル 予約受付</p>
+          <time class="story-date" datetime="2026-06-12">Jun 12, 2026</time>
+        </a>
+        <a class="story-card" href="#">
+          <div class="media-reveal story-img-wrap" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2026/05/20260519_162518.jpg" alt="" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+          <p class="story-title">ENHANCED SPRAY INDOOR COURSE — ストリート拡張</p>
+          <time class="story-date" datetime="2026-05-18">May 18, 2026</time>
+        </a>
+        <a class="story-card" href="#">
+          <div class="media-reveal story-img-wrap" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2019/04/sp1.jpg" alt="" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+          <p class="story-title">Private Skateboard Lessons — プロスタッフによるレッスン</p>
+          <time class="story-date" datetime="2026-04-01">Apr 01, 2026</time>
+        </a>
+        <a class="story-card" href="#">
+          <div class="media-reveal story-img-wrap" data-reveal>
+            <img src="https://www.spray166.com/wp-content/uploads/2026/04/Screenshot_20260426_130115_Adobe-Acrobat.jpg" alt="" crossorigin="anonymous" loading="lazy" />
+            <canvas></canvas>
+          </div>
+          <p class="story-title">ソールサンディング ¥6,600 — 硬化ソールを新品同様に</p>
+          <time class="story-date" datetime="2026-03-10">Mar 10, 2026</time>
+        </a>
+      </div>
+      <div class="stories-more"><a href="#">すべてのお知らせを見る</a></div>
+    </section>
+
+    <section class="access" id="access" aria-labelledby="access-title">
+      <h2 id="access-title" class="section-title">Find<br />SPRAY</h2>
+      <div class="filter-chips" role="tablist" aria-label="アクセス方法">
+        <button type="button" class="chip is-active" role="tab" aria-selected="true" data-tab="store">店舗・パーク</button>
+        <button type="button" class="chip" role="tab" aria-selected="false" data-tab="transit">電車・バス</button>
+        <button type="button" class="chip" role="tab" aria-selected="false" data-tab="car">車</button>
+      </div>
+      <div class="access-layout">
+        <ul class="access-facts" id="accessFacts">
+          <li data-panel="store"><strong>Address</strong>〒078-8242　北海道旭川市豊岡12条1丁目1-8</li>
+          <li data-panel="store"><strong>Hours</strong>12:00～19:00（水曜定休）· パーク ¥500〜¥1,300</li>
+          <li data-panel="store"><strong>Tel</strong><a href="tel:0166332779">0166-33-2779</a></li>
+          <li data-panel="transit" hidden><strong>Train / Bus</strong>旭川駅より約15分 · 47番バス「10条22丁目」下車 徒歩4分（270m）</li>
+          <li data-panel="car" hidden><strong>By car</strong>旭川駅より国道39号→動物園通り右折、750m先左手 · 空港より約30分</li>
+          <li data-panel="store"><strong>Online</strong>楽天 · Yahoo! · spray166.shop（約930点）</li>
+        </ul>
+        <iframe class="map-embed" title="SPRAY 店舗地図" loading="lazy" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11524.525607163925!2d142.38279460217197!3d43.770131109648226!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb1a612acbcfadd13!2z44K544OX44Os44Kk!5e0!3m2!1sja!2sus!4v1557819391257!5m2!1sja!2sus"></iframe>
+      </div>
+    </section>
+
+    <section class="footer-cta" aria-labelledby="footer-cta-title">
+      <h2 id="footer-cta-title">Don't forget,<br />your session spreads culture</h2>
+      <div class="footer-actions">
+        <a class="btn btn-park" href="#access">パーク・料金を確認</a>
+        <a class="btn btn-shop" href="#stories">オンラインで買う</a>
+        <a class="btn" href="#" style="color:var(--gl-yellow);border-color:var(--gl-yellow)">メンテを依頼する</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>©2026 有限会社 SPRAY. All rights reserved.</span>
+    <nav class="social" aria-label="SNS">
+      <a href="https://www.youtube.com/c/Spray166" target="_blank" rel="noopener noreferrer">YouTube</a>
+      <a href="https://www.instagram.com/spray166/" target="_blank" rel="noopener noreferrer">Instagram</a>
+      <a href="https://www.facebook.com/SPRAY166/" target="_blank" rel="noopener noreferrer">Facebook</a>
+    </nav>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+  <script src="https://unpkg.com/split-type@0.3.4/umd/index.min.js"></script>
+  <script>
+    /* ── Config ── */
+    var YT_ID = "CBUhFAxO-Fo";
+    var YT_START = 203;
+    var YT_END = 222;
+    var reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+    gsap.registerPlugin(ScrollTrigger);
+
+    /* ── YouTube hero (本番はホスト MP4 に差し替え) ── */
+    var ytPlayer;
+    function loadYouTubeAPI(cb) {
+      if (window.YT && window.YT.Player) { cb(); return; }
+      var prev = window.onYouTubeIframeAPIReady;
+      window.onYouTubeIframeAPIReady = function () {
+        if (prev) prev();
+        cb();
+      };
+      var s = document.createElement("script");
+      s.src = "https://www.youtube.com/iframe_api";
+      document.head.appendChild(s);
+    }
+
+    function initYouTube() {
+      ytPlayer = new YT.Player("hero-yt", {
+        videoId: YT_ID,
+        width: "100%",
+        height: "100%",
+        playerVars: {
+          autoplay: 1, mute: 1, controls: 0, playsinline: 1,
+          rel: 0, modestbranding: 1, disablekb: 1, fs: 0,
+          iv_load_policy: 3, start: YT_START
+        },
+        events: {
+          onReady: function (e) {
+            e.target.mute();
+            e.target.seekTo(YT_START, true);
+            e.target.playVideo();
+            setInterval(function () {
+              if (!ytPlayer || !ytPlayer.getCurrentTime) return;
+              if (ytPlayer.getCurrentTime() >= YT_END - 0.15) ytPlayer.seekTo(YT_START, true);
+            }, 200);
+          }
+        }
+      });
+    }
+
+    /* ── BKKDW-style pixel reveal (hero poster → video) ── */
+    function pixelateImage(source, canvas, steps, frameDelay, onDone) {
+      var ctx = canvas.getContext("2d");
+      var w = canvas.parentElement.offsetWidth;
+      var h = canvas.parentElement.offsetHeight;
+      canvas.width = w;
+      canvas.height = h;
+      var sw = source.naturalWidth || source.videoWidth;
+      var sh = source.naturalHeight || source.videoHeight;
+      if (!sw || !sh) { setTimeout(function () { pixelateImage(source, canvas, steps, frameDelay, onDone); }, 80); return; }
+      var ratio = sw / sh;
+      var cw = w, ch = h, sx = 0, sy = 0, sWidth = sw, sHeight = sh;
+      if (ratio > w / h) {
+        sWidth = sh * (w / h);
+        sx = (sw - sWidth) / 2;
+      } else {
+        sHeight = sw / (w / h);
+        sy = (sh - sHeight) / 2;
+      }
+      var i = 0;
+      function draw(px) {
+        ctx.imageSmoothingEnabled = false;
+        ctx.clearRect(0, 0, w, h);
+        var pw = Math.max(1, Math.ceil(w / px));
+        var ph = Math.max(1, Math.ceil(h / px));
+        ctx.drawImage(source, sx, sy, sWidth, sHeight, 0, 0, pw, ph);
+        ctx.drawImage(canvas, 0, 0, pw, ph, 0, 0, w, h);
+      }
+      function next() {
+        if (i < steps.length) {
+          draw(steps[i++]);
+          setTimeout(next, frameDelay);
+        } else {
+          ctx.imageSmoothingEnabled = true;
+          ctx.clearRect(0, 0, w, h);
+          ctx.drawImage(source, sx, sy, sWidth, sHeight, 0, 0, w, h);
+          if (onDone) onDone();
+        }
+      }
+      draw(steps[0]);
+      setTimeout(next, 100);
+    }
+
+    function startHeroPixelReveal() {
+      var canvas = document.getElementById("pixelCanvas");
+      var poster = document.getElementById("heroPoster");
+      var isMobile = window.innerWidth < 768;
+      var steps = isMobile
+        ? [80, 60, 45, 30, 20, 12, 6, 3, 1]
+        : [160, 140, 120, 100, 80, 60, 45, 30, 20, 12, 6, 3, 1];
+      function run() {
+        pixelateImage(poster, canvas, steps, isMobile ? 60 : 50, function () {
+          gsap.to(canvas, { opacity: 0, duration: 0.6, onComplete: function () { canvas.style.display = "none"; } });
+          document.getElementById("hero-yt").classList.add("is-visible");
+          gsap.to(poster, { opacity: 0, duration: 0.6 });
+          loadYouTubeAPI(initYouTube);
+        });
+      }
+      if (poster.complete) run();
+      else poster.addEventListener("load", run, { once: true });
+    }
+
+    /* ── Scroll-triggered image pixel reveal ── */
+    function bindImageReveals() {
+      document.querySelectorAll("[data-reveal]").forEach(function (wrap) {
+        var img = wrap.querySelector("img");
+        var canvas = wrap.querySelector("canvas");
+        if (!img || !canvas || wrap.dataset.bound) return;
+        wrap.dataset.bound = "1";
+        var played = false;
+        function play() {
+          if (played) return;
+          played = true;
+          var steps = window.innerWidth < 768
+            ? [40, 28, 18, 10, 5, 2, 1]
+            : [80, 60, 40, 24, 12, 6, 3, 1];
+          pixelateImage(img, canvas, steps, 45, function () {
+            gsap.to(canvas, { opacity: 0, duration: 0.4, onComplete: function () { canvas.style.display = "none"; } });
+            gsap.to(img, { opacity: 1, duration: 0.4 });
+          });
+        }
+        ScrollTrigger.create({
+          trigger: wrap,
+          start: "top 85%",
+          once: true,
+          onEnter: function () {
+            if (img.complete && img.naturalWidth) play();
+            else img.addEventListener("load", play, { once: true });
+          }
+        });
+      });
+    }
+
+    /* ── GSAP text (BKKDW hero + intro) ── */
+    function initTextAnimations() {
+      gsap.to(".first-hero-text", { opacity: 1, duration: 0.5, delay: 0.5, ease: "power2.inOut" });
+      gsap.to(".hero-title-main", { opacity: 1, duration: 0.8, delay: 0.7, ease: "power2.out" });
+      gsap.to(".hero-theme-ja", { opacity: 1, duration: 0.6, delay: 0.95, ease: "power2.out" });
+      gsap.to(".hero-theme-en", { opacity: 1, duration: 0.6, delay: 1.05, ease: "power2.out" });
+      var sub = gsap.timeline({ delay: 1.1 });
+      sub.to(".first-sub-text", { opacity: 1, duration: 1, ease: "power2.out" })
+         .to(".second-sub-text", { opacity: 1, duration: 1, ease: "power2.out" }, 0.2)
+         .to(".third-sub-text", { opacity: 1, duration: 1, ease: "power2.out" }, 0.3);
+
+      var desc = document.querySelector(".hero-description");
+      if (desc && window.SplitType) {
+        var split = new SplitType(desc, { types: "words, chars", tagName: "span" });
+        gsap.set(split.chars, { color: "#616161" });
+        var tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: ".hero-description-wrapper",
+            start: window.innerWidth < 768 ? "top 80%" : "top 70%",
+            end: "bottom 50%",
+            scrub: 1
+          }
+        });
+        split.chars.forEach(function (ch, i) {
+          var yellow = ch.closest && ch.closest(".number");
+          tl.to(ch, { color: yellow ? "#e2fc07" : "#ffffff", duration: 0.1, ease: "none" }, i * 0.02);
+        });
+      }
+
+      document.querySelectorAll("[data-hl]").forEach(function (el) {
+        gsap.to(el, {
+          width: "auto",
+          ease: "none",
+          scrollTrigger: {
+            trigger: el.closest(".flow-step") || el.closest(".flow-label-wrap"),
+            start: "top 80%",
+            end: "top 40%",
+            scrub: 1
+          }
+        });
+      });
+    }
+
+    /* ── Access tabs ── */
+    document.querySelectorAll(".chip").forEach(function (chip) {
+      chip.addEventListener("click", function () {
+        document.querySelectorAll(".chip").forEach(function (c) {
+          c.classList.remove("is-active");
+          c.setAttribute("aria-selected", "false");
+        });
+        chip.classList.add("is-active");
+        chip.setAttribute("aria-selected", "true");
+        var tab = chip.dataset.tab;
+        document.querySelectorAll("#accessFacts li").forEach(function (li) {
+          var show = li.dataset.panel === tab || li.dataset.panel === "store";
+          li.hidden = !show;
+        });
+      });
+    });
+
+    /* ── Screenshot / mock export mode (?capture=1) ── */
+    function enableCaptureMode() {
+      document.documentElement.classList.add("capture-mode");
+      var canvas = document.getElementById("pixelCanvas");
+      if (canvas) canvas.style.display = "none";
+      var yt = document.getElementById("hero-yt");
+      if (yt) yt.style.display = "none";
+      var poster = document.getElementById("heroPoster");
+      if (poster) poster.style.opacity = "1";
+      document.querySelectorAll("[data-reveal] img, .second-hero img").forEach(function (img) {
+        img.style.opacity = "1";
+      });
+      document.querySelectorAll("[data-reveal] canvas, .second-hero canvas, .flow-thumb-wrap canvas").forEach(function (c) {
+        c.style.display = "none";
+      });
+      document.querySelectorAll(".first-hero-text, .hero-title-main, .hero-theme-ja, .hero-theme-en, .first-sub-text, .second-sub-text, .third-sub-text").forEach(function (el) {
+        el.style.opacity = "1";
+      });
+      document.querySelectorAll(".hl-wrapper").forEach(function (el) {
+        el.style.width = "auto";
+      });
+      var desc = document.querySelector(".hero-description");
+      if (desc) desc.style.color = "#fff";
+    }
+
+    /* ── Boot ── */
+    var captureMode = /[?&]capture=1/.test(location.search);
+    if (captureMode) {
+      enableCaptureMode();
+    } else if (!reducedMotion) {
+      startHeroPixelReveal();
+      initTextAnimations();
+      bindImageReveals();
+      window.addEventListener("resize", function () { ScrollTrigger.refresh(); });
+    } else {
+      document.getElementById("heroPoster").style.opacity = "1";
+      document.querySelectorAll("[data-reveal] img").forEach(function (img) { img.style.opacity = "1"; });
+      document.querySelectorAll(".first-hero-text, .hero-title-main, .hero-theme-ja, .hero-theme-en, .first-sub-text, .second-sub-text, .third-sub-text").forEach(function (el) {
+        el.style.opacity = "1";
+      });
+    }
+  </script>
+</body>
+</html>

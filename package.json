@@ -1,0 +1,14 @@
+{
+  "name": "spray-ground-zero-lp",
+  "private": true,
+  "version": "0.1.0",
+  "description": "SPRAY Concrete Ground Zer0 — BKKDW-style static LP (Vercel deploy)",
+  "scripts": {
+    "dev": "python -m http.server 3456",
+    "capture": "node scripts/capture-screenshots.mjs",
+    "capture:serve": "node scripts/capture-screenshots.mjs --serve"
+  },
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}

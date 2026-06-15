@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "name": "spray-ground-zero-lp",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+      ]
+    }
+  ],
+  "rewrites": [
+    { "source": "/mock-001", "destination": "/index.html" },
+    { "source": "/preview", "destination": "/index.html" }
+  ]
+}
