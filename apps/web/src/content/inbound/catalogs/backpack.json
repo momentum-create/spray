@@ -5,7 +5,7 @@
     "title": "Backpacks",
     "titleJa": "バックパック",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct300/",
-    "totalProducts": 16
+    "totalProducts": 13
   },
   "brands": [],
   "products": [
@@ -64,24 +64,6 @@
       "updatedAt": "2026-05-29T06:08:24.220Z"
     },
     {
-      "slug": "backpack-000000003029",
-      "makeshopId": "000000003029",
-      "brandSlug": "plus-one-works",
-      "name": "【PLUS ONE WORKS】 プラスワンワークス 【MAKIRI 25 EVO】 マキリ25エボ アウトドア / スキー / スノーボード / バックカントリー / バックパック",
-      "priceJpy": 33000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003029/ct300/page1/order/",
-      "updatedAt": "2026-05-29T06:08:24.220Z"
-    },
-    {
-      "slug": "backpack-000000003032",
-      "makeshopId": "000000003032",
-      "brandSlug": "plus-one-works",
-      "name": "【PLUS ONE WORKS】 プラスワンワークス 【TANTO 15】 タント15 アウトドア / スキー / スノーボード / バックカントリー / バックパック",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003032/ct300/page1/order/",
-      "updatedAt": "2026-05-29T06:08:24.220Z"
-    },
-    {
       "slug": "backpack-000000003033",
       "makeshopId": "000000003033",
       "brandSlug": "plus-one-works",
@@ -133,15 +115,6 @@
       "name": "CMF OUTDOOR GARMENT シーエムエフ アウトドア ガーメント 【BACKPACKERZ 32 SMOOTH NYLON】 CMF2401-AC19 バックパック アウトドア",
       "priceJpy": 30800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002308/ct300/page1/order/",
-      "updatedAt": "2026-05-29T06:08:24.220Z"
-    },
-    {
-      "slug": "backpack-000000003430",
-      "makeshopId": "000000003430",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【DEFI 16】 デフィ 16 デイパック バックパック MIS0790",
-      "priceJpy": 5390,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003430/ct300/page1/order/",
       "updatedAt": "2026-05-29T06:08:24.220Z"
     },
     {
@@ -316,5 +289,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:35.201Z"
+  "syncedAt": "2026-06-19T19:46:59.904Z"
 }

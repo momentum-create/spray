@@ -5,7 +5,7 @@
     "title": "Long Sleeve",
     "titleJa": "長袖",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct303/",
-    "totalProducts": 19
+    "totalProducts": 18
   },
   "brands": [],
   "products": [
@@ -124,15 +124,6 @@
       "name": "SPRAY Original Kids Zip Up Parka",
       "priceJpy": 6600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000001895/ct303/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.389Z"
-    },
-    {
-      "slug": "long-sleeve-000000002470",
-      "makeshopId": "000000002470",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 メンズ・ロングスリーブ・'73 テキスト・ロゴ・レスポンシビリティー 37780 長袖 男性用",
-      "priceJpy": 8250,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002470/ct303/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.389Z"
     },
     {
@@ -367,5 +358,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:38.522Z"
+  "syncedAt": "2026-06-19T19:47:03.068Z"
 }

@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 89
+    "totalProducts": 87
   },
   "brands": [
     {
@@ -24,13 +24,13 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 9
+      "productCount": 8
     },
     {
       "slug": "union",
@@ -66,13 +66,13 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 9
+      "productCount": 8
     },
     {
       "slug": "union",
@@ -95,6 +95,33 @@
   ],
   "products": [
     {
+      "slug": "binding-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000003679",
+      "makeshopId": "000000003679",
+      "brandSlug": "karakoram",
+      "name": "karakoram用 トゥーストラップ固定ビス",
+      "priceJpy": 1320,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003679/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000003409",
+      "makeshopId": "000000003409",
+      "brandSlug": "karakoram",
+      "name": "karakoram用 ビスセット",
+      "priceJpy": 2000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003409/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
       "slug": "binding-000000002923",
       "makeshopId": "000000002923",
       "brandSlug": "spark-r-d",
@@ -110,15 +137,6 @@
       "name": "【SPARK R&D】 スパーク 【ibex ST PRO CRAMPON】 アイベックス ST プロ クランポン バインディング スノーボード スプリットボード",
       "priceJpy": 25850,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002929/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -209,15 +227,6 @@
       "name": "【BURTON】 バートン 【Step On Re:Flex】 ステップオン 25-26 メンズ 男性用 BINDING ビンディング SNOWBOARD スノーボード ステップオン",
       "priceJpy": 34300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003014/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003016",
-      "makeshopId": "000000003016",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Cartel X Re:Flex】 カーテル X 25-26 メンズ 男性用 BINDING ビンディング バインディング SNOWBOARD スノーボード",
-      "priceJpy": 42200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003016/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -338,15 +347,6 @@
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
-      "slug": "binding-000000003409",
-      "makeshopId": "000000003409",
-      "brandSlug": "karakoram",
-      "name": "karakoram用 ビスセット",
-      "priceJpy": 2000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003409/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
       "slug": "binding-000000003463",
       "makeshopId": "000000003463",
       "brandSlug": "burton",
@@ -398,15 +398,6 @@
       "name": "【UNION】ユニオン 【Strata】ストラータ 25-26 MODEL / Sand ビンディング バインディング スノーボード",
       "priceJpy": 34300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003543/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003679",
-      "makeshopId": "000000003679",
-      "brandSlug": "karakoram",
-      "name": "karakoram用 トゥーストラップ固定ビス",
-      "priceJpy": 1320,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003679/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -677,15 +668,6 @@
       "name": "【KARAKORAM】 カラコラム 【Split30 Binding Hardware】 スプリット30 バインディングハードウェア バックカントリー スノーボード ソリッドボード スプリットボード",
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003086/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002281",
-      "makeshopId": "000000002281",
-      "brandSlug": "ds",
-      "name": "フラックス FLUX 【DS】 23-24 MODEL ビンディング バインディング スノーボード",
-      "priceJpy": 33110,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002281/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1699,5 +1681,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:32.104Z"
+  "syncedAt": "2026-06-19T19:46:56.782Z"
 }

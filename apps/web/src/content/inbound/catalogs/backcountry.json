@@ -5,10 +5,19 @@
     "title": "Backcountry",
     "titleJa": "バックカントリーアイテム",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct301/",
-    "totalProducts": 81
+    "totalProducts": 80
   },
   "brands": [],
   "products": [
+    {
+      "slug": "backcountry-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
     {
       "slug": "backcountry-000000002923",
       "makeshopId": "000000002923",
@@ -25,15 +34,6 @@
       "name": "【SPARK R&D】 スパーク 【ibex ST PRO CRAMPON】 アイベックス ST プロ クランポン バインディング スノーボード スプリットボード",
       "priceJpy": 25850,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002929/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -133,15 +133,6 @@
       "name": "【SPARK R&D】 スパーク 【Baseplate Padding Kit for Arc】 ベースプレートパディングキット カットアウト バインディング スノーボード スプリットボード",
       "priceJpy": 5500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002992/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000003179",
-      "makeshopId": "000000003179",
-      "brandSlug": "pomoca",
-      "name": "【POMOCA】ポモカ 【FREE PRO 2.0 SPLITBOARD】 フリープロ 2.0 スプリットボード 145mm S(141-151cm)シール／スキン バックカントリー スノーボード",
-      "priceJpy": 35200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003179/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -1414,5 +1405,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:36.579Z"
+  "syncedAt": "2026-06-19T19:47:01.536Z"
 }

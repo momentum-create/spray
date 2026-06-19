@@ -5,10 +5,28 @@
     "title": "Skateboards",
     "titleJa": "スケートボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61085/",
-    "totalProducts": 13
+    "totalProducts": 12
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-000000003695",
+      "makeshopId": "000000003695",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【PIPE 32\" Surfskate Complete】 2026SP POWER SURFING SERIES コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 49500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003695/I61085/page1/order/",
+      "updatedAt": "2026-05-29T06:08:31.726Z"
+    },
+    {
+      "slug": "skateboard-000000003696",
+      "makeshopId": "000000003696",
+      "brandSlug": "yow-surfskate",
+      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【J-BAY 33\" Surfskate Complete】 2026SP POWER SURFING SERIES コンプリート スケートボード スノーボード サーフィン",
+      "priceJpy": 49500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003696/I61085/page1/order/",
+      "updatedAt": "2026-06-19T19:47:11.130Z"
+    },
     {
       "slug": "skateboard-000000003737",
       "makeshopId": "000000003737",
@@ -64,15 +82,6 @@
       "updatedAt": "2026-05-29T06:08:31.726Z"
     },
     {
-      "slug": "skateboard-000000003755",
-      "makeshopId": "000000003755",
-      "brandSlug": "carver-skate-boards",
-      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【32.5\" BLACK LABEL】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
-      "priceJpy": 64900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003755/I61085/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.726Z"
-    },
-    {
       "slug": "skateboard-000000003754",
       "makeshopId": "000000003754",
       "brandSlug": "carver-skate-boards",
@@ -100,30 +109,12 @@
       "updatedAt": "2026-05-29T06:08:31.726Z"
     },
     {
-      "slug": "skateboard-000000003695",
-      "makeshopId": "000000003695",
-      "brandSlug": "yow-surfskate",
-      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【PIPE 32\" Surfskate Complete】 2026SP POWER SURFING SERIES コンプリート スケートボード スノーボード サーフィン",
-      "priceJpy": 49500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003695/I61085/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.726Z"
-    },
-    {
       "slug": "skateboard-000000003697",
       "makeshopId": "000000003697",
       "brandSlug": "yow-surfskate",
       "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【SAN ONOFRE 35.5\" Surfskate Complete】 2026SP CLASSIC SERIES コンプリート スケートボード スノーボード サーフィン",
       "priceJpy": 53900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003697/I61085/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.726Z"
-    },
-    {
-      "slug": "skateboard-000000003739",
-      "makeshopId": "000000003739",
-      "brandSlug": "carver-skate-boards",
-      "name": "カーバー スケートボード 【CARVER SKATE BOARDS】【JAPAN LIMITED 32“ AKA FUJI Complete】CX.4 TRACK コンプリート サーフスケート スケートボード スノーボード サーフィン",
-      "priceJpy": 64680,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003739/I61085/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.726Z"
     }
   ],
@@ -246,5 +237,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:45.333Z"
+  "syncedAt": "2026-06-19T19:47:11.130Z"
 }

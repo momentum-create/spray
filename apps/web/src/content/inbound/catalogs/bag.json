@@ -5,10 +5,19 @@
     "title": "Bags",
     "titleJa": "バッグ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61075/",
-    "totalProducts": 32
+    "totalProducts": 29
   },
   "brands": [],
   "products": [
+    {
+      "slug": "bag-000000002559",
+      "makeshopId": "000000002559",
+      "brandSlug": "hinoc-sacoche",
+      "name": "ナンガ NANGA ヒノックサコッシュ 【HINOC SACOCHE】 NA2441-3A100-A / ショルダーバッグ",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002559/I61075/page1/order/",
+      "updatedAt": "2026-06-19T19:47:05.708Z"
+    },
     {
       "slug": "bag-000000002558",
       "makeshopId": "000000002558",
@@ -17,15 +26,6 @@
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002558/I61075/page1/order/",
       "updatedAt": "2026-06-11T20:19:10.282Z"
-    },
-    {
-      "slug": "bag-000000002559",
-      "makeshopId": "000000002559",
-      "brandSlug": "hinoc-sacoche",
-      "name": "ナンガ NANGA ヒノックサコッシュ 【HINOC SACOCHE】 NA2441-3A100-A / ショルダーバッグ",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002559/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
       "slug": "bag-000000003588",
@@ -88,33 +88,6 @@
       "name": "【oran'ge】 オレンジ 【MESH BOOTS BAG】 メッシュブーツバッグ / アウトドア / スキー / スノーボード / ブーツバッグ",
       "priceJpy": 4576,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003484/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000002864",
-      "makeshopId": "000000002864",
-      "brandSlug": "ebs",
-      "name": "エビス【eb's】 ボウハウス【BOW-HOUSE】 アクションカメラ バッグ",
-      "priceJpy": 6380,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002864/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000002942",
-      "makeshopId": "000000002942",
-      "brandSlug": "ebs",
-      "name": "【eb's】エビス【BOOTS LOCKER】ブーツロッカー 2025/2026 スノーボード スキー ブーツ バッグ 4500360",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002942/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000002962",
-      "makeshopId": "000000002962",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Chugach 28】 チュガッチ28 スキー / スノーボード / バックカントリー / バックパック NM62353",
-      "priceJpy": 31350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002962/I61075/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
@@ -620,5 +593,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:40.468Z"
+  "syncedAt": "2026-06-19T19:47:05.708Z"
 }

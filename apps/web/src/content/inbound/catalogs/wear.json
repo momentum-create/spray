@@ -5,7 +5,7 @@
     "title": "Wear",
     "titleJa": "ウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct298/",
-    "totalProducts": 41
+    "totalProducts": 40
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "patagonia",
       "name": "Patagonia",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct324/",
-      "productCount": 13
+      "productCount": 12
     },
     {
       "slug": "burton",
@@ -356,15 +356,6 @@
       "name": "【BURTON】 バートン 【Men’ｓ Reserve 2L Jacket】 メンズ リザーブ 2L ジャケット 25-26 Sunrise Coral スノーボード ウェア 男性用",
       "priceJpy": 29000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003229/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000002639",
-      "makeshopId": "000000002639",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 メンズ・ストーム・シフト・ジャケット 【Men's Storm Shift Jacket】 31745",
-      "priceJpy": 56320,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002639/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -831,5 +822,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:33.577Z"
+  "syncedAt": "2026-06-19T19:46:58.359Z"
 }

@@ -5,10 +5,37 @@
     "title": "SPRAY Original",
     "titleJa": "SPRAYオリジナル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct271/",
-    "totalProducts": 50
+    "totalProducts": 52
   },
   "brands": [],
   "products": [
+    {
+      "slug": "spray-original-000000003009",
+      "makeshopId": "000000003009",
+      "brandSlug": "other",
+      "name": "SPRAY Original Pocket Measure ポケットメジャー",
+      "priceJpy": 330,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003009/ct271/page1/order/",
+      "updatedAt": "2026-06-19T19:46:54.430Z"
+    },
+    {
+      "slug": "spray-original-000000003679",
+      "makeshopId": "000000003679",
+      "brandSlug": "other",
+      "name": "karakoram用 トゥーストラップ固定ビス",
+      "priceJpy": 1320,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003679/ct271/page1/order/",
+      "updatedAt": "2026-06-19T19:46:54.430Z"
+    },
+    {
+      "slug": "spray-original-000000003409",
+      "makeshopId": "000000003409",
+      "brandSlug": "other",
+      "name": "karakoram用 ビスセット",
+      "priceJpy": 2000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003409/ct271/page1/order/",
+      "updatedAt": "2026-06-19T19:46:54.430Z"
+    },
     {
       "slug": "spray-original-000000002879",
       "makeshopId": "000000002879",
@@ -88,15 +115,6 @@
       "name": "SPRAY Original -Freestyle Snowboards- / オリジナル スノーボード / フリースタイル / スプレイ",
       "priceJpy": 66000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002910/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000002748",
-      "makeshopId": "000000002748",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック【ROCKET FISH OUTLINE CORE】 2025-2026 MODEL ロケットフィッシュ アウトラインコア 144 バックカントリー フリーライド スノーボード パウダー",
-      "priceJpy": 187000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002748/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
@@ -960,5 +978,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:29.749Z"
+  "syncedAt": "2026-06-19T19:46:54.430Z"
 }

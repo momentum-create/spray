@@ -5,10 +5,64 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 209
+    "totalProducts": 208
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000004010",
+      "makeshopId": "000000004010",
+      "brandSlug": "chums",
+      "name": "【CHUMS】 チャムス 【Kids Have A Sweet Day!! Dry T-Shirt】 キッズハブアスウィートデイ!!ドライTシャツ / 半袖 / キッズ CH21-1372",
+      "priceJpy": 3960,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004010/I61093/page1/order/",
+      "updatedAt": "2026-06-19T19:47:16.956Z"
+    },
+    {
+      "slug": "sale-000000004009",
+      "makeshopId": "000000004009",
+      "brandSlug": "chums",
+      "name": "【CHUMS】 チャムス 【Plunge Divers】 プランジダイバース ショートパンツ/ハーフパンツ/メンズ CH03-1360",
+      "priceJpy": 5984,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004009/I61093/page1/order/",
+      "updatedAt": "2026-06-19T19:47:16.956Z"
+    },
+    {
+      "slug": "sale-000000002288",
+      "makeshopId": "000000002288",
+      "brandSlug": "other",
+      "name": "ナンガ NANGA オーロラライトユーティリティダウンジャケット URORA LIGHT UTILITY DOWN JACKET ND2341-1A008 / メンズ / 男性用",
+      "priceJpy": 51590,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002288/I61093/page1/order/",
+      "updatedAt": "2026-06-19T19:47:16.956Z"
+    },
+    {
+      "slug": "sale-000000002602",
+      "makeshopId": "000000002602",
+      "brandSlug": "nanga",
+      "name": "ナンガ【NANGA】 ヒノックリップストップインナーダウンベスト【HINOC RIPSTOP INNER DOWN VEST】 ND2441-1N304-A / メンズ / 男性用",
+      "priceJpy": 24640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002602/I61093/page1/order/",
+      "updatedAt": "2026-06-19T19:47:16.956Z"
+    },
+    {
+      "slug": "sale-000000003995",
+      "makeshopId": "000000003995",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【INNER DOWN CARDIGAN DS】 インナーダウンカーディガンデタッチャブルスリーブ ND2441-1A901-A / メンズ / 男性用",
+      "priceJpy": 22880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003995/I61093/page1/order/",
+      "updatedAt": "2026-06-19T19:47:16.956Z"
+    },
+    {
+      "slug": "sale-000000002559",
+      "makeshopId": "000000002559",
+      "brandSlug": "hinoc-sacoche",
+      "name": "ナンガ NANGA ヒノックサコッシュ 【HINOC SACOCHE】 NA2441-3A100-A / ショルダーバッグ",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002559/I61093/page1/order/",
+      "updatedAt": "2026-06-19T19:47:16.956Z"
+    },
     {
       "slug": "sale-000000003987",
       "makeshopId": "000000003987",
@@ -163,15 +217,6 @@
       "updatedAt": "2026-05-31T19:14:17.248Z"
     },
     {
-      "slug": "sale-000000002306",
-      "makeshopId": "000000002306",
-      "brandSlug": "other",
-      "name": "CMF OUTDOOR GARMENT シーエムエフ アウトドア ガーメント QUICK DRY MESH TEE S/S PT】 登山 キャンプ アウトドア",
-      "priceJpy": 6160,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002306/I61093/page1/order/",
-      "updatedAt": "2026-05-31T19:14:17.248Z"
-    },
-    {
       "slug": "sale-000000003949",
       "makeshopId": "000000003949",
       "brandSlug": "salomon",
@@ -322,15 +367,6 @@
       "name": "【oran'ge】 オレンジ 【MESH BOOTS BAG】 メッシュブーツバッグ / アウトドア / スキー / スノーボード / ブーツバッグ",
       "priceJpy": 4576,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003484/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003467",
-      "makeshopId": "000000003467",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【CAMBRIDGE】ケンブリッジ Black/Gum Suede ブラック/ガム スエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003467/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -1018,15 +1054,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003500",
-      "makeshopId": "000000003500",
-      "brandSlug": "arbor",
-      "name": "【ARBOR】 アーバー 【CODA】 コーダ 25-26 メンズ 男性用 SNOWBOARD スノーボード",
-      "priceJpy": 79992,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003500/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003501",
       "makeshopId": "000000003501",
       "brandSlug": "arbor",
@@ -1297,15 +1324,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000002334",
-      "makeshopId": "000000002334",
-      "brandSlug": "other",
-      "name": "ノースフェイス THE NORTH FACE モジュールアンブレラ NN32438 折りたたみ傘 日除け傘 日傘",
-      "priceJpy": 7920,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002334/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003252",
       "makeshopId": "000000003252",
       "brandSlug": "dakine",
@@ -1357,15 +1375,6 @@
       "name": "【BURTON】 バートン 【HIGHSHOT X Step On】 ハイショット X Step On 25-26 メンズ 男性用 BOOTS ブーツ SNOWBOARD スノーボード ステップオン",
       "priceJpy": 50050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003023/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003435",
-      "makeshopId": "000000003435",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Grey/CoralSuede グレイ/コーラルスエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 9625,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003435/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -1504,15 +1513,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003098",
-      "makeshopId": "000000003098",
-      "brandSlug": "vans",
-      "name": "【VANS】 ヴァンズ バンズ 【Sk8-Hi GORE-TEX Insulated】 スケートハイ GORE-TEX インシュレーテッド スニーカー 防水 冬靴",
-      "priceJpy": 19360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003098/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003466",
       "makeshopId": "000000003466",
       "brandSlug": "lakai",
@@ -1555,15 +1555,6 @@
       "name": "【BURTON】 バートン 【Men's Gondy GORE-TEX Leather Mitten】 メンズ ゴンディ GORE-TEX レザー ミトン 25-26 スノーボードグローブ ミトン",
       "priceJpy": 15840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003281/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000002875",
-      "makeshopId": "000000002875",
-      "brandSlug": "vans",
-      "name": "【VANS】 バンズ 【AURA PRO】 オーラ プロ 25-26 MODEL BLACK/WHITE ブーツ スノーボード ヴァンズ",
-      "priceJpy": 36960,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002875/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -3918,5 +3909,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:50.788Z"
+  "syncedAt": "2026-06-19T19:47:16.956Z"
 }

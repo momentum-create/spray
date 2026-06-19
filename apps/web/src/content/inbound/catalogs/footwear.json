@@ -5,14 +5,14 @@
     "title": "Footwear",
     "titleJa": "フットウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61086/",
-    "totalProducts": 36
+    "totalProducts": 32
   },
   "brands": [
     {
       "slug": "I61087",
       "name": "メンズ スニーカー",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61087/",
-      "productCount": 24
+      "productCount": 21
     },
     {
       "slug": "I61156",
@@ -92,24 +92,6 @@
       "updatedAt": "2026-05-30T19:10:36.891Z"
     },
     {
-      "slug": "footwear-000000003467",
-      "makeshopId": "000000003467",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【CAMBRIDGE】ケンブリッジ Black/Gum Suede ブラック/ガム スエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003467/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003217",
-      "makeshopId": "000000003217",
-      "brandSlug": "deeluxe",
-      "name": "【DEELUXE】ディーラックス 【BANE INSOLE】インソール 2025-2026 スノーボード ブーツ 中敷き",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003217/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
       "slug": "footwear-000000003474",
       "makeshopId": "000000003474",
       "brandSlug": "lakai",
@@ -155,15 +137,6 @@
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
-      "slug": "footwear-000000003435",
-      "makeshopId": "000000003435",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Grey/CoralSuede グレイ/コーラルスエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 9625,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003435/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
       "slug": "footwear-000000003118",
       "makeshopId": "000000003118",
       "brandSlug": "the-north-face",
@@ -206,15 +179,6 @@
       "name": "【LAKAI】 ラカイ 【MOD】モッド Black/Red Suede ブラック/レッド スエード スニーカー スケートボード SK8 スケシュー スケボー",
       "priceJpy": 12320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003478/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003098",
-      "makeshopId": "000000003098",
-      "brandSlug": "vans",
-      "name": "【VANS】 ヴァンズ バンズ 【Sk8-Hi GORE-TEX Insulated】 スケートハイ GORE-TEX インシュレーテッド スニーカー 防水 冬靴",
-      "priceJpy": 19360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003098/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
@@ -735,5 +699,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:40.085Z"
+  "syncedAt": "2026-06-19T19:47:05.314Z"
 }

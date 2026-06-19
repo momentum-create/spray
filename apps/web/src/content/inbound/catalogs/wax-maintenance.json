@@ -5,10 +5,19 @@
     "title": "Wax & Maintenance",
     "titleJa": "WAX＆メンテナンス",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct357/",
-    "totalProducts": 11
+    "totalProducts": 10
   },
   "brands": [],
   "products": [
+    {
+      "slug": "wax-maintenance-000000002485",
+      "makeshopId": "000000002485",
+      "brandSlug": "",
+      "name": "STORM 【ストーム】 アパレルケアキット 洗剤 クリーニング 撥水 ウェア",
+      "priceJpy": 3080,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002485/ct357/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.388Z"
+    },
     {
       "slug": "wax-maintenance-000000003197",
       "makeshopId": "000000003197",
@@ -55,15 +64,6 @@
       "updatedAt": "2026-05-29T06:08:25.388Z"
     },
     {
-      "slug": "wax-maintenance-000000002485",
-      "makeshopId": "000000002485",
-      "brandSlug": "",
-      "name": "STORM 【ストーム】 アパレルケアキット 洗剤 クリーニング 撥水 ウェア",
-      "priceJpy": 3080,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002485/ct357/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.388Z"
-    },
-    {
       "slug": "wax-maintenance-000000003201",
       "makeshopId": "000000003201",
       "brandSlug": "coslabo-wax",
@@ -97,15 +97,6 @@
       "name": "【MSR】 エム エス アール 【ALPINE DISH BRUSH/SCRAPER】 アルパイン ディッシュブラシ／スクレイパー バックカントリー 登山 スノーボード スキー",
       "priceJpy": 1760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003000/ct357/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.388Z"
-    },
-    {
-      "slug": "wax-maintenance-000000003200",
-      "makeshopId": "000000003200",
-      "brandSlug": "coslabo-wax",
-      "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE SUMI 100ml】リキッド ザ スミ / 液体 / メンテナンス",
-      "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003200/ct357/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.388Z"
     }
   ],
@@ -197,5 +188,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:36.900Z"
+  "syncedAt": "2026-06-19T19:47:01.798Z"
 }

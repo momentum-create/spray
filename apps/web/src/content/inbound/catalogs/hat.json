@@ -5,7 +5,7 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 43
+    "totalProducts": 41
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "ct347",
       "name": "キャップ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
-      "productCount": 19
+      "productCount": 18
     },
     {
       "slug": "ct346",
@@ -278,15 +278,6 @@
       "updatedAt": "2026-05-29T06:08:31.320Z"
     },
     {
-      "slug": "hat-000000003505",
-      "makeshopId": "000000003505",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【Graphic Maclure Hat】 グラフィック・マクルーア・ハット 22545 帽子 キャップ 男女兼性用",
-      "priceJpy": 7150,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003505/I61098/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.320Z"
-    },
-    {
       "slug": "hat-000000003508",
       "makeshopId": "000000003508",
       "brandSlug": "patagonia",
@@ -347,15 +338,6 @@
       "name": "【COAL】コール 【FRENA】フレナ / ビーニー / 帽子 / 登山 / バックカントリー / スキー / スノーボード 16656",
       "priceJpy": 4620,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003257/I61098/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.320Z"
-    },
-    {
-      "slug": "hat-000000003425",
-      "makeshopId": "000000003425",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【BREATHE MESH CAP】 ブリーズメッシュ キャップ MIV02222",
-      "priceJpy": 6050,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003425/I61098/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.320Z"
     },
     {
@@ -819,5 +801,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:44.789Z"
+  "syncedAt": "2026-06-19T19:47:10.491Z"
 }

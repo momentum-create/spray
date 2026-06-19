@@ -5,10 +5,19 @@
     "title": "Pants",
     "titleJa": "パンツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61132/",
-    "totalProducts": 19
+    "totalProducts": 20
   },
   "brands": [],
   "products": [
+    {
+      "slug": "pants-000000004009",
+      "makeshopId": "000000004009",
+      "brandSlug": "chums",
+      "name": "【CHUMS】 チャムス 【Plunge Divers】 プランジダイバース ショートパンツ/ハーフパンツ/メンズ CH03-1360",
+      "priceJpy": 5984,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004009/I61132/page1/order/",
+      "updatedAt": "2026-06-19T19:47:04.595Z"
+    },
     {
       "slug": "pants-000000002536",
       "makeshopId": "000000002536",
@@ -350,5 +359,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:39.654Z"
+  "syncedAt": "2026-06-19T19:47:04.595Z"
 }

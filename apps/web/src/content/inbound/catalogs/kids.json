@@ -5,10 +5,28 @@
     "title": "Kids & Junior",
     "titleJa": "キッズ・ジュニア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct305/",
-    "totalProducts": 31
+    "totalProducts": 33
   },
   "brands": [],
   "products": [
+    {
+      "slug": "kids-000000004010",
+      "makeshopId": "000000004010",
+      "brandSlug": "chums",
+      "name": "【CHUMS】 チャムス 【Kids Have A Sweet Day!! Dry T-Shirt】 キッズハブアスウィートデイ!!ドライTシャツ / 半袖 / キッズ CH21-1372",
+      "priceJpy": 3960,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004010/ct305/page1/order/",
+      "updatedAt": "2026-06-19T19:47:14.433Z"
+    },
+    {
+      "slug": "kids-000000004008",
+      "makeshopId": "000000004008",
+      "brandSlug": "chums",
+      "name": "【CHUMS】 チャムス 【Kid's CHUMS Logo T-Shirt】 キッズチャムスロゴTシャツ Purple Crazy / CH21-1280 / キッズ / 子供用 Tシャツ / 半袖 / アウトドア",
+      "priceJpy": 3520,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004008/ct305/page1/order/",
+      "updatedAt": "2026-06-19T19:47:14.433Z"
+    },
     {
       "slug": "kids-000000003983",
       "makeshopId": "000000003983",
@@ -574,5 +592,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:48.456Z"
+  "syncedAt": "2026-06-19T19:47:14.433Z"
 }

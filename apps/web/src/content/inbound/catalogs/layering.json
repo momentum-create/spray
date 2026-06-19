@@ -5,7 +5,7 @@
     "title": "Layering & Inner",
     "titleJa": "レイヤリング・インナー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct302/",
-    "totalProducts": 32
+    "totalProducts": 30
   },
   "brands": [],
   "products": [
@@ -14,9 +14,18 @@
       "makeshopId": "000000002602",
       "brandSlug": "nanga",
       "name": "ナンガ【NANGA】 ヒノックリップストップインナーダウンベスト【HINOC RIPSTOP INNER DOWN VEST】 ND2441-1N304-A / メンズ / 男性用",
-      "priceJpy": 30800,
+      "priceJpy": 24640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002602/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
+      "updatedAt": "2026-06-19T19:47:02.216Z"
+    },
+    {
+      "slug": "layering-000000003995",
+      "makeshopId": "000000003995",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【INNER DOWN CARDIGAN DS】 インナーダウンカーディガンデタッチャブルスリーブ ND2441-1A901-A / メンズ / 男性用",
+      "priceJpy": 22880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003995/ct302/page1/order/",
+      "updatedAt": "2026-06-19T19:47:02.216Z"
     },
     {
       "slug": "layering-000000003935",
@@ -226,15 +235,6 @@
       "updatedAt": "2026-05-29T06:08:25.771Z"
     },
     {
-      "slug": "layering-000000002626",
-      "makeshopId": "000000002626",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 メンズ・ナノエア・ライト・ベスト 【Men's Nano-Air Light Vest】 83900",
-      "priceJpy": 22000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002626/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
       "slug": "layering-000000003185",
       "makeshopId": "000000003185",
       "brandSlug": "un-it-edo",
@@ -253,30 +253,12 @@
       "updatedAt": "2026-05-29T06:08:25.771Z"
     },
     {
-      "slug": "layering-000000002622",
-      "makeshopId": "000000002622",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 メンズ・R1 サーマル・フルジップ・フーディ 【Men's R1 Thermal Full-Zip Hoody】 40600",
-      "priceJpy": 24640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002622/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
       "slug": "layering-000000002647",
       "makeshopId": "000000002647",
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・ナノエア・ライト・ボトム 【Men's Nano-Air Light Bottoms】 82890",
       "priceJpy": 25520,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002647/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000002633",
-      "makeshopId": "000000002633",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 メンズ・ナノ・パフ・ジャケット 【Men's Nano Puff Jacket】 84212",
-      "priceJpy": 26400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002633/ct302/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.771Z"
     },
     {
@@ -617,5 +599,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:37.598Z"
+  "syncedAt": "2026-06-19T19:47:02.216Z"
 }

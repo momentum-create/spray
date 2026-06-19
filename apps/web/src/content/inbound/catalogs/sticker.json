@@ -5,10 +5,19 @@
     "title": "Stickers",
     "titleJa": "ステッカー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct306/",
-    "totalProducts": 8
+    "totalProducts": 9
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sticker-000000003994",
+      "makeshopId": "000000003994",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【NANGA 30TH ANNIVERSARY STICKER OVAL】 ナンガ 30th アニバーサリー ステッカー オーバル NA2443-3G201-A ステッカー",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003994/ct306/page1/order/",
+      "updatedAt": "2026-06-19T19:47:12.463Z"
+    },
     {
       "slug": "sticker-000000003993",
       "makeshopId": "000000003993",
@@ -104,5 +113,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:46.530Z"
+  "syncedAt": "2026-06-19T19:47:12.463Z"
 }

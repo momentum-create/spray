@@ -5,20 +5,20 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 41
+    "totalProducts": 38
   },
   "brands": [
     {
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 3
+      "productCount": 2
     },
     {
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 5
+      "productCount": 4
     },
     {
       "slug": "tj-brand",
@@ -114,7 +114,7 @@
       "slug": "arbor",
       "name": "ARBOR",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct362/",
-      "productCount": 5
+      "productCount": 4
     },
     {
       "slug": "ct348",
@@ -137,21 +137,21 @@
   ],
   "products": [
     {
-      "slug": "snowboard-000000002910",
-      "makeshopId": "000000002910",
-      "brandSlug": "gentemstick",
-      "name": "SPRAY Original -Freestyle Snowboards- / オリジナル スノーボード / フリースタイル / スプレイ",
-      "priceJpy": 66000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002910/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
       "slug": "snowboard-000000002748",
       "makeshopId": "000000002748",
       "brandSlug": "gentemstick",
       "name": "【GENTEMSTICK】ゲンテンスティック【ROCKET FISH OUTLINE CORE】 2025-2026 MODEL ロケットフィッシュ アウトラインコア 144 バックカントリー フリーライド スノーボード パウダー",
       "priceJpy": 187000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002748/I61077/page1/order/",
+      "updatedAt": "2026-05-29T06:08:21.317Z"
+    },
+    {
+      "slug": "snowboard-000000002910",
+      "makeshopId": "000000002910",
+      "brandSlug": "gentemstick",
+      "name": "SPRAY Original -Freestyle Snowboards- / オリジナル スノーボード / フリースタイル / スプレイ",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002910/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
@@ -242,15 +242,6 @@
       "name": "【FIELD EARTH】 フィールド アース 【T3 153】 Mid 3D Model 2025-2026 MODEL スノーボード",
       "priceJpy": 167200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003294/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000003500",
-      "makeshopId": "000000003500",
-      "brandSlug": "arbor",
-      "name": "【ARBOR】 アーバー 【CODA】 コーダ 25-26 メンズ 男性用 SNOWBOARD スノーボード",
-      "priceJpy": 79992,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003500/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
@@ -485,24 +476,6 @@
       "name": "【KORUASHAPES】コルアシェイプス【Otto】153 157 161 2024-2025 MODEL スノーボード オットー",
       "priceJpy": 79200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002687/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000003303",
-      "makeshopId": "000000003303",
-      "brandSlug": "field-earth",
-      "name": "【FIELD EARTH】フィールド アース 【X1 165 CUSTOM】 3D Prepreg Carbon 2025-2026 MODEL スノーボード",
-      "priceJpy": 229900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003303/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000003763",
-      "makeshopId": "000000003763",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【HORNET】ホーネット 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 148500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003763/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     }
   ],
@@ -906,5 +879,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:30.525Z"
+  "syncedAt": "2026-06-19T19:46:55.155Z"
 }

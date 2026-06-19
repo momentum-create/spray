@@ -5,18 +5,36 @@
     "title": "Jackets & Outerwear",
     "titleJa": "ジャケット・アウター",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct308/",
-    "totalProducts": 29
+    "totalProducts": 26
   },
   "brands": [],
   "products": [
+    {
+      "slug": "jacket-000000002288",
+      "makeshopId": "000000002288",
+      "brandSlug": "other",
+      "name": "ナンガ NANGA オーロラライトユーティリティダウンジャケット URORA LIGHT UTILITY DOWN JACKET ND2341-1A008 / メンズ / 男性用",
+      "priceJpy": 51590,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002288/ct308/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.893Z"
+    },
     {
       "slug": "jacket-000000002602",
       "makeshopId": "000000002602",
       "brandSlug": "nanga",
       "name": "ナンガ【NANGA】 ヒノックリップストップインナーダウンベスト【HINOC RIPSTOP INNER DOWN VEST】 ND2441-1N304-A / メンズ / 男性用",
-      "priceJpy": 30800,
+      "priceJpy": 24640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002602/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
+      "updatedAt": "2026-06-19T19:47:04.268Z"
+    },
+    {
+      "slug": "jacket-000000003995",
+      "makeshopId": "000000003995",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【INNER DOWN CARDIGAN DS】 インナーダウンカーディガンデタッチャブルスリーブ ND2441-1A901-A / メンズ / 男性用",
+      "priceJpy": 22880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003995/ct308/page1/order/",
+      "updatedAt": "2026-06-19T19:47:04.268Z"
     },
     {
       "slug": "jacket-000000002943",
@@ -181,39 +199,12 @@
       "updatedAt": "2026-05-29T06:08:26.893Z"
     },
     {
-      "slug": "jacket-000000002626",
-      "makeshopId": "000000002626",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 メンズ・ナノエア・ライト・ベスト 【Men's Nano-Air Light Vest】 83900",
-      "priceJpy": 22000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002626/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
-    },
-    {
       "slug": "jacket-000000002635",
       "makeshopId": "000000002635",
       "brandSlug": "patagonia",
       "name": "パタゴニア 【patagonia】 メンズ・マイクロ・パフ・ジャケット【Men's Micro Puff Jacket】 84066",
       "priceJpy": 30800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002635/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
-    },
-    {
-      "slug": "jacket-000000002622",
-      "makeshopId": "000000002622",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 メンズ・R1 サーマル・フルジップ・フーディ 【Men's R1 Thermal Full-Zip Hoody】 40600",
-      "priceJpy": 24640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002622/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
-    },
-    {
-      "slug": "jacket-000000003123",
-      "makeshopId": "000000003123",
-      "brandSlug": "afdicegear-poler",
-      "name": "【AFDICEGEAR×POLER】 AFD×ポーラー 【AFD×POLER REVERSIBLE QUILTED JACKET】 カーディガン キルティングジャケット",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003123/ct308/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.893Z"
     },
     {
@@ -232,24 +223,6 @@
       "name": "パタゴニア 【patagonia】 メンズ・スノードリフター・ジャケット 【Men's SnowDrifter Jacket】 30066",
       "priceJpy": 51040,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002640/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
-    },
-    {
-      "slug": "jacket-000000002288",
-      "makeshopId": "000000002288",
-      "brandSlug": "other",
-      "name": "ナンガ NANGA オーロラライトユーティリティダウンジャケット URORA LIGHT UTILITY DOWN JACKET ND2341-1A008 / メンズ / 男性用",
-      "priceJpy": 51590,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002288/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
-    },
-    {
-      "slug": "jacket-000000002633",
-      "makeshopId": "000000002633",
-      "brandSlug": "patagonia",
-      "name": "パタゴニア 【patagonia】 メンズ・ナノ・パフ・ジャケット 【Men's Nano Puff Jacket】 84212",
-      "priceJpy": 26400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002633/ct308/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.893Z"
     },
     {
@@ -555,5 +528,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-12T20:07:39.120Z"
+  "syncedAt": "2026-06-19T19:47:04.268Z"
 }
