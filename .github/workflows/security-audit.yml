@@ -13,6 +13,21 @@ permissions:
   contents: read
 
 jobs:
+  config-encoding:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify config UTF-8 encoding
+        run: node .github/scripts/check-config-encoding.cjs
+      - name: Reject orphan npm lockfiles in pnpm workspace
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -f apps/web/package-lock.json ]; then
+            echo "apps/web/package-lock.json must not exist (pnpm workspace uses pnpm-lock.yaml only)"
+            exit 1
+          fi
+
   audit-pnpm-workspace:
     name: pnpm audit (workspace)
     runs-on: ubuntu-latest

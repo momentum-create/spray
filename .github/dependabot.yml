@@ -1,4 +1,5 @@
 version: 2
+# Major semver updates: manual review only. Do not auto-merge major Dependabot PRs.
 updates:
   - package-ecosystem: npm
     directory: /
@@ -13,6 +14,10 @@ updates:
       - security
     ignore:
       - dependency-name: next
+        update-types: [version-update:semver-major]
+      - dependency-name: react
+        update-types: [version-update:semver-major]
+      - dependency-name: react-dom
         update-types: [version-update:semver-major]
       - dependency-name: eslint-config-next
         update-types: [version-update:semver-major]
