@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003890",
+      "makeshopId": "000000003890",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Cimeri 78A 65mm】 シメリ 78A 65mm スケートボード ウィール ロンスケ",
+      "priceJpy": 7040,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003890/ct307/page1/order/",
+      "updatedAt": "2026-06-19T19:47:12.123Z"
+    },
+    {
       "slug": "skateboard-parts-000000003896",
       "makeshopId": "000000003896",
       "brandSlug": "zulu-wheels",
@@ -80,15 +89,6 @@
       "priceJpy": 7700,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003796/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003890",
-      "makeshopId": "000000003890",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Cimeri 78A 65mm】 シメリ 78A 65mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7040,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003890/ct307/page1/order/",
-      "updatedAt": "2026-06-19T19:47:12.123Z"
     },
     {
       "slug": "skateboard-parts-000000003889",
@@ -1207,5 +1207,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-20T18:07:04.377Z"
+  "syncedAt": "2026-06-20T19:22:52.659Z"
 }
