@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003826",
+      "makeshopId": "000000003826",
+      "brandSlug": "w-p-s-i",
+      "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 100mm 】 スケートボード クルーザートラック",
+      "priceJpy": 8360,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003826/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000003890",
       "makeshopId": "000000003890",
       "brandSlug": "zulu-wheels",
@@ -142,15 +151,6 @@
       "name": "【INDEPENDENT】 インディペンデント 【139 FORGED HOLLOW SLAYER BLACK TRUCKS】 スケートボード トラック 139",
       "priceJpy": 9900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003832/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003826",
-      "makeshopId": "000000003826",
-      "brandSlug": "w-p-s-i",
-      "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 100mm 】 スケートボード クルーザートラック",
-      "priceJpy": 8360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003826/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1207,5 +1207,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-20T19:22:52.659Z"
+  "syncedAt": "2026-06-21T19:27:05.591Z"
 }

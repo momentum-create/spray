@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 217
+    "totalProducts": 216
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 156
+      "productCount": 155
     },
     {
       "slug": "baby-g",
@@ -42,7 +42,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 156
+      "productCount": 155
     },
     {
       "slug": "baby-g",
@@ -72,7 +72,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 156
+      "productCount": 155
     },
     {
       "slug": "baby-g",
@@ -102,7 +102,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 156
+      "productCount": 155
     },
     {
       "slug": "baby-g",
@@ -132,7 +132,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 156
+      "productCount": 155
     },
     {
       "slug": "baby-g",
@@ -293,15 +293,6 @@
       "name": "【G-SHOCK】 Gショック GMD-S5610BB-1JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 12870,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003598/I61066/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.635Z"
-    },
-    {
-      "slug": "watch-000000003607",
-      "makeshopId": "000000003607",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック DW-5600RF24-1JR 【CASIO】 カシオ ジーショック FISHERMAN JAPAN 10周年記念 コラボレーションモデル 腕時計 国内正規品",
-      "priceJpy": 15840,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003607/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
     },
     {
@@ -4294,5 +4285,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-20T19:22:47.814Z"
+  "syncedAt": "2026-06-21T19:27:03.086Z"
 }

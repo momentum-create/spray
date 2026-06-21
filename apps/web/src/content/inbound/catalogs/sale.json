@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003949",
+      "makeshopId": "000000003949",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
+      "priceJpy": 17710,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/I61093/page1/order/",
+      "updatedAt": "2026-05-31T19:14:17.248Z"
+    },
+    {
       "slug": "sale-000000004010",
       "makeshopId": "000000004010",
       "brandSlug": "chums",
@@ -214,15 +223,6 @@
       "name": "【FLUX】 フラックス 【PR】 ピ－アール 23-24 MODEL ビンディング バインディング スノーボード",
       "priceJpy": 19250,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002282/I61093/page1/order/",
-      "updatedAt": "2026-05-31T19:14:17.248Z"
-    },
-    {
-      "slug": "sale-000000003949",
-      "makeshopId": "000000003949",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
-      "priceJpy": 17710,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/I61093/page1/order/",
       "updatedAt": "2026-05-31T19:14:17.248Z"
     },
     {
@@ -4046,5 +4046,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-20T19:23:00.333Z"
+  "syncedAt": "2026-06-21T19:27:10.497Z"
 }

@@ -5,10 +5,19 @@
     "title": "Kids & Junior",
     "titleJa": "キッズ・ジュニア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct305/",
-    "totalProducts": 33
+    "totalProducts": 32
   },
   "brands": [],
   "products": [
+    {
+      "slug": "kids-000000003949",
+      "makeshopId": "000000003949",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
+      "priceJpy": 17710,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/ct305/page1/order/",
+      "updatedAt": "2026-05-31T19:14:13.090Z"
+    },
     {
       "slug": "kids-000000004010",
       "makeshopId": "000000004010",
@@ -44,15 +53,6 @@
       "priceJpy": 3520,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003982/ct305/page1/order/",
       "updatedAt": "2026-06-11T20:19:21.369Z"
-    },
-    {
-      "slug": "kids-000000003949",
-      "makeshopId": "000000003949",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
-      "priceJpy": 17710,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/ct305/page1/order/",
-      "updatedAt": "2026-05-31T19:14:13.090Z"
     },
     {
       "slug": "kids-000000003944",
@@ -295,15 +295,6 @@
       "name": "【BURTON】 バートン 【Kid's Hillslope Jacket】 キッズ ヒルスロープ ジャケット 25-26 スノーボード ウェア 子供用",
       "priceJpy": 23100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003241/ct305/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.872Z"
-    },
-    {
-      "slug": "kids-000000002297",
-      "makeshopId": "000000002297",
-      "brandSlug": "the-future",
-      "name": "サロモン SALOMON 【THE FUTURE】 23-24 MODEL キッズ 子供用 スノーボード ビンディング バインディング スノーボード",
-      "priceJpy": 17710,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002297/ct305/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.872Z"
     }
   ],
@@ -629,5 +620,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-20T19:22:55.686Z"
+  "syncedAt": "2026-06-21T19:27:07.889Z"
 }
