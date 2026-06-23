@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 13
+    "totalProducts": 12
   },
   "brands": [
     {
@@ -36,7 +36,7 @@
       "slug": "revolt",
       "name": "REVOLT",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct353/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "dice",
@@ -98,15 +98,6 @@
       "name": "【SMITH】 スミス 【Preview】 プレビュー Chalk Paper Cuts / CP Everyday Violet Mirror goggles ゴーグル",
       "priceJpy": 29040,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003382/ct327/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.557Z"
-    },
-    {
-      "slug": "goggles-000000003479",
-      "makeshopId": "000000003479",
-      "brandSlug": "revolt",
-      "name": "【REVOLT】リボルト 【Super Light Frame】スーパーライトフレーム R26INF 調光レンズ goggles ゴーグル",
-      "priceJpy": 26400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003479/ct327/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.557Z"
     },
     {
@@ -306,5 +297,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-22T20:43:57.649Z"
+  "syncedAt": "2026-06-23T20:00:11.243Z"
 }
