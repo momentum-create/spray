@@ -53,6 +53,15 @@
   ],
   "products": [
     {
+      "slug": "wear-000000003539",
+      "makeshopId": "000000003539",
+      "brandSlug": "kossymix",
+      "name": "【kossymix】コシミックス 【N10 Lemongrass ポンプタイプ】 洗剤 ウェア クリーニング",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003539/ct298/page1/order/",
+      "updatedAt": "2026-05-29T06:08:23.356Z"
+    },
+    {
       "slug": "wear-000000003135",
       "makeshopId": "000000003135",
       "brandSlug": "patagonia",
@@ -212,15 +221,6 @@
       "name": "【VOLCOM】ボルコム 【Womens Bridger Ins Pant】ウィメンズ ブリッジャー インサレーテッド パンツ COLOR：ROS ヴォルコム / レディース / スノーボード / ウェア",
       "priceJpy": 19250,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003682/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000003539",
-      "makeshopId": "000000003539",
-      "brandSlug": "kossymix",
-      "name": "【kossymix】コシミックス 【N10 Lemongrass ポンプタイプ】 洗剤 ウェア クリーニング",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003539/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -822,5 +822,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-24T19:43:08.993Z"
+  "syncedAt": "2026-06-25T19:57:13.344Z"
 }

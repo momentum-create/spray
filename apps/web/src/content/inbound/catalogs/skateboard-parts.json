@@ -5,10 +5,19 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 67
+    "totalProducts": 65
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000003894",
+      "makeshopId": "000000003894",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
+      "updatedAt": "2026-06-19T19:47:12.123Z"
+    },
     {
       "slug": "skateboard-parts-000000003799",
       "makeshopId": "000000003799",
@@ -37,15 +46,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003890",
-      "makeshopId": "000000003890",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Cimeri 78A 65mm】 シメリ 78A 65mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7040,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003890/ct307/page1/order/",
-      "updatedAt": "2026-06-19T19:47:12.123Z"
-    },
-    {
       "slug": "skateboard-parts-000000003896",
       "makeshopId": "000000003896",
       "brandSlug": "zulu-wheels",
@@ -71,15 +71,6 @@
       "priceJpy": 7700,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003797/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003894",
-      "makeshopId": "000000003894",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
-      "updatedAt": "2026-06-19T19:47:12.123Z"
     },
     {
       "slug": "skateboard-parts-000000003895",
@@ -160,15 +151,6 @@
       "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 88mm 】 スケートボード クルーザートラック",
       "priceJpy": 8360,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003819/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003832",
-      "makeshopId": "000000003832",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【139 FORGED HOLLOW SLAYER BLACK TRUCKS】 スケートボード トラック 139",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003832/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1198,5 +1180,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-24T19:43:21.677Z"
+  "syncedAt": "2026-06-25T19:57:30.870Z"
 }

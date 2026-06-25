@@ -5,7 +5,7 @@
     "title": "Pants",
     "titleJa": "パンツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61132/",
-    "totalProducts": 20
+    "totalProducts": 19
   },
   "brands": [],
   "products": [
@@ -133,15 +133,6 @@
       "name": "パタゴニア 【patagonia】 メンズ・バギーズ・ショーツ 【Men's Baggies Shorts-5inch】 57022 短パン 半ズボン 男性用",
       "priceJpy": 9900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002466/I61132/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.093Z"
-    },
-    {
-      "slug": "pants-000000002486",
-      "makeshopId": "000000002486",
-      "brandSlug": "dotair-comfy-shorts",
-      "name": "ナンガ NANGA ドットエア コンフィーショーツ 【DotAir COMFY SHORTS】 NW2411-I903 / メンズ / 男性用",
-      "priceJpy": 10450,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002486/I61132/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.093Z"
     },
     {
@@ -389,5 +380,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-24T19:43:14.451Z"
+  "syncedAt": "2026-06-25T19:57:21.024Z"
 }
