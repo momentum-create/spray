@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003796",
+      "makeshopId": "000000003796",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Monster Bicarip 78A 72mm】 モンスタービカリップ 78A 72mm スケートボード ウィール ロンスケ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003796/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000003894",
       "makeshopId": "000000003894",
       "brandSlug": "zulu-wheels",
@@ -82,15 +91,6 @@
       "updatedAt": "2026-06-19T19:47:12.123Z"
     },
     {
-      "slug": "skateboard-parts-000000003891",
-      "makeshopId": "000000003891",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Bicarip 78A 65mm】 ビカリップ 78A 65mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003891/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003893",
       "makeshopId": "000000003893",
       "brandSlug": "zulu-wheels",
@@ -98,15 +98,6 @@
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003893/ct307/page1/order/",
       "updatedAt": "2026-06-19T19:47:12.123Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003796",
-      "makeshopId": "000000003796",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Monster Bicarip 78A 72mm】 モンスタービカリップ 78A 72mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003796/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
       "slug": "skateboard-parts-000000003889",
@@ -592,6 +583,15 @@
       "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【YOW URA 66×51mm Mustard 80A Wheels Pack 】 ウィール スケートボード",
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003699/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003891",
+      "makeshopId": "000000003891",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Bicarip 78A 65mm】 ビカリップ 78A 65mm スケートボード ウィール ロンスケ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003891/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     }
   ],
@@ -1180,5 +1180,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-25T19:57:30.870Z"
+  "syncedAt": "2026-06-26T19:43:58.109Z"
 }
