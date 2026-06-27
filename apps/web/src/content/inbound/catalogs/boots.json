@@ -5,7 +5,7 @@
     "title": "Boots",
     "titleJa": "ブーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct297/",
-    "totalProducts": 43
+    "totalProducts": 42
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "deeluxe",
       "name": "DEELUXE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct319/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "vans",
@@ -155,15 +155,6 @@
       "name": "【BURTON】 バートン 【Grom BOA】 グロム BOA 24-25 White キッズ 子供用 ブーツ SNOWBOARD スノーボード",
       "priceJpy": 18480,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002804/ct297/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.942Z"
-    },
-    {
-      "slug": "boots-000000002843",
-      "makeshopId": "000000002843",
-      "brandSlug": "deeluxe",
-      "name": "ディーラックス 【DEELUXE】 【AREth RIN】 アースリン CTF 2025-2026 バックカントリー スノーボード ブーツ",
-      "priceJpy": 55440,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002843/ct297/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.942Z"
     },
     {
@@ -884,5 +875,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-27T17:57:02.553Z"
+  "syncedAt": "2026-06-27T19:17:21.684Z"
 }

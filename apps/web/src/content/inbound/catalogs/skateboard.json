@@ -5,7 +5,7 @@
     "title": "Skateboards",
     "titleJa": "スケートボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61085/",
-    "totalProducts": 12
+    "totalProducts": 11
   },
   "brands": [],
   "products": [
@@ -70,15 +70,6 @@
       "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【38” LONGSWIRL】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
       "priceJpy": 66000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003758/I61085/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.726Z"
-    },
-    {
-      "slug": "skateboard-000000003757",
-      "makeshopId": "000000003757",
-      "brandSlug": "carver-skate-boards",
-      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【37” CI NOSERIDER】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
-      "priceJpy": 66000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003757/I61085/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.726Z"
     },
     {
@@ -247,5 +238,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-27T17:57:02.575Z"
+  "syncedAt": "2026-06-27T19:17:38.091Z"
 }
