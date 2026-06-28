@@ -10,21 +10,21 @@
   "brands": [],
   "products": [
     {
-      "slug": "wax-maintenance-000000003539",
-      "makeshopId": "000000003539",
-      "brandSlug": "kossymix",
-      "name": "【kossymix】コシミックス 【N10 Lemongrass ポンプタイプ】 洗剤 ウェア クリーニング",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003539/ct357/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.388Z"
-    },
-    {
       "slug": "wax-maintenance-000000002485",
       "makeshopId": "000000002485",
       "brandSlug": "",
       "name": "STORM 【ストーム】 アパレルケアキット 洗剤 クリーニング 撥水 ウェア",
       "priceJpy": 3080,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002485/ct357/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.388Z"
+    },
+    {
+      "slug": "wax-maintenance-000000003539",
+      "makeshopId": "000000003539",
+      "brandSlug": "kossymix",
+      "name": "【kossymix】コシミックス 【N10 Lemongrass ポンプタイプ】 洗剤 ウェア クリーニング",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003539/ct357/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.388Z"
     },
     {
@@ -188,5 +188,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-27T19:17:26.613Z"
+  "syncedAt": "2026-06-28T19:16:10.689Z"
 }

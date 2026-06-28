@@ -5,20 +5,20 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 214
+    "totalProducts": 221
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 154
+      "productCount": 160
     },
     {
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 24
+      "productCount": 25
     },
     {
       "slug": "pro-trek",
@@ -42,13 +42,13 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 154
+      "productCount": 160
     },
     {
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 24
+      "productCount": 25
     },
     {
       "slug": "pro-trek",
@@ -72,13 +72,13 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 154
+      "productCount": 160
     },
     {
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 24
+      "productCount": 25
     },
     {
       "slug": "pro-trek",
@@ -102,13 +102,13 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 154
+      "productCount": 160
     },
     {
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 24
+      "productCount": 25
     },
     {
       "slug": "pro-trek",
@@ -132,13 +132,13 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 154
+      "productCount": 160
     },
     {
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 24
+      "productCount": 25
     },
     {
       "slug": "pro-trek",
@@ -160,6 +160,60 @@
     }
   ],
   "products": [
+    {
+      "slug": "watch-000000004055",
+      "makeshopId": "000000004055",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMA-S110XG-4AJR 【XGコラボレーションモデル】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 25300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004055/I61066/page1/order/",
+      "updatedAt": "2026-06-28T19:16:19.336Z"
+    },
+    {
+      "slug": "watch-000000004054",
+      "makeshopId": "000000004054",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GM-S5600XG-1JR 【XGコラボレーションモデル】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004054/I61066/page1/order/",
+      "updatedAt": "2026-06-28T19:16:19.336Z"
+    },
+    {
+      "slug": "watch-000000004052",
+      "makeshopId": "000000004052",
+      "brandSlug": "baby-g",
+      "name": "【BABY-G】 ベビーG BGD-5650K-2JR 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品 イルクジ ICERC Japan",
+      "priceJpy": 21780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004052/I61066/page1/order/",
+      "updatedAt": "2026-06-28T19:16:19.336Z"
+    },
+    {
+      "slug": "watch-000000004050",
+      "makeshopId": "000000004050",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック DW-6900CMG-3JF 【BOLD CAMO Series】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15840,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004050/I61066/page1/order/",
+      "updatedAt": "2026-06-28T19:16:19.336Z"
+    },
+    {
+      "slug": "watch-000000004049",
+      "makeshopId": "000000004049",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-V01CMG-3AJF 【BOLD CAMO Series】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 24255,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004049/I61066/page1/order/",
+      "updatedAt": "2026-06-28T19:16:19.336Z"
+    },
+    {
+      "slug": "watch-000000004048",
+      "makeshopId": "000000004048",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-700CMG-3AJF 【BOLD CAMO Series】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 21780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004048/I61066/page1/order/",
+      "updatedAt": "2026-06-28T19:16:19.336Z"
+    },
     {
       "slug": "watch-000000004046",
       "makeshopId": "000000004046",
@@ -2085,6 +2139,15 @@
       "priceJpy": 36135,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003351/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
+    },
+    {
+      "slug": "watch-000000004047",
+      "makeshopId": "000000004047",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GW-8202K-2JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品 イルクジ ICERC Japan FROGMAN フロッグマン",
+      "priceJpy": 77220,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004047/I61066/page1/order/",
+      "updatedAt": "2026-06-28T19:16:19.336Z"
     }
   ],
   "images": {
@@ -4267,5 +4330,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-27T19:17:35.175Z"
+  "syncedAt": "2026-06-28T19:16:19.336Z"
 }

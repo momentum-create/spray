@@ -10,6 +10,33 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003829",
+      "makeshopId": "000000003829",
+      "brandSlug": "ninja-bearings",
+      "name": "【NINJA BEARINGS】 ニンジャ ベアリングス 【BEARING CLEANER】 ベアリングクリーナー スケートボード SK8",
+      "priceJpy": 1540,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003829/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003785",
+      "makeshopId": "000000003785",
+      "brandSlug": "independent",
+      "name": "【INDEPENDENT】 インディペンデント 【129 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 129",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003785/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003787",
+      "makeshopId": "000000003787",
+      "brandSlug": "independent",
+      "name": "【INDEPENDENT】 インディペンデント 【144 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 144",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003787/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000003796",
       "makeshopId": "000000003796",
       "brandSlug": "zulu-wheels",
@@ -178,15 +205,6 @@
       "name": "【LOADED】 ローデッド 【HARDWARE BUTTON FLANGE HEAD】 フランジヘッド ハードウェア スケートボード ビスセット ロンスケ",
       "priceJpy": 1540,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003845/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003829",
-      "makeshopId": "000000003829",
-      "brandSlug": "ninja-bearings",
-      "name": "【NINJA BEARINGS】 ニンジャ ベアリングス 【BEARING CLEANER】 ベアリングクリーナー スケートボード SK8",
-      "priceJpy": 1540,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003829/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -439,24 +457,6 @@
       "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 139",
       "priceJpy": 9900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003786/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003787",
-      "makeshopId": "000000003787",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【144 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 144",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003787/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003785",
-      "makeshopId": "000000003785",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【129 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 129",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003785/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1180,5 +1180,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-27T19:17:39.392Z"
+  "syncedAt": "2026-06-28T19:16:23.049Z"
 }

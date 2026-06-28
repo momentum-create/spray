@@ -5,7 +5,7 @@
     "title": "Pants",
     "titleJa": "パンツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61132/",
-    "totalProducts": 19
+    "totalProducts": 18
   },
   "brands": [],
   "products": [
@@ -17,15 +17,6 @@
       "priceJpy": 5984,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004009/I61132/page1/order/",
       "updatedAt": "2026-06-19T19:47:04.595Z"
-    },
-    {
-      "slug": "pants-000000002536",
-      "makeshopId": "000000002536",
-      "brandSlug": "nylon-tusser-easy-shorts",
-      "name": "ナンガ NANGA ナイロンタッサーイージーショーツ 【NYLON TUSSER EASY SHORTS】 NW2321-1I512 / メンズ / 男性用",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002536/I61132/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.093Z"
     },
     {
       "slug": "pants-000000003985",
@@ -380,5 +371,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-27T19:17:30.354Z"
+  "syncedAt": "2026-06-28T19:16:14.007Z"
 }
