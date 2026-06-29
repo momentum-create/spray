@@ -5,7 +5,7 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 221
+    "totalProducts": 220
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 25
+      "productCount": 24
     },
     {
       "slug": "pro-trek",
@@ -48,7 +48,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 25
+      "productCount": 24
     },
     {
       "slug": "pro-trek",
@@ -78,7 +78,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 25
+      "productCount": 24
     },
     {
       "slug": "pro-trek",
@@ -108,7 +108,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 25
+      "productCount": 24
     },
     {
       "slug": "pro-trek",
@@ -138,7 +138,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 25
+      "productCount": 24
     },
     {
       "slug": "pro-trek",
@@ -161,6 +161,15 @@
   ],
   "products": [
     {
+      "slug": "watch-000000004047",
+      "makeshopId": "000000004047",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GW-8202K-2JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品 イルクジ ICERC Japan FROGMAN フロッグマン",
+      "priceJpy": 77220,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004047/I61066/page1/order/",
+      "updatedAt": "2026-06-28T19:16:19.336Z"
+    },
+    {
       "slug": "watch-000000004055",
       "makeshopId": "000000004055",
       "brandSlug": "g-shock",
@@ -176,15 +185,6 @@
       "name": "【G-SHOCK】 Gショック GM-S5600XG-1JR 【XGコラボレーションモデル】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 36300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004054/I61066/page1/order/",
-      "updatedAt": "2026-06-28T19:16:19.336Z"
-    },
-    {
-      "slug": "watch-000000004052",
-      "makeshopId": "000000004052",
-      "brandSlug": "baby-g",
-      "name": "【BABY-G】 ベビーG BGD-5650K-2JR 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品 イルクジ ICERC Japan",
-      "priceJpy": 21780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004052/I61066/page1/order/",
       "updatedAt": "2026-06-28T19:16:19.336Z"
     },
     {
@@ -2139,15 +2139,6 @@
       "priceJpy": 36135,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003351/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
-    },
-    {
-      "slug": "watch-000000004047",
-      "makeshopId": "000000004047",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GW-8202K-2JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品 イルクジ ICERC Japan FROGMAN フロッグマン",
-      "priceJpy": 77220,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004047/I61066/page1/order/",
-      "updatedAt": "2026-06-28T19:16:19.336Z"
     }
   ],
   "images": {
@@ -4330,5 +4321,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-28T19:16:19.336Z"
+  "syncedAt": "2026-06-29T19:53:59.829Z"
 }
