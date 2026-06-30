@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 206
+    "totalProducts": 205
   },
   "brands": [],
   "products": [
@@ -115,15 +115,6 @@
       "name": "【NANGA】 ナンガ 【DotAir COMFY SHORTS】 ドットエア コンフィーショーツ NW2411-I903 / メンズ / 男性用",
       "priceJpy": 8360,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003985/I61093/page1/order/",
-      "updatedAt": "2026-06-11T20:19:25.517Z"
-    },
-    {
-      "slug": "sale-000000003984",
-      "makeshopId": "000000003984",
-      "brandSlug": "nanga",
-      "name": "【NANGA】 ナンガ 【NYLON TUSSER EASY SHORTS】 ナイロンタッサーイージーショーツ NW2321-1I512 / メンズ / 男性用",
-      "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003984/I61093/page1/order/",
       "updatedAt": "2026-06-11T20:19:25.517Z"
     },
     {
@@ -4028,5 +4019,5 @@
       ]
     }
   },
-  "syncedAt": "2026-06-29T19:54:09.993Z"
+  "syncedAt": "2026-06-30T19:52:28.566Z"
 }
