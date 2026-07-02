@@ -5,14 +5,14 @@
     "title": "Footwear",
     "titleJa": "フットウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61086/",
-    "totalProducts": 32
+    "totalProducts": 31
   },
   "brands": [
     {
       "slug": "I61087",
       "name": "メンズ スニーカー",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61087/",
-      "productCount": 21
+      "productCount": 20
     },
     {
       "slug": "I61156",
@@ -125,15 +125,6 @@
       "name": "【BALANCE工房】バランスコウボウ 【B-TR SP-X2】インソール / 中敷き / スノーボード / スキー / スポーツ",
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003215/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003453",
-      "makeshopId": "000000003453",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Grey/WhiteSuede グレー/ホワイトスエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 10000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003453/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
@@ -699,5 +690,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-01T19:50:50.167Z"
+  "syncedAt": "2026-07-02T19:20:49.924Z"
 }

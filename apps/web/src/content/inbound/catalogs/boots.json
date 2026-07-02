@@ -5,7 +5,7 @@
     "title": "Boots",
     "titleJa": "ブーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct297/",
-    "totalProducts": 42
+    "totalProducts": 41
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct318/",
-      "productCount": 26
+      "productCount": 25
     },
     {
       "slug": "deeluxe",
@@ -146,15 +146,6 @@
       "name": "【BURTON】 バートン 【Grom BOA】 グロム BOA White 23-24 キッズ 子供用 ブーツ SNOWBOARD スノーボード",
       "priceJpy": 16170,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002795/ct297/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.942Z"
-    },
-    {
-      "slug": "boots-000000002804",
-      "makeshopId": "000000002804",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Grom BOA】 グロム BOA 24-25 White キッズ 子供用 ブーツ SNOWBOARD スノーボード",
-      "priceJpy": 18480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002804/ct297/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.942Z"
     },
     {
@@ -875,5 +866,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-01T19:50:43.155Z"
+  "syncedAt": "2026-07-02T19:20:43.382Z"
 }

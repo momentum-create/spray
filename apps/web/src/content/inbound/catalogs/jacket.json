@@ -5,7 +5,7 @@
     "title": "Jackets & Outerwear",
     "titleJa": "ジャケット・アウター",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct308/",
-    "totalProducts": 26
+    "totalProducts": 25
   },
   "brands": [],
   "products": [
@@ -205,15 +205,6 @@
       "name": "パタゴニア 【patagonia】 メンズ・マイクロ・パフ・ジャケット【Men's Micro Puff Jacket】 84066",
       "priceJpy": 30800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002635/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
-    },
-    {
-      "slug": "jacket-000000003122",
-      "makeshopId": "000000003122",
-      "brandSlug": "afdicegear-poler",
-      "name": "【AFDICEGEAR×POLER】 AFD×ポーラー 【AFD×POLER COACH JACKET】 コーチジャケット コラボモデル",
-      "priceJpy": 19800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003122/ct308/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.893Z"
     },
     {
@@ -538,5 +529,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-01T19:50:49.085Z"
+  "syncedAt": "2026-07-02T19:20:49.139Z"
 }

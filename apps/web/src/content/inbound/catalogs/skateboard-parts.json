@@ -5,18 +5,36 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 65
+    "totalProducts": 63
   },
   "brands": [],
   "products": [
     {
-      "slug": "skateboard-parts-000000003829",
-      "makeshopId": "000000003829",
-      "brandSlug": "ninja-bearings",
-      "name": "【NINJA BEARINGS】 ニンジャ ベアリングス 【BEARING CLEANER】 ベアリングクリーナー スケートボード SK8",
-      "priceJpy": 1540,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003829/ct307/page1/order/",
+      "slug": "skateboard-parts-000000003797",
+      "makeshopId": "000000003797",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Monster Numerip 78A 72mm】 モンスターヌメリップ 78A 72mm スケートボード ウィール ロンスケ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003797/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003798",
+      "makeshopId": "000000003798",
+      "brandSlug": "heaven-skateboard",
+      "name": "【HEAVEN SKATEBOARD】 ヘブン スケートボード 【T-TOOL】T字ツール スケートボード",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003798/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003896",
+      "makeshopId": "000000003896",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Fuzimi Built-In Bearings】 ジミビルトインベアリング スケートボード ベアリング ロンスケ",
+      "priceJpy": 4070,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003896/ct307/page1/order/",
+      "updatedAt": "2026-06-19T19:47:12.123Z"
     },
     {
       "slug": "skateboard-parts-000000003785",
@@ -46,15 +64,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003894",
-      "makeshopId": "000000003894",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
-      "updatedAt": "2026-06-19T19:47:12.123Z"
-    },
-    {
       "slug": "skateboard-parts-000000003799",
       "makeshopId": "000000003799",
       "brandSlug": "loaded",
@@ -82,30 +91,12 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003896",
-      "makeshopId": "000000003896",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Fuzimi Built-In Bearings】 ジミビルトインベアリング スケートボード ベアリング ロンスケ",
-      "priceJpy": 4070,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003896/ct307/page1/order/",
-      "updatedAt": "2026-06-19T19:47:12.123Z"
-    },
-    {
       "slug": "skateboard-parts-000000003752",
       "makeshopId": "000000003752",
       "brandSlug": "opera-skateboards",
       "name": "【OPERA SKATEBOARDS】 オペラ スケートボード 【Barbwire Rails】バーブワイヤーレール レールバー スケートボード",
       "priceJpy": 2860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003752/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003797",
-      "makeshopId": "000000003797",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Monster Numerip 78A 72mm】 モンスターヌメリップ 78A 72mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003797/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -430,15 +421,6 @@
       "name": "【ORANGATANG】 オランガタン 【FAT FREE WHEELS 65mm】 ファットフリー ORANGE 80a スケートボード ウィール ロンスケ",
       "priceJpy": 9240,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003801/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003798",
-      "makeshopId": "000000003798",
-      "brandSlug": "heaven-skateboard",
-      "name": "【HEAVEN SKATEBOARD】 ヘブン スケートボード 【T-TOOL】T字ツール スケートボード",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003798/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1180,5 +1162,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-01T19:50:56.513Z"
+  "syncedAt": "2026-07-02T19:20:56.371Z"
 }
