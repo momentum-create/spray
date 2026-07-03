@@ -617,15 +617,6 @@
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
-      "slug": "accessories-000000003167",
-      "makeshopId": "000000003167",
-      "brandSlug": "dumbo",
-      "name": "LET'S GO SNOWBOARD!7 レッツゴースノーボード！7 ハウツームービー DVD",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003167/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
       "slug": "accessories-000000002513",
       "makeshopId": "000000002513",
       "brandSlug": "dumbo",
@@ -749,6 +740,15 @@
       "name": "パタゴニア patagonia 【今治スポーツ・タオル・ワイルドウォーターライン】TW015",
       "priceJpy": 2970,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002557/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000003167",
+      "makeshopId": "000000003167",
+      "brandSlug": "dumbo",
+      "name": "LET'S GO SNOWBOARD!7 レッツゴースノーボード！7 ハウツームービー DVD",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003167/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -1603,5 +1603,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-02T19:20:58.084Z"
+  "syncedAt": "2026-07-03T19:17:46.614Z"
 }

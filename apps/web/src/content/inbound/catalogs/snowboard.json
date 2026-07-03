@@ -57,6 +57,12 @@
       "productCount": 1
     },
     {
+      "slug": "rice28",
+      "name": "RICE28",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct396/",
+      "productCount": 0
+    },
+    {
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
@@ -879,5 +885,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-02T19:20:41.332Z"
+  "syncedAt": "2026-07-03T19:17:30.136Z"
 }
