@@ -5,7 +5,7 @@
     "title": "Boots",
     "titleJa": "ブーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct297/",
-    "totalProducts": 41
+    "totalProducts": 40
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "deeluxe",
       "name": "DEELUXE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct319/",
-      "productCount": 5
+      "productCount": 4
     },
     {
       "slug": "vans",
@@ -182,15 +182,6 @@
       "name": "【DEELUXE】ディーラックス 【ID DualBOA S3】デュアルBOA S3 EssentialBlack エッセンシャルブラック 2025-2026 バックカントリー スノーボード ブーツ",
       "priceJpy": 51000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002872/ct297/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.942Z"
-    },
-    {
-      "slug": "boots-000000002873",
-      "makeshopId": "000000002873",
-      "brandSlug": "deeluxe",
-      "name": "【DEELUXE】ディーラックス 【ID DualBOA S3】デュアルBOA S3 DarkEarth ダークアース 2025-2026 バックカントリー スノーボード ブーツ",
-      "priceJpy": 51000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002873/ct297/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.942Z"
     },
     {
@@ -866,5 +857,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-04T17:58:59.932Z"
+  "syncedAt": "2026-07-04T19:08:04.064Z"
 }

@@ -5,10 +5,37 @@
     "title": "Backcountry",
     "titleJa": "バックカントリーアイテム",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct301/",
-    "totalProducts": 80
+    "totalProducts": 82
   },
   "brands": [],
   "products": [
+    {
+      "slug": "backcountry-000000003179",
+      "makeshopId": "000000003179",
+      "brandSlug": "pomoca",
+      "name": "【POMOCA】ポモカ 【FREE PRO 2.0 SPLITBOARD】 フリープロ 2.0 スプリットボード 145mm S(141-151cm)シール／スキン バックカントリー スノーボード",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003179/ct301/page1/order/",
+      "updatedAt": "2026-07-04T19:08:07.642Z"
+    },
+    {
+      "slug": "backcountry-000000003180",
+      "makeshopId": "000000003180",
+      "brandSlug": "pomoca",
+      "name": "【POMOCA】 ポモカ 【CLIMB 2.0 SPLITBOARD】 クライム 2.0 スプリットボード 145mm シール／スキン バックカントリー スノーボード",
+      "priceJpy": 33000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003180/ct301/page1/order/",
+      "updatedAt": "2026-07-04T19:08:07.642Z"
+    },
+    {
+      "slug": "backcountry-000000002240",
+      "makeshopId": "000000002240",
+      "brandSlug": "bca",
+      "name": "【 bca 】 ビーシーエー DOZER 2H SHOVEL ショベル バックカントリー スキー スノーボード",
+      "priceJpy": 16500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002240/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
     {
       "slug": "backcountry-000000002817",
       "makeshopId": "000000002817",
@@ -385,15 +412,6 @@
       "name": "【 bca 】 ビーシーエー Dozer 3D Shovel ショベル バックカントリー スキー スノーボード",
       "priceJpy": 17600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002244/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000002240",
-      "makeshopId": "000000002240",
-      "brandSlug": "bca",
-      "name": "【 bca 】 ビーシーエー DOZER 2H SHOVEL ショベル バックカントリー スキー スノーボード",
-      "priceJpy": 16500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002240/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -1405,5 +1423,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-04T17:58:59.937Z"
+  "syncedAt": "2026-07-04T19:08:07.642Z"
 }

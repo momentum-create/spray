@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 282
+    "totalProducts": 278
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003638",
+      "makeshopId": "000000003638",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック DW-6900RGB-1JF 【Virtual Rainbow：Gamer’s RGB】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003638/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
     {
       "slug": "sale-000000004072",
       "makeshopId": "000000004072",
@@ -52,15 +61,6 @@
       "name": "【G-SHOCK】 Gショック GWX-8900-1JF 【G-LIDE】 タフソーラー 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 16940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004068/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003690",
-      "makeshopId": "000000003690",
-      "brandSlug": "baby-g",
-      "name": "【BABY-G】 ベビーG BGD-560-4JF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
-      "priceJpy": 7315,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003690/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
@@ -388,15 +388,6 @@
       "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
-      "slug": "sale-000000003727",
-      "makeshopId": "000000003727",
-      "brandSlug": "edifice",
-      "name": "【EDIFICE】 エディフィス EFV-650DJ-3AJF メンズ 男性用 腕時計 CASIO",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003727/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
       "slug": "sale-000000003617",
       "makeshopId": "000000003617",
       "brandSlug": "g-shock",
@@ -529,24 +520,6 @@
       "name": "【G-SHOCK】 Gショック GA-2100RGB-1AJF 【Virtual Rainbow：Gamer’s RGB】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 11935,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003636/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003637",
-      "makeshopId": "000000003637",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-700RGB-1AJF 【Virtual Rainbow：Gamer’s RGB】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 12705,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003637/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003638",
-      "makeshopId": "000000003638",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック DW-6900RGB-1JF 【Virtual Rainbow：Gamer’s RGB】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003638/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
@@ -1312,15 +1285,6 @@
       "name": "【DEELUXE】ディーラックス 【ID DualBOA S3】デュアルBOA S3 EssentialBlack エッセンシャルブラック 2025-2026 バックカントリー スノーボード ブーツ",
       "priceJpy": 51000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002872/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000002873",
-      "makeshopId": "000000002873",
-      "brandSlug": "deeluxe",
-      "name": "【DEELUXE】ディーラックス 【ID DualBOA S3】デュアルBOA S3 DarkEarth ダークアース 2025-2026 バックカントリー スノーボード ブーツ",
-      "priceJpy": 51000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002873/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -5439,5 +5403,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-04T17:59:42.095Z"
+  "syncedAt": "2026-07-04T19:08:23.229Z"
 }
