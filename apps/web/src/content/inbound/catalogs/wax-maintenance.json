@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "wax-maintenance-000000003202",
+      "makeshopId": "000000003202",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【CLEANER 200ml】クリーナー / 液体 / メンテナンス",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003202/ct357/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.388Z"
+    },
+    {
       "slug": "wax-maintenance-000000002485",
       "makeshopId": "000000002485",
       "brandSlug": "",
@@ -34,15 +43,6 @@
       "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE HARD 100ml】リキッド ザ ハード / 液体 / メンテナンス",
       "priceJpy": 3300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003197/ct357/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.388Z"
-    },
-    {
-      "slug": "wax-maintenance-000000003202",
-      "makeshopId": "000000003202",
-      "brandSlug": "coslabo-wax",
-      "name": "【COSLABO WAX】コスラボ ワックス 【CLEANER 200ml】クリーナー / 液体 / メンテナンス",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003202/ct357/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.388Z"
     },
     {
@@ -188,5 +188,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-04T19:08:07.970Z"
+  "syncedAt": "2026-07-05T19:14:00.581Z"
 }
