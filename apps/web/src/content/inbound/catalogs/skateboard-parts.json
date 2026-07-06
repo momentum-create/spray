@@ -5,10 +5,19 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 62
+    "totalProducts": 63
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000004083",
+      "makeshopId": "000000004083",
+      "brandSlug": "loaded",
+      "name": "【LOADED】 ローデッド 【JEHU(Jehunion) V2 BEARINGS】 ジェフニオン・ベアリング スケートボード ベアリング ロンスケ",
+      "priceJpy": 4180,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004083/ct307/page1/order/",
+      "updatedAt": "2026-07-06T19:52:44.333Z"
+    },
     {
       "slug": "skateboard-parts-000000003786",
       "makeshopId": "000000003786",
@@ -1153,5 +1162,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-05T19:14:12.091Z"
+  "syncedAt": "2026-07-06T19:52:44.333Z"
 }
