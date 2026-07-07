@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
+    {
       "slug": "backcountry-000000003179",
       "makeshopId": "000000003179",
       "brandSlug": "pomoca",
@@ -34,15 +43,6 @@
       "name": "【 bca 】 ビーシーエー DOZER 2H SHOVEL ショベル バックカントリー スキー スノーボード",
       "priceJpy": 16500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002240/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -1423,5 +1423,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-06T19:52:28.846Z"
+  "syncedAt": "2026-07-07T19:51:40.317Z"
 }

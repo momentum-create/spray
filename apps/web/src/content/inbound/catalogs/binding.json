@@ -95,15 +95,6 @@
   ],
   "products": [
     {
-      "slug": "binding-000000003949",
-      "makeshopId": "000000003949",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
-      "priceJpy": 17710,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/ct296/page1/order/",
-      "updatedAt": "2026-05-31T19:13:50.678Z"
-    },
-    {
       "slug": "binding-000000002817",
       "makeshopId": "000000002817",
       "brandSlug": "spark-r-d",
@@ -111,6 +102,15 @@
       "priceJpy": 14300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000003949",
+      "makeshopId": "000000003949",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
+      "priceJpy": 17710,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/ct296/page1/order/",
+      "updatedAt": "2026-05-31T19:13:50.678Z"
     },
     {
       "slug": "binding-000000003679",
@@ -1672,5 +1672,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-06T19:52:24.014Z"
+  "syncedAt": "2026-07-07T19:51:34.030Z"
 }
