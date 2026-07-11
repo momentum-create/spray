@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "tshirt-000000003420",
+      "makeshopId": "000000003420",
+      "brandSlug": "millet",
+      "name": "【MILLET】 ミレー 【HEATHER MESH CREW SS M】 ヘザーメッシュ クルー ショートスリーブ MIV02174 Tシャツ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003420/I61116/page1/order/",
+      "updatedAt": "2026-07-11T18:58:42.115Z"
+    },
+    {
       "slug": "tshirt-000000004042",
       "makeshopId": "000000004042",
       "brandSlug": "",
@@ -35,15 +44,6 @@
       "priceJpy": 3520,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004008/I61116/page1/order/",
       "updatedAt": "2026-06-19T19:47:02.661Z"
-    },
-    {
-      "slug": "tshirt-000000003983",
-      "makeshopId": "000000003983",
-      "brandSlug": "nanga",
-      "name": "【NANGA】 ナンガ 【ECO HYBRID MINI BOX LOGO KIDS TEE】 エコハイブリッド ミニボックスロゴ キッズ Tシャツ N2504-6M533A / キッズ/ 子供用",
-      "priceJpy": 3520,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003983/I61116/page1/order/",
-      "updatedAt": "2026-06-11T20:19:05.375Z"
     },
     {
       "slug": "tshirt-000000003982",
@@ -735,5 +735,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-11T17:49:23.419Z"
+  "syncedAt": "2026-07-11T18:58:42.115Z"
 }
