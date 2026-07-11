@@ -1151,7 +1151,17 @@
         "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003797_MLtUJKc.jpg",
         "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000037972_XzqV0ky.jpg"
       ]
+    },
+    "000000004083": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004083_7yZ8p4c.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004083_7yZ8p4c.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/83/40/1_000000004083.jpg?1783307437",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/83/40/2_000000004083.jpg?1783307437",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/83/40/s1_000000004083.jpg?1783307437",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/83/40/s2_000000004083.jpg?1783307437"
+      ]
     }
   },
-  "syncedAt": "2026-07-10T19:23:55.790Z"
+  "syncedAt": "2026-07-11T17:49:36.614Z"
 }
