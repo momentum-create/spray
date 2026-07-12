@@ -5,10 +5,28 @@
     "title": "T-Shirts",
     "titleJa": "Tシャツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61116/",
-    "totalProducts": 36
+    "totalProducts": 38
   },
   "brands": [],
   "products": [
+    {
+      "slug": "tshirt-000000004117",
+      "makeshopId": "000000004117",
+      "brandSlug": "nut-butter",
+      "name": "【NUT-BUTTER】 ナットバター 【NUT-BUTTER ロゴ 6.2オンス Tシャツ】 メンズ 半袖Tシャツ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004117/I61116/page1/order/",
+      "updatedAt": "2026-07-12T19:01:38.931Z"
+    },
+    {
+      "slug": "tshirt-000000004116",
+      "makeshopId": "000000004116",
+      "brandSlug": "nut-butter",
+      "name": "【NUT-BUTTER】 ナットバター 【N ロゴ 6.2オンス Tシャツ】 メンズ 半袖Tシャツ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004116/I61116/page1/order/",
+      "updatedAt": "2026-07-12T19:01:38.931Z"
+    },
     {
       "slug": "tshirt-000000003420",
       "makeshopId": "000000003420",
@@ -735,5 +753,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-11T18:58:42.115Z"
+  "syncedAt": "2026-07-12T19:01:38.931Z"
 }
