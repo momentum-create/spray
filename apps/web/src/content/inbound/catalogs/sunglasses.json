@@ -5,10 +5,73 @@
     "title": "Sunglasses",
     "titleJa": "サングラス",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61109/",
-    "totalProducts": 25
+    "totalProducts": 32
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sunglasses-000000004135",
+      "makeshopId": "000000004135",
+      "brandSlug": "dang-shades",
+      "name": "【DANG SHADES】ダン シェイディーズ 【SELECT】セレクト ブラック x ライトブラック 日本製プレミアムレンズ(防曇偏光) vidg00531 サングラス スキー スノーボード アウトドア",
+      "priceJpy": 6589,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004135/I61109/page1/order/",
+      "updatedAt": "2026-07-13T19:20:25.536Z"
+    },
+    {
+      "slug": "sunglasses-000000004134",
+      "makeshopId": "000000004134",
+      "brandSlug": "dang-shades",
+      "name": "【DANG SHADES】ダン シェイディーズ 【SELECT】セレクト ブラック x ブルー・ミラー 偏光レンズ vidg00446 サングラス スキー スノーボード アウトドア",
+      "priceJpy": 5995,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004134/I61109/page1/order/",
+      "updatedAt": "2026-07-13T19:20:25.536Z"
+    },
+    {
+      "slug": "sunglasses-000000004133",
+      "makeshopId": "000000004133",
+      "brandSlug": "dang-shades",
+      "name": "【DANG SHADES】ダン シェイディーズ 【SELECT】セレクト ブラック x ブラック・スモーク 偏光レンズ vidg00429 サングラス スキー スノーボード アウトドア",
+      "priceJpy": 5995,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004133/I61109/page1/order/",
+      "updatedAt": "2026-07-13T19:20:25.536Z"
+    },
+    {
+      "slug": "sunglasses-000000004132",
+      "makeshopId": "000000004132",
+      "brandSlug": "dang-shades",
+      "name": "【DANG SHADES】ダン シェイディーズ 【PORTO】ポルト ブラック / べっ甲柄グラデーション x ライトブラウン 激撥水偏光レンズ vidg00525 サングラス スキー スノーボード アウトドア",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004132/I61109/page1/order/",
+      "updatedAt": "2026-07-13T19:20:25.536Z"
+    },
+    {
+      "slug": "sunglasses-000000004131",
+      "makeshopId": "000000004131",
+      "brandSlug": "dang-shades",
+      "name": "【DANG SHADES】ダン シェイディーズ 【LOCO】ロコ ブラック x ライトブラック 防曇偏光 vidg00430-lbk サングラス スキー スノーボード アウトドア",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004131/I61109/page1/order/",
+      "updatedAt": "2026-07-13T19:20:25.536Z"
+    },
+    {
+      "slug": "sunglasses-000000004130",
+      "makeshopId": "000000004130",
+      "brandSlug": "dang-shades",
+      "name": "【DANG SHADES】ダン シェイディーズ 【LOCO】ロコ ブラック x ライトアンバー 防曇偏光 vidg00430-lbr サングラス スキー スノーボード アウトドア",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004130/I61109/page1/order/",
+      "updatedAt": "2026-07-13T19:20:25.536Z"
+    },
+    {
+      "slug": "sunglasses-000000004129",
+      "makeshopId": "000000004129",
+      "brandSlug": "dang-shades",
+      "name": "【DANG SHADES】ダン シェイディーズ 【ATLAS】アトラス ブラック/べっ甲柄グラデーション 偏光レンズ(激撥水) vidg00522 サングラス スキー スノーボード アウトドア",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004129/I61109/page1/order/",
+      "updatedAt": "2026-07-13T19:20:25.536Z"
+    },
     {
       "slug": "sunglasses-000000003999",
       "makeshopId": "000000003999",
@@ -521,5 +584,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-12T19:01:47.195Z"
+  "syncedAt": "2026-07-13T19:20:25.536Z"
 }

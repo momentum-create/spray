@@ -23,6 +23,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000003401",
+      "makeshopId": "000000003401",
+      "brandSlug": "uchiko",
+      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
+      "priceJpy": 4980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000003486",
       "makeshopId": "000000003486",
       "brandSlug": "orange",
@@ -47,15 +56,6 @@
       "name": "CMF OUTDOOR GARMENT シーエムエフ アウトドア ガーメント 【CARABINER】 CMF2302-AC33 カラビナ アウトドア",
       "priceJpy": 1100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002298/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000003401",
-      "makeshopId": "000000003401",
-      "brandSlug": "uchiko",
-      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
-      "priceJpy": 4980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -1603,5 +1603,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-12T19:01:52.091Z"
+  "syncedAt": "2026-07-13T19:20:30.834Z"
 }

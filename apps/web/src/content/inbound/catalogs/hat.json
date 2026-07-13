@@ -5,7 +5,7 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 41
+    "totalProducts": 40
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "ct347",
       "name": "キャップ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
-      "productCount": 18
+      "productCount": 17
     },
     {
       "slug": "ct346",
@@ -77,15 +77,6 @@
       "name": "【halo commodity】 ハロコモディティー 【Salt Jet Cap】 h261-311 男女兼用 / ユニセックス / キャップ / 帽子",
       "priceJpy": 5390,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003538/I61098/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.320Z"
-    },
-    {
-      "slug": "hat-000000003930",
-      "makeshopId": "000000003930",
-      "brandSlug": "poler",
-      "name": "【POLER】 ポーラー 【LONG BILL DRAW CORD FLOPPY CAP】 261MCV0029 男女兼用 ユニセックス キャップ 帽子",
-      "priceJpy": 6050,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003930/I61098/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.320Z"
     },
     {
@@ -801,5 +792,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-12T19:01:48.119Z"
+  "syncedAt": "2026-07-13T19:20:26.176Z"
 }
