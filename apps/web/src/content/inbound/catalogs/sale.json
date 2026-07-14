@@ -5,10 +5,64 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 322
+    "totalProducts": 321
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003604",
+      "makeshopId": "000000003604",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック DW-5610UU-8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003604/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
+    {
+      "slug": "sale-000000003605",
+      "makeshopId": "000000003605",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック DW-5610UU-3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003605/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
+    {
+      "slug": "sale-000000004102",
+      "makeshopId": "000000004102",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GM-S2110-2AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 18480,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004102/I61093/page1/order/",
+      "updatedAt": "2026-07-09T19:42:21.853Z"
+    },
+    {
+      "slug": "sale-000000003608",
+      "makeshopId": "000000003608",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GLX-S5600-2JF 【G-LIDE】 ジーライド 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10395,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003608/I61093/page1/order/",
+      "updatedAt": "2026-07-09T19:42:21.853Z"
+    },
+    {
+      "slug": "sale-000000003609",
+      "makeshopId": "000000003609",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GLX-S5600-7BJF 【G-LIDE】 ジーライド 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10395,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003609/I61093/page1/order/",
+      "updatedAt": "2026-07-09T19:42:21.853Z"
+    },
+    {
+      "slug": "sale-000000004103",
+      "makeshopId": "000000004103",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GM-S2110-3AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 18480,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004103/I61093/page1/order/",
+      "updatedAt": "2026-07-09T19:42:21.853Z"
+    },
     {
       "slug": "sale-000000003546",
       "makeshopId": "000000003546",
@@ -208,15 +262,6 @@
       "updatedAt": "2026-07-13T19:20:36.122Z"
     },
     {
-      "slug": "sale-000000003608",
-      "makeshopId": "000000003608",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GLX-S5600-2JF 【G-LIDE】 ジーライド 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10395,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003608/I61093/page1/order/",
-      "updatedAt": "2026-07-09T19:42:21.853Z"
-    },
-    {
       "slug": "sale-000000003617",
       "makeshopId": "000000003617",
       "brandSlug": "g-shock",
@@ -242,15 +287,6 @@
       "priceJpy": 10395,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004089/I61093/page1/order/",
       "updatedAt": "2026-07-06T19:52:52.507Z"
-    },
-    {
-      "slug": "sale-000000003605",
-      "makeshopId": "000000003605",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック DW-5610UU-3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003605/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
       "slug": "sale-000000003556",
@@ -496,15 +532,6 @@
       "updatedAt": "2026-07-10T19:24:02.514Z"
     },
     {
-      "slug": "sale-000000003554",
-      "makeshopId": "000000003554",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-B001FL-4AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003554/I61093/page1/order/",
-      "updatedAt": "2026-07-10T19:24:02.514Z"
-    },
-    {
       "slug": "sale-000000003555",
       "makeshopId": "000000003555",
       "brandSlug": "g-shock",
@@ -539,33 +566,6 @@
       "priceJpy": 12705,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004082/I61093/page1/order/",
       "updatedAt": "2026-07-05T19:14:17.930Z"
-    },
-    {
-      "slug": "sale-000000004103",
-      "makeshopId": "000000004103",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GM-S2110-3AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 18480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004103/I61093/page1/order/",
-      "updatedAt": "2026-07-09T19:42:21.853Z"
-    },
-    {
-      "slug": "sale-000000004102",
-      "makeshopId": "000000004102",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GM-S2110-2AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 18480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004102/I61093/page1/order/",
-      "updatedAt": "2026-07-09T19:42:21.853Z"
-    },
-    {
-      "slug": "sale-000000003609",
-      "makeshopId": "000000003609",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GLX-S5600-7BJF 【G-LIDE】 ジーライド 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10395,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003609/I61093/page1/order/",
-      "updatedAt": "2026-07-09T19:42:21.853Z"
     },
     {
       "slug": "sale-000000003612",
@@ -737,15 +737,6 @@
       "priceJpy": 9240,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004076/I61093/page1/order/",
       "updatedAt": "2026-07-05T19:14:17.930Z"
-    },
-    {
-      "slug": "sale-000000003604",
-      "makeshopId": "000000003604",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック DW-5610UU-8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003604/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
       "slug": "sale-000000004070",
@@ -6147,5 +6138,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-13T19:20:36.122Z"
+  "syncedAt": "2026-07-14T19:16:11.770Z"
 }
