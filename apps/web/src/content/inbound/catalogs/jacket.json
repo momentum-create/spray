@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "jacket-000000003897",
+      "makeshopId": "000000003897",
+      "brandSlug": "millet",
+      "name": "【MILLET】 ミレー 【TYPHON 50000 ST JKT】 ティフォン50000ストレッチ ジャケット MIV01479 レインウェア パッカブル",
+      "priceJpy": 31900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003897/ct308/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.893Z"
+    },
+    {
       "slug": "jacket-000000002288",
       "makeshopId": "000000002288",
       "brandSlug": "other",
@@ -115,15 +124,6 @@
       "name": "【MILLET】 ミレー 【BREATHBARRIER II OVER JKT】 ブリーズバリヤー II オーバージャケット MIV03177 登山 旅行 アウトドア",
       "priceJpy": 19800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003912/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
-    },
-    {
-      "slug": "jacket-000000003897",
-      "makeshopId": "000000003897",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【TYPHON 50000 ST JKT】 ティフォン50000ストレッチ ジャケット MIV01479 レインウェア パッカブル",
-      "priceJpy": 31900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003897/ct308/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.893Z"
     },
     {
@@ -529,5 +529,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-16T19:05:42.275Z"
+  "syncedAt": "2026-07-17T19:03:18.560Z"
 }
