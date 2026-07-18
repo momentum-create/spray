@@ -751,7 +751,37 @@
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/42/40/3_000000004042.jpg?1782528520",
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/42/40/4_000000004042.jpg?1782528520"
       ]
+    },
+    "000000004117": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004117_9if6aTL.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004117_9if6aTL.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/17/41/1_000000004117.jpg?1783827366",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/17/41/2_000000004117.jpg?1783827366",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/17/41/s1_000000004117.jpg?1783827366",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/17/41/s2_000000004117.jpg?1783827366"
+      ]
+    },
+    "000000004116": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004116_YwDWMb4.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004116_YwDWMb4.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/16/41/1_000000004116.jpg?1783825866",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/16/41/2_000000004116.jpg?1783825866",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/16/41/s1_000000004116.jpg?1783825866",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/16/41/s2_000000004116.jpg?1783825866"
+      ]
+    },
+    "000000003420": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003420_xVhfiaH.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003420_xVhfiaH.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/34/1_000000003420.jpg?1774154179",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/34/2_000000003420.jpg?1774154179",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/34/3_000000003420.jpg?1774154179",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/20/34/s1_000000003420.jpg?1774154179"
+      ]
     }
   },
-  "syncedAt": "2026-07-17T19:03:17.380Z"
+  "syncedAt": "2026-07-18T17:51:29.644Z"
 }
