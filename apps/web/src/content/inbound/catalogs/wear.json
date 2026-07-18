@@ -5,7 +5,7 @@
     "title": "Wear",
     "titleJa": "ウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct298/",
-    "totalProducts": 40
+    "totalProducts": 39
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct341/",
-      "productCount": 10
+      "productCount": 9
     },
     {
       "slug": "ak",
@@ -266,15 +266,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Shukabra Pant】 シュカブラパンツ ユニセックス/スノーボードウェア/パンツ NS62517",
       "priceJpy": 33400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003380/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000003244",
-      "makeshopId": "000000003244",
-      "brandSlug": "burton",
-      "name": "【BURTON】バートン 【Kid's Skylar 2L Bib】 キッズ スカイラー 2L ビブパンツ 25-26 スノーボード ウェア 子供用",
-      "priceJpy": 17600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003244/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -822,5 +813,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-18T17:51:26.503Z"
+  "syncedAt": "2026-07-18T18:59:48.404Z"
 }

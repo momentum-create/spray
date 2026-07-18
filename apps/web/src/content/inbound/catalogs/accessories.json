@@ -23,21 +23,21 @@
   ],
   "products": [
     {
-      "slug": "accessories-000000003004",
-      "makeshopId": "000000003004",
-      "brandSlug": "contour",
-      "name": "【contour】 コンツァー 【velcro buckle 85mm】 ベルクロバックル 85mm バックカントリー スプリットボードスキン",
-      "priceJpy": 1760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003004/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
       "brandSlug": "uchiko",
       "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
       "priceJpy": 4980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000003004",
+      "makeshopId": "000000003004",
+      "brandSlug": "contour",
+      "name": "【contour】 コンツァー 【velcro buckle 85mm】 ベルクロバックル 85mm バックカントリー スプリットボードスキン",
+      "priceJpy": 1760,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003004/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -1603,5 +1603,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-18T17:51:54.944Z"
+  "syncedAt": "2026-07-18T19:00:06.188Z"
 }
