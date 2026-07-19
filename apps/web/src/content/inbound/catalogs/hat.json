@@ -5,32 +5,32 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 40
+    "totalProducts": 39
   },
   "brands": [
     {
       "slug": "ct344",
       "name": "ビーニー・ニット",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct344/",
-      "productCount": 5
+      "productCount": 4
     },
     {
       "slug": "ct345",
       "name": "バラクラバ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct345/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "ct347",
       "name": "キャップ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
-      "productCount": 17
+      "productCount": 16
     },
     {
       "slug": "ct346",
       "name": "ハット",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct346/",
-      "productCount": 5
+      "productCount": 4
     }
   ],
   "products": [
@@ -140,15 +140,6 @@
       "name": "【MILLET】 ミレー 【VENTING HAT】 ベンチング ハット MIV01797 TERRE",
       "priceJpy": 5192,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003903/I61098/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.320Z"
-    },
-    {
-      "slug": "hat-000000003254",
-      "makeshopId": "000000003254",
-      "brandSlug": "dragon",
-      "name": "【DRAGON】ドラゴン 【SHIKORO CAP】シコロ キャップ / ビーニー / バラクラバ / 帽子",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003254/I61098/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.320Z"
     },
     {
@@ -792,5 +783,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-18T19:00:01.780Z"
+  "syncedAt": "2026-07-19T19:02:26.452Z"
 }
