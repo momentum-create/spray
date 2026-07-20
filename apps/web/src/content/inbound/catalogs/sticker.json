@@ -5,7 +5,7 @@
     "title": "Stickers",
     "titleJa": "ステッカー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct306/",
-    "totalProducts": 30
+    "totalProducts": 29
   },
   "brands": [],
   "products": [
@@ -233,15 +233,6 @@
       "priceJpy": 550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003991/ct306/page1/order/",
       "updatedAt": "2026-06-12T20:07:46.530Z"
-    },
-    {
-      "slug": "sticker-000000003990",
-      "makeshopId": "000000003990",
-      "brandSlug": "nanga",
-      "name": "【NANGA】 ナンガ 【NANGA LOGO CUTTING STICKER XS】 ナンガカッティングステッカー XS NA2254-3G515 ステッカー",
-      "priceJpy": 440,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003990/ct306/page1/order/",
-      "updatedAt": "2026-06-11T20:19:18.917Z"
     },
     {
       "slug": "sticker-000000003988",
@@ -564,5 +555,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-19T19:02:29.472Z"
+  "syncedAt": "2026-07-20T19:41:00.140Z"
 }

@@ -5,7 +5,7 @@
     "title": "Pants",
     "titleJa": "パンツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61132/",
-    "totalProducts": 17
+    "totalProducts": 16
   },
   "brands": [],
   "products": [
@@ -17,15 +17,6 @@
       "priceJpy": 5984,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004009/I61132/page1/order/",
       "updatedAt": "2026-06-19T19:47:04.595Z"
-    },
-    {
-      "slug": "pants-000000003985",
-      "makeshopId": "000000003985",
-      "brandSlug": "nanga",
-      "name": "【NANGA】 ナンガ 【DotAir COMFY SHORTS】 ドットエア コンフィーショーツ NW2411-I903 / メンズ / 男性用",
-      "priceJpy": 8360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003985/I61132/page1/order/",
-      "updatedAt": "2026-06-11T20:19:08.439Z"
     },
     {
       "slug": "pants-000000003524",
@@ -362,5 +353,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-19T19:02:19.073Z"
+  "syncedAt": "2026-07-20T19:40:50.392Z"
 }

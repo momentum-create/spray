@@ -5,10 +5,28 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 344
+    "totalProducts": 339
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000004095",
+      "makeshopId": "000000004095",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMA-S2100WT-7A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10395,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004095/I61093/page1/order/",
+      "updatedAt": "2026-07-09T19:42:21.853Z"
+    },
+    {
+      "slug": "sale-000000003568",
+      "makeshopId": "000000003568",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-2100AS-2AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15840,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003568/I61093/page1/order/",
+      "updatedAt": "2026-07-13T19:20:36.122Z"
+    },
     {
       "slug": "sale-000000003653",
       "makeshopId": "000000003653",
@@ -325,15 +343,6 @@
       "updatedAt": "2026-07-16T19:05:56.319Z"
     },
     {
-      "slug": "sale-000000003439",
-      "makeshopId": "000000003439",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100BM-7A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15840,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003439/I61093/page1/order/",
-      "updatedAt": "2026-07-16T19:05:56.319Z"
-    },
-    {
       "slug": "sale-000000003440",
       "makeshopId": "000000003440",
       "brandSlug": "g-shock",
@@ -368,15 +377,6 @@
       "priceJpy": 14080,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003531/I61093/page1/order/",
       "updatedAt": "2026-07-16T19:05:56.319Z"
-    },
-    {
-      "slug": "sale-000000003605",
-      "makeshopId": "000000003605",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック DW-5610UU-3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003605/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
       "slug": "sale-000000003532",
@@ -529,15 +529,6 @@
       "name": "【G-SHOCK】 Gショック GA-2100AS-5AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 15840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003567/I61093/page1/order/",
-      "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
-      "slug": "sale-000000003568",
-      "makeshopId": "000000003568",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100AS-2AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15840,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003568/I61093/page1/order/",
       "updatedAt": "2026-07-13T19:20:36.122Z"
     },
     {
@@ -910,15 +901,6 @@
       "updatedAt": "2026-07-09T19:42:21.853Z"
     },
     {
-      "slug": "sale-000000004095",
-      "makeshopId": "000000004095",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-S2100WT-7A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10395,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004095/I61093/page1/order/",
-      "updatedAt": "2026-07-09T19:42:21.853Z"
-    },
-    {
       "slug": "sale-000000003602",
       "makeshopId": "000000003602",
       "brandSlug": "g-shock",
@@ -979,15 +961,6 @@
       "name": "【G-SHOCK】 DW-5600HDR-1JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品 THE HUNDREDS",
       "priceJpy": 13090,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004080/I61093/page1/order/",
-      "updatedAt": "2026-07-05T19:14:17.930Z"
-    },
-    {
-      "slug": "sale-000000004078",
-      "makeshopId": "000000004078",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック G-300-4AJF 【CASIO】 カシオ ジーショック 【G-SPIKE】Gスパイク 腕時計",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004078/I61093/page1/order/",
       "updatedAt": "2026-07-05T19:14:17.930Z"
     },
     {
@@ -1141,15 +1114,6 @@
       "name": "【G-SHOCK】 Gショック GA-100TU-1A3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 13090,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003596/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003599",
-      "makeshopId": "000000003599",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMD-B300-4JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 12320,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003599/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
@@ -1429,15 +1393,6 @@
       "name": "ナンガ NANGA ナンガ ロゴ ルームシューズ 【NANGA LOGO ROOM SHOES】 NG2443-1Z008-A / メンズ / 男性用 / レディース / 女性用 / 男女兼用",
       "priceJpy": 4840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002560/I61093/page1/order/",
-      "updatedAt": "2026-06-11T20:19:25.517Z"
-    },
-    {
-      "slug": "sale-000000003985",
-      "makeshopId": "000000003985",
-      "brandSlug": "nanga",
-      "name": "【NANGA】 ナンガ 【DotAir COMFY SHORTS】 ドットエア コンフィーショーツ NW2411-I903 / メンズ / 男性用",
-      "priceJpy": 8360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003985/I61093/page1/order/",
       "updatedAt": "2026-06-11T20:19:25.517Z"
     },
     {
@@ -6985,5 +6940,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-19T19:02:37.442Z"
+  "syncedAt": "2026-07-20T19:41:08.312Z"
 }

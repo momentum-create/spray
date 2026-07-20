@@ -5,27 +5,72 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 64
+    "totalProducts": 69
   },
   "brands": [],
   "products": [
     {
-      "slug": "skateboard-parts-000000004178",
-      "makeshopId": "000000004178",
+      "slug": "skateboard-parts-000000004183",
+      "makeshopId": "000000004183",
+      "brandSlug": "pats-riser",
+      "name": "【Pats Riser】 パッツライザー 【Split Wedge 3°】 スプリット ウェッジ 3° スケートボード ライザー",
+      "priceJpy": 1540,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004183/ct307/page1/order/",
+      "updatedAt": "2026-07-20T19:40:59.374Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004182",
+      "makeshopId": "000000004182",
+      "brandSlug": "pats-riser",
+      "name": "【Pats Riser】 パッツライザー 【Wedge】 ウェッジ 3°～8° スケートボード ライザー",
+      "priceJpy": 1430,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004182/ct307/page1/order/",
+      "updatedAt": "2026-07-20T19:40:59.374Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004181",
+      "makeshopId": "000000004181",
       "brandSlug": "riptide",
-      "name": "コピー【RipTide】 リップタイド 【APS Baller】APS バレル ブッシュ スケートボード ブッシュゴム",
-      "priceJpy": 1760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004178/ct307/page1/order/",
-      "updatedAt": "2026-07-19T19:02:28.744Z"
+      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
+      "updatedAt": "2026-07-20T19:40:59.374Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004180",
+      "makeshopId": "000000004180",
+      "brandSlug": "riptide",
+      "name": "【RipTide】 リップタイド 【APS Carver CX】カーバーCXサーフスケート コーンxバレル スケートボード ブッシュゴム",
+      "priceJpy": 1650,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004180/ct307/page1/order/",
+      "updatedAt": "2026-07-20T19:40:59.374Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004179",
+      "makeshopId": "000000004179",
+      "brandSlug": "riptide",
+      "name": "【RipTide】 リップタイド 【APS Cone】APS コーン ブッシュ スケートボード ブッシュゴム",
+      "priceJpy": 1650,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004179/ct307/page1/order/",
+      "updatedAt": "2026-07-20T19:40:59.374Z"
     },
     {
       "slug": "skateboard-parts-000000004177",
       "makeshopId": "000000004177",
       "brandSlug": "riptide",
       "name": "【RipTide】 リップタイド 【APS Street Cone】APS ストリートコーン ブッシュ スケートボード ブッシュゴム",
-      "priceJpy": 1760,
+      "priceJpy": 1650,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004177/ct307/page1/order/",
-      "updatedAt": "2026-07-19T19:02:28.744Z"
+      "updatedAt": "2026-07-20T19:40:59.374Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004178",
+      "makeshopId": "000000004178",
+      "brandSlug": "riptide",
+      "name": "【RipTide】 リップタイド 【APS Baller】APS バレル ブッシュ スケートボード ブッシュゴム",
+      "priceJpy": 1650,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004178/ct307/page1/order/",
+      "updatedAt": "2026-07-20T19:40:59.374Z"
     },
     {
       "slug": "skateboard-parts-000000003893",
@@ -1181,5 +1226,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-19T19:02:28.744Z"
+  "syncedAt": "2026-07-20T19:40:59.374Z"
 }
