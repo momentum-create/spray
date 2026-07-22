@@ -10,13 +10,13 @@
   "brands": [],
   "products": [
     {
-      "slug": "sale-000000004095",
-      "makeshopId": "000000004095",
+      "slug": "sale-000000003437",
+      "makeshopId": "000000003437",
       "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-S2100WT-7A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10395,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004095/I61093/page1/order/",
-      "updatedAt": "2026-07-09T19:42:21.853Z"
+      "name": "【G-SHOCK】 Gショック GA-2100BM-7A8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15840,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003437/I61093/page1/order/",
+      "updatedAt": "2026-07-16T19:05:56.319Z"
     },
     {
       "slug": "sale-000000003568",
@@ -26,6 +26,15 @@
       "priceJpy": 15840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003568/I61093/page1/order/",
       "updatedAt": "2026-07-13T19:20:36.122Z"
+    },
+    {
+      "slug": "sale-000000004095",
+      "makeshopId": "000000004095",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMA-S2100WT-7A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10395,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004095/I61093/page1/order/",
+      "updatedAt": "2026-07-09T19:42:21.853Z"
     },
     {
       "slug": "sale-000000003653",
@@ -331,15 +340,6 @@
       "name": "【G-SHOCK】 Gショック GA-2100BM-7A5JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 15840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003438/I61093/page1/order/",
-      "updatedAt": "2026-07-16T19:05:56.319Z"
-    },
-    {
-      "slug": "sale-000000003437",
-      "makeshopId": "000000003437",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100BM-7A8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15840,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003437/I61093/page1/order/",
       "updatedAt": "2026-07-16T19:05:56.319Z"
     },
     {
@@ -6940,5 +6940,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-20T19:41:08.312Z"
+  "syncedAt": "2026-07-22T19:13:14.071Z"
 }
