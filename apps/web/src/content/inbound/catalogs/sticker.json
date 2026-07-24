@@ -5,10 +5,28 @@
     "title": "Stickers",
     "titleJa": "ステッカー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct306/",
-    "totalProducts": 29
+    "totalProducts": 31
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sticker-000000002338",
+      "makeshopId": "000000002338",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【TNF Print Sticker】 TNF プリントステッカー NN31710",
+      "priceJpy": 330,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002338/ct306/page1/order/",
+      "updatedAt": "2026-07-24T19:21:11.228Z"
+    },
+    {
+      "slug": "sticker-000000004211",
+      "makeshopId": "000000004211",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【TNF Cutting Sticker】 TNF カッティング ステッカー NN32347",
+      "priceJpy": 660,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004211/ct306/page1/order/",
+      "updatedAt": "2026-07-24T19:21:11.228Z"
+    },
     {
       "slug": "sticker-000000004150",
       "makeshopId": "000000004150",
@@ -555,5 +573,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-23T19:12:01.164Z"
+  "syncedAt": "2026-07-24T19:21:11.228Z"
 }

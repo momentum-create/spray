@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003729",
+      "makeshopId": "000000003729",
+      "brandSlug": "edifice",
+      "name": "【EDIFICE】 エディフィス EFV-100DJ-2BJF メンズ 男性用 腕時計 CASIO",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003729/I61093/page1/order/",
+      "updatedAt": "2026-07-24T19:21:17.246Z"
+    },
+    {
+      "slug": "sale-000000003609",
+      "makeshopId": "000000003609",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GLX-S5600-7BJF 【G-LIDE】 ジーライド 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10395,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003609/I61093/page1/order/",
+      "updatedAt": "2026-07-09T19:42:21.853Z"
+    },
+    {
       "slug": "sale-000000003653",
       "makeshopId": "000000003653",
       "brandSlug": "g-shock",
@@ -431,15 +449,6 @@
       "priceJpy": 13860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003625/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003609",
-      "makeshopId": "000000003609",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GLX-S5600-7BJF 【G-LIDE】 ジーライド 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10395,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003609/I61093/page1/order/",
-      "updatedAt": "2026-07-09T19:42:21.853Z"
     },
     {
       "slug": "sale-000000003546",
@@ -952,15 +961,6 @@
       "name": "【G-SHOCK】 DW-5600HDR-1JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品 THE HUNDREDS",
       "priceJpy": 13090,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004080/I61093/page1/order/",
-      "updatedAt": "2026-07-05T19:14:17.930Z"
-    },
-    {
-      "slug": "sale-000000004076",
-      "makeshopId": "000000004076",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック AW-591-2AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004076/I61093/page1/order/",
       "updatedAt": "2026-07-05T19:14:17.930Z"
     },
     {
@@ -6931,5 +6931,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-23T19:12:09.085Z"
+  "syncedAt": "2026-07-24T19:21:17.246Z"
 }
