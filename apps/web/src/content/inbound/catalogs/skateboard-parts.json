@@ -5,10 +5,55 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 77
+    "totalProducts": 80
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000004221",
+      "makeshopId": "000000004221",
+      "brandSlug": "independent",
+      "name": "【INDEPENDENT】 インディペンデント 【RIZER PAD 1/8″】 ライザーパッド 1/8インチ スケートボード用 2枚セット",
+      "priceJpy": 440,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004221/ct307/page1/order/",
+      "updatedAt": "2026-07-25T19:03:23.580Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004220",
+      "makeshopId": "000000004220",
+      "brandSlug": "mini-logo",
+      "name": "【Mini Logo】 ミニロゴ 【RIZER PAD .25”】 ライザーパッド 6.35mm スケートボード用 2枚セット",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004220/ct307/page1/order/",
+      "updatedAt": "2026-07-25T19:03:23.580Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004219",
+      "makeshopId": "000000004219",
+      "brandSlug": "heaven-skateboard",
+      "name": "【HEAVEN SKATEBOARD】 ヘブン スケートボード 【RIZER PAD 4mm】 ライザーパッド 4mm ロングスケートボード用 トライアングルタイプ１台分",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004219/ct307/page1/order/",
+      "updatedAt": "2026-07-25T19:03:23.580Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004218",
+      "makeshopId": "000000004218",
+      "brandSlug": "heaven-skateboard",
+      "name": "【HEAVEN SKATEBOARD】 ヘブン スケートボード 【RIZER PAD 14mm】 ライザーパッド 14mm ロングスケートボード用 トライアングルタイプ１台分",
+      "priceJpy": 1320,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004218/ct307/page1/order/",
+      "updatedAt": "2026-07-25T19:03:23.580Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003836",
+      "makeshopId": "000000003836",
+      "brandSlug": "independent",
+      "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 PRO MASON SILVA TRUCKS】 スケートボード トラック 139",
+      "priceJpy": 9460,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003836/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
     {
       "slug": "skateboard-parts-000000004200",
       "makeshopId": "000000004200",
@@ -433,15 +478,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003836",
-      "makeshopId": "000000003836",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 PRO MASON SILVA TRUCKS】 スケートボード トラック 139",
-      "priceJpy": 9460,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003836/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003835",
       "makeshopId": "000000003835",
       "brandSlug": "independent",
@@ -628,15 +664,6 @@
       "name": "【SPITFIRE】 スピットファイア 【FORMULA FOUR REYNOLDS】 F4 レイノルズ 52mm 93DURO ウィール スケートボード",
       "priceJpy": 9130,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003747/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003745",
-      "makeshopId": "000000003745",
-      "brandSlug": "spitfire",
-      "name": "【SPITFIRE】 スピットファイア 【FORMULA FOUR O.G. CLASSICS】 F4 54mm 99DURO ウィール スケートボード",
-      "priceJpy": 9130,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003745/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1420,5 +1447,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-25T17:53:47.327Z"
+  "syncedAt": "2026-07-25T19:03:23.580Z"
 }
