@@ -506,8 +506,14 @@
       ]
     },
     "000000004001": {
-      "primary": null,
-      "gallery": []
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004001_3mb2Jjq.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004001_3mb2Jjq.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/01/40/1_000000004001.jpg?1781341816",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/01/40/2_000000004001.jpg?1781341816",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/01/40/3_000000004001.jpg?1781341816",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/01/40/s1_000000004001.jpg?1781341816"
+      ]
     },
     "000000003996": {
       "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000003996_uGQFOlw.jpg",
@@ -688,7 +694,47 @@
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/29/41/3_000000004129.webp?1783917550",
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/29/41/s1_000000004129.jpg?1783917550"
       ]
+    },
+    "000000004193": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004193_Gmi1UQz.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004193_Gmi1UQz.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/93/41/1_000000004193.jpg?1784772720",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/93/41/2_000000004193.jpg?1784772720",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/93/41/3_000000004193.jpg?1784772720",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/93/41/s1_000000004193.jpg?1784772720"
+      ]
+    },
+    "000000004002": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004002_lApjGQt.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004002_lApjGQt.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/02/40/1_000000004002.jpg?1781343968",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/02/40/2_000000004002.jpg?1781343968",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/02/40/3_000000004002.jpg?1781343968",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/02/40/s1_000000004002.jpg?1781343968"
+      ]
+    },
+    "000000004000": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004000_vQjeBcT.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004000_vQjeBcT.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/00/40/1_000000004000.jpg?1781341144",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/00/40/2_000000004000.jpg?1781341144",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/00/40/3_000000004000.jpg?1781341144",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/00/40/s1_000000004000.jpg?1781341144"
+      ]
+    },
+    "000000004007": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004007_S9LDaqd.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004007_S9LDaqd.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/07/40/1_000000004007.jpg?1781580856",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/07/40/2_000000004007.jpg?1781580856",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/07/40/s1_000000004007.jpg?1781580856",
+        "https://makeshop-multi-images.akamaized.net/spray166/shopimages/07/40/s2_000000004007.jpg?1781580856"
+      ]
     }
   },
-  "syncedAt": "2026-07-24T19:21:08.025Z"
+  "syncedAt": "2026-07-25T17:53:36.993Z"
 }
