@@ -23,6 +23,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000003060",
+      "makeshopId": "000000003060",
+      "brandSlug": "gogglesoc",
+      "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
+      "priceJpy": 3000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000004210",
       "makeshopId": "000000004210",
       "brandSlug": "shoe-goo",
@@ -146,15 +155,6 @@
       "name": "CMF OUTDOOR GARMENT シーエムエフ アウトドア ガーメント 【CARABINER】 CMF2302-AC33 カラビナ アウトドア",
       "priceJpy": 1100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002298/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000003060",
-      "makeshopId": "000000003060",
-      "brandSlug": "gogglesoc",
-      "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
-      "priceJpy": 3000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -1774,5 +1774,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-25T19:03:25.201Z"
+  "syncedAt": "2026-07-26T19:06:27.272Z"
 }
