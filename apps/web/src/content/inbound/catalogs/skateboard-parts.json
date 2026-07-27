@@ -5,10 +5,19 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 80
+    "totalProducts": 79
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000003895",
+      "makeshopId": "000000003895",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numerip 78A 60mm Green】 ミニヌメリップ 78A 60mm グリーン スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
+    },
     {
       "slug": "skateboard-parts-000000004221",
       "makeshopId": "000000004221",
@@ -61,15 +70,6 @@
       "name": "【Zulu Wheels】 ズールーウィール 【Mini Numeri 78A 60mm Green】 ミニヌメリ 78A 60mm グリーン スケートボード ウィール ロンスケ",
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004200/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003895",
-      "makeshopId": "000000003895",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numerip 78A 60mm Green】 ミニヌメリップ 78A 60mm グリーン スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
       "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
@@ -719,15 +719,6 @@
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003699/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003896",
-      "makeshopId": "000000003896",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Fuzimi Built-In Bearings】 ジミビルトインベアリング スケートボード ベアリング ロンスケ",
-      "priceJpy": 4070,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003896/ct307/page1/order/",
-      "updatedAt": "2026-06-19T19:47:12.123Z"
     }
   ],
   "images": {
@@ -1447,5 +1438,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-26T19:06:25.288Z"
+  "syncedAt": "2026-07-27T19:23:31.091Z"
 }

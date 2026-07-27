@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 334
+    "totalProducts": 332
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003553",
+      "makeshopId": "000000003553",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-2300FL-4AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 14245,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003553/I61093/page1/order/",
+      "updatedAt": "2026-07-10T19:24:02.514Z"
+    },
     {
       "slug": "sale-000000004216",
       "makeshopId": "000000004216",
@@ -26,15 +35,6 @@
       "priceJpy": 385,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004217/I61093/page1/order/",
       "updatedAt": "2026-07-25T19:03:30.338Z"
-    },
-    {
-      "slug": "sale-000000004089",
-      "makeshopId": "000000004089",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-S2100-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10395,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004089/I61093/page1/order/",
-      "updatedAt": "2026-07-06T19:52:52.507Z"
     },
     {
       "slug": "sale-000000003666",
@@ -331,15 +331,6 @@
       "name": "【G-SHOCK】 Gショック GA-700BBR-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 14960,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004151/I61093/page1/order/",
-      "updatedAt": "2026-07-16T19:05:56.319Z"
-    },
-    {
-      "slug": "sale-000000002528",
-      "makeshopId": "000000002528",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-B2100BBR-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 19800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002528/I61093/page1/order/",
       "updatedAt": "2026-07-16T19:05:56.319Z"
     },
     {
@@ -826,15 +817,6 @@
       "name": "【G-SHOCK】 Gショック GA-100WD-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 13860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003551/I61093/page1/order/",
-      "updatedAt": "2026-07-10T19:24:02.514Z"
-    },
-    {
-      "slug": "sale-000000003553",
-      "makeshopId": "000000003553",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2300FL-4AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14245,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003553/I61093/page1/order/",
       "updatedAt": "2026-07-10T19:24:02.514Z"
     },
     {
@@ -6895,5 +6877,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-26T19:06:32.249Z"
+  "syncedAt": "2026-07-27T19:23:37.671Z"
 }
