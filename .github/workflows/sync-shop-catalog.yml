@@ -35,6 +35,8 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: "22"
+          # Root package.json declares pnpm; this job only runs plain node scripts (no install).
+          package-manager-cache: false
 
       - name: Resolve sync mode
         id: mode
