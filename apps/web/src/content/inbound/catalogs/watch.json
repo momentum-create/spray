@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 201
+    "totalProducts": 200
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 152
+      "productCount": 151
     },
     {
       "slug": "baby-g",
@@ -42,7 +42,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 152
+      "productCount": 151
     },
     {
       "slug": "baby-g",
@@ -72,7 +72,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 152
+      "productCount": 151
     },
     {
       "slug": "baby-g",
@@ -102,37 +102,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 152
-    },
-    {
-      "slug": "baby-g",
-      "name": "Baby-G",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 17
-    },
-    {
-      "slug": "pro-trek",
-      "name": "PRO TREK",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61143/",
-      "productCount": 4
-    },
-    {
-      "slug": "edifice",
-      "name": "EDIFICE",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61372/",
-      "productCount": 7
-    },
-    {
-      "slug": "casio",
-      "name": "CASIO",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 21
-    },
-    {
-      "slug": "g-shock",
-      "name": "G-SHOCK",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 152
+      "productCount": 151
     },
     {
       "slug": "baby-g",
@@ -160,6 +130,42 @@
     }
   ],
   "products": [
+    {
+      "slug": "watch-000000004227",
+      "makeshopId": "000000004227",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック gbx-h5600ki-5jr 【CASIO】 カシオ ジーショック 腕時計 国内正規品 五十嵐カノア",
+      "priceJpy": 50600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004227/I61066/page1/order/",
+      "updatedAt": "2026-07-30T19:21:23.812Z"
+    },
+    {
+      "slug": "watch-000000003636",
+      "makeshopId": "000000003636",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-2100RGB-1AJF 【Virtual Rainbow：Gamer’s RGB】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 11935,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003636/I61066/page1/order/",
+      "updatedAt": "2026-07-02T19:20:54.011Z"
+    },
+    {
+      "slug": "watch-000000003576",
+      "makeshopId": "000000003576",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 DW-6900TR-4JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61066/page1/order/",
+      "updatedAt": "2026-07-13T19:20:24.726Z"
+    },
+    {
+      "slug": "watch-000000003437",
+      "makeshopId": "000000003437",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-2100BM-7A8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15840,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003437/I61066/page1/order/",
+      "updatedAt": "2026-07-16T19:05:46.636Z"
+    },
     {
       "slug": "watch-000000003567",
       "makeshopId": "000000003567",
@@ -222,15 +228,6 @@
       "priceJpy": 29920,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003566/I61066/page1/order/",
       "updatedAt": "2026-07-13T19:20:24.726Z"
-    },
-    {
-      "slug": "watch-000000003437",
-      "makeshopId": "000000003437",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100BM-7A8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15840,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003437/I61066/page1/order/",
-      "updatedAt": "2026-07-16T19:05:46.636Z"
     },
     {
       "slug": "watch-000000003568",
@@ -420,15 +417,6 @@
       "priceJpy": 14960,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002535/I61066/page1/order/",
       "updatedAt": "2026-07-17T19:03:24.533Z"
-    },
-    {
-      "slug": "watch-000000003636",
-      "makeshopId": "000000003636",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100RGB-1AJF 【Virtual Rainbow：Gamer’s RGB】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 11935,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003636/I61066/page1/order/",
-      "updatedAt": "2026-07-02T19:20:54.011Z"
     },
     {
       "slug": "watch-000000002538",
@@ -665,15 +653,6 @@
       "updatedAt": "2026-07-13T19:20:24.726Z"
     },
     {
-      "slug": "watch-000000003576",
-      "makeshopId": "000000003576",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 DW-6900TR-4JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61066/page1/order/",
-      "updatedAt": "2026-07-13T19:20:24.726Z"
-    },
-    {
       "slug": "watch-000000003577",
       "makeshopId": "000000003577",
       "brandSlug": "g-shock",
@@ -707,15 +686,6 @@
       "name": "【G-SHOCK】 GW-9500MRY-1A9JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 51920,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003573/I61066/page1/order/",
-      "updatedAt": "2026-07-13T19:20:24.726Z"
-    },
-    {
-      "slug": "watch-000000003574",
-      "makeshopId": "000000003574",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 GR-B300RY-1A9JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 39600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003574/I61066/page1/order/",
       "updatedAt": "2026-07-13T19:20:24.726Z"
     },
     {
@@ -1095,15 +1065,6 @@
       "priceJpy": 13090,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004080/I61066/page1/order/",
       "updatedAt": "2026-07-05T19:14:08.902Z"
-    },
-    {
-      "slug": "watch-000000004070",
-      "makeshopId": "000000004070",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GB-5600B-K8JF 【G-SHOCK×Kevin Lyons】タイアップモデル【CASIO】 カシオ ジーショック ブルートゥース 腕時計 国内正規品",
-      "priceJpy": 15400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004070/I61066/page1/order/",
-      "updatedAt": "2026-07-03T19:17:42.829Z"
     },
     {
       "slug": "watch-000000003689",
@@ -4661,5 +4622,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-29T23:18:23.820Z"
+  "syncedAt": "2026-07-30T19:21:23.812Z"
 }
