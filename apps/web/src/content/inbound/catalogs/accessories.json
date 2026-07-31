@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 92
+    "totalProducts": 94
   },
   "brands": [
     {
@@ -22,6 +22,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "accessories-000000004233",
+      "makeshopId": "000000004233",
+      "brandSlug": "heaven-skateboard",
+      "name": "【HEAVEN SKATEBOARD】 ヘブン スケートボード 【POPSTARII】 スケートボードヘルメット ポップスターII スケートボード 自転車 CE認証",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004233/I61079/page1/order/",
+      "updatedAt": "2026-07-31T19:20:51.345Z"
+    },
+    {
+      "slug": "accessories-000000004232",
+      "makeshopId": "000000004232",
+      "brandSlug": "heaven-skateboard",
+      "name": "【HEAVEN SKATEBOARD】 ヘブン スケートボード 【PROTECTOR 3点セット】 スケートプロテクター 3点セット スケートボード 自転車 一輪車",
+      "priceJpy": 5999,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004232/I61079/page1/order/",
+      "updatedAt": "2026-07-31T19:20:51.345Z"
+    },
     {
       "slug": "accessories-000000003060",
       "makeshopId": "000000003060",
@@ -1774,5 +1792,5 @@
       ]
     }
   },
-  "syncedAt": "2026-07-30T19:21:30.358Z"
+  "syncedAt": "2026-07-31T19:20:51.345Z"
 }
