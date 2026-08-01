@@ -5,7 +5,7 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 39
+    "totalProducts": 38
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "ct346",
       "name": "ハット",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct346/",
-      "productCount": 4
+      "productCount": 3
     }
   ],
   "products": [
@@ -203,15 +203,6 @@
       "name": "【halo commodity】 ハロコモディティー 【Crest Crag Cap】 h261-236 男女兼用 / ユニセックス / キャップ / 帽子",
       "priceJpy": 6270,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003646/I61098/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.320Z"
-    },
-    {
-      "slug": "hat-000000003647",
-      "makeshopId": "000000003647",
-      "brandSlug": "halo-commodity",
-      "name": "【halo commodity】 ハロコモディティー 【Crest Crag Hat】 h261-336 男女兼用 / ユニセックス / ハット / 帽子",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003647/I61098/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.320Z"
     },
     {
@@ -783,5 +774,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-01T17:56:37.950Z"
+  "syncedAt": "2026-08-01T19:04:34.623Z"
 }
