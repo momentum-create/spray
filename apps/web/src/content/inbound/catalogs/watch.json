@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 193
+    "totalProducts": 191
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 143
+      "productCount": 141
     },
     {
       "slug": "baby-g",
@@ -42,7 +42,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 143
+      "productCount": 141
     },
     {
       "slug": "baby-g",
@@ -72,7 +72,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 143
+      "productCount": 141
     },
     {
       "slug": "baby-g",
@@ -102,7 +102,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 143
+      "productCount": 141
     },
     {
       "slug": "baby-g",
@@ -130,6 +130,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "watch-000000003711",
+      "makeshopId": "000000003711",
+      "brandSlug": "casio",
+      "name": "【CASIO】 カシオ CASIO CLASSIC AQ-240E-7A2JF 腕時計 国内正規品",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003711/I61066/page1/order/",
+      "updatedAt": "2026-05-29T06:08:30.635Z"
+    },
+    {
+      "slug": "watch-000000003589",
+      "makeshopId": "000000003589",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-B2100LUU-5AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 18095,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003589/I61066/page1/order/",
+      "updatedAt": "2026-07-03T19:17:42.829Z"
+    },
     {
       "slug": "watch-000000004230",
       "makeshopId": "000000004230",
@@ -264,15 +282,6 @@
       "priceJpy": 10395,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004095/I61066/page1/order/",
       "updatedAt": "2026-07-09T19:42:13.911Z"
-    },
-    {
-      "slug": "watch-000000004082",
-      "makeshopId": "000000004082",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-700AR-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 12705,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004082/I61066/page1/order/",
-      "updatedAt": "2026-07-05T19:14:08.902Z"
     },
     {
       "slug": "watch-000000004161",
@@ -1058,15 +1067,6 @@
       "updatedAt": "2026-07-03T19:17:42.829Z"
     },
     {
-      "slug": "watch-000000003589",
-      "makeshopId": "000000003589",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-B2100LUU-5AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 18095,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003589/I61066/page1/order/",
-      "updatedAt": "2026-07-03T19:17:42.829Z"
-    },
-    {
       "slug": "watch-000000003590",
       "makeshopId": "000000003590",
       "brandSlug": "g-shock",
@@ -1280,15 +1280,6 @@
       "name": "【BABY-G】 ベビーG BA-110-1AJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
       "priceJpy": 11550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003678/I61066/page1/order/",
-      "updatedAt": "2026-07-02T19:20:54.011Z"
-    },
-    {
-      "slug": "watch-000000003658",
-      "makeshopId": "000000003658",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GWX-5600C-4JF 【G-LIDE】 ジーライド 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 18480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003658/I61066/page1/order/",
       "updatedAt": "2026-07-02T19:20:54.011Z"
     },
     {
@@ -1730,15 +1721,6 @@
       "name": "【EDIFICE】 エディフィス ECB-S10NIS-7AJR 【CASIO】 カシオ NISMO ヘリテージエディション ニスモ 腕時計 メンズ",
       "priceJpy": 39600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003724/I61066/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.635Z"
-    },
-    {
-      "slug": "watch-000000003711",
-      "makeshopId": "000000003711",
-      "brandSlug": "casio",
-      "name": "【CASIO】 カシオ CASIO CLASSIC AQ-240E-7A2JF 腕時計 国内正規品",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003711/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
     },
     {
@@ -4606,5 +4588,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-01T19:04:33.653Z"
+  "syncedAt": "2026-08-02T19:05:32.869Z"
 }
