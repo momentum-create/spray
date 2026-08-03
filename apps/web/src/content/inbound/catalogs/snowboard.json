@@ -5,14 +5,14 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 40
+    "totalProducts": 41
   },
   "brands": [
     {
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 4
+      "productCount": 5
     },
     {
       "slug": "field-earth",
@@ -143,13 +143,13 @@
   ],
   "products": [
     {
-      "slug": "snowboard-000000003817",
-      "makeshopId": "000000003817",
+      "slug": "snowboard-000000003808",
+      "makeshopId": "000000003808",
       "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【STINGRAY 155】スティングレイ 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 161700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003817/I61077/page1/order/",
-      "updatedAt": "2026-07-16T19:05:34.493Z"
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BABY MANTARAY 148】ベビーマンタレイ 148cm 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 158400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003808/I61077/page1/order/",
+      "updatedAt": "2026-08-03T19:26:37.868Z"
     },
     {
       "slug": "snowboard-000000003810",
@@ -158,6 +158,15 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 154】マンタレイ 154cm 2026-2027MODEL バックカントリー スノーボード パウダー",
       "priceJpy": 161700,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003810/I61077/page1/order/",
+      "updatedAt": "2026-07-16T19:05:34.493Z"
+    },
+    {
+      "slug": "snowboard-000000003817",
+      "makeshopId": "000000003817",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【STINGRAY 155】スティングレイ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 161700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003817/I61077/page1/order/",
       "updatedAt": "2026-07-16T19:05:34.493Z"
     },
     {
@@ -923,5 +932,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-02T19:05:17.395Z"
+  "syncedAt": "2026-08-03T19:26:37.868Z"
 }
