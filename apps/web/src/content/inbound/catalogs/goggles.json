@@ -5,14 +5,14 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 12
+    "totalProducts": 11
   },
   "brands": [
     {
       "slug": "smith",
       "name": "SMITH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct338/",
-      "productCount": 4
+      "productCount": 3
     },
     {
       "slug": "dragon",
@@ -98,15 +98,6 @@
       "name": "【SMITH】 スミス 【SQUAD MAG】 スカッドマグ Dylan Siggars AC / CP Everyday Green Mirror / CP Storm YellowFlash goggles ゴーグル",
       "priceJpy": 37840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003346/ct327/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.557Z"
-    },
-    {
-      "slug": "goggles-000000003382",
-      "makeshopId": "000000003382",
-      "brandSlug": "smith",
-      "name": "【SMITH】 スミス 【Preview】 プレビュー Chalk Paper Cuts / CP Everyday Violet Mirror goggles ゴーグル",
-      "priceJpy": 29040,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003382/ct327/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.557Z"
     },
     {
@@ -297,5 +288,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-05T19:25:37.864Z"
+  "syncedAt": "2026-08-06T23:55:42.949Z"
 }

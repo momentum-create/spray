@@ -5,10 +5,28 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 80
+    "totalProducts": 76
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000003849",
+      "makeshopId": "000000003849",
+      "brandSlug": "loaded",
+      "name": "【LOADED】 ローデッド 【COUNTERSUNK HARDWARE 1.25″】 フラットヘッド ハードウェア 1.25″ スケートボード ビスセット ロンスケ",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003849/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004199",
+      "makeshopId": "000000004199",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Numeri 78A 65mm Orange】 ヌメリ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004199/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
+    },
     {
       "slug": "skateboard-parts-000000003786",
       "makeshopId": "000000003786",
@@ -98,24 +116,6 @@
       "priceJpy": 9460,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003836/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004200",
-      "makeshopId": "000000004200",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numeri 78A 60mm Green】 ミニヌメリ 78A 60mm グリーン スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004200/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004199",
-      "makeshopId": "000000004199",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Numeri 78A 65mm Orange】 ヌメリ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004199/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
       "slug": "skateboard-parts-000000004197",
@@ -415,15 +415,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003849",
-      "makeshopId": "000000003849",
-      "brandSlug": "loaded",
-      "name": "【LOADED】 ローデッド 【COUNTERSUNK HARDWARE 1.25″】 フラットヘッド ハードウェア 1.25″ スケートボード ビスセット ロンスケ",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003849/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003848",
       "makeshopId": "000000003848",
       "brandSlug": "paris",
@@ -568,24 +559,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003805",
-      "makeshopId": "000000003805",
-      "brandSlug": "orangatang",
-      "name": "【ORANGATANG】 オランガタン 【KAGEL WHEELS 75mm】 ケーゲル ORANGE 80a スケートボード ウィール ロンスケ",
-      "priceJpy": 11440,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003805/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003804",
-      "makeshopId": "000000003804",
-      "brandSlug": "orangatang",
-      "name": "【ORANGATANG】 オランガタン 【DURIAN WHEELS 75mm】 ドリアン ORANGE 80a スケートボード ウィール ロンスケ",
-      "priceJpy": 10560,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003804/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003802",
       "makeshopId": "000000003802",
       "brandSlug": "orangatang",
@@ -719,15 +692,6 @@
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003699/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004181",
-      "makeshopId": "000000004181",
-      "brandSlug": "riptide",
-      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
-      "updatedAt": "2026-07-20T19:40:59.374Z"
     }
   ],
   "images": {
@@ -1501,5 +1465,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-05T19:25:49.709Z"
+  "syncedAt": "2026-08-06T23:56:00.528Z"
 }
