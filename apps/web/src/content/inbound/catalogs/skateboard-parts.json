@@ -10,6 +10,51 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003894",
+      "makeshopId": "000000003894",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003850",
+      "makeshopId": "000000003850",
+      "brandSlug": "paris",
+      "name": "【PARIS】 パリス 【PIVOT CUPS STANDARD】 (2個SET) スケートボード ピボットクッシュ",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003850/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004083",
+      "makeshopId": "000000004083",
+      "brandSlug": "loaded",
+      "name": "【LOADED】 ローデッド 【JEHU(Jehunion) V2 BEARINGS】 ジェフニオン・ベアリング スケートボード ベアリング ロンスケ",
+      "priceJpy": 4180,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004083/ct307/page1/order/",
+      "updatedAt": "2026-07-06T19:52:44.333Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004198",
+      "makeshopId": "000000004198",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicari 78A 60mm】 ミニビカリ 78A 60mm スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004198/ct307/page1/order/",
+      "updatedAt": "2026-08-07T18:52:24.430Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003786",
+      "makeshopId": "000000003786",
+      "brandSlug": "independent",
+      "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 139",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003786/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000003849",
       "makeshopId": "000000003849",
       "brandSlug": "loaded",
@@ -28,15 +73,6 @@
       "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
-      "slug": "skateboard-parts-000000003786",
-      "makeshopId": "000000003786",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 139",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003786/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000004233",
       "makeshopId": "000000004233",
       "brandSlug": "heaven-skateboard",
@@ -53,15 +89,6 @@
       "priceJpy": 5999,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004232/ct307/page1/order/",
       "updatedAt": "2026-07-31T19:20:49.449Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004083",
-      "makeshopId": "000000004083",
-      "brandSlug": "loaded",
-      "name": "【LOADED】 ローデッド 【JEHU(Jehunion) V2 BEARINGS】 ジェフニオン・ベアリング スケートボード ベアリング ロンスケ",
-      "priceJpy": 4180,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004083/ct307/page1/order/",
-      "updatedAt": "2026-07-06T19:52:44.333Z"
     },
     {
       "slug": "skateboard-parts-000000003895",
@@ -142,15 +169,6 @@
       "name": "【Zulu Wheels】 ズールーウィール 【Mini Cimeri 78A 60mm】 ミニシメリ 78A 60mm スケートボード ウィール ロンスケ",
       "priceJpy": 6160,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004196/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003894",
-      "makeshopId": "000000003894",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
       "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
@@ -271,15 +289,6 @@
       "updatedAt": "2026-07-18T19:00:03.764Z"
     },
     {
-      "slug": "skateboard-parts-000000003850",
-      "makeshopId": "000000003850",
-      "brandSlug": "paris",
-      "name": "【PARIS】 パリス 【PIVOT CUPS STANDARD】 (2個SET) スケートボード ピボットクッシュ",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003850/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003798",
       "makeshopId": "000000003798",
       "brandSlug": "heaven-skateboard",
@@ -304,15 +313,6 @@
       "name": "【INDEPENDENT】 インディペンデント 【144 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 144",
       "priceJpy": 9900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003787/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003799",
-      "makeshopId": "000000003799",
-      "brandSlug": "loaded",
-      "name": "【LOADED】 ローデッド 【JEHU(Jehunion) V2 BEARINGS】 ジェフニオン・ベアリング スケートボード ベアリング ロンスケ",
-      "priceJpy": 4180,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003799/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1465,5 +1465,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-06T23:56:00.528Z"
+  "syncedAt": "2026-08-07T18:52:24.430Z"
 }
