@@ -10,12 +10,12 @@
   "brands": [],
   "products": [
     {
-      "slug": "wax-maintenance-000000004122",
-      "makeshopId": "000000004122",
-      "brandSlug": "slab",
-      "name": "【SLAB】エスラボ 【REBRU #28】レブラ28 ブラシ / ワックス / WAX / メンテナンス",
-      "priceJpy": 13200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004122/ct357/page1/order/",
+      "slug": "wax-maintenance-000000004123",
+      "makeshopId": "000000004123",
+      "brandSlug": "slab-spray",
+      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：S】カーボンス クレーパー サイズ：S ワックス / WAX / メンテナンス",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004123/ct357/page1/order/",
       "updatedAt": "2026-07-12T19:01:37.852Z"
     },
     {
@@ -28,12 +28,12 @@
       "updatedAt": "2026-07-12T19:01:37.852Z"
     },
     {
-      "slug": "wax-maintenance-000000004123",
-      "makeshopId": "000000004123",
-      "brandSlug": "slab-spray",
-      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：S】カーボンス クレーパー サイズ：S ワックス / WAX / メンテナンス",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004123/ct357/page1/order/",
+      "slug": "wax-maintenance-000000004122",
+      "makeshopId": "000000004122",
+      "brandSlug": "slab",
+      "name": "【SLAB】エスラボ 【REBRU #28】レブラ28 ブラシ / ワックス / WAX / メンテナンス",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004122/ct357/page1/order/",
       "updatedAt": "2026-07-12T19:01:37.852Z"
     },
     {
@@ -245,5 +245,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-08T17:23:02.889Z"
+  "syncedAt": "2026-08-08T18:33:24.951Z"
 }

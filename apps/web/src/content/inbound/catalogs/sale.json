@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 310
+    "totalProducts": 309
   },
   "brands": [],
   "products": [
@@ -2527,15 +2527,6 @@
       "name": "【LAKAI】 ラカイ 【CAMBRIDGE KIDS BLACK/WHITE SUEDE】 キッズ / 子供用 スニーカー スケートボード SK8 ジュニア スケート",
       "priceJpy": 7315,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003424/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003253",
-      "makeshopId": "000000003253",
-      "brandSlug": "dakine",
-      "name": "【DAKINE】ダカイン 【Womens STORM LINERS】ウィメンズ ストーム ライナー / インナー / GLOVES / グローブ / スノーボード / スキー / 登山 レディース",
-      "priceJpy": 3960,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003253/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6700,5 +6691,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-08T17:23:04.185Z"
+  "syncedAt": "2026-08-08T18:33:41.456Z"
 }

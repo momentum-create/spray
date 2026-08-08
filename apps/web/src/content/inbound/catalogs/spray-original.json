@@ -10,13 +10,13 @@
   "brands": [],
   "products": [
     {
-      "slug": "spray-original-000000004254",
-      "makeshopId": "000000004254",
-      "brandSlug": "other",
-      "name": "SPRAY Original BC Logo ワッペン（マジックテープタイプ）",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004254/ct271/page1/order/",
-      "updatedAt": "2026-08-06T23:55:38.514Z"
+      "slug": "spray-original-000000004123",
+      "makeshopId": "000000004123",
+      "brandSlug": "slab-spray",
+      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：S】カーボンス クレーパー サイズ：S ワックス / WAX / メンテナンス",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004123/ct271/page1/order/",
+      "updatedAt": "2026-07-12T19:01:30.037Z"
     },
     {
       "slug": "spray-original-000000004124",
@@ -26,6 +26,15 @@
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct271/page1/order/",
       "updatedAt": "2026-07-12T19:01:30.037Z"
+    },
+    {
+      "slug": "spray-original-000000004254",
+      "makeshopId": "000000004254",
+      "brandSlug": "other",
+      "name": "SPRAY Original BC Logo ワッペン（マジックテープタイプ）",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004254/ct271/page1/order/",
+      "updatedAt": "2026-08-06T23:55:38.514Z"
     },
     {
       "slug": "spray-original-000000002879",
@@ -44,15 +53,6 @@
       "priceJpy": 3000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000004123",
-      "makeshopId": "000000004123",
-      "brandSlug": "slab-spray",
-      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：S】カーボンス クレーパー サイズ：S ワックス / WAX / メンテナンス",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004123/ct271/page1/order/",
-      "updatedAt": "2026-07-12T19:01:30.037Z"
     },
     {
       "slug": "spray-original-000000004042",
@@ -1075,5 +1075,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-08T17:23:02.128Z"
+  "syncedAt": "2026-08-08T18:33:18.439Z"
 }

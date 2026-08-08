@@ -23,6 +23,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000003401",
+      "makeshopId": "000000003401",
+      "brandSlug": "uchiko",
+      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
+      "priceJpy": 4980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000004254",
       "makeshopId": "000000004254",
       "brandSlug": "dumbo",
@@ -147,15 +156,6 @@
       "priceJpy": 1936,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004201/I61079/page1/order/",
       "updatedAt": "2026-07-24T19:21:12.504Z"
-    },
-    {
-      "slug": "accessories-000000003401",
-      "makeshopId": "000000003401",
-      "brandSlug": "uchiko",
-      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
-      "priceJpy": 4980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
       "slug": "accessories-000000003004",
@@ -1822,5 +1822,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-08T17:23:04.180Z"
+  "syncedAt": "2026-08-08T18:33:36.634Z"
 }

@@ -5,7 +5,7 @@
     "title": "Gloves",
     "titleJa": "グローブ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct299/",
-    "totalProducts": 30
+    "totalProducts": 29
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "dakine",
       "name": "DAKINE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct355/",
-      "productCount": 3
+      "productCount": 2
     },
     {
       "slug": "ebs",
@@ -266,15 +266,6 @@
       "name": "【UN-IT-EDO】アン イット エド 【2-Finger Out Inner Glove】ツーフィンガー アウト インナー グローブ / 手袋 / 登山 / バックカントリー / スキー / スノーボード",
       "priceJpy": 4378,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003184/ct299/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.920Z"
-    },
-    {
-      "slug": "gloves-000000003253",
-      "makeshopId": "000000003253",
-      "brandSlug": "dakine",
-      "name": "【DAKINE】ダカイン 【Womens STORM LINERS】ウィメンズ ストーム ライナー / インナー / GLOVES / グローブ / スノーボード / スキー / 登山 レディース",
-      "priceJpy": 3960,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003253/ct299/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.920Z"
     },
     {
@@ -661,5 +652,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-08T17:23:02.885Z"
+  "syncedAt": "2026-08-08T18:33:23.315Z"
 }
