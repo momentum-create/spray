@@ -10,13 +10,13 @@
   "brands": [],
   "products": [
     {
-      "slug": "skateboard-parts-000000003894",
-      "makeshopId": "000000003894",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
+      "slug": "skateboard-parts-000000003786",
+      "makeshopId": "000000003786",
+      "brandSlug": "independent",
+      "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 139",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003786/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
       "slug": "skateboard-parts-000000003850",
@@ -44,15 +44,6 @@
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004198/ct307/page1/order/",
       "updatedAt": "2026-08-07T18:52:24.430Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003786",
-      "makeshopId": "000000003786",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 139",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003786/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
       "slug": "skateboard-parts-000000003849",
@@ -692,6 +683,15 @@
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003699/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003894",
+      "makeshopId": "000000003894",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
     }
   ],
   "images": {
@@ -1472,5 +1472,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-08T18:33:34.643Z"
+  "syncedAt": "2026-08-09T18:36:23.242Z"
 }

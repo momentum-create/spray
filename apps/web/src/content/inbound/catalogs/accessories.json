@@ -23,6 +23,24 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000002555",
+      "makeshopId": "000000002555",
+      "brandSlug": "",
+      "name": "パタゴニア patagonia 【今治フェイス・タオル・熊と魚】TW008",
+      "priceJpy": 1430,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002555/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000002556",
+      "makeshopId": "000000002556",
+      "brandSlug": "73",
+      "name": "パタゴニア patagonia 【今治スポーツ・タオル・73ロゴ】TW012",
+      "priceJpy": 2970,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002556/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
       "brandSlug": "uchiko",
@@ -761,15 +779,6 @@
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
-      "slug": "accessories-000000002555",
-      "makeshopId": "000000002555",
-      "brandSlug": "",
-      "name": "パタゴニア patagonia 【今治フェイス・タオル・熊と魚】TW008",
-      "priceJpy": 1430,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002555/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
       "slug": "accessories-000000002509",
       "makeshopId": "000000002509",
       "brandSlug": "dumbo",
@@ -830,15 +839,6 @@
       "name": "SPRAY Original Goggle Cutting Sticker",
       "priceJpy": 880,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002090/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000002556",
-      "makeshopId": "000000002556",
-      "brandSlug": "73",
-      "name": "パタゴニア patagonia 【今治スポーツ・タオル・73ロゴ】TW012",
-      "priceJpy": 2970,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002556/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -1822,5 +1822,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-08T18:33:36.634Z"
+  "syncedAt": "2026-08-09T18:36:24.794Z"
 }
