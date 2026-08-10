@@ -25,11 +25,13 @@ jobs:
       - name: Test vercel-should-build.sh (momentum-create → skip)
         shell: bash
         run: |
-          set -euo pipefail
+          set -uo pipefail
           chmod +x scripts/vercel-should-build.sh
+          set +e
           VERCEL_GIT_REPO_OWNER=momentum-create VERCEL_GIT_REPO_SLUG=spray \
             scripts/vercel-should-build.sh
           code=$?
+          set -e
           if [ "$code" -ne 0 ]; then
             echo "Expected exit 0 (skip build) for momentum-create/spray, got $code"
             exit 1
@@ -38,10 +40,12 @@ jobs:
       - name: Test vercel-should-build.sh (Seeker-x1 → build)
         shell: bash
         run: |
-          set -euo pipefail
+          set -uo pipefail
+          set +e
           VERCEL_GIT_REPO_OWNER=Seeker-x1 VERCEL_GIT_REPO_SLUG=spray \
             scripts/vercel-should-build.sh
           code=$?
+          set -e
           if [ "$code" -ne 1 ]; then
             echo "Expected exit 1 (allow build) for Seeker-x1/spray, got $code"
             exit 1
