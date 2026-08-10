@@ -1,4 +1,5 @@
-# momentum-create/spray -> Seeker-x1/spray (Vercel)
+# momentum-create/spray -> Seeker-x1/spray (Vercel production Git source)
+# Do NOT connect momentum-create/spray to the Vercel project (see docs/DEPLOY.md).
 # Auth: SEEKER_DEPLOY_KEY (recommended) or SEEKER_PUSH_TOKEN (classic PAT)
 name: Sync to Seeker (Vercel)
 

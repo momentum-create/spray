@@ -1,0 +1,54 @@
+# Ensure momentum-create/spray never becomes the Vercel deploy source.
+# Vercel-side: disconnect momentum-create/spray + Ignored Build Step (see docs/DEPLOY.md).
+name: Verify deploy routing
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  vercel-should-build:
+    if: github.repository == 'momentum-create/spray'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Test vercel-should-build.sh (momentum-create → skip)
+        shell: bash
+        run: |
+          set -euo pipefail
+          chmod +x scripts/vercel-should-build.sh
+          VERCEL_GIT_REPO_OWNER=momentum-create VERCEL_GIT_REPO_SLUG=spray \
+            scripts/vercel-should-build.sh
+          code=$?
+          if [ "$code" -ne 0 ]; then
+            echo "Expected exit 0 (skip build) for momentum-create/spray, got $code"
+            exit 1
+          fi
+
+      - name: Test vercel-should-build.sh (Seeker-x1 → build)
+        shell: bash
+        run: |
+          set -euo pipefail
+          VERCEL_GIT_REPO_OWNER=Seeker-x1 VERCEL_GIT_REPO_SLUG=spray \
+            scripts/vercel-should-build.sh
+          code=$?
+          if [ "$code" -ne 1 ]; then
+            echo "Expected exit 1 (allow build) for Seeker-x1/spray, got $code"
+            exit 1
+          fi
+
+      - name: Reminder
+        run: |
+          echo "Vercel dashboard (one-time): docs/DEPLOY.md"
+          echo "  - Disconnect momentum-create/spray from Git"
+          echo "  - Ignored Build Step: bash scripts/vercel-should-build.sh"
