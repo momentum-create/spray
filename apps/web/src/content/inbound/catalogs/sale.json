@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 306
+    "totalProducts": 304
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000002537",
+      "makeshopId": "000000002537",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMA-P2100SA-1A1JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 14080,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002537/I61093/page1/order/",
+      "updatedAt": "2026-08-10T18:53:42.700Z"
+    },
     {
       "slug": "sale-000000003592",
       "makeshopId": "000000003592",
@@ -107,15 +116,6 @@
       "priceJpy": 13200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61093/page1/order/",
       "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
-      "slug": "sale-000000003437",
-      "makeshopId": "000000003437",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100BM-7A8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15840,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003437/I61093/page1/order/",
-      "updatedAt": "2026-07-16T19:05:56.319Z"
     },
     {
       "slug": "sale-000000003567",
@@ -674,15 +674,6 @@
       "priceJpy": 2200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003722",
-      "makeshopId": "000000003722",
-      "brandSlug": "edifice",
-      "name": "【EDIFICE】 エディフィス ECB-2200YCB-2AJF 【COOL BLUE EDITION】 メンズ 男性用 腕時計 CASIO",
-      "priceJpy": 32340,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003722/I61093/page1/order/",
-      "updatedAt": "2026-07-10T19:24:02.514Z"
     },
     {
       "slug": "sale-000000003726",
@@ -2680,15 +2671,6 @@
       "name": "【BURTON】 バートン 【Men’ｓ Reserve GORE-TEX 2L Bib】 メンズ リザーブ ゴアテックス 2L ビブパンツ 25-26 スノーボード ウェア 男性用",
       "priceJpy": 44000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003222/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003224",
-      "makeshopId": "000000003224",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Men’ｓ Reserve GORE-TEX 2L Jacket】 メンズ リザーブ ゴアテックス 2L ジャケット 25-26 スノーボード ウェア 男性用",
-      "priceJpy": 46600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003224/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6664,5 +6646,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-09T18:36:29.077Z"
+  "syncedAt": "2026-08-10T18:53:42.700Z"
 }

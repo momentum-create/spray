@@ -5,7 +5,7 @@
     "title": "Wear",
     "titleJa": "ウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct298/",
-    "totalProducts": 39
+    "totalProducts": 38
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct341/",
-      "productCount": 9
+      "productCount": 8
     },
     {
       "slug": "ak",
@@ -329,15 +329,6 @@
       "name": "【BURTON】 バートン 【Men’ｓ Reserve GORE-TEX 2L Bib】 メンズ リザーブ ゴアテックス 2L ビブパンツ 25-26 スノーボード ウェア 男性用",
       "priceJpy": 44000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003222/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000003224",
-      "makeshopId": "000000003224",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Men’ｓ Reserve GORE-TEX 2L Jacket】 メンズ リザーブ ゴアテックス 2L ジャケット 25-26 スノーボード ウェア 男性用",
-      "priceJpy": 46600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003224/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -813,5 +804,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-09T18:36:11.342Z"
+  "syncedAt": "2026-08-10T18:53:23.161Z"
 }
