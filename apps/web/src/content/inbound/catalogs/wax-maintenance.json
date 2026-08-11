@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "wax-maintenance-000000002485",
+      "makeshopId": "000000002485",
+      "brandSlug": "",
+      "name": "STORM 【ストーム】 アパレルケアキット 洗剤 クリーニング 撥水 ウェア",
+      "priceJpy": 3080,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002485/ct357/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.388Z"
+    },
+    {
       "slug": "wax-maintenance-000000004122",
       "makeshopId": "000000004122",
       "brandSlug": "slab",
@@ -43,15 +52,6 @@
       "name": "【COSLABO WAX】コスラボ ワックス 【CLEANER 200ml】クリーナー / 液体 / メンテナンス",
       "priceJpy": 1100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003202/ct357/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.388Z"
-    },
-    {
-      "slug": "wax-maintenance-000000002485",
-      "makeshopId": "000000002485",
-      "brandSlug": "",
-      "name": "STORM 【ストーム】 アパレルケアキット 洗剤 クリーニング 撥水 ウェア",
-      "priceJpy": 3080,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002485/ct357/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.388Z"
     },
     {
@@ -245,5 +245,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-10T18:53:26.214Z"
+  "syncedAt": "2026-08-11T18:57:59.131Z"
 }

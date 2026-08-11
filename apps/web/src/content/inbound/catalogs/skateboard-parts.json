@@ -5,10 +5,19 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 76
+    "totalProducts": 75
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000004197",
+      "makeshopId": "000000004197",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Bicari 78A 65mm】 ビカリ 78A 65mm スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004197/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
+    },
     {
       "slug": "skateboard-parts-000000003889",
       "makeshopId": "000000003889",
@@ -143,15 +152,6 @@
       "priceJpy": 9460,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003836/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004197",
-      "makeshopId": "000000004197",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Bicari 78A 65mm】 ビカリ 78A 65mm スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004197/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
       "slug": "skateboard-parts-000000003891",
@@ -556,15 +556,6 @@
       "name": "【ORANGATANG】 オランガタン 【LOVE HANDLES WHEELS 65mm】 ファットフリー BLUE 77a スケートボード ウィール ロンスケ",
       "priceJpy": 9240,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003802/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003801",
-      "makeshopId": "000000003801",
-      "brandSlug": "orangatang",
-      "name": "【ORANGATANG】 オランガタン 【FAT FREE WHEELS 65mm】 ファットフリー ORANGE 80a スケートボード ウィール ロンスケ",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003801/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1472,5 +1463,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-10T18:53:35.738Z"
+  "syncedAt": "2026-08-11T18:58:08.729Z"
 }
