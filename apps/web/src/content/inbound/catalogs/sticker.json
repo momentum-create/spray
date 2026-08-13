@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "sticker-000000004149",
+      "makeshopId": "000000004149",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【RED BALL DIE CUT STICKER SMALL】 ダイカット ステッカー",
+      "priceJpy": 495,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004149/ct306/page1/order/",
+      "updatedAt": "2026-07-16T19:05:49.805Z"
+    },
+    {
       "slug": "sticker-000000004140",
       "makeshopId": "000000004140",
       "brandSlug": "gentemstick",
@@ -178,15 +187,6 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【MOUNTAIN WAVE STICKER】 ステッカー",
       "priceJpy": 550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004148/ct306/page1/order/",
-      "updatedAt": "2026-07-16T19:05:49.805Z"
-    },
-    {
-      "slug": "sticker-000000004149",
-      "makeshopId": "000000004149",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【RED BALL DIE CUT STICKER SMALL】 ダイカット ステッカー",
-      "priceJpy": 495,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004149/ct306/page1/order/",
       "updatedAt": "2026-07-16T19:05:49.805Z"
     },
     {
@@ -679,5 +679,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-12T18:58:27.943Z"
+  "syncedAt": "2026-08-13T18:59:25.221Z"
 }

@@ -10,15 +10,6 @@
   "brands": [],
   "products": [
     {
-      "slug": "skateboard-parts-000000004197",
-      "makeshopId": "000000004197",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Bicari 78A 65mm】 ビカリ 78A 65mm スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004197/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
       "slug": "skateboard-parts-000000003889",
       "makeshopId": "000000003889",
       "brandSlug": "zulu-wheels",
@@ -98,15 +89,6 @@
       "priceJpy": 5999,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004232/ct307/page1/order/",
       "updatedAt": "2026-07-31T19:20:49.449Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003895",
-      "makeshopId": "000000003895",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numerip 78A 60mm Green】 ミニヌメリップ 78A 60mm グリーン スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
       "slug": "skateboard-parts-000000004221",
@@ -674,6 +656,24 @@
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003699/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003895",
+      "makeshopId": "000000003895",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numerip 78A 60mm Green】 ミニヌメリップ 78A 60mm グリーン スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004197",
+      "makeshopId": "000000004197",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Bicari 78A 65mm】 ビカリ 78A 65mm スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004197/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
       "slug": "skateboard-parts-000000003894",
@@ -1463,5 +1463,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-12T18:58:26.939Z"
+  "syncedAt": "2026-08-13T18:59:24.213Z"
 }
