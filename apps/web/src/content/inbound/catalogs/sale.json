@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 300
+    "totalProducts": 299
   },
   "brands": [],
   "products": [
@@ -593,15 +593,6 @@
       "priceJpy": 34320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003565/I61093/page1/order/",
       "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
-      "slug": "sale-000000003556",
-      "makeshopId": "000000003556",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100RL-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 12320,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003556/I61093/page1/order/",
-      "updatedAt": "2026-07-11T18:58:57.837Z"
     },
     {
       "slug": "sale-000000003557",
@@ -6610,5 +6601,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-13T18:59:32.691Z"
+  "syncedAt": "2026-08-14T18:50:21.225Z"
 }
