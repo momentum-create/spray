@@ -23,6 +23,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000003486",
+      "makeshopId": "000000003486",
+      "brandSlug": "orange",
+      "name": "【oran'ge】 オレンジ 【GOGGLE GUARD】 ゴーグルガード / アウトドア / スキー / スノーボード / ブーツバッグ",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
       "brandSlug": "uchiko",
@@ -182,15 +191,6 @@
       "name": "【contour】 コンツァー 【velcro buckle 85mm】 ベルクロバックル 85mm バックカントリー スプリットボードスキン",
       "priceJpy": 1760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003004/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000003486",
-      "makeshopId": "000000003486",
-      "brandSlug": "orange",
-      "name": "【oran'ge】 オレンジ 【GOGGLE GUARD】 ゴーグルガード / アウトドア / スキー / スノーボード / ブーツバッグ",
-      "priceJpy": 2200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -1822,5 +1822,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-15T18:24:08.079Z"
+  "syncedAt": "2026-08-16T18:23:45.455Z"
 }

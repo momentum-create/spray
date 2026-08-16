@@ -37,15 +37,6 @@
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
-      "slug": "backcountry-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
       "slug": "backcountry-000000003179",
       "makeshopId": "000000003179",
       "brandSlug": "pomoca",
@@ -412,6 +403,15 @@
       "name": "【KARAKORAM】 カラコラム 【Split30 Binding Hardware】 スプリット30 バインディングハードウェア バックカントリー スノーボード ソリッドボード スプリットボード",
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003086/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
+    {
+      "slug": "backcountry-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -1430,5 +1430,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-15T18:23:52.145Z"
+  "syncedAt": "2026-08-16T18:23:31.417Z"
 }
