@@ -5,7 +5,7 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 166
+    "totalProducts": 165
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 13
+      "productCount": 12
     },
     {
       "slug": "pro-trek",
@@ -48,7 +48,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 13
+      "productCount": 12
     },
     {
       "slug": "pro-trek",
@@ -78,7 +78,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 13
+      "productCount": 12
     },
     {
       "slug": "pro-trek",
@@ -108,7 +108,7 @@
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 13
+      "productCount": 12
     },
     {
       "slug": "pro-trek",
@@ -138,15 +138,6 @@
       "priceJpy": 18095,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003589/I61066/page1/order/",
       "updatedAt": "2026-07-03T19:17:42.829Z"
-    },
-    {
-      "slug": "watch-000000003665",
-      "makeshopId": "000000003665",
-      "brandSlug": "baby-g",
-      "name": "【BABY-G】 ベビーG BGD-10-3JF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
-      "priceJpy": 6160,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003665/I61066/page1/order/",
-      "updatedAt": "2026-07-02T19:20:54.011Z"
     },
     {
       "slug": "watch-000000003587",
@@ -4363,5 +4354,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-16T18:23:39.275Z"
+  "syncedAt": "2026-08-17T18:34:49.659Z"
 }
