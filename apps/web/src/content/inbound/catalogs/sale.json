@@ -10,6 +10,42 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003631",
+      "makeshopId": "000000003631",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-2100P-1AJR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 11935,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003631/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
+    {
+      "slug": "sale-000000003677",
+      "makeshopId": "000000003677",
+      "brandSlug": "baby-g",
+      "name": "【BABY-G】 ベビーG BA-110-7A3JF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003677/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
+    {
+      "slug": "sale-000000004088",
+      "makeshopId": "000000004088",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMA-S140M-7AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 11165,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004088/I61093/page1/order/",
+      "updatedAt": "2026-07-06T19:52:52.507Z"
+    },
+    {
+      "slug": "sale-000000003577",
+      "makeshopId": "000000003577",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 DW-6900TR-1JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003577/I61093/page1/order/",
+      "updatedAt": "2026-07-13T19:20:36.122Z"
+    },
+    {
       "slug": "sale-000000003560",
       "makeshopId": "000000003560",
       "brandSlug": "g-shock",
@@ -35,15 +71,6 @@
       "priceJpy": 12705,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003587/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003631",
-      "makeshopId": "000000003631",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100P-1AJR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 11935,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003631/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
       "slug": "sale-000000003661",
@@ -152,15 +179,6 @@
       "priceJpy": 33880,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003555/I61093/page1/order/",
       "updatedAt": "2026-07-10T19:24:02.514Z"
-    },
-    {
-      "slug": "sale-000000003677",
-      "makeshopId": "000000003677",
-      "brandSlug": "baby-g",
-      "name": "【BABY-G】 ベビーG BA-110-7A3JF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003677/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
       "slug": "sale-000000004214",
@@ -487,15 +505,6 @@
       "updatedAt": "2026-07-13T19:20:36.122Z"
     },
     {
-      "slug": "sale-000000003577",
-      "makeshopId": "000000003577",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 DW-6900TR-1JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003577/I61093/page1/order/",
-      "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
       "slug": "sale-000000003572",
       "makeshopId": "000000003572",
       "brandSlug": "g-shock",
@@ -709,15 +718,6 @@
       "name": "【PRO TREK】 プロトレック PRW-3100-1JF 【CASIO】 カシオ タフソーラー 電波時計 メンズ 男性用 腕時計",
       "priceJpy": 30800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003694/I61093/page1/order/",
-      "updatedAt": "2026-07-06T19:52:52.507Z"
-    },
-    {
-      "slug": "sale-000000004088",
-      "makeshopId": "000000004088",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-S140M-7AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 11165,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004088/I61093/page1/order/",
       "updatedAt": "2026-07-06T19:52:52.507Z"
     },
     {
@@ -6547,5 +6547,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-19T18:30:51.131Z"
+  "syncedAt": "2026-08-20T18:34:47.863Z"
 }

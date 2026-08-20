@@ -5,7 +5,7 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 77
+    "totalProducts": 75
   },
   "brands": [],
   "products": [
@@ -127,15 +127,6 @@
       "updatedAt": "2026-08-15T18:24:05.310Z"
     },
     {
-      "slug": "skateboard-parts-000000004279",
-      "makeshopId": "000000004279",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Micro Bicari 78A 55mm】 マイクロビカリ 78A 55mm スケートボード ウィール ロンスケ",
-      "priceJpy": 5720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004279/ct307/page1/order/",
-      "updatedAt": "2026-08-16T18:23:43.124Z"
-    },
-    {
       "slug": "skateboard-parts-000000004180",
       "makeshopId": "000000004180",
       "brandSlug": "riptide",
@@ -197,15 +188,6 @@
       "priceJpy": 880,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003850/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004083",
-      "makeshopId": "000000004083",
-      "brandSlug": "loaded",
-      "name": "【LOADED】 ローデッド 【JEHU(Jehunion) V2 BEARINGS】 ジェフニオン・ベアリング スケートボード ベアリング ロンスケ",
-      "priceJpy": 4180,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004083/ct307/page1/order/",
-      "updatedAt": "2026-07-06T19:52:44.333Z"
     },
     {
       "slug": "skateboard-parts-000000003849",
@@ -430,15 +412,6 @@
       "name": "【LOADED】 ローデッド 【HARDWARE BUTTON FLANGE HEAD】 フランジヘッド ハードウェア スケートボード ビスセット ロンスケ",
       "priceJpy": 1540,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003845/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003833",
-      "makeshopId": "000000003833",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【129 STAGE 11 FORGED TITANIUM SILVER TRUCKS】 スケートボード トラック チタン 129",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003833/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -692,6 +665,15 @@
       "priceJpy": 9130,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003740/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004279",
+      "makeshopId": "000000004279",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Micro Bicari 78A 55mm】 マイクロビカリ 78A 55mm スケートボード ウィール ロンスケ",
+      "priceJpy": 5720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004279/ct307/page1/order/",
+      "updatedAt": "2026-08-16T18:23:43.124Z"
     },
     {
       "slug": "skateboard-parts-000000004197",
@@ -1481,5 +1463,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-19T18:30:45.392Z"
+  "syncedAt": "2026-08-20T18:34:41.068Z"
 }
