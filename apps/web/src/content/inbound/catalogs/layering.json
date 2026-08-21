@@ -10,96 +10,6 @@
   "brands": [],
   "products": [
     {
-      "slug": "layering-000000002602",
-      "makeshopId": "000000002602",
-      "brandSlug": "nanga",
-      "name": "ナンガ【NANGA】 ヒノックリップストップインナーダウンベスト【HINOC RIPSTOP INNER DOWN VEST】 ND2441-1N304-A / メンズ / 男性用",
-      "priceJpy": 24640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002602/ct302/page1/order/",
-      "updatedAt": "2026-06-19T19:47:02.216Z"
-    },
-    {
-      "slug": "layering-000000003995",
-      "makeshopId": "000000003995",
-      "brandSlug": "nanga",
-      "name": "【NANGA】 ナンガ 【INNER DOWN CARDIGAN DS】 インナーダウンカーディガンデタッチャブルスリーブ ND2441-1A901-A / メンズ / 男性用",
-      "priceJpy": 22880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003995/ct302/page1/order/",
-      "updatedAt": "2026-06-19T19:47:02.216Z"
-    },
-    {
-      "slug": "layering-000000003898",
-      "makeshopId": "000000003898",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【THROUGH WARM HYBRID JKT】 スルー ウォーム ハイブリッド ジャケット MIV02124 BLACK - NOIR インナー",
-      "priceJpy": 16940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003898/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000003907",
-      "makeshopId": "000000003907",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【THROUGH WARM HOODIE】 スルー ウォーム フーディ MIV02058",
-      "priceJpy": 16720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003907/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000003906",
-      "makeshopId": "000000003906",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【ALPHA LIGHT JKT】 アルファ ライト ジャケット MIV02122 アウター",
-      "priceJpy": 18480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003906/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000003904",
-      "makeshopId": "000000003904",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【THROUGH WARM CREW】 スルー ウォーム クルー MIV02059 BLACK - NOIR インナー",
-      "priceJpy": 14960,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003904/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000003132",
-      "makeshopId": "000000003132",
-      "brandSlug": "burton",
-      "name": "【BURTON】バートン 【Men's ak Helium Stretch Insulated Pants】メンズ ak ヘリウム ストレッチ インサレーテッド パンツ カラー：True Black ミッドレイヤー / パッカブル / スノーボード / バックカントリー",
-      "priceJpy": 29000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003132/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000003162",
-      "makeshopId": "000000003162",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】パタゴニア 【Mens NanoAir UltraLight FullZip Hoody】メンズ ナノエア ウルトラライト フルジップ フーディー 85365 ジャケット / パーカー / 登山 / バックカントリー / スキー / スノーボード",
-      "priceJpy": 35200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003162/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000003163",
-      "makeshopId": "000000003163",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】パタゴニア 【Mens NanoAir Light Hybrid Jacket】メンズ ナノエア ライト ハイブリッド ジャケット 84346 ジャケット / 登山 / バックカントリー / スキー / スノーボード",
-      "priceJpy": 35200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003163/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000003177",
-      "makeshopId": "000000003177",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】パタゴニア 【Mens R1 Air FullZip Hoody】メンズ アールワン フルジップ フーディー 40256 ジャケット / パーカー / 登山 / バックカントリー / スキー / スノーボード",
-      "priceJpy": 26400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003177/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
       "slug": "layering-000000003404",
       "makeshopId": "000000003404",
       "brandSlug": "millet",
@@ -205,6 +115,96 @@
       "name": "【MILLET】 ミレー 【WOMEN'S DRYNAMIC MESH N/S CREW】 ウィメンズ ドライナミック メッシュ ノースリーブ クルー MIV02026",
       "priceJpy": 5830,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003418/ct302/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.771Z"
+    },
+    {
+      "slug": "layering-000000002602",
+      "makeshopId": "000000002602",
+      "brandSlug": "nanga",
+      "name": "ナンガ【NANGA】 ヒノックリップストップインナーダウンベスト【HINOC RIPSTOP INNER DOWN VEST】 ND2441-1N304-A / メンズ / 男性用",
+      "priceJpy": 24640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002602/ct302/page1/order/",
+      "updatedAt": "2026-06-19T19:47:02.216Z"
+    },
+    {
+      "slug": "layering-000000003995",
+      "makeshopId": "000000003995",
+      "brandSlug": "nanga",
+      "name": "【NANGA】 ナンガ 【INNER DOWN CARDIGAN DS】 インナーダウンカーディガンデタッチャブルスリーブ ND2441-1A901-A / メンズ / 男性用",
+      "priceJpy": 22880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003995/ct302/page1/order/",
+      "updatedAt": "2026-06-19T19:47:02.216Z"
+    },
+    {
+      "slug": "layering-000000003898",
+      "makeshopId": "000000003898",
+      "brandSlug": "millet",
+      "name": "【MILLET】 ミレー 【THROUGH WARM HYBRID JKT】 スルー ウォーム ハイブリッド ジャケット MIV02124 BLACK - NOIR インナー",
+      "priceJpy": 16940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003898/ct302/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.771Z"
+    },
+    {
+      "slug": "layering-000000003907",
+      "makeshopId": "000000003907",
+      "brandSlug": "millet",
+      "name": "【MILLET】 ミレー 【THROUGH WARM HOODIE】 スルー ウォーム フーディ MIV02058",
+      "priceJpy": 16720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003907/ct302/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.771Z"
+    },
+    {
+      "slug": "layering-000000003906",
+      "makeshopId": "000000003906",
+      "brandSlug": "millet",
+      "name": "【MILLET】 ミレー 【ALPHA LIGHT JKT】 アルファ ライト ジャケット MIV02122 アウター",
+      "priceJpy": 18480,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003906/ct302/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.771Z"
+    },
+    {
+      "slug": "layering-000000003904",
+      "makeshopId": "000000003904",
+      "brandSlug": "millet",
+      "name": "【MILLET】 ミレー 【THROUGH WARM CREW】 スルー ウォーム クルー MIV02059 BLACK - NOIR インナー",
+      "priceJpy": 14960,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003904/ct302/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.771Z"
+    },
+    {
+      "slug": "layering-000000003132",
+      "makeshopId": "000000003132",
+      "brandSlug": "burton",
+      "name": "【BURTON】バートン 【Men's ak Helium Stretch Insulated Pants】メンズ ak ヘリウム ストレッチ インサレーテッド パンツ カラー：True Black ミッドレイヤー / パッカブル / スノーボード / バックカントリー",
+      "priceJpy": 29000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003132/ct302/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.771Z"
+    },
+    {
+      "slug": "layering-000000003162",
+      "makeshopId": "000000003162",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】パタゴニア 【Mens NanoAir UltraLight FullZip Hoody】メンズ ナノエア ウルトラライト フルジップ フーディー 85365 ジャケット / パーカー / 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003162/ct302/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.771Z"
+    },
+    {
+      "slug": "layering-000000003163",
+      "makeshopId": "000000003163",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】パタゴニア 【Mens NanoAir Light Hybrid Jacket】メンズ ナノエア ライト ハイブリッド ジャケット 84346 ジャケット / 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003163/ct302/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.771Z"
+    },
+    {
+      "slug": "layering-000000003177",
+      "makeshopId": "000000003177",
+      "brandSlug": "patagonia",
+      "name": "【patagonia】パタゴニア 【Mens R1 Air FullZip Hoody】メンズ アールワン フルジップ フーディー 40256 ジャケット / パーカー / 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 26400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003177/ct302/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.771Z"
     },
     {
@@ -600,5 +600,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-20T18:34:31.709Z"
+  "syncedAt": "2026-08-21T18:32:22.444Z"
 }

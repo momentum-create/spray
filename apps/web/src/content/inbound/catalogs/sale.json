@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 293
+    "totalProducts": 291
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000004088",
+      "makeshopId": "000000004088",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMA-S140M-7AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 11165,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004088/I61093/page1/order/",
+      "updatedAt": "2026-07-06T19:52:52.507Z"
+    },
     {
       "slug": "sale-000000003631",
       "makeshopId": "000000003631",
@@ -26,15 +35,6 @@
       "priceJpy": 11550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003677/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000004088",
-      "makeshopId": "000000004088",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-S140M-7AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 11165,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004088/I61093/page1/order/",
-      "updatedAt": "2026-07-06T19:52:52.507Z"
     },
     {
       "slug": "sale-000000003577",
@@ -80,15 +80,6 @@
       "priceJpy": 11440,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003661/I61093/page1/order/",
       "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
-      "slug": "sale-000000002537",
-      "makeshopId": "000000002537",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-P2100SA-1A1JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14080,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002537/I61093/page1/order/",
-      "updatedAt": "2026-08-10T18:53:42.700Z"
     },
     {
       "slug": "sale-000000003592",
@@ -1321,15 +1312,6 @@
       "name": "【BURTON】 バートン 【Grom】 グロム 24-25 キッズ 子供用 BINDING ビンディング SNOWBOARD スノーボード",
       "priceJpy": 14520,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002764/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000002765",
-      "makeshopId": "000000002765",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Smalls Re:Flex】 スモールズ Re:Flex 24-25 キッズ 子供用 BINDING ビンディング SNOWBOARD スノーボード",
-      "priceJpy": 19300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002765/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6547,5 +6529,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-20T18:34:47.863Z"
+  "syncedAt": "2026-08-21T18:32:40.179Z"
 }

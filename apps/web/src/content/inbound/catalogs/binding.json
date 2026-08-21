@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 86
+    "totalProducts": 85
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 21
+      "productCount": 20
     },
     {
       "slug": "flux",
@@ -66,7 +66,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 21
+      "productCount": 20
     },
     {
       "slug": "flux",
@@ -290,15 +290,6 @@
       "name": "【BURTON】 バートン 【Grom】 グロム 24-25 キッズ 子供用 BINDING ビンディング SNOWBOARD スノーボード",
       "priceJpy": 14520,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002764/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002765",
-      "makeshopId": "000000002765",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Smalls Re:Flex】 スモールズ Re:Flex 24-25 キッズ 子供用 BINDING ビンディング SNOWBOARD スノーボード",
-      "priceJpy": 19300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002765/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1672,5 +1663,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-20T18:34:26.246Z"
+  "syncedAt": "2026-08-21T18:32:16.592Z"
 }
