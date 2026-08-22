@@ -5,14 +5,146 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 47
+    "totalProducts": 52
   },
   "brands": [
     {
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 11
+      "productCount": 16
+    },
+    {
+      "slug": "field-earth",
+      "name": "FIELD EARTH",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
+      "productCount": 4
+    },
+    {
+      "slug": "tj-brand",
+      "name": "TJ BRAND",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
+      "productCount": 1
+    },
+    {
+      "slug": "koruashapes",
+      "name": "KORUASHAPES",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
+      "productCount": 1
+    },
+    {
+      "slug": "burton",
+      "name": "BURTON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
+      "productCount": 7
+    },
+    {
+      "slug": "moss-snowstick",
+      "name": "MOSS SNOWSTICK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
+      "productCount": 4
+    },
+    {
+      "slug": "bc-stream",
+      "name": "BC Stream",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct340/",
+      "productCount": 0
+    },
+    {
+      "slug": "wrx",
+      "name": "WRX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct326/",
+      "productCount": 1
+    },
+    {
+      "slug": "rice28",
+      "name": "RICE28",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct396/",
+      "productCount": 0
+    },
+    {
+      "slug": "november",
+      "name": "NOVEMBER",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
+      "productCount": 0
+    },
+    {
+      "slug": "k2",
+      "name": "K2",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct363/",
+      "productCount": 2
+    },
+    {
+      "slug": "gray",
+      "name": "GRAY",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
+      "productCount": 0
+    },
+    {
+      "slug": "atirom-avs",
+      "name": "atirom-avs",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct337/",
+      "productCount": 2
+    },
+    {
+      "slug": "ogasaka",
+      "name": "OGASAKA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct332/",
+      "productCount": 1
+    },
+    {
+      "slug": "fntc",
+      "name": "FNTC",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
+      "productCount": 2
+    },
+    {
+      "slug": "flux",
+      "name": "FLUX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct268/",
+      "productCount": 2
+    },
+    {
+      "slug": "secca",
+      "name": "SECCA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct309/",
+      "productCount": 0
+    },
+    {
+      "slug": "salomon",
+      "name": "SALOMON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
+      "productCount": 4
+    },
+    {
+      "slug": "arbor",
+      "name": "ARBOR",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct362/",
+      "productCount": 4
+    },
+    {
+      "slug": "ct348",
+      "name": "スプリットボード",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct348/",
+      "productCount": 1
+    },
+    {
+      "slug": "ct310",
+      "name": "スノースケート",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct310/",
+      "productCount": 0
+    },
+    {
+      "slug": "ct311",
+      "name": "キッズ・ジュニア",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
+      "productCount": 8
+    },
+    {
+      "slug": "gentemstick",
+      "name": "GENTEMSTICK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
+      "productCount": 16
     },
     {
       "slug": "field-earth",
@@ -142,6 +274,51 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000003822",
+      "makeshopId": "000000003822",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【STINGRAY CHOPSTICKS】スティングレイ チョップスティック 2026-2027MODEL SPLIT バックカントリー スノーボード パウダー スプリット",
+      "priceJpy": 188100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003822/I61077/page1/order/",
+      "updatedAt": "2026-08-22T18:25:15.254Z"
+    },
+    {
+      "slug": "snowboard-000000003720",
+      "makeshopId": "000000003720",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【SPOON FISH 152 】スプーンフィッシュ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 137500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003720/I61077/page1/order/",
+      "updatedAt": "2026-08-22T18:25:15.254Z"
+    },
+    {
+      "slug": "snowboard-000000003770",
+      "makeshopId": "000000003770",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【ROCKET FISH OUTLINE CORE】ロケットフィッシュ アウトラインコア 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 187000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003770/I61077/page1/order/",
+      "updatedAt": "2026-08-22T18:25:15.254Z"
+    },
+    {
+      "slug": "snowboard-000000003760",
+      "makeshopId": "000000003760",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【FLAIR 】フレア 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 148500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003760/I61077/page1/order/",
+      "updatedAt": "2026-08-22T18:25:15.254Z"
+    },
+    {
+      "slug": "snowboard-000000003763",
+      "makeshopId": "000000003763",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【HORNET】ホーネット 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 148500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003763/I61077/page1/order/",
+      "updatedAt": "2026-08-22T18:25:15.254Z"
+    },
     {
       "slug": "snowboard-000000003820",
       "makeshopId": "000000003820",
@@ -1056,5 +1233,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-22T17:14:18.075Z"
+  "syncedAt": "2026-08-22T18:25:15.254Z"
 }

@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 162
+    "totalProducts": 161
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 124
+      "productCount": 123
     },
     {
       "slug": "baby-g",
@@ -42,7 +42,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 124
+      "productCount": 123
     },
     {
       "slug": "baby-g",
@@ -72,7 +72,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 124
+      "productCount": 123
     },
     {
       "slug": "baby-g",
@@ -102,7 +102,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 124
+      "productCount": 123
     },
     {
       "slug": "baby-g",
@@ -257,15 +257,6 @@
       "updatedAt": "2026-07-31T19:20:45.917Z"
     },
     {
-      "slug": "watch-000000004231",
-      "makeshopId": "000000004231",
-      "brandSlug": "casio",
-      "name": "【CASIO】 カシオ CASIO CLASSIC A130WEGG-1AJF 腕時計 国内正規品",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004231/I61066/page1/order/",
-      "updatedAt": "2026-07-31T19:20:45.917Z"
-    },
-    {
       "slug": "watch-000000004227",
       "makeshopId": "000000004227",
       "brandSlug": "g-shock",
@@ -309,15 +300,6 @@
       "priceJpy": 15840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003568/I61066/page1/order/",
       "updatedAt": "2026-07-13T19:20:24.726Z"
-    },
-    {
-      "slug": "watch-000000004095",
-      "makeshopId": "000000004095",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-S2100WT-7A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10395,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004095/I61066/page1/order/",
-      "updatedAt": "2026-07-09T19:42:13.911Z"
     },
     {
       "slug": "watch-000000004161",
@@ -1587,6 +1569,15 @@
       "priceJpy": 36135,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003351/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
+    },
+    {
+      "slug": "watch-000000004231",
+      "makeshopId": "000000004231",
+      "brandSlug": "casio",
+      "name": "【CASIO】 カシオ CASIO CLASSIC A130WEGG-1AJF 腕時計 国内正規品",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004231/I61066/page1/order/",
+      "updatedAt": "2026-07-31T19:20:45.917Z"
     }
   ],
   "images": {
@@ -4327,5 +4318,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-22T17:14:18.095Z"
+  "syncedAt": "2026-08-22T18:25:27.260Z"
 }
