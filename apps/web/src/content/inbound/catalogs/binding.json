@@ -95,6 +95,15 @@
   ],
   "products": [
     {
+      "slug": "binding-000000002995",
+      "makeshopId": "000000002995",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット バインディング スノーボード スプリットボード",
+      "priceJpy": 6325,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
       "slug": "binding-000000002817",
       "makeshopId": "000000002817",
       "brandSlug": "spark-r-d",
@@ -110,15 +119,6 @@
       "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Black】 スパーク カント パックス Black バインディング スノーボード スプリットボード",
       "priceJpy": 14300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003475/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002995",
-      "makeshopId": "000000002995",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット バインディング スノーボード スプリットボード",
-      "priceJpy": 6325,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1663,5 +1663,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-22T18:25:16.495Z"
+  "syncedAt": "2026-08-23T18:24:26.390Z"
 }

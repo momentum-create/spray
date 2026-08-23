@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 290
+    "totalProducts": 289
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000004216",
+      "makeshopId": "000000004216",
+      "brandSlug": "inhabitant",
+      "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc03 ステッカー",
+      "priceJpy": 678,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004216/I61093/page1/order/",
+      "updatedAt": "2026-07-25T19:03:30.338Z"
+    },
     {
       "slug": "sale-000000004088",
       "makeshopId": "000000004088",
@@ -91,15 +100,6 @@
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
-      "slug": "sale-000000003636",
-      "makeshopId": "000000003636",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100RGB-1AJF 【Virtual Rainbow：Gamer’s RGB】 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 11935,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003636/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
       "slug": "sale-000000003784",
       "makeshopId": "000000003784",
       "brandSlug": "g-shock",
@@ -152,15 +152,6 @@
       "priceJpy": 14245,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003553/I61093/page1/order/",
       "updatedAt": "2026-07-10T19:24:02.514Z"
-    },
-    {
-      "slug": "sale-000000004216",
-      "makeshopId": "000000004216",
-      "brandSlug": "inhabitant",
-      "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc03 ステッカー",
-      "priceJpy": 678,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004216/I61093/page1/order/",
-      "updatedAt": "2026-07-25T19:03:30.338Z"
     },
     {
       "slug": "sale-000000003555",
@@ -6520,5 +6511,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-22T18:25:36.166Z"
+  "syncedAt": "2026-08-23T18:24:45.214Z"
 }
