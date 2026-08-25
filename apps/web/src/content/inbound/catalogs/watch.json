@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 159
+    "totalProducts": 157
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 121
+      "productCount": 120
     },
     {
       "slug": "baby-g",
@@ -36,13 +36,13 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 121
+      "productCount": 120
     },
     {
       "slug": "baby-g",
@@ -66,13 +66,13 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 121
+      "productCount": 120
     },
     {
       "slug": "baby-g",
@@ -96,13 +96,13 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 121
+      "productCount": 120
     },
     {
       "slug": "baby-g",
@@ -126,10 +126,19 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     }
   ],
   "products": [
+    {
+      "slug": "watch-000000003560",
+      "makeshopId": "000000003560",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-010-1A1JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 14520,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003560/I61066/page1/order/",
+      "updatedAt": "2026-07-13T19:20:24.726Z"
+    },
     {
       "slug": "watch-000000004088",
       "makeshopId": "000000004088",
@@ -173,15 +182,6 @@
       "name": "【G-SHOCK】 DW-6900TR-1JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 13200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003577/I61066/page1/order/",
-      "updatedAt": "2026-07-13T19:20:24.726Z"
-    },
-    {
-      "slug": "watch-000000003560",
-      "makeshopId": "000000003560",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-010-1A1JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14520,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003560/I61066/page1/order/",
       "updatedAt": "2026-07-13T19:20:24.726Z"
     },
     {
@@ -678,15 +678,6 @@
       "priceJpy": 34320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003565/I61066/page1/order/",
       "updatedAt": "2026-07-13T19:20:24.726Z"
-    },
-    {
-      "slug": "watch-000000003557",
-      "makeshopId": "000000003557",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-110RL-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14245,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003557/I61066/page1/order/",
-      "updatedAt": "2026-07-11T18:58:48.338Z"
     },
     {
       "slug": "watch-000000004115",
@@ -1551,15 +1542,6 @@
       "priceJpy": 36135,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003351/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
-    },
-    {
-      "slug": "watch-000000004231",
-      "makeshopId": "000000004231",
-      "brandSlug": "casio",
-      "name": "【CASIO】 カシオ CASIO CLASSIC A130WEGG-1AJF 腕時計 国内正規品",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004231/I61066/page1/order/",
-      "updatedAt": "2026-07-31T19:20:45.917Z"
     }
   ],
   "images": {
@@ -4300,5 +4282,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-24T18:35:52.129Z"
+  "syncedAt": "2026-08-25T18:35:36.642Z"
 }

@@ -5,10 +5,28 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 75
+    "totalProducts": 73
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000003848",
+      "makeshopId": "000000003848",
+      "brandSlug": "paris",
+      "name": "【PARIS】 パリス 【DROP-THROUGH SHOCK PAD 1/16】 (4個SET) スケートボード ライザーパッド",
+      "priceJpy": 660,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003848/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003797",
+      "makeshopId": "000000003797",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Monster Numerip 78A 72mm】 モンスターヌメリップ 78A 72mm スケートボード ウィール ロンスケ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003797/ct307/page1/order/",
+      "updatedAt": "2026-08-15T18:24:05.310Z"
+    },
     {
       "slug": "skateboard-parts-000000003786",
       "makeshopId": "000000003786",
@@ -44,15 +62,6 @@
       "priceJpy": 7700,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003796/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003797",
-      "makeshopId": "000000003797",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Monster Numerip 78A 72mm】 モンスターヌメリップ 78A 72mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003797/ct307/page1/order/",
-      "updatedAt": "2026-08-15T18:24:05.310Z"
     },
     {
       "slug": "skateboard-parts-000000003889",
@@ -415,15 +424,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003848",
-      "makeshopId": "000000003848",
-      "brandSlug": "paris",
-      "name": "【PARIS】 パリス 【DROP-THROUGH SHOCK PAD 1/16】 (4個SET) スケートボード ライザーパッド",
-      "priceJpy": 660,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003848/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003844",
       "makeshopId": "000000003844",
       "brandSlug": "venture",
@@ -665,24 +665,6 @@
       "priceJpy": 9130,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003740/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004279",
-      "makeshopId": "000000004279",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Micro Bicari 78A 55mm】 マイクロビカリ 78A 55mm スケートボード ウィール ロンスケ",
-      "priceJpy": 5720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004279/ct307/page1/order/",
-      "updatedAt": "2026-08-16T18:23:43.124Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004197",
-      "makeshopId": "000000004197",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Bicari 78A 65mm】 ビカリ 78A 65mm スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004197/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
     }
   ],
   "images": {
@@ -1480,5 +1462,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-24T18:35:55.962Z"
+  "syncedAt": "2026-08-25T18:35:39.801Z"
 }
