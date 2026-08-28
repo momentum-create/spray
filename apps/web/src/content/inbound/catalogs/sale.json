@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003677",
+      "makeshopId": "000000003677",
+      "brandSlug": "baby-g",
+      "name": "【BABY-G】 ベビーG BA-110-7A3JF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003677/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
+    {
+      "slug": "sale-000000003624",
+      "makeshopId": "000000003624",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-2000HD-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 13860,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003624/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
+    {
       "slug": "sale-000000003560",
       "makeshopId": "000000003560",
       "brandSlug": "g-shock",
@@ -43,15 +61,6 @@
       "name": "【G-SHOCK】 Gショック GA-2100P-1AJR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 11935,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003631/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003677",
-      "makeshopId": "000000003677",
-      "brandSlug": "baby-g",
-      "name": "【BABY-G】 ベビーG BA-110-7A3JF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003677/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
@@ -799,15 +808,6 @@
       "name": "【G-SHOCK】 Gショック GA-110HD-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 13860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003623/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003624",
-      "makeshopId": "000000003624",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2000HD-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13860,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003624/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
@@ -6493,5 +6493,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-26T19:44:07.329Z"
+  "syncedAt": "2026-08-28T02:01:53.188Z"
 }

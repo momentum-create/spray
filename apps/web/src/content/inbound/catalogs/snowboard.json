@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 52
+    "totalProducts": 53
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "tj-brand",
       "name": "TJ BRAND",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
-      "productCount": 1
+      "productCount": 2
     },
     {
       "slug": "koruashapes",
@@ -156,7 +156,7 @@
       "slug": "tj-brand",
       "name": "TJ BRAND",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
-      "productCount": 1
+      "productCount": 2
     },
     {
       "slug": "koruashapes",
@@ -274,6 +274,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004300",
+      "makeshopId": "000000004300",
+      "brandSlug": "tj-brand",
+      "name": "【TJ BRAND】 ティージェイ ブランド 【Napoleon fish】 ナポレオンフィッシュ 2026-2027 Model スノーボード パウダー",
+      "priceJpy": 143000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004300/I61077/page1/order/",
+      "updatedAt": "2026-08-28T02:01:25.289Z"
+    },
     {
       "slug": "snowboard-000000003822",
       "makeshopId": "000000003822",
@@ -1233,5 +1242,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-26T19:43:47.035Z"
+  "syncedAt": "2026-08-28T02:01:25.289Z"
 }

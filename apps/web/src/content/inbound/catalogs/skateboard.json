@@ -5,10 +5,37 @@
     "title": "Skateboards",
     "titleJa": "スケートボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61085/",
-    "totalProducts": 7
+    "totalProducts": 10
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-000000004301",
+      "makeshopId": "000000004301",
+      "brandSlug": "carver-skate-boards",
+      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【32.5” BLACK TIP CARBON2.0】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
+      "priceJpy": 74800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004301/I61085/page1/order/",
+      "updatedAt": "2026-08-28T02:01:44.033Z"
+    },
+    {
+      "slug": "skateboard-000000003757",
+      "makeshopId": "000000003757",
+      "brandSlug": "carver-skate-boards",
+      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【37” CI NOSERIDER】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003757/I61085/page1/order/",
+      "updatedAt": "2026-08-28T02:01:44.033Z"
+    },
+    {
+      "slug": "skateboard-000000003756",
+      "makeshopId": "000000003756",
+      "brandSlug": "carver-skate-boards",
+      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【34” GREENROOM】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
+      "priceJpy": 64900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003756/I61085/page1/order/",
+      "updatedAt": "2026-08-28T02:01:44.033Z"
+    },
     {
       "slug": "skateboard-000000003695",
       "makeshopId": "000000003695",
@@ -202,5 +229,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-26T19:44:00.400Z"
+  "syncedAt": "2026-08-28T02:01:44.033Z"
 }
