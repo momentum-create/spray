@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 286
+    "totalProducts": 283
   },
   "brands": [],
   "products": [
@@ -286,15 +286,6 @@
       "name": "【G-SHOCK】 Gショック GMA-S120SA-7A1JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 14960,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002534/I61093/page1/order/",
-      "updatedAt": "2026-07-17T19:03:36.152Z"
-    },
-    {
-      "slug": "sale-000000002535",
-      "makeshopId": "000000002535",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-S120SA-7A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14960,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002535/I61093/page1/order/",
       "updatedAt": "2026-07-17T19:03:36.152Z"
     },
     {
@@ -674,15 +665,6 @@
       "priceJpy": 19250,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004096/I61093/page1/order/",
       "updatedAt": "2026-07-09T19:42:21.853Z"
-    },
-    {
-      "slug": "sale-000000003694",
-      "makeshopId": "000000003694",
-      "brandSlug": "pro-trek",
-      "name": "【PRO TREK】 プロトレック PRW-3100-1JF 【CASIO】 カシオ タフソーラー 電波時計 メンズ 男性用 腕時計",
-      "priceJpy": 30800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003694/I61093/page1/order/",
-      "updatedAt": "2026-07-06T19:52:52.507Z"
     },
     {
       "slug": "sale-000000004087",
@@ -2347,15 +2329,6 @@
       "name": "【BURTON 】 バートン 【HIGHSHOT Step On Wide】 ハイショット Step On ワイド 25-26 メンズ 男性用 BOOTS ブーツ SNOWBOARD スノーボード ステップオン",
       "priceJpy": 37730,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003205/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003415",
-      "makeshopId": "000000003415",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Black/RedSuede ブラック/レッドスエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003415/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6484,5 +6457,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-30T20:32:15.179Z"
+  "syncedAt": "2026-08-31T22:25:45.827Z"
 }

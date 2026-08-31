@@ -5,10 +5,28 @@
     "title": "SPRAY Original",
     "titleJa": "SPRAYオリジナル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct271/",
-    "totalProducts": 55
+    "totalProducts": 57
   },
   "brands": [],
   "products": [
+    {
+      "slug": "spray-original-000000004318",
+      "makeshopId": "000000004318",
+      "brandSlug": "other",
+      "name": "SPRAY Original Key Holder",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/ct271/page1/order/",
+      "updatedAt": "2026-08-31T22:25:15.587Z"
+    },
+    {
+      "slug": "spray-original-000000004319",
+      "makeshopId": "000000004319",
+      "brandSlug": "other",
+      "name": "SPRAY Original PINS",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004319/ct271/page1/order/",
+      "updatedAt": "2026-08-31T22:25:15.587Z"
+    },
     {
       "slug": "spray-original-000000004123",
       "makeshopId": "000000004123",
@@ -1075,5 +1093,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-30T20:31:43.560Z"
+  "syncedAt": "2026-08-31T22:25:15.587Z"
 }

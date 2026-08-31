@@ -5,14 +5,14 @@
     "title": "Footwear",
     "titleJa": "フットウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61086/",
-    "totalProducts": 30
+    "totalProducts": 29
   },
   "brands": [
     {
       "slug": "I61087",
       "name": "メンズ スニーカー",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61087/",
-      "productCount": 19
+      "productCount": 18
     },
     {
       "slug": "I61156",
@@ -242,15 +242,6 @@
       "name": "【LAKAI】 ラカイ 【CAMBRIDGE KIDS BLACK/WHITE SUEDE】 キッズ / 子供用 スニーカー スケートボード SK8 ジュニア スケート",
       "priceJpy": 7315,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003424/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003415",
-      "makeshopId": "000000003415",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Black/RedSuede ブラック/レッドスエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003415/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
@@ -681,5 +672,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-30T20:31:57.996Z"
+  "syncedAt": "2026-08-31T22:25:30.441Z"
 }

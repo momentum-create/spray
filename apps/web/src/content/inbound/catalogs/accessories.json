@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 97
+    "totalProducts": 99
   },
   "brands": [
     {
@@ -22,6 +22,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "accessories-000000004318",
+      "makeshopId": "000000004318",
+      "brandSlug": "dumbo",
+      "name": "SPRAY Original Key Holder",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/I61079/page1/order/",
+      "updatedAt": "2026-08-31T22:25:41.093Z"
+    },
+    {
+      "slug": "accessories-000000004319",
+      "makeshopId": "000000004319",
+      "brandSlug": "dumbo",
+      "name": "SPRAY Original PINS",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004319/I61079/page1/order/",
+      "updatedAt": "2026-08-31T22:25:41.093Z"
+    },
     {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
@@ -1881,5 +1899,5 @@
       ]
     }
   },
-  "syncedAt": "2026-08-30T20:32:08.964Z"
+  "syncedAt": "2026-08-31T22:25:41.093Z"
 }
