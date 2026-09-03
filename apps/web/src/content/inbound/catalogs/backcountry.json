@@ -5,10 +5,28 @@
     "title": "Backcountry",
     "titleJa": "バックカントリーアイテム",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct301/",
-    "totalProducts": 82
+    "totalProducts": 83
   },
   "brands": [],
   "products": [
+    {
+      "slug": "backcountry-000000003370",
+      "makeshopId": "000000003370",
+      "brandSlug": "karakoram",
+      "name": "【KARAKORAM】 カラコラム 【CONNECT SPLIT CONVERSION KIT 2.0】 バックカントリー ソリッドボード スプリットボード スノーボード",
+      "priceJpy": 28600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003370/ct301/page1/order/",
+      "updatedAt": "2026-09-03T20:28:42.424Z"
+    },
+    {
+      "slug": "backcountry-000000002880",
+      "makeshopId": "000000002880",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Arc ST】 アーク ST Gold Splitboard Bindings バインディング スノーボード スプリットボード",
+      "priceJpy": 81400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002880/ct301/page1/order/",
+      "updatedAt": "2026-09-03T20:28:42.424Z"
+    },
     {
       "slug": "backcountry-000000003475",
       "makeshopId": "000000003475",
@@ -538,15 +556,6 @@
       "name": "【SPARK R&D】 スパーク 【Spark Tool】 スパークツール バインディング スノーボード スプリットボード",
       "priceJpy": 2750,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002927/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000003370",
-      "makeshopId": "000000003370",
-      "brandSlug": "karakoram",
-      "name": "【KARAKORAM】 カラコラム 【CONNECT SPLIT CONVERSION KIT 2.0】 バックカントリー ソリッドボード スプリットボード スノーボード",
-      "priceJpy": 22880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003370/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -1430,5 +1439,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-02T20:29:17.548Z"
+  "syncedAt": "2026-09-03T20:28:42.424Z"
 }

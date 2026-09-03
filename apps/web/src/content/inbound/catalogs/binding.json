@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 85
+    "totalProducts": 86
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "spark-r-d",
       "name": "SPARK R&D",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
-      "productCount": 27
+      "productCount": 28
     },
     {
       "slug": "burton",
@@ -60,7 +60,7 @@
       "slug": "spark-r-d",
       "name": "SPARK R&D",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
-      "productCount": 27
+      "productCount": 28
     },
     {
       "slug": "burton",
@@ -94,6 +94,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000003370",
+      "makeshopId": "000000003370",
+      "brandSlug": "karakoram",
+      "name": "【KARAKORAM】 カラコラム 【CONNECT SPLIT CONVERSION KIT 2.0】 バックカントリー ソリッドボード スプリットボード スノーボード",
+      "priceJpy": 28600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003370/ct296/page1/order/",
+      "updatedAt": "2026-09-03T20:28:38.234Z"
+    },
+    {
+      "slug": "binding-000000002880",
+      "makeshopId": "000000002880",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Arc ST】 アーク ST Gold Splitboard Bindings バインディング スノーボード スプリットボード",
+      "priceJpy": 81400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002880/ct296/page1/order/",
+      "updatedAt": "2026-09-03T20:28:38.234Z"
+    },
     {
       "slug": "binding-000000003475",
       "makeshopId": "000000003475",
@@ -677,15 +695,6 @@
       "name": "【SPARK R&D】 スパーク 【Spark Tool】 スパークツール バインディング スノーボード スプリットボード",
       "priceJpy": 2750,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002927/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003370",
-      "makeshopId": "000000003370",
-      "brandSlug": "karakoram",
-      "name": "【KARAKORAM】 カラコラム 【CONNECT SPLIT CONVERSION KIT 2.0】 バックカントリー ソリッドボード スプリットボード スノーボード",
-      "priceJpy": 22880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003370/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1663,5 +1672,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-02T20:29:13.842Z"
+  "syncedAt": "2026-09-03T20:28:38.234Z"
 }

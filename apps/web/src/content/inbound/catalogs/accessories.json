@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 99
+    "totalProducts": 100
   },
   "brands": [
     {
@@ -22,6 +22,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "accessories-000000004337",
+      "makeshopId": "000000004337",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】 ゲンテン スティック 【magnet】 マグネット",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004337/I61079/page1/order/",
+      "updatedAt": "2026-09-03T20:28:56.039Z"
+    },
     {
       "slug": "accessories-000000004318",
       "makeshopId": "000000004318",
@@ -1899,5 +1908,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-02T20:29:27.938Z"
+  "syncedAt": "2026-09-03T20:28:56.039Z"
 }

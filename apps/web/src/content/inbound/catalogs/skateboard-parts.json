@@ -5,10 +5,19 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 71
+    "totalProducts": 70
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000004198",
+      "makeshopId": "000000004198",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicari 78A 60mm】 ミニビカリ 78A 60mm スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004198/ct307/page1/order/",
+      "updatedAt": "2026-08-07T18:52:24.430Z"
+    },
     {
       "slug": "skateboard-parts-000000003848",
       "makeshopId": "000000003848",
@@ -116,15 +125,6 @@
       "priceJpy": 6160,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004196/ct307/page1/order/",
       "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004198",
-      "makeshopId": "000000004198",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicari 78A 60mm】 ミニビカリ 78A 60mm スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004198/ct307/page1/order/",
-      "updatedAt": "2026-08-07T18:52:24.430Z"
     },
     {
       "slug": "skateboard-parts-000000004200",
@@ -269,15 +269,6 @@
       "priceJpy": 1210,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004194/ct307/page1/order/",
       "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004183",
-      "makeshopId": "000000004183",
-      "brandSlug": "pats-riser",
-      "name": "【Pats Riser】 パッツライザー 【Split Wedge 3°】 スプリット ウェッジ 3° スケートボード ライザー",
-      "priceJpy": 1540,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004183/ct307/page1/order/",
-      "updatedAt": "2026-07-20T19:40:59.374Z"
     },
     {
       "slug": "skateboard-parts-000000004182",
@@ -1444,5 +1435,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-02T20:29:26.245Z"
+  "syncedAt": "2026-09-03T20:28:53.658Z"
 }

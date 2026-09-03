@@ -10,6 +10,42 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003595",
+      "makeshopId": "000000003595",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-110TU-1A5JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 14245,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003595/I61093/page1/order/",
+      "updatedAt": "2026-07-03T19:17:50.648Z"
+    },
+    {
+      "slug": "sale-000000003370",
+      "makeshopId": "000000003370",
+      "brandSlug": "karakoram",
+      "name": "【KARAKORAM】 カラコラム 【CONNECT SPLIT CONVERSION KIT 2.0】 バックカントリー ソリッドボード スプリットボード スノーボード",
+      "priceJpy": 28600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003370/I61093/page1/order/",
+      "updatedAt": "2026-09-03T20:29:01.208Z"
+    },
+    {
+      "slug": "sale-000000002538",
+      "makeshopId": "000000002538",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMA-P2100SA-1A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 14080,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002538/I61093/page1/order/",
+      "updatedAt": "2026-09-03T20:29:01.208Z"
+    },
+    {
+      "slug": "sale-000000003601",
+      "makeshopId": "000000003601",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMD-S5610RS-8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003601/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
+    {
       "slug": "sale-000000003438",
       "makeshopId": "000000003438",
       "brandSlug": "g-shock",
@@ -25,15 +61,6 @@
       "name": "【BABY-G】 ベビーG BA-110-1AJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
       "priceJpy": 11550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003678/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003631",
-      "makeshopId": "000000003631",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2100P-1AJR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 11935,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003631/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
@@ -739,15 +766,6 @@
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
-      "slug": "sale-000000003595",
-      "makeshopId": "000000003595",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-110TU-1A5JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14245,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003595/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
       "slug": "sale-000000003596",
       "makeshopId": "000000003596",
       "brandSlug": "g-shock",
@@ -763,15 +781,6 @@
       "name": "【BABY-G】 ベビーG BGD-10-4JF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
       "priceJpy": 6160,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003664/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003601",
-      "makeshopId": "000000003601",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMD-S5610RS-8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003601/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
@@ -2545,15 +2554,6 @@
       "name": "TJ BRAND【ティージェイ ブランド】Smooth Groove 2024-2025 Model スノーボード パウダー",
       "priceJpy": 94050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002689/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003370",
-      "makeshopId": "000000003370",
-      "brandSlug": "karakoram",
-      "name": "【KARAKORAM】 カラコラム 【CONNECT SPLIT CONVERSION KIT 2.0】 バックカントリー ソリッドボード スプリットボード スノーボード",
-      "priceJpy": 22880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003370/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     }
   ],
@@ -6457,5 +6457,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-02T20:29:32.704Z"
+  "syncedAt": "2026-09-03T20:29:01.208Z"
 }
