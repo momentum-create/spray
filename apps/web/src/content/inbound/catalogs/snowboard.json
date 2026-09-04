@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 52
+    "totalProducts": 63
   },
   "brands": [
     {
@@ -66,7 +66,7 @@
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
-      "productCount": 0
+      "productCount": 6
     },
     {
       "slug": "k2",
@@ -90,7 +90,7 @@
       "slug": "ogasaka",
       "name": "OGASAKA",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct332/",
-      "productCount": 1
+      "productCount": 6
     },
     {
       "slug": "fntc",
@@ -198,7 +198,7 @@
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
-      "productCount": 0
+      "productCount": 6
     },
     {
       "slug": "k2",
@@ -222,7 +222,7 @@
       "slug": "ogasaka",
       "name": "OGASAKA",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct332/",
-      "productCount": 1
+      "productCount": 6
     },
     {
       "slug": "fntc",
@@ -274,6 +274,105 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004060",
+      "makeshopId": "000000004060",
+      "brandSlug": "november",
+      "name": "【NOVEMBER】ノベンバー 【ARTISTE 148】アーティスト 148 2026-2027MODEL フリーライディング フリースタイル スノーボード パウダー レディース",
+      "priceJpy": 109780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004060/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004061",
+      "makeshopId": "000000004061",
+      "brandSlug": "november",
+      "name": "【NOVEMBER】ノベンバー 【ARTISTE 158W】アーティスト 158 ワイド 2026-2027MODEL フリーライディング フリースタイル スノーボード パウダー WIDE",
+      "priceJpy": 109780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004061/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004062",
+      "makeshopId": "000000004062",
+      "brandSlug": "november",
+      "name": "【NOVEMBER】ノベンバー 【ARTISTE 154 / 158】アーティスト 2026-2027MODEL フリーライディング フリースタイル スノーボード パウダー",
+      "priceJpy": 109780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004062/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004057",
+      "makeshopId": "000000004057",
+      "brandSlug": "november",
+      "name": "【NOVEMBER】ノベンバー 【MOUNTAINFOX 158】マウンテンフォックス 158 2026-2027MODEL フリーライディング スノーボード パウダー バックカントリー",
+      "priceJpy": 121000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004057/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004056",
+      "makeshopId": "000000004056",
+      "brandSlug": "november",
+      "name": "【NOVEMBER】ノベンバー 【NV.C】エヌブイシー 2026-2027MODEL フリーライディング スノーボード カービング",
+      "priceJpy": 121000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004056/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004059",
+      "makeshopId": "000000004059",
+      "brandSlug": "november",
+      "name": "【NOVEMBER】ノベンバー 【BACKCITY 158】バックシティ 158 2026-2027MODEL フリーライディング スノーボード パウダー バックカントリー",
+      "priceJpy": 123200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004059/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004342",
+      "makeshopId": "000000004342",
+      "brandSlug": "ogasaka",
+      "name": "【OGASAKA】オガサカ 【SPROUT】 スプラウト 2026-2027 フリーライディング フリースタイル スノーボード カービング パウダー",
+      "priceJpy": 138600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004342/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004341",
+      "makeshopId": "000000004341",
+      "brandSlug": "ogasaka",
+      "name": "【OGASAKA】オガサカ 【CT W】 2026-2027 WIDEモデル フリーライディング フリースタイル スノーボード カービング ワイド",
+      "priceJpy": 118800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004341/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004340",
+      "makeshopId": "000000004340",
+      "brandSlug": "ogasaka",
+      "name": "【OGASAKA】オガサカ 【CT】 2026-2027 フリーライディング フリースタイル スノーボード カービング",
+      "priceJpy": 116600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004340/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004339",
+      "makeshopId": "000000004339",
+      "brandSlug": "ogasaka",
+      "name": "【OGASAKA】オガサカ 【FC W】 2026-2027 WIDEモデルフリーライディング フリースタイル スノーボード カービング ワイド",
+      "priceJpy": 134200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004339/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
+    {
+      "slug": "snowboard-000000004338",
+      "makeshopId": "000000004338",
+      "brandSlug": "ogasaka",
+      "name": "【OGASAKA】オガサカ 【FC】 2026-2027 フリーライディング フリースタイル スノーボード カービング",
+      "priceJpy": 132000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004338/I61077/page1/order/",
+      "updatedAt": "2026-09-04T20:15:14.175Z"
+    },
     {
       "slug": "snowboard-000000003808",
       "makeshopId": "000000003808",
@@ -1283,5 +1382,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-03T20:28:36.679Z"
+  "syncedAt": "2026-09-04T20:15:14.175Z"
 }

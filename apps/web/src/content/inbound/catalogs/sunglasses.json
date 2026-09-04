@@ -5,7 +5,7 @@
     "title": "Sunglasses",
     "titleJa": "サングラス",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61109/",
-    "totalProducts": 34
+    "totalProducts": 33
   },
   "brands": [],
   "products": [
@@ -170,15 +170,6 @@
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004004/I61109/page1/order/",
       "updatedAt": "2026-06-19T19:47:10.004Z"
-    },
-    {
-      "slug": "sunglasses-000000003981",
-      "makeshopId": "000000003981",
-      "brandSlug": "fullon",
-      "name": "【Fullon】 フローン 【FBL 043-2】 サングラス 偏光レンズ",
-      "priceJpy": 5720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003981/I61109/page1/order/",
-      "updatedAt": "2026-06-09T20:05:24.074Z"
     },
     {
       "slug": "sunglasses-000000003980",
@@ -718,5 +709,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-03T20:28:50.393Z"
+  "syncedAt": "2026-09-04T20:15:25.392Z"
 }

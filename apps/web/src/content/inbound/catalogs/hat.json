@@ -5,7 +5,7 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 37
+    "totalProducts": 36
   },
   "brands": [
     {
@@ -248,15 +248,6 @@
       "name": "パタゴニア 【patagonia】 P-6 ロゴ・トラッカー・ハット 38289 帽子 男女兼性用",
       "priceJpy": 6050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002471/I61098/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.320Z"
-    },
-    {
-      "slug": "hat-000000003508",
-      "makeshopId": "000000003508",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【Terrebonne Hat】 テルボンヌ・ハット 33317 帽子 キャップ",
-      "priceJpy": 6820,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003508/I61098/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.320Z"
     },
     {
@@ -765,5 +756,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-03T20:28:51.266Z"
+  "syncedAt": "2026-09-04T20:15:25.840Z"
 }
