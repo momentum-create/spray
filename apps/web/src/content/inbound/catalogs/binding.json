@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 86
+    "totalProducts": 85
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 20
+      "productCount": 19
     },
     {
       "slug": "flux",
@@ -66,7 +66,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 20
+      "productCount": 19
     },
     {
       "slug": "flux",
@@ -254,15 +254,6 @@
       "name": "【BURTON】 バートン 【Step On Re:Flex】 ステップオン 25-26 メンズ 男性用 BINDING ビンディング SNOWBOARD スノーボード ステップオン",
       "priceJpy": 34300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003014/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002737",
-      "makeshopId": "000000002737",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【LEXA Re:Flex】 レクサ Re:Flex 24-25 Deep Emerald/White ウィメンズ 女性用 BINDING ビンディング SNOWBOARD スノーボード",
-      "priceJpy": 32340,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002737/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1682,5 +1673,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-05T18:43:46.281Z"
+  "syncedAt": "2026-09-05T19:54:56.396Z"
 }

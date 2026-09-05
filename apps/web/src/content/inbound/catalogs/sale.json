@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 283
+    "totalProducts": 282
   },
   "brands": [],
   "products": [
@@ -1213,15 +1213,6 @@
       "name": "【MILLET】 ミレー 【VENTING HAT】 ベンチング ハット MIV01797 TERRE",
       "priceJpy": 5192,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003903/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000002737",
-      "makeshopId": "000000002737",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【LEXA Re:Flex】 レクサ Re:Flex 24-25 Deep Emerald/White ウィメンズ 女性用 BINDING ビンディング SNOWBOARD スノーボード",
-      "priceJpy": 32340,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002737/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6457,5 +6448,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-05T18:43:50.520Z"
+  "syncedAt": "2026-09-05T19:55:15.620Z"
 }

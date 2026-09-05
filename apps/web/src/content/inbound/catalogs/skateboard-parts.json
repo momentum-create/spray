@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000004220",
+      "makeshopId": "000000004220",
+      "brandSlug": "mini-logo",
+      "name": "【Mini Logo】 ミニロゴ 【RIZER PAD .25”】 ライザーパッド 6.35mm スケートボード用 2枚セット",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004220/ct307/page1/order/",
+      "updatedAt": "2026-07-25T19:03:23.580Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003850",
+      "makeshopId": "000000003850",
+      "brandSlug": "paris",
+      "name": "【PARIS】 パリス 【PIVOT CUPS STANDARD】 (2個SET) スケートボード ピボットクッシュ",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003850/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000004198",
       "makeshopId": "000000004198",
       "brandSlug": "zulu-wheels",
@@ -34,15 +52,6 @@
       "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 139",
       "priceJpy": 9900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003786/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003850",
-      "makeshopId": "000000003850",
-      "brandSlug": "paris",
-      "name": "【PARIS】 パリス 【PIVOT CUPS STANDARD】 (2個SET) スケートボード ピボットクッシュ",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003850/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -214,15 +223,6 @@
       "name": "【INDEPENDENT】 インディペンデント 【RIZER PAD 1/8″】 ライザーパッド 1/8インチ スケートボード用 2枚セット",
       "priceJpy": 440,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004221/ct307/page1/order/",
-      "updatedAt": "2026-07-25T19:03:23.580Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004220",
-      "makeshopId": "000000004220",
-      "brandSlug": "mini-logo",
-      "name": "【Mini Logo】 ミニロゴ 【RIZER PAD .25”】 ライザーパッド 6.35mm スケートボード用 2枚セット",
-      "priceJpy": 550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004220/ct307/page1/order/",
       "updatedAt": "2026-07-25T19:03:23.580Z"
     },
     {
@@ -1435,5 +1435,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-05T18:43:49.064Z"
+  "syncedAt": "2026-09-05T19:55:09.687Z"
 }

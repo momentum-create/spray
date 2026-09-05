@@ -23,6 +23,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000003401",
+      "makeshopId": "000000003401",
+      "brandSlug": "uchiko",
+      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
+      "priceJpy": 4980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000004337",
       "makeshopId": "000000004337",
       "brandSlug": "gentemstick",
@@ -48,15 +57,6 @@
       "priceJpy": 880,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004319/I61079/page1/order/",
       "updatedAt": "2026-08-31T22:25:41.093Z"
-    },
-    {
-      "slug": "accessories-000000003401",
-      "makeshopId": "000000003401",
-      "brandSlug": "uchiko",
-      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
-      "priceJpy": 4980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
       "slug": "accessories-000000004302",
@@ -1935,5 +1935,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-05T18:43:50.515Z"
+  "syncedAt": "2026-09-05T19:55:11.536Z"
 }

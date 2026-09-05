@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "wax-maintenance-000000004124",
+      "makeshopId": "000000004124",
+      "brandSlug": "slab-spray",
+      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：M】カーボンス クレーパー サイズ：M ワックス / WAX / メンテナンス",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct357/page1/order/",
+      "updatedAt": "2026-07-12T19:01:37.852Z"
+    },
+    {
+      "slug": "wax-maintenance-000000003202",
+      "makeshopId": "000000003202",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【CLEANER 200ml】クリーナー / 液体 / メンテナンス",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003202/ct357/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.388Z"
+    },
+    {
       "slug": "wax-maintenance-000000004315",
       "makeshopId": "000000004315",
       "brandSlug": "slab",
@@ -46,30 +64,12 @@
       "updatedAt": "2026-07-12T19:01:37.852Z"
     },
     {
-      "slug": "wax-maintenance-000000004124",
-      "makeshopId": "000000004124",
-      "brandSlug": "slab-spray",
-      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：M】カーボンス クレーパー サイズ：M ワックス / WAX / メンテナンス",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct357/page1/order/",
-      "updatedAt": "2026-07-12T19:01:37.852Z"
-    },
-    {
       "slug": "wax-maintenance-000000002485",
       "makeshopId": "000000002485",
       "brandSlug": "",
       "name": "STORM 【ストーム】 アパレルケアキット 洗剤 クリーニング 撥水 ウェア",
       "priceJpy": 3080,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002485/ct357/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.388Z"
-    },
-    {
-      "slug": "wax-maintenance-000000003202",
-      "makeshopId": "000000003202",
-      "brandSlug": "coslabo-wax",
-      "name": "【COSLABO WAX】コスラボ ワックス 【CLEANER 200ml】クリーナー / 液体 / メンテナンス",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003202/ct357/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.388Z"
     },
     {
@@ -283,5 +283,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-05T18:43:49.049Z"
+  "syncedAt": "2026-09-05T19:55:00.905Z"
 }
