@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 282
+    "totalProducts": 281
   },
   "brands": [],
   "products": [
@@ -1069,15 +1069,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Nuptse Bootie WP VII】 ヌプシ ブーティ ウォータープルーフ VII （ユニセックス） 男女兼用 メンズ レディース ブーツ 長靴 NF52272",
       "priceJpy": 19976,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003945/I61093/page1/order/",
-      "updatedAt": "2026-05-30T19:10:51.996Z"
-    },
-    {
-      "slug": "sale-000000003944",
-      "makeshopId": "000000003944",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノースフェイス 【Rearview FullZip Hoodie】 リアビューフルジップフーディ（キッズ） パーカ 長袖 キッズ NTJ62261",
-      "priceJpy": 7920,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003944/I61093/page1/order/",
       "updatedAt": "2026-05-30T19:10:51.996Z"
     },
     {
@@ -6448,5 +6439,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-05T19:55:15.620Z"
+  "syncedAt": "2026-09-06T19:59:01.086Z"
 }
