@@ -5,14 +5,14 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 63
+    "totalProducts": 65
   },
   "brands": [
     {
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 15
+      "productCount": 17
     },
     {
       "slug": "field-earth",
@@ -144,7 +144,7 @@
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 15
+      "productCount": 17
     },
     {
       "slug": "field-earth",
@@ -275,6 +275,60 @@
   ],
   "products": [
     {
+      "slug": "snowboard-000000003820",
+      "makeshopId": "000000003820",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【XY 153】2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 146300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003820/I61077/page1/order/",
+      "updatedAt": "2026-08-21T18:32:14.832Z"
+    },
+    {
+      "slug": "snowboard-000000003821",
+      "makeshopId": "000000003821",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【XY 157】2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 146300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003821/I61077/page1/order/",
+      "updatedAt": "2026-08-21T18:32:14.832Z"
+    },
+    {
+      "slug": "snowboard-000000003806",
+      "makeshopId": "000000003806",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 142】マンタレイ 142cm 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 123200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003806/I61077/page1/order/",
+      "updatedAt": "2026-08-21T18:32:14.832Z"
+    },
+    {
+      "slug": "snowboard-000000003807",
+      "makeshopId": "000000003807",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 145】マンタレイ 145cm 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 134200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003807/I61077/page1/order/",
+      "updatedAt": "2026-08-21T18:32:14.832Z"
+    },
+    {
+      "slug": "snowboard-000000003815",
+      "makeshopId": "000000003815",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【GIANT MANTARAY】ジャイアントマンタレイ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 146300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003815/I61077/page1/order/",
+      "updatedAt": "2026-09-07T21:05:32.476Z"
+    },
+    {
+      "slug": "snowboard-000000003816",
+      "makeshopId": "000000003816",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BABY STINGRAY】ベビースティングレイ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 144100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003816/I61077/page1/order/",
+      "updatedAt": "2026-09-07T21:05:32.476Z"
+    },
+    {
       "slug": "snowboard-000000004060",
       "makeshopId": "000000004060",
       "brandSlug": "november",
@@ -383,15 +437,6 @@
       "updatedAt": "2026-08-03T19:26:37.868Z"
     },
     {
-      "slug": "snowboard-000000003821",
-      "makeshopId": "000000003821",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【XY 157】2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 146300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003821/I61077/page1/order/",
-      "updatedAt": "2026-08-21T18:32:14.832Z"
-    },
-    {
       "slug": "snowboard-000000004300",
       "makeshopId": "000000004300",
       "brandSlug": "tj-brand",
@@ -435,33 +480,6 @@
       "priceJpy": 148500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003763/I61077/page1/order/",
       "updatedAt": "2026-08-22T18:25:15.254Z"
-    },
-    {
-      "slug": "snowboard-000000003820",
-      "makeshopId": "000000003820",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【XY 153】2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 146300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003820/I61077/page1/order/",
-      "updatedAt": "2026-08-21T18:32:14.832Z"
-    },
-    {
-      "slug": "snowboard-000000003806",
-      "makeshopId": "000000003806",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 142】マンタレイ 142cm 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 123200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003806/I61077/page1/order/",
-      "updatedAt": "2026-08-21T18:32:14.832Z"
-    },
-    {
-      "slug": "snowboard-000000003807",
-      "makeshopId": "000000003807",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 145】マンタレイ 145cm 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 134200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003807/I61077/page1/order/",
-      "updatedAt": "2026-08-21T18:32:14.832Z"
     },
     {
       "slug": "snowboard-000000003809",
@@ -1492,5 +1510,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-06T19:58:34.069Z"
+  "syncedAt": "2026-09-07T21:05:32.476Z"
 }

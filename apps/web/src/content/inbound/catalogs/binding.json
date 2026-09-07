@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 84
+    "totalProducts": 88
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 8
+      "productCount": 12
     },
     {
       "slug": "union",
@@ -72,7 +72,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 8
+      "productCount": 12
     },
     {
       "slug": "union",
@@ -94,6 +94,51 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000003913",
+      "makeshopId": "000000003913",
+      "brandSlug": "flux",
+      "name": "【FLUX】フラックス 【XF】 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 54450,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003913/ct296/page1/order/",
+      "updatedAt": "2026-09-07T21:05:34.137Z"
+    },
+    {
+      "slug": "binding-000000003911",
+      "makeshopId": "000000003911",
+      "brandSlug": "flux",
+      "name": "【FLUX】フラックス 【XF PLUS】 2026-2027MODEL BINDINGS ビンディング バインディング スノーボード",
+      "priceJpy": 58300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003911/ct296/page1/order/",
+      "updatedAt": "2026-09-07T21:05:34.137Z"
+    },
+    {
+      "slug": "binding-000000003900",
+      "makeshopId": "000000003900",
+      "brandSlug": "flux",
+      "name": "【FLUX】フラックス 【SR】 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 54450,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003900/ct296/page1/order/",
+      "updatedAt": "2026-09-07T21:05:34.137Z"
+    },
+    {
+      "slug": "binding-000000003908",
+      "makeshopId": "000000003908",
+      "brandSlug": "flux",
+      "name": "【FLUX】フラックス 【CX】 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 59400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003908/ct296/page1/order/",
+      "updatedAt": "2026-09-07T21:05:34.137Z"
+    },
+    {
+      "slug": "binding-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
+      "updatedAt": "2026-08-20T18:34:26.246Z"
+    },
     {
       "slug": "binding-000000003370",
       "makeshopId": "000000003370",
@@ -120,15 +165,6 @@
       "priceJpy": 6325,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
-      "updatedAt": "2026-08-20T18:34:26.246Z"
     },
     {
       "slug": "binding-000000003949",
@@ -1664,5 +1700,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-06T19:58:35.794Z"
+  "syncedAt": "2026-09-07T21:05:34.137Z"
 }
