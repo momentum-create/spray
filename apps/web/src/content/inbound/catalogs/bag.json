@@ -5,7 +5,7 @@
     "title": "Bags",
     "titleJa": "バッグ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61075/",
-    "totalProducts": 28
+    "totalProducts": 27
   },
   "brands": [],
   "products": [
@@ -62,15 +62,6 @@
       "priceJpy": 9350,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003530/I61075/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000003939",
-      "makeshopId": "000000003939",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ノースフェイス 【Base Camp Voyager Lite 42L】 ベースキャンプボイジャーライト42L ダッフルバッグ リュック アウトドア 旅行 NM82379",
-      "priceJpy": 20240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003939/I61075/page1/order/",
-      "updatedAt": "2026-05-30T19:10:37.915Z"
     },
     {
       "slug": "bag-000000003484",
@@ -584,5 +575,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-09T20:23:17.521Z"
+  "syncedAt": "2026-09-10T20:24:16.021Z"
 }

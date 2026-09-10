@@ -5,7 +5,7 @@
     "title": "T-Shirts",
     "titleJa": "Tシャツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61116/",
-    "totalProducts": 40
+    "totalProducts": 38
   },
   "brands": [],
   "products": [
@@ -226,15 +226,6 @@
       "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
-      "slug": "tshirt-000000003528",
-      "makeshopId": "000000003528",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【M's '73 Skyline Easy Cut Responsibili-Tee 】 メンズ・'73 スカイライン・Tシャツ 37841 Tシャツ 半袖",
-      "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003528/I61116/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.207Z"
-    },
-    {
       "slug": "tshirt-000000002467",
       "makeshopId": "000000002467",
       "brandSlug": "patagonia",
@@ -349,15 +340,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Toddler S/S Shiretoto Toko Tee】 トドラーショートスリーブシレトコトコティー（キッズ） Tシャツ 半袖 キッズ NTT32642ST",
       "priceJpy": 4400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003397/I61116/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.207Z"
-    },
-    {
-      "slug": "tshirt-000000003510",
-      "makeshopId": "000000003510",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【M's Forge Born T-Shirt 】 メンズ・フォージ・ボーン・Tシャツ 37872 Tシャツ 半袖",
-      "priceJpy": 6930,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003510/I61116/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.207Z"
     },
     {
@@ -821,5 +803,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-09T20:23:14.126Z"
+  "syncedAt": "2026-09-10T20:24:13.822Z"
 }

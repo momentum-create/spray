@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 282
+    "totalProducts": 281
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003590",
+      "makeshopId": "000000003590",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-100FL-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003590/I61093/page1/order/",
+      "updatedAt": "2026-07-03T19:17:50.648Z"
+    },
     {
       "slug": "sale-000000004095",
       "makeshopId": "000000004095",
@@ -739,15 +748,6 @@
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
-      "slug": "sale-000000003590",
-      "makeshopId": "000000003590",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-100FL-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003590/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
       "slug": "sale-000000003591",
       "makeshopId": "000000003591",
       "brandSlug": "g-shock",
@@ -1106,15 +1106,6 @@
       "priceJpy": 2640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003491/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003939",
-      "makeshopId": "000000003939",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ノースフェイス 【Base Camp Voyager Lite 42L】 ベースキャンプボイジャーライト42L ダッフルバッグ リュック アウトドア 旅行 NM82379",
-      "priceJpy": 20240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003939/I61093/page1/order/",
-      "updatedAt": "2026-05-30T19:10:51.996Z"
     },
     {
       "slug": "sale-000000003937",
@@ -6448,5 +6439,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-09T20:23:32.353Z"
+  "syncedAt": "2026-09-10T20:24:28.437Z"
 }
