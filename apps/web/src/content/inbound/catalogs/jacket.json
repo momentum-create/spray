@@ -5,7 +5,7 @@
     "title": "Jackets & Outerwear",
     "titleJa": "ジャケット・アウター",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct308/",
-    "totalProducts": 24
+    "totalProducts": 23
   },
   "brands": [],
   "products": [
@@ -17,15 +17,6 @@
       "priceJpy": 28710,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003897/ct308/page1/order/",
       "updatedAt": "2026-07-23T19:11:50.913Z"
-    },
-    {
-      "slug": "jacket-000000002288",
-      "makeshopId": "000000002288",
-      "brandSlug": "other",
-      "name": "ナンガ NANGA オーロラライトユーティリティダウンジャケット URORA LIGHT UTILITY DOWN JACKET ND2341-1A008 / メンズ / 男性用",
-      "priceJpy": 51590,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002288/ct308/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.893Z"
     },
     {
       "slug": "jacket-000000002602",
@@ -520,5 +511,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-10T20:24:14.808Z"
+  "syncedAt": "2026-09-11T20:25:13.729Z"
 }

@@ -5,14 +5,14 @@
     "title": "Wear",
     "titleJa": "ウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct298/",
-    "totalProducts": 38
+    "totalProducts": 39
   },
   "brands": [
     {
       "slug": "the-north-face",
       "name": "THE NORTH FACE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct320/",
-      "productCount": 6
+      "productCount": 7
     },
     {
       "slug": "patagonia",
@@ -52,6 +52,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "wear-000000004351",
+      "makeshopId": "000000004351",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【LAYBACK BC Jacket】 レイバックビーシージャケット ユニセックス/スノーボードウェア/ジャケット 2026-2027 NS62510",
+      "priceJpy": 74800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004351/ct298/page1/order/",
+      "updatedAt": "2026-09-11T20:25:07.598Z"
+    },
+    {
+      "slug": "wear-000000004350",
+      "makeshopId": "000000004350",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【LAYBACK RIDE Bib】 レイバックライドビブ ユニセックス/スノーボードウェア/ビブパンツ 2026-2027 NS62513",
+      "priceJpy": 74800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004350/ct298/page1/order/",
+      "updatedAt": "2026-09-11T20:25:07.598Z"
+    },
     {
       "slug": "wear-000000003539",
       "makeshopId": "000000003539",
@@ -248,15 +266,6 @@
       "name": "ザ・ノース・フェイス【THE NORTH FACE】 レイバックビーシービブ 【LAYBACK BC Bib】 ユニセックス/スノーボードウェア/ビブパンツ NS62511",
       "priceJpy": 54500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002832/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000002834",
-      "makeshopId": "000000002834",
-      "brandSlug": "the-north-face",
-      "name": "ザ・ノース・フェイス【THE NORTH FACE】 レイバックライドビブ 【LAYBACK RIDE Bib】 ユニセックス/スノーボードウェア/ビブパンツ NS62513",
-      "priceJpy": 59800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002834/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -804,5 +813,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-10T20:24:09.389Z"
+  "syncedAt": "2026-09-11T20:25:07.598Z"
 }

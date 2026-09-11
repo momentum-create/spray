@@ -29,6 +29,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000004318",
+      "makeshopId": "000000004318",
+      "brandSlug": "dumbo",
+      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/I61079/page1/order/",
+      "updatedAt": "2026-09-11T20:25:24.494Z"
+    },
+    {
       "slug": "accessories-000000004345",
       "makeshopId": "000000004345",
       "brandSlug": "raven-line",
@@ -45,15 +54,6 @@
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004304/I61079/page1/order/",
       "updatedAt": "2026-08-28T02:01:47.459Z"
-    },
-    {
-      "slug": "accessories-000000004318",
-      "makeshopId": "000000004318",
-      "brandSlug": "dumbo",
-      "name": "SPRAY Original BCロゴ Key Holder",
-      "priceJpy": 550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/I61079/page1/order/",
-      "updatedAt": "2026-09-06T19:58:56.807Z"
     },
     {
       "slug": "accessories-000000003401",
@@ -1950,5 +1950,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-10T20:24:23.637Z"
+  "syncedAt": "2026-09-11T20:25:24.494Z"
 }

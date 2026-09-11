@@ -95,6 +95,33 @@
   ],
   "products": [
     {
+      "slug": "binding-000000003091",
+      "makeshopId": "000000003091",
+      "brandSlug": "karakoram",
+      "name": "【KARAKORAM】 カラコラム 【QUIVER-PROTECTORS】 クイーバー・プロテクター バックカントリー スノーボード ソリッドボード スプリットボード",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003091/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000003949",
+      "makeshopId": "000000003949",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
+      "priceJpy": 17710,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/ct296/page1/order/",
+      "updatedAt": "2026-05-31T19:13:50.678Z"
+    },
+    {
+      "slug": "binding-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
+      "updatedAt": "2026-08-20T18:34:26.246Z"
+    },
+    {
       "slug": "binding-000000003913",
       "makeshopId": "000000003913",
       "brandSlug": "flux",
@@ -131,15 +158,6 @@
       "updatedAt": "2026-09-07T21:05:34.137Z"
     },
     {
-      "slug": "binding-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
-      "updatedAt": "2026-08-20T18:34:26.246Z"
-    },
-    {
       "slug": "binding-000000003370",
       "makeshopId": "000000003370",
       "brandSlug": "karakoram",
@@ -165,15 +183,6 @@
       "priceJpy": 6325,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003949",
-      "makeshopId": "000000003949",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
-      "priceJpy": 17710,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/ct296/page1/order/",
-      "updatedAt": "2026-05-31T19:13:50.678Z"
     },
     {
       "slug": "binding-000000003679",
@@ -560,15 +569,6 @@
       "name": "【BURTON】 バートン 【MissionRe:Flex】 ミッション 25-26 メンズ 男性用 BINDING ビンディング バインディング SNOWBOARD スノーボード",
       "priceJpy": 30800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003018/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003091",
-      "makeshopId": "000000003091",
-      "brandSlug": "karakoram",
-      "name": "【KARAKORAM】 カラコラム 【QUIVER-PROTECTORS】 クイーバー・プロテクター バックカントリー スノーボード ソリッドボード スプリットボード",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003091/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1700,5 +1700,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-10T20:24:08.117Z"
+  "syncedAt": "2026-09-11T20:25:05.534Z"
 }
