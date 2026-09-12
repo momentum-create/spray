@@ -10,15 +10,6 @@
   "brands": [],
   "products": [
     {
-      "slug": "backcountry-000000003091",
-      "makeshopId": "000000003091",
-      "brandSlug": "karakoram",
-      "name": "【KARAKORAM】 カラコラム 【QUIVER-PROTECTORS】 クイーバー・プロテクター バックカントリー スノーボード ソリッドボード スプリットボード",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003091/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
       "slug": "backcountry-000000002817",
       "makeshopId": "000000002817",
       "brandSlug": "spark-r-d",
@@ -26,6 +17,15 @@
       "priceJpy": 14300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
       "updatedAt": "2026-08-20T18:34:30.822Z"
+    },
+    {
+      "slug": "backcountry-000000003091",
+      "makeshopId": "000000003091",
+      "brandSlug": "karakoram",
+      "name": "【KARAKORAM】 カラコラム 【QUIVER-PROTECTORS】 クイーバー・プロテクター バックカントリー スノーボード ソリッドボード スプリットボード",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003091/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
       "slug": "backcountry-000000004345",
@@ -1459,5 +1459,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T18:53:20.100Z"
+  "syncedAt": "2026-09-12T20:10:14.572Z"
 }

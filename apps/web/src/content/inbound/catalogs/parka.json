@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "parka-000000001891",
+      "makeshopId": "000000001891",
+      "brandSlug": "other",
+      "name": "SPRAY Original Zip Up Parka",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001891/ct304/page1/order/",
+      "updatedAt": "2026-05-29T06:08:26.533Z"
+    },
+    {
       "slug": "parka-000000002603",
       "makeshopId": "000000002603",
       "brandSlug": "nanga",
@@ -79,15 +88,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Zoo Picker Hoodie】 ズーピッカーフーディ（ユニセックス） パーカー フード ユニセックス NT12645",
       "priceJpy": 17050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003325/ct304/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.533Z"
-    },
-    {
-      "slug": "parka-000000001891",
-      "makeshopId": "000000001891",
-      "brandSlug": "other",
-      "name": "SPRAY Original Zip Up Parka",
-      "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001891/ct304/page1/order/",
       "updatedAt": "2026-05-29T06:08:26.533Z"
     },
     {
@@ -219,5 +219,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T18:53:20.104Z"
+  "syncedAt": "2026-09-12T20:10:16.452Z"
 }

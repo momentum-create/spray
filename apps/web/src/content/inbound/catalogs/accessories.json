@@ -38,6 +38,15 @@
       "updatedAt": "2026-09-11T20:25:24.494Z"
     },
     {
+      "slug": "accessories-000000001881",
+      "makeshopId": "000000001881",
+      "brandSlug": "orange",
+      "name": "【oran'ge】 オレンジ 【Protection Sheet 2】 プロテクションシート2 スノーボード デッキ保護シール トップシート保護シール",
+      "priceJpy": 1650,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001881/I61079/page1/order/",
+      "updatedAt": "2026-09-12T20:10:25.914Z"
+    },
+    {
       "slug": "accessories-000000004345",
       "makeshopId": "000000004345",
       "brandSlug": "raven-line",
@@ -773,15 +782,6 @@
       "name": "【DAKINE】 ダカイン 【HELI STRAP】 ヘリ ストラップ /スノーボード / スキー / 登山",
       "priceJpy": 1870,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003298/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000001881",
-      "makeshopId": "000000001881",
-      "brandSlug": "dumbo",
-      "name": "oran'ge Protection Sheet 2 プロテクションシート2 スノーボード デッキ保護シール トップシート保護シール",
-      "priceJpy": 1650,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001881/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -1960,5 +1960,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T18:53:20.976Z"
+  "syncedAt": "2026-09-12T20:10:25.914Z"
 }

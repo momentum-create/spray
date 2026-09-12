@@ -5,7 +5,7 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 36
+    "totalProducts": 38
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "ct347",
       "name": "キャップ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
-      "productCount": 16
+      "productCount": 18
     },
     {
       "slug": "ct346",
@@ -34,6 +34,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "hat-000000004353",
+      "makeshopId": "000000004353",
+      "brandSlug": "halo-commodity",
+      "name": "【halo commodity】 ハロコモディティー 【Grid Cap】 hh263-2001 男女兼用 / ユニセックス キャップ 帽子",
+      "priceJpy": 6270,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004353/I61098/page1/order/",
+      "updatedAt": "2026-09-12T20:10:22.391Z"
+    },
+    {
+      "slug": "hat-000000004352",
+      "makeshopId": "000000004352",
+      "brandSlug": "halo-commodity",
+      "name": "【halo commodity】 ハロコモディティー 【Mush Bear Cap】 h263-200 男女兼用 / ユニセックス キャップ 帽子",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004352/I61098/page1/order/",
+      "updatedAt": "2026-09-12T20:10:22.391Z"
+    },
     {
       "slug": "hat-000000002601",
       "makeshopId": "000000002601",
@@ -756,5 +774,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T18:53:20.111Z"
+  "syncedAt": "2026-09-12T20:10:22.391Z"
 }
