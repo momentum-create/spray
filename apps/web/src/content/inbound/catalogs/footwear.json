@@ -5,20 +5,20 @@
     "title": "Footwear",
     "titleJa": "フットウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61086/",
-    "totalProducts": 29
+    "totalProducts": 27
   },
   "brands": [
     {
       "slug": "I61087",
       "name": "メンズ スニーカー",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61087/",
-      "productCount": 18
+      "productCount": 17
     },
     {
       "slug": "I61156",
       "name": "ブーツ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61156/",
-      "productCount": 5
+      "productCount": 4
     },
     {
       "slug": "I61338",
@@ -146,15 +146,6 @@
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
-      "slug": "footwear-000000003499",
-      "makeshopId": "000000003499",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】ラカイ 【PROTO VULC】プロト バルク Multi Suede マルチ スエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003499/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
       "slug": "footwear-000000003478",
       "makeshopId": "000000003478",
       "brandSlug": "lakai",
@@ -251,15 +242,6 @@
       "name": "【SOREL】 ソレル 【MAC HILL LITE TRACE WP】 マックヒルライト トレース ウォータープルーフ NM4787 439 ブーツ メンズ 男性用",
       "priceJpy": 15180,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003399/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003398",
-      "makeshopId": "000000003398",
-      "brandSlug": "sorel",
-      "name": "【SOREL】 ソレル 【WHITNEY II TALL LACE WP】 ウィットニーIIトールレース ウォータープルーフ NL3823 ブーツ レディース 女性用",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003398/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
@@ -672,5 +654,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T20:10:17.692Z"
+  "syncedAt": "2026-09-13T20:18:40.881Z"
 }

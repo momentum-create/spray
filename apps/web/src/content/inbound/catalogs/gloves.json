@@ -5,7 +5,7 @@
     "title": "Gloves",
     "titleJa": "グローブ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct299/",
-    "totalProducts": 29
+    "totalProducts": 37
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "ebs",
       "name": "eb's",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct334/",
-      "productCount": 5
+      "productCount": 13
     },
     {
       "slug": "the-north-face",
@@ -52,6 +52,78 @@
     }
   ],
   "products": [
+    {
+      "slug": "gloves-000000004312",
+      "makeshopId": "000000004312",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【USU USU INNER】ウスウス インナー GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 2970,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004312/ct299/page1/order/",
+      "updatedAt": "2026-09-13T20:18:34.385Z"
+    },
+    {
+      "slug": "gloves-000000004192",
+      "makeshopId": "000000004192",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【GLOVE BAND】グローブバンド GLOVES グローブ 紛失防止 2026/2027 スノーボード",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004192/ct299/page1/order/",
+      "updatedAt": "2026-09-13T20:18:34.385Z"
+    },
+    {
+      "slug": "gloves-000000004223",
+      "makeshopId": "000000004223",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【GLOVE BAND FAT】グローブバンドファット GLOVES グローブ 紛失防止 2026/2027 スノーボード",
+      "priceJpy": 1430,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004223/ct299/page1/order/",
+      "updatedAt": "2026-09-13T20:18:34.385Z"
+    },
+    {
+      "slug": "gloves-000000004190",
+      "makeshopId": "000000004190",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【EXCLUSIVE MITT】エクスクルーシブミット GLOVES グローブ ミトン 2026/2027 スノーボード",
+      "priceJpy": 8910,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004190/ct299/page1/order/",
+      "updatedAt": "2026-09-13T20:18:34.385Z"
+    },
+    {
+      "slug": "gloves-000000004189",
+      "makeshopId": "000000004189",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【KEMONO CHAN】ケモノチャン GLOVES グローブ ミトン 2026/2027 スノーボード",
+      "priceJpy": 8690,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004189/ct299/page1/order/",
+      "updatedAt": "2026-09-13T20:18:34.385Z"
+    },
+    {
+      "slug": "gloves-000000004188",
+      "makeshopId": "000000004188",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【GORE-TEX EXCLUSIVE】ゴアテックス エクスクルーシブ GLOVES グローブ ミトン 2026/2027 スノーボード",
+      "priceJpy": 11440,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004188/ct299/page1/order/",
+      "updatedAt": "2026-09-13T20:18:34.385Z"
+    },
+    {
+      "slug": "gloves-000000004185",
+      "makeshopId": "000000004185",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【OLGA】オルガ GLOVES グローブ ミトン 2026/2027 スノーボード",
+      "priceJpy": 12320,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004185/ct299/page1/order/",
+      "updatedAt": "2026-09-13T20:18:34.385Z"
+    },
+    {
+      "slug": "gloves-000000004184",
+      "makeshopId": "000000004184",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【GAME CHANGER TRIGGER】ゲームチェンジャートリガー GLOVES グローブ ミトン 2026/2027 スノーボード",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004184/ct299/page1/order/",
+      "updatedAt": "2026-09-13T20:18:34.385Z"
+    },
     {
       "slug": "gloves-000000003385",
       "makeshopId": "000000003385",
@@ -652,5 +724,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T20:10:12.433Z"
+  "syncedAt": "2026-09-13T20:18:34.385Z"
 }

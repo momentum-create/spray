@@ -5,10 +5,64 @@
     "title": "Bags",
     "titleJa": "バッグ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61075/",
-    "totalProducts": 27
+    "totalProducts": 33
   },
   "brands": [],
   "products": [
+    {
+      "slug": "bag-000000004368",
+      "makeshopId": "000000004368",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【BOOTS CASE】ブーツケース スノーボード / バックカントリー / バッグ / 2026/2027",
+      "priceJpy": 5830,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004368/I61075/page1/order/",
+      "updatedAt": "2026-09-13T20:18:41.422Z"
+    },
+    {
+      "slug": "bag-000000004325",
+      "makeshopId": "000000004325",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【BOOTS TOTE】ブーツトート スノーボード / バックカントリー / バッグ / 2026/2027",
+      "priceJpy": 8580,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004325/I61075/page1/order/",
+      "updatedAt": "2026-09-13T20:18:41.422Z"
+    },
+    {
+      "slug": "bag-000000004324",
+      "makeshopId": "000000004324",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【ARLOW BAG】アーローバッグ スノーボード / バックカントリー / バッグ / 2026/2027",
+      "priceJpy": 8360,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004324/I61075/page1/order/",
+      "updatedAt": "2026-09-13T20:18:41.422Z"
+    },
+    {
+      "slug": "bag-000000004322",
+      "makeshopId": "000000004322",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【CARGO BAG】カーゴバッグ スノーボード / バックカントリー / バッグ / 2026/2027",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004322/I61075/page1/order/",
+      "updatedAt": "2026-09-13T20:18:41.422Z"
+    },
+    {
+      "slug": "bag-000000004323",
+      "makeshopId": "000000004323",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【MULTI CONTAINER】マルチコンテナ スノーボード / バックカントリー / バッグ / 2026/2027",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004323/I61075/page1/order/",
+      "updatedAt": "2026-09-13T20:18:41.422Z"
+    },
+    {
+      "slug": "bag-000000004316",
+      "makeshopId": "000000004316",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【BOARD PACK】ボードパック スノーボード / バックカントリー / バッグ / 2026/2027",
+      "priceJpy": 10450,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004316/I61075/page1/order/",
+      "updatedAt": "2026-09-13T20:18:41.422Z"
+    },
     {
       "slug": "bag-000000002559",
       "makeshopId": "000000002559",
@@ -575,5 +629,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T20:10:18.392Z"
+  "syncedAt": "2026-09-13T20:18:41.422Z"
 }

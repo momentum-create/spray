@@ -19,6 +19,51 @@
       "updatedAt": "2026-09-11T20:25:01.801Z"
     },
     {
+      "slug": "spray-original-000000001900",
+      "makeshopId": "000000001900",
+      "brandSlug": "other",
+      "name": "SPRAY Original AINU Logo Cutting Sticker ステッカー",
+      "priceJpy": 770,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000001900/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000004254",
+      "makeshopId": "000000004254",
+      "brandSlug": "other",
+      "name": "SPRAY Original BC Logo ワッペン（マジックテープタイプ）",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004254/ct271/page1/order/",
+      "updatedAt": "2026-08-06T23:55:38.514Z"
+    },
+    {
+      "slug": "spray-original-000000002042",
+      "makeshopId": "000000002042",
+      "brandSlug": "other",
+      "name": "SPRAY S-Logo ワッペン",
+      "priceJpy": 770,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002042/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002041",
+      "makeshopId": "000000002041",
+      "brandSlug": "other",
+      "name": "SPRAY166 Logo ワッペン",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002041/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000002040",
+      "makeshopId": "000000002040",
+      "brandSlug": "other",
+      "name": "SPRAY Logo ワッペン",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002040/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
       "slug": "spray-original-000000001881",
       "makeshopId": "000000001881",
       "brandSlug": "orange",
@@ -80,15 +125,6 @@
       "priceJpy": 3000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000004254",
-      "makeshopId": "000000004254",
-      "brandSlug": "other",
-      "name": "SPRAY Original BC Logo ワッペン（マジックテープタイプ）",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004254/ct271/page1/order/",
-      "updatedAt": "2026-08-06T23:55:38.514Z"
     },
     {
       "slug": "spray-original-000000002879",
@@ -217,15 +253,6 @@
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
-      "slug": "spray-original-000000002040",
-      "makeshopId": "000000002040",
-      "brandSlug": "other",
-      "name": "SPRAY Logo ワッペン",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002040/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
       "slug": "spray-original-000000001800",
       "makeshopId": "000000001800",
       "brandSlug": "spray-original-skate-deck",
@@ -295,15 +322,6 @@
       "name": "SPRAY Original PROVIDENCE CAN COOLER 350",
       "priceJpy": 2750,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000001880/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000002041",
-      "makeshopId": "000000002041",
-      "brandSlug": "other",
-      "name": "SPRAY166 Logo ワッペン",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002041/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
@@ -424,15 +442,6 @@
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
-      "slug": "spray-original-000000002042",
-      "makeshopId": "000000002042",
-      "brandSlug": "other",
-      "name": "SPRAY S-Logo ワッペン",
-      "priceJpy": 770,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002042/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
       "slug": "spray-original-000000002340",
       "makeshopId": "000000002340",
       "brandSlug": "other",
@@ -484,15 +493,6 @@
       "name": "SPRAY×Kossymix Premium Scraper M",
       "priceJpy": 2640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000001900",
-      "makeshopId": "000000001900",
-      "brandSlug": "other",
-      "name": "SPRAY Original AINU Logo Cutting Sticker ステッカー",
-      "priceJpy": 770,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000001900/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
@@ -1110,5 +1110,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T20:10:06.495Z"
+  "syncedAt": "2026-09-13T20:18:27.047Z"
 }

@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000004196",
+      "makeshopId": "000000004196",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Cimeri 78A 60mm】 ミニシメリ 78A 60mm スケートボード ウィール ロンスケ",
+      "priceJpy": 6160,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004196/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003827",
+      "makeshopId": "000000003827",
+      "brandSlug": "ninja-bearings",
+      "name": "【NINJA BEARINGS】 ニンジャ ベアリングス 【SPEEDOIL SHORT RED】 スピードオイル ショート(RED/10ml) スケートボード SK8",
+      "priceJpy": 500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003827/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000004220",
       "makeshopId": "000000004220",
       "brandSlug": "mini-logo",
@@ -106,15 +124,6 @@
       "name": "【Zulu Wheels】 ズールーウィール 【Mini Numerip 78A 60mm Green】 ミニヌメリップ 78A 60mm グリーン スケートボード ウィール ロンスケ",
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004196",
-      "makeshopId": "000000004196",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Cimeri 78A 60mm】 ミニシメリ 78A 60mm スケートボード ウィール ロンスケ",
-      "priceJpy": 6160,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004196/ct307/page1/order/",
       "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
@@ -457,15 +466,6 @@
       "name": "【NINJA BEARINGS】 ニンジャ ベアリングス 【SPEEDOIL OVAL RED】 スピードオイル オーバル(RED/10ml) スケートボード SK8",
       "priceJpy": 1100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003828/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003827",
-      "makeshopId": "000000003827",
-      "brandSlug": "ninja-bearings",
-      "name": "【NINJA BEARINGS】 ニンジャ ベアリングス 【SPEEDOIL SHORT RED】 スピードオイル ショート(RED/10ml) スケートボード SK8",
-      "priceJpy": 500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003827/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1417,5 +1417,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T20:10:24.085Z"
+  "syncedAt": "2026-09-13T20:18:48.730Z"
 }

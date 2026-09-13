@@ -5,7 +5,7 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 38
+    "totalProducts": 39
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "ct345",
       "name": "バラクラバ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct345/",
-      "productCount": 6
+      "productCount": 7
     },
     {
       "slug": "ct347",
@@ -34,6 +34,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "hat-000000004332",
+      "makeshopId": "000000004332",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC GRID RANGER(LightWarm)】ポーラテック グリッド レンジャー(ライトウォーム) 2026/2027 スノーボード バラクラバ マスク",
+      "priceJpy": 4620,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004332/I61098/page1/order/",
+      "updatedAt": "2026-09-13T20:18:46.071Z"
+    },
     {
       "slug": "hat-000000004353",
       "makeshopId": "000000004353",
@@ -774,5 +783,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T20:10:22.391Z"
+  "syncedAt": "2026-09-13T20:18:46.071Z"
 }

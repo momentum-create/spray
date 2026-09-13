@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 279
+    "totalProducts": 277
   },
   "brands": [],
   "products": [
@@ -2161,15 +2161,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003499",
-      "makeshopId": "000000003499",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】ラカイ 【PROTO VULC】プロト バルク Multi Suede マルチ スエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003499/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003478",
       "makeshopId": "000000003478",
       "brandSlug": "lakai",
@@ -2320,15 +2311,6 @@
       "name": "【BURTON】 バートン 【WOMEN'S WAVERANGE Step On】 ウィメンズ ウェイブレンジ Step On 25-26 ウィメンズ 女性用 BOOTS ブーツ SNOWBOARD スノーボード ステップオン",
       "priceJpy": 37730,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003181/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003398",
-      "makeshopId": "000000003398",
-      "brandSlug": "sorel",
-      "name": "【SOREL】 ソレル 【WHITNEY II TALL LACE WP】 ウィットニーIIトールレース ウォータープルーフ NL3823 ブーツ レディース 女性用",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003398/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6421,5 +6403,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-12T20:10:30.571Z"
+  "syncedAt": "2026-09-13T20:18:55.727Z"
 }
