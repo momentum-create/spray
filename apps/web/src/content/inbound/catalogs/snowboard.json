@@ -5,14 +5,14 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 71
+    "totalProducts": 75
   },
   "brands": [
     {
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 23
+      "productCount": 27
     },
     {
       "slug": "field-earth",
@@ -144,7 +144,7 @@
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 23
+      "productCount": 27
     },
     {
       "slug": "field-earth",
@@ -275,13 +275,40 @@
   ],
   "products": [
     {
-      "slug": "snowboard-000000003773",
-      "makeshopId": "000000003773",
+      "slug": "snowboard-000000003764",
+      "makeshopId": "000000003764",
       "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【BARRACUDA】バラクーダ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【THE CHASER】チェイサー 2026-2027MODEL バックカントリー スノーボード パウダー",
       "priceJpy": 150700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003773/I61077/page1/order/",
-      "updatedAt": "2026-09-12T20:10:08.168Z"
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003764/I61077/page1/order/",
+      "updatedAt": "2026-09-14T21:27:10.523Z"
+    },
+    {
+      "slug": "snowboard-000000003788",
+      "makeshopId": "000000003788",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【SUPER FISH CLOUD LINER】スーパーフィッシュ クラウドライナー 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 155100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003788/I61077/page1/order/",
+      "updatedAt": "2026-09-14T21:27:10.523Z"
+    },
+    {
+      "slug": "snowboard-000000003782",
+      "makeshopId": "000000003782",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【SUPER FISH】スーパーフィッシュ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 155100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003782/I61077/page1/order/",
+      "updatedAt": "2026-09-14T21:27:10.523Z"
+    },
+    {
+      "slug": "snowboard-000000003775",
+      "makeshopId": "000000003775",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BIG FISH】ビッグフィッシュ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 154000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003775/I61077/page1/order/",
+      "updatedAt": "2026-09-14T21:27:10.523Z"
     },
     {
       "slug": "snowboard-000000003774",
@@ -299,6 +326,15 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【MID FISH】ミッドフィッシュ 2026-2027MODEL バックカントリー スノーボード パウダー",
       "priceJpy": 149600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003771/I61077/page1/order/",
+      "updatedAt": "2026-09-12T20:10:08.168Z"
+    },
+    {
+      "slug": "snowboard-000000003773",
+      "makeshopId": "000000003773",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BARRACUDA】バラクーダ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 150700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003773/I61077/page1/order/",
       "updatedAt": "2026-09-12T20:10:08.168Z"
     },
     {
@@ -1584,5 +1620,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-13T20:18:29.268Z"
+  "syncedAt": "2026-09-14T21:27:10.523Z"
 }

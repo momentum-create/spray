@@ -24,13 +24,13 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 19
+      "productCount": 18
     },
     {
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 12
+      "productCount": 13
     },
     {
       "slug": "union",
@@ -66,13 +66,13 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 19
+      "productCount": 18
     },
     {
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 12
+      "productCount": 13
     },
     {
       "slug": "union",
@@ -94,6 +94,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000003899",
+      "makeshopId": "000000003899",
+      "brandSlug": "flux",
+      "name": "【FLUX】フラックス 【SR MF-09】 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 69300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003899/ct296/page1/order/",
+      "updatedAt": "2026-09-14T21:27:12.054Z"
+    },
     {
       "slug": "binding-000000002817",
       "makeshopId": "000000002817",
@@ -515,15 +524,6 @@
       "name": "【SPARK R&D】スパーク 【Spark Flat Pucks】 スパーク フラット パックス バックカントリー スプリットボード",
       "priceJpy": 14300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002818/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003013",
-      "makeshopId": "000000003013",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Step On Split】 Step On スプリット 25-26 Black メンズ 男性用 BINDING ビンディング SNOWBOARD スノーボード ステップオン",
-      "priceJpy": 76230,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003013/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1740,5 +1740,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-13T20:18:30.917Z"
+  "syncedAt": "2026-09-14T21:27:12.054Z"
 }

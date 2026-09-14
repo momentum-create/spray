@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000003179",
+      "makeshopId": "000000003179",
+      "brandSlug": "pomoca",
+      "name": "【POMOCA】ポモカ 【FREE PRO 2.0 SPLITBOARD】 フリープロ 2.0 スプリットボード 145mm S(141-151cm)シール／スキン バックカントリー スノーボード",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003179/ct301/page1/order/",
+      "updatedAt": "2026-07-04T19:08:07.642Z"
+    },
+    {
       "slug": "backcountry-000000002817",
       "makeshopId": "000000002817",
       "brandSlug": "spark-r-d",
@@ -80,15 +89,6 @@
       "priceJpy": 1760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003004/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000003179",
-      "makeshopId": "000000003179",
-      "brandSlug": "pomoca",
-      "name": "【POMOCA】ポモカ 【FREE PRO 2.0 SPLITBOARD】 フリープロ 2.0 スプリットボード 145mm S(141-151cm)シール／スキン バックカントリー スノーボード",
-      "priceJpy": 35200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003179/ct301/page1/order/",
-      "updatedAt": "2026-07-04T19:08:07.642Z"
     },
     {
       "slug": "backcountry-000000003180",
@@ -1459,5 +1459,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-13T20:18:36.303Z"
+  "syncedAt": "2026-09-14T21:27:18.419Z"
 }
