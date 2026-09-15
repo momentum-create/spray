@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000004200",
+      "makeshopId": "000000004200",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numeri 78A 60mm Green】 ミニヌメリ 78A 60mm グリーン スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004200/ct307/page1/order/",
+      "updatedAt": "2026-08-15T18:24:05.310Z"
+    },
+    {
       "slug": "skateboard-parts-000000004196",
       "makeshopId": "000000004196",
       "brandSlug": "zulu-wheels",
@@ -125,15 +134,6 @@
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
       "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004200",
-      "makeshopId": "000000004200",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numeri 78A 60mm Green】 ミニヌメリ 78A 60mm グリーン スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004200/ct307/page1/order/",
-      "updatedAt": "2026-08-15T18:24:05.310Z"
     },
     {
       "slug": "skateboard-parts-000000004180",
@@ -1417,5 +1417,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-14T21:27:31.216Z"
+  "syncedAt": "2026-09-15T20:51:26.756Z"
 }
