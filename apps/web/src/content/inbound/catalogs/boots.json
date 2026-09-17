@@ -5,14 +5,14 @@
     "title": "Boots",
     "titleJa": "ブーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct297/",
-    "totalProducts": 43
+    "totalProducts": 42
   },
   "brands": [
     {
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct317/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "k2",
@@ -56,15 +56,6 @@
       "name": "【FLUX】フラックス 【TB-BOA】 2026-2027MODEL BOOTS ブーツ スノーボード バックカントリー",
       "priceJpy": 66000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003921/ct297/page1/order/",
-      "updatedAt": "2026-08-31T22:25:20.284Z"
-    },
-    {
-      "slug": "boots-000000003920",
-      "makeshopId": "000000003920",
-      "brandSlug": "flux",
-      "name": "【FLUX】フラックス 【NGR LACE】 2026-2027MODEL BOOTS nagare ブーツ スノーボード バックカントリー",
-      "priceJpy": 75900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003920/ct297/page1/order/",
       "updatedAt": "2026-08-31T22:25:20.284Z"
     },
     {
@@ -914,5 +905,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-16T20:51:21.049Z"
+  "syncedAt": "2026-09-17T20:56:06.862Z"
 }

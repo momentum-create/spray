@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 75
+    "totalProducts": 74
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "koruashapes",
       "name": "KORUASHAPES",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
-      "productCount": 1
+      "productCount": 0
     },
     {
       "slug": "burton",
@@ -162,7 +162,7 @@
       "slug": "koruashapes",
       "name": "KORUASHAPES",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
-      "productCount": 1
+      "productCount": 0
     },
     {
       "slug": "burton",
@@ -939,15 +939,6 @@
       "priceJpy": 94050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002689/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000002687",
-      "makeshopId": "000000002687",
-      "brandSlug": "koruashapes",
-      "name": "【KORUASHAPES】コルアシェイプス【Otto】153 157 161 2024-2025 MODEL スノーボード オットー",
-      "priceJpy": 79200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002687/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
     }
   ],
   "images": {
@@ -1620,5 +1611,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-16T20:51:19.286Z"
+  "syncedAt": "2026-09-17T20:56:03.903Z"
 }
