@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 88
+    "totalProducts": 87
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 13
+      "productCount": 12
     },
     {
       "slug": "union",
@@ -72,7 +72,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 13
+      "productCount": 12
     },
     {
       "slug": "union",
@@ -102,15 +102,6 @@
       "priceJpy": 12375,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003899",
-      "makeshopId": "000000003899",
-      "brandSlug": "flux",
-      "name": "【FLUX】フラックス 【SR MF-09】 2026-2027MODEL ビンディング バインディング スノーボード",
-      "priceJpy": 69300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003899/ct296/page1/order/",
-      "updatedAt": "2026-09-14T21:27:12.054Z"
     },
     {
       "slug": "binding-000000002817",
@@ -1740,5 +1731,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-17T20:56:06.276Z"
+  "syncedAt": "2026-09-18T20:23:17.250Z"
 }
