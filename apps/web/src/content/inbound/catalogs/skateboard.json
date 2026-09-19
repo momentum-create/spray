@@ -5,19 +5,10 @@
     "title": "Skateboards",
     "titleJa": "スケートボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61085/",
-    "totalProducts": 10
+    "totalProducts": 9
   },
   "brands": [],
   "products": [
-    {
-      "slug": "skateboard-000000004301",
-      "makeshopId": "000000004301",
-      "brandSlug": "carver-skate-boards",
-      "name": "【CARVER SKATE BOARDS】 カーバー スケートボード 【32.5” BLACK TIP CARBON2.0】 CX4 TRACK コンプリートボード サーフスケート スケートボード スノーボード サーフィン",
-      "priceJpy": 74800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004301/I61085/page1/order/",
-      "updatedAt": "2026-08-28T02:01:44.033Z"
-    },
     {
       "slug": "skateboard-000000003756",
       "makeshopId": "000000003756",
@@ -243,5 +234,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-19T19:06:41.118Z"
+  "syncedAt": "2026-09-19T20:01:13.336Z"
 }
