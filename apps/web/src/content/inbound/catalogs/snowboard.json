@@ -275,6 +275,42 @@
   ],
   "products": [
     {
+      "slug": "snowboard-000000003807",
+      "makeshopId": "000000003807",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 145】マンタレイ 145cm 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 134200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003807/I61077/page1/order/",
+      "updatedAt": "2026-08-21T18:32:14.832Z"
+    },
+    {
+      "slug": "snowboard-000000003814",
+      "makeshopId": "000000003814",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 156】マンタレイ 156cm 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 146300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003814/I61077/page1/order/",
+      "updatedAt": "2026-08-21T18:32:14.832Z"
+    },
+    {
+      "slug": "snowboard-000000003774",
+      "makeshopId": "000000003774",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BARRACUDA HIGHPERFORMANCE】バラクーダ ハイパフォーマンス 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 150700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003774/I61077/page1/order/",
+      "updatedAt": "2026-09-12T20:10:08.168Z"
+    },
+    {
+      "slug": "snowboard-000000003765",
+      "makeshopId": "000000003765",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【THE CHASER HIGH PERFORMANCE】チェイサー ハイパフォーマンス 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 150700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003765/I61077/page1/order/",
+      "updatedAt": "2026-09-19T20:00:54.969Z"
+    },
+    {
       "slug": "snowboard-000000003824",
       "makeshopId": "000000003824",
       "brandSlug": "gentemstick",
@@ -365,15 +401,6 @@
       "updatedAt": "2026-09-19T20:00:54.969Z"
     },
     {
-      "slug": "snowboard-000000003765",
-      "makeshopId": "000000003765",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【THE CHASER HIGH PERFORMANCE】チェイサー ハイパフォーマンス 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 150700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003765/I61077/page1/order/",
-      "updatedAt": "2026-09-19T20:00:54.969Z"
-    },
-    {
       "slug": "snowboard-000000003764",
       "makeshopId": "000000003764",
       "brandSlug": "gentemstick",
@@ -408,15 +435,6 @@
       "priceJpy": 154000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003775/I61077/page1/order/",
       "updatedAt": "2026-09-14T21:27:10.523Z"
-    },
-    {
-      "slug": "snowboard-000000003774",
-      "makeshopId": "000000003774",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【BARRACUDA HIGHPERFORMANCE】バラクーダ ハイパフォーマンス 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 150700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003774/I61077/page1/order/",
-      "updatedAt": "2026-09-12T20:10:08.168Z"
     },
     {
       "slug": "snowboard-000000003771",
@@ -488,15 +506,6 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 142】マンタレイ 142cm 2026-2027MODEL バックカントリー スノーボード パウダー",
       "priceJpy": 123200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003806/I61077/page1/order/",
-      "updatedAt": "2026-08-21T18:32:14.832Z"
-    },
-    {
-      "slug": "snowboard-000000003807",
-      "makeshopId": "000000003807",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 145】マンタレイ 145cm 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 134200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003807/I61077/page1/order/",
       "updatedAt": "2026-08-21T18:32:14.832Z"
     },
     {
@@ -677,15 +686,6 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 149】マンタレイ 149cm 2026-2027MODEL バックカントリー スノーボード パウダー",
       "priceJpy": 144100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003809/I61077/page1/order/",
-      "updatedAt": "2026-08-21T18:32:14.832Z"
-    },
-    {
-      "slug": "snowboard-000000003814",
-      "makeshopId": "000000003814",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 156】マンタレイ 156cm 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 146300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003814/I61077/page1/order/",
       "updatedAt": "2026-08-21T18:32:14.832Z"
     },
     {
@@ -1810,5 +1810,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-19T20:00:54.969Z"
+  "syncedAt": "2026-09-20T20:18:27.306Z"
 }

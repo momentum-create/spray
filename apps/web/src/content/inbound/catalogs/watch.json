@@ -5,20 +5,20 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 151
+    "totalProducts": 149
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 116
+      "productCount": 115
     },
     {
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 10
+      "productCount": 9
     },
     {
       "slug": "pro-trek",
@@ -42,13 +42,13 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 116
+      "productCount": 115
     },
     {
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 10
+      "productCount": 9
     },
     {
       "slug": "pro-trek",
@@ -72,43 +72,13 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 116
+      "productCount": 115
     },
     {
       "slug": "baby-g",
       "name": "Baby-G",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 10
-    },
-    {
-      "slug": "pro-trek",
-      "name": "PRO TREK",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61143/",
-      "productCount": 1
-    },
-    {
-      "slug": "edifice",
-      "name": "EDIFICE",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61372/",
-      "productCount": 3
-    },
-    {
-      "slug": "casio",
-      "name": "CASIO",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 21
-    },
-    {
-      "slug": "g-shock",
-      "name": "G-SHOCK",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 116
-    },
-    {
-      "slug": "baby-g",
-      "name": "Baby-G",
-      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61084/",
-      "productCount": 10
+      "productCount": 9
     },
     {
       "slug": "pro-trek",
@@ -185,15 +155,6 @@
       "updatedAt": "2026-07-03T19:17:42.829Z"
     },
     {
-      "slug": "watch-000000002538",
-      "makeshopId": "000000002538",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-P2100SA-1A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14080,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002538/I61066/page1/order/",
-      "updatedAt": "2026-09-03T20:28:49.921Z"
-    },
-    {
       "slug": "watch-000000003601",
       "makeshopId": "000000003601",
       "brandSlug": "g-shock",
@@ -227,15 +188,6 @@
       "name": "【BABY-G】 ベビーG BA-110-1AJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
       "priceJpy": 11550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003678/I61066/page1/order/",
-      "updatedAt": "2026-07-02T19:20:54.011Z"
-    },
-    {
-      "slug": "watch-000000003677",
-      "makeshopId": "000000003677",
-      "brandSlug": "baby-g",
-      "name": "【BABY-G】 ベビーG BA-110-7A3JF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003677/I61066/page1/order/",
       "updatedAt": "2026-07-02T19:20:54.011Z"
     },
     {
@@ -4228,5 +4180,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-19T20:01:11.271Z"
+  "syncedAt": "2026-09-20T20:18:42.559Z"
 }

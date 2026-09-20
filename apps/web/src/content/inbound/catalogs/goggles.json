@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 11
+    "totalProducts": 22
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "dragon",
       "name": "DRAGON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct350/",
-      "productCount": 0
+      "productCount": 11
     },
     {
       "slug": "oakley",
@@ -46,6 +46,105 @@
     }
   ],
   "products": [
+    {
+      "slug": "goggles-000000004164",
+      "makeshopId": "000000004164",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【SLAIN MAG】スレインマグ COLOR：SCREEN LENS：LUMALENS PH（調光） J.RED ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004164/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004165",
+      "makeshopId": "000000004165",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【SLAIN MAG】スレインマグ COLOR：SCREEN LENS：LUMALENS PH（調光） J.GOLD ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004165/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004166",
+      "makeshopId": "000000004166",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【SLAIN MAG】スレインマグ COLOR：SCREEN LENS：LUMALENS PH（調光） J.SILVER ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004166/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004167",
+      "makeshopId": "000000004167",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【RECON】リーコン COLOR：SCREEN LENS：LUMALENS PH（調光） J.RED ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 30800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004167/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004168",
+      "makeshopId": "000000004168",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【RECON】リーコン COLOR：SCREEN LENS：LUMALENS PH（調光） J.GOLD ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 30800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004168/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004169",
+      "makeshopId": "000000004169",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【RECON】リーコン COLOR：EARTH SHADE LENS：LUMALENS PH（調光） J.GOLD ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 30800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004169/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004170",
+      "makeshopId": "000000004170",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【DX3L】ディーエックス スリー エル COLOR：SCREEN LENS：LUMALENS PH（調光） J.RED ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 29700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004170/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004171",
+      "makeshopId": "000000004171",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【DX3L】ディーエックス スリー エル COLOR：SCREEN LENS：LUMALENS PH（調光） J.GOLD ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 29700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004171/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004172",
+      "makeshopId": "000000004172",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【DX3L】ディーエックス スリー エル COLOR：SCREEN LENS：LUMALENS PH（調光） J.SILVER ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 29700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004172/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004173",
+      "makeshopId": "000000004173",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【DX3L】ディーエックス スリー エル COLOR：EARTH SHADE LENS：LUMALENS PH（調光） J.GOLD ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 29700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004173/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
+    {
+      "slug": "goggles-000000004174",
+      "makeshopId": "000000004174",
+      "brandSlug": "dragon",
+      "name": "【DRAGON】ドラゴン 【DX3L】ディーエックス スリー エル COLOR：BAKER OLIVE LENS：LUMALENS PH（調光） J.SILVER ION 2026-2027MODEL ゴーグル スキー スノーボード",
+      "priceJpy": 29700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004174/ct327/page1/order/",
+      "updatedAt": "2026-09-20T20:18:31.365Z"
+    },
     {
       "slug": "goggles-000000003060",
       "makeshopId": "000000003060",
@@ -288,5 +387,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-19T20:00:59.832Z"
+  "syncedAt": "2026-09-20T20:18:31.365Z"
 }
