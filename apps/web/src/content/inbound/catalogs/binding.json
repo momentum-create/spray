@@ -95,15 +95,6 @@
   ],
   "products": [
     {
-      "slug": "binding-000000002935",
-      "makeshopId": "000000002935",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット バインディング スノーボード スプリットボード",
-      "priceJpy": 12375,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
       "slug": "binding-000000002817",
       "makeshopId": "000000002817",
       "brandSlug": "spark-r-d",
@@ -111,6 +102,24 @@
       "priceJpy": 14300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
       "updatedAt": "2026-08-20T18:34:26.246Z"
+    },
+    {
+      "slug": "binding-000000002995",
+      "makeshopId": "000000002995",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット バインディング スノーボード スプリットボード",
+      "priceJpy": 6325,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000002935",
+      "makeshopId": "000000002935",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット バインディング スノーボード スプリットボード",
+      "priceJpy": 12375,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
       "slug": "binding-000000003091",
@@ -183,15 +192,6 @@
       "priceJpy": 81400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002880/ct296/page1/order/",
       "updatedAt": "2026-09-03T20:28:38.234Z"
-    },
-    {
-      "slug": "binding-000000002995",
-      "makeshopId": "000000002995",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット バインディング スノーボード スプリットボード",
-      "priceJpy": 6325,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
       "slug": "binding-000000003679",
@@ -1731,5 +1731,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-20T20:18:28.746Z"
+  "syncedAt": "2026-09-21T21:41:40.747Z"
 }

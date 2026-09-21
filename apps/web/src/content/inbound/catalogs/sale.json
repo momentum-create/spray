@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003592",
+      "makeshopId": "000000003592",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック DW-5600RS-8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003592/I61093/page1/order/",
+      "updatedAt": "2026-07-03T19:17:50.648Z"
+    },
+    {
       "slug": "sale-000000003593",
       "makeshopId": "000000003593",
       "brandSlug": "g-shock",
@@ -161,15 +170,6 @@
       "priceJpy": 11440,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003661/I61093/page1/order/",
       "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
-      "slug": "sale-000000003592",
-      "makeshopId": "000000003592",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック DW-5600RS-8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003592/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
       "slug": "sale-000000003784",
@@ -6340,5 +6340,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-20T20:18:54.526Z"
+  "syncedAt": "2026-09-21T21:42:04.834Z"
 }
