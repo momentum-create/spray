@@ -101,6 +101,24 @@
   ],
   "products": [
     {
+      "slug": "watch-000000003550",
+      "makeshopId": "000000003550",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-110WD-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15015,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003550/I61066/page1/order/",
+      "updatedAt": "2026-07-10T19:23:52.833Z"
+    },
+    {
+      "slug": "watch-000000003966",
+      "makeshopId": "000000003966",
+      "brandSlug": "casio",
+      "name": "【CASIO】 カシオ CASIO CLASSIC A140WE-2AJF 腕時計 国内正規品",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003966/I61066/page1/order/",
+      "updatedAt": "2026-06-05T19:51:46.613Z"
+    },
+    {
       "slug": "watch-000000003592",
       "makeshopId": "000000003592",
       "brandSlug": "g-shock",
@@ -704,15 +722,6 @@
       "updatedAt": "2026-07-11T18:58:48.338Z"
     },
     {
-      "slug": "watch-000000003966",
-      "makeshopId": "000000003966",
-      "brandSlug": "casio",
-      "name": "【CASIO】 カシオ CASIO CLASSIC A140WE-2AJF 腕時計 国内正規品",
-      "priceJpy": 11000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003966/I61066/page1/order/",
-      "updatedAt": "2026-06-05T19:51:46.613Z"
-    },
-    {
       "slug": "watch-000000003734",
       "makeshopId": "000000003734",
       "brandSlug": "edifice",
@@ -737,15 +746,6 @@
       "name": "【G-SHOCK】 Gショック GA-700WD-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 13860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003549/I61066/page1/order/",
-      "updatedAt": "2026-07-10T19:23:52.833Z"
-    },
-    {
-      "slug": "watch-000000003550",
-      "makeshopId": "000000003550",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-110WD-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15015,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003550/I61066/page1/order/",
       "updatedAt": "2026-07-10T19:23:52.833Z"
     },
     {
@@ -4180,5 +4180,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-21T21:41:53.311Z"
+  "syncedAt": "2026-09-22T20:52:55.050Z"
 }

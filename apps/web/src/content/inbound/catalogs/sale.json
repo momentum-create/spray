@@ -5,10 +5,46 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 270
+    "totalProducts": 273
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003550",
+      "makeshopId": "000000003550",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-110WD-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15015,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003550/I61093/page1/order/",
+      "updatedAt": "2026-07-10T19:24:02.514Z"
+    },
+    {
+      "slug": "sale-000000004375",
+      "makeshopId": "000000004375",
+      "brandSlug": "tubbs",
+      "name": "【TUBBS】 タブス 【FLEX XTR 22】 バックカントリー スノーシュー",
+      "priceJpy": 29700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004375/I61093/page1/order/",
+      "updatedAt": "2026-09-22T20:53:05.127Z"
+    },
+    {
+      "slug": "sale-000000004374",
+      "makeshopId": "000000004374",
+      "brandSlug": "tubbs",
+      "name": "【TUBBS】 タブス 【FLEX CLM 22】 バックカントリー スノーシュー",
+      "priceJpy": 23760,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004374/I61093/page1/order/",
+      "updatedAt": "2026-09-22T20:53:05.127Z"
+    },
+    {
+      "slug": "sale-000000004373",
+      "makeshopId": "000000004373",
+      "brandSlug": "tubbs",
+      "name": "【TUBBS】 タブス 【FLEX CLM 24】 バックカントリー スノーシュー",
+      "priceJpy": 23760,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004373/I61093/page1/order/",
+      "updatedAt": "2026-09-22T20:53:05.127Z"
+    },
     {
       "slug": "sale-000000003592",
       "makeshopId": "000000003592",
@@ -637,15 +673,6 @@
       "name": "【G-SHOCK】 Gショック GA-700WD-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 13860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003549/I61093/page1/order/",
-      "updatedAt": "2026-07-10T19:24:02.514Z"
-    },
-    {
-      "slug": "sale-000000003550",
-      "makeshopId": "000000003550",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-110WD-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15015,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003550/I61093/page1/order/",
       "updatedAt": "2026-07-10T19:24:02.514Z"
     },
     {
@@ -6340,5 +6367,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-21T21:42:04.834Z"
+  "syncedAt": "2026-09-22T20:53:05.127Z"
 }
