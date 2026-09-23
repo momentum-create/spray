@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
+      "updatedAt": "2026-08-20T18:34:30.822Z"
+    },
+    {
       "slug": "backcountry-000000004375",
       "makeshopId": "000000004375",
       "brandSlug": "tubbs",
@@ -35,15 +44,6 @@
       "priceJpy": 23760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004373/ct301/page1/order/",
       "updatedAt": "2026-09-22T20:52:47.631Z"
-    },
-    {
-      "slug": "backcountry-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
-      "updatedAt": "2026-08-20T18:34:30.822Z"
     },
     {
       "slug": "backcountry-000000002995",
@@ -1486,5 +1486,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-22T20:52:47.631Z"
+  "syncedAt": "2026-09-23T21:03:36.369Z"
 }

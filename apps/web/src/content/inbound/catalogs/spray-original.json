@@ -5,10 +5,28 @@
     "title": "SPRAY Original",
     "titleJa": "SPRAYオリジナル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct271/",
-    "totalProducts": 57
+    "totalProducts": 58
   },
   "brands": [],
   "products": [
+    {
+      "slug": "spray-original-000000004124",
+      "makeshopId": "000000004124",
+      "brandSlug": "slab-spray",
+      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：M】カーボンス クレーパー サイズ：M ワックス / WAX / メンテナンス",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct271/page1/order/",
+      "updatedAt": "2026-07-12T19:01:30.037Z"
+    },
+    {
+      "slug": "spray-original-000000004372",
+      "makeshopId": "000000004372",
+      "brandSlug": "other",
+      "name": "elephant BoardCover SPRAY別注 30th LimitedModel",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004372/ct271/page1/order/",
+      "updatedAt": "2026-09-23T21:03:29.271Z"
+    },
     {
       "slug": "spray-original-000000004318",
       "makeshopId": "000000004318",
@@ -107,15 +125,6 @@
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000001891/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000004124",
-      "makeshopId": "000000004124",
-      "brandSlug": "slab-spray",
-      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：M】カーボンス クレーパー サイズ：M ワックス / WAX / メンテナンス",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct271/page1/order/",
-      "updatedAt": "2026-07-12T19:01:30.037Z"
     },
     {
       "slug": "spray-original-000000004319",
@@ -1110,5 +1119,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-22T20:52:39.119Z"
+  "syncedAt": "2026-09-23T21:03:29.271Z"
 }

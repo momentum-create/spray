@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 87
+    "totalProducts": 86
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 18
+      "productCount": 17
     },
     {
       "slug": "flux",
@@ -66,7 +66,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 18
+      "productCount": 17
     },
     {
       "slug": "flux",
@@ -632,15 +632,6 @@
       "name": "【BURTON】 バートン 【Genesis Re:Flex】 ジェネシス Re:Flex 25-26 Black メンズ 男性用 BINDING ビンディング SNOWBOARD スノーボード",
       "priceJpy": 52800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003015/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002733",
-      "makeshopId": "000000002733",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Escapade Re:Flex】 エスカペイド Re:Flex Black 23-24 ウィメンズ 女性用 BINDING ビンディング SNOWBOARD スノーボード",
-      "priceJpy": 46200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002733/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1731,5 +1722,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-22T20:52:43.128Z"
+  "syncedAt": "2026-09-23T21:03:32.437Z"
 }

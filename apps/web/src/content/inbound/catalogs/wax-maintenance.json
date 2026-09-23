@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "wax-maintenance-000000004124",
+      "makeshopId": "000000004124",
+      "brandSlug": "slab-spray",
+      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：M】カーボンス クレーパー サイズ：M ワックス / WAX / メンテナンス",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct357/page1/order/",
+      "updatedAt": "2026-07-12T19:01:37.852Z"
+    },
+    {
       "slug": "wax-maintenance-000000004123",
       "makeshopId": "000000004123",
       "brandSlug": "slab-spray",
@@ -26,15 +35,6 @@
       "priceJpy": 14850,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004315/ct357/page1/order/",
       "updatedAt": "2026-08-30T20:31:53.595Z"
-    },
-    {
-      "slug": "wax-maintenance-000000004124",
-      "makeshopId": "000000004124",
-      "brandSlug": "slab-spray",
-      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：M】カーボンス クレーパー サイズ：M ワックス / WAX / メンテナンス",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct357/page1/order/",
-      "updatedAt": "2026-07-12T19:01:37.852Z"
     },
     {
       "slug": "wax-maintenance-000000003202",
@@ -283,5 +283,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-22T20:52:48.279Z"
+  "syncedAt": "2026-09-23T21:03:36.629Z"
 }

@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 273
+    "totalProducts": 271
   },
   "brands": [],
   "products": [
@@ -62,15 +62,6 @@
       "priceJpy": 14630,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003593/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003577",
-      "makeshopId": "000000003577",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 DW-6900TR-1JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003577/I61093/page1/order/",
-      "updatedAt": "2026-07-13T19:20:36.122Z"
     },
     {
       "slug": "sale-000000003591",
@@ -2293,15 +2284,6 @@
       "name": "【BURTON】 バートン 【Genesis Re:Flex】 ジェネシス Re:Flex 25-26 Black メンズ 男性用 BINDING ビンディング SNOWBOARD スノーボード",
       "priceJpy": 52800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003015/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000002733",
-      "makeshopId": "000000002733",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Escapade Re:Flex】 エスカペイド Re:Flex Black 23-24 ウィメンズ 女性用 BINDING ビンディング SNOWBOARD スノーボード",
-      "priceJpy": 46200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002733/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6367,5 +6349,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-22T20:53:05.127Z"
+  "syncedAt": "2026-09-23T21:03:51.659Z"
 }
