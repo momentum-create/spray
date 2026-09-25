@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 271
+    "totalProducts": 270
   },
   "brands": [],
   "products": [
@@ -709,15 +709,6 @@
       "name": "【BABY-G】 ベビーG BGA-1100GR-7BJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品 電波ソーラー",
       "priceJpy": 17710,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003689/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003584",
-      "makeshopId": "000000003584",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 GMA-P2100ST-4AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14630,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003584/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
@@ -6349,5 +6340,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-23T21:03:51.659Z"
+  "syncedAt": "2026-09-25T21:05:03.446Z"
 }

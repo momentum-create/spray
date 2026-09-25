@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 148
+    "totalProducts": 147
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 114
+      "productCount": 113
     },
     {
       "slug": "baby-g",
@@ -42,7 +42,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 114
+      "productCount": 113
     },
     {
       "slug": "baby-g",
@@ -72,7 +72,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 114
+      "productCount": 113
     },
     {
       "slug": "baby-g",
@@ -782,15 +782,6 @@
       "name": "【BABY-G】 ベビーG BGA-1100GR-7BJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品 電波ソーラー",
       "priceJpy": 17710,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003689/I61066/page1/order/",
-      "updatedAt": "2026-07-03T19:17:42.829Z"
-    },
-    {
-      "slug": "watch-000000003584",
-      "makeshopId": "000000003584",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 GMA-P2100ST-4AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14630,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003584/I61066/page1/order/",
       "updatedAt": "2026-07-03T19:17:42.829Z"
     },
     {
@@ -4171,5 +4162,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-23T21:03:41.813Z"
+  "syncedAt": "2026-09-25T21:04:52.974Z"
 }

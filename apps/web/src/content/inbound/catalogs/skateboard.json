@@ -5,7 +5,7 @@
     "title": "Skateboards",
     "titleJa": "スケートボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61085/",
-    "totalProducts": 9
+    "totalProducts": 8
   },
   "brands": [],
   "products": [
@@ -26,15 +26,6 @@
       "priceJpy": 66000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003757/I61085/page1/order/",
       "updatedAt": "2026-08-28T02:01:44.033Z"
-    },
-    {
-      "slug": "skateboard-000000003695",
-      "makeshopId": "000000003695",
-      "brandSlug": "yow-surfskate",
-      "name": "【YOW SURFSKATE】 ヤウ サーフスケート 【PIPE 32\" Surfskate Complete】 2026SP POWER SURFING SERIES コンプリート スケートボード スノーボード サーフィン",
-      "priceJpy": 49500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003695/I61085/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.726Z"
     },
     {
       "slug": "skateboard-000000001800",
@@ -234,5 +225,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-23T21:03:43.445Z"
+  "syncedAt": "2026-09-25T21:04:54.777Z"
 }

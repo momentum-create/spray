@@ -5,14 +5,14 @@
     "title": "Wear",
     "titleJa": "ウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct298/",
-    "totalProducts": 39
+    "totalProducts": 40
   },
   "brands": [
     {
       "slug": "the-north-face",
       "name": "THE NORTH FACE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct320/",
-      "productCount": 7
+      "productCount": 8
     },
     {
       "slug": "patagonia",
@@ -52,6 +52,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "wear-000000004379",
+      "makeshopId": "000000004379",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【LAYBACK BC Bib】 レイバックビーシービブ ユニセックス/スノーボードウェア/ビブパンツ 2026-2027 NS62611",
+      "priceJpy": 68200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004379/ct298/page1/order/",
+      "updatedAt": "2026-09-25T21:04:44.186Z"
+    },
     {
       "slug": "wear-000000004351",
       "makeshopId": "000000004351",
@@ -833,5 +842,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-23T21:03:33.754Z"
+  "syncedAt": "2026-09-25T21:04:44.186Z"
 }

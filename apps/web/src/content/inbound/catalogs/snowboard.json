@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 85
+    "totalProducts": 93
   },
   "brands": [
     {
@@ -54,13 +54,13 @@
       "slug": "wrx",
       "name": "WRX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct326/",
-      "productCount": 1
+      "productCount": 5
     },
     {
       "slug": "rice28",
       "name": "RICE28",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct396/",
-      "productCount": 0
+      "productCount": 4
     },
     {
       "slug": "november",
@@ -186,13 +186,13 @@
       "slug": "wrx",
       "name": "WRX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct326/",
-      "productCount": 1
+      "productCount": 5
     },
     {
       "slug": "rice28",
       "name": "RICE28",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct396/",
-      "productCount": 0
+      "productCount": 4
     },
     {
       "slug": "november",
@@ -274,6 +274,78 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004112",
+      "makeshopId": "000000004112",
+      "brandSlug": "wrx",
+      "name": "【WRX】ダブルアールエックス 【BEAST MODE Mk-T2】ビーストモード マークティーツー 2026-2027MODEL スノーボード / グラトリ / ラントリ / カービング",
+      "priceJpy": 163900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004112/I61077/page1/order/",
+      "updatedAt": "2026-09-25T21:04:41.501Z"
+    },
+    {
+      "slug": "snowboard-000000004110",
+      "makeshopId": "000000004110",
+      "brandSlug": "wrx",
+      "name": "【WRX】ダブルアールエックス 【Mk-CW】マークシーダブリュー 2026-2027MODEL スノーボード / グラトリ / ラントリ / カービング",
+      "priceJpy": 135300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004110/I61077/page1/order/",
+      "updatedAt": "2026-09-25T21:04:41.501Z"
+    },
+    {
+      "slug": "snowboard-000000004111",
+      "makeshopId": "000000004111",
+      "brandSlug": "wrx",
+      "name": "【WRX】ダブルアールエックス 【Mk-U】マークユー 2026-2027MODEL スノーボード / グラトリ / ラントリ / カービング",
+      "priceJpy": 135300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004111/I61077/page1/order/",
+      "updatedAt": "2026-09-25T21:04:41.501Z"
+    },
+    {
+      "slug": "snowboard-000000004109",
+      "makeshopId": "000000004109",
+      "brandSlug": "wrx",
+      "name": "【WRX】ダブルアールエックス 【Mk-S / Mk-S MW】マークエス / マークエス ミッドワイド 2026-2027MODEL スノーボード / グラトリ / ラントリ",
+      "priceJpy": 132000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004109/I61077/page1/order/",
+      "updatedAt": "2026-09-25T21:04:41.501Z"
+    },
+    {
+      "slug": "snowboard-000000004093",
+      "makeshopId": "000000004093",
+      "brandSlug": "rice28",
+      "name": "【RICE28】ライス28 【CP】シーピー カービングパウダー 2026-2027MODEL スノーボード / カービング / フリースタイル / フリーライディング",
+      "priceJpy": 130900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004093/I61077/page1/order/",
+      "updatedAt": "2026-09-25T21:04:41.501Z"
+    },
+    {
+      "slug": "snowboard-000000004094",
+      "makeshopId": "000000004094",
+      "brandSlug": "rice28",
+      "name": "【RICE28】ライス28 【MP 155】エムピー モーグルパウ 155cm 2026-2027MODEL スノーボード / カービング / フリースタイル / フリーライディング",
+      "priceJpy": 121000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004094/I61077/page1/order/",
+      "updatedAt": "2026-09-25T21:04:41.501Z"
+    },
+    {
+      "slug": "snowboard-000000004073",
+      "makeshopId": "000000004073",
+      "brandSlug": "rice28",
+      "name": "【RICE28】ライス28 【RT7】2026-2027MODEL スノーボード / カービング / フリースタイル / グラトリ / ラントリ",
+      "priceJpy": 118800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004073/I61077/page1/order/",
+      "updatedAt": "2026-09-25T21:04:41.501Z"
+    },
+    {
+      "slug": "snowboard-000000004074",
+      "makeshopId": "000000004074",
+      "brandSlug": "rice28",
+      "name": "【RICE28】ライス28 【RT7 LTD】Limited リミテッド 2026-2027MODEL スノーボード / カービング / フリースタイル / グラトリ / ラントリ",
+      "priceJpy": 121000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004074/I61077/page1/order/",
+      "updatedAt": "2026-09-25T21:04:41.501Z"
+    },
     {
       "slug": "snowboard-000000003807",
       "makeshopId": "000000003807",
@@ -1810,5 +1882,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-23T21:03:30.789Z"
+  "syncedAt": "2026-09-25T21:04:41.501Z"
 }

@@ -5,7 +5,7 @@
     "title": "Bags",
     "titleJa": "バッグ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61075/",
-    "totalProducts": 33
+    "totalProducts": 32
   },
   "brands": [],
   "products": [
@@ -106,15 +106,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【BC Duffel XXS】 BCダッフルXXS NN32102 ポーチ",
       "priceJpy": 3300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003712/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000003530",
-      "makeshopId": "000000003530",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【Atom Sling 8L】 アトム・スリング 8L 48262 バッグ ショルダー",
-      "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003530/I61075/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
@@ -689,5 +680,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-23T21:03:39.739Z"
+  "syncedAt": "2026-09-25T21:04:50.368Z"
 }

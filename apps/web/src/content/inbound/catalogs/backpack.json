@@ -5,19 +5,10 @@
     "title": "Backpacks",
     "titleJa": "バックパック",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct300/",
-    "totalProducts": 13
+    "totalProducts": 12
   },
   "brands": [],
   "products": [
-    {
-      "slug": "backpack-000000003530",
-      "makeshopId": "000000003530",
-      "brandSlug": "patagonia",
-      "name": "【patagonia】 パタゴニア 【Atom Sling 8L】 アトム・スリング 8L 48262 バッグ ショルダー",
-      "priceJpy": 9350,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003530/ct300/page1/order/",
-      "updatedAt": "2026-05-29T06:08:24.220Z"
-    },
     {
       "slug": "backpack-000000003024",
       "makeshopId": "000000003024",
@@ -289,5 +280,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-23T21:03:35.014Z"
+  "syncedAt": "2026-09-25T21:04:45.616Z"
 }
