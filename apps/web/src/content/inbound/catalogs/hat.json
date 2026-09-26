@@ -5,14 +5,14 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 39
+    "totalProducts": 41
   },
   "brands": [
     {
       "slug": "ct344",
       "name": "ビーニー・ニット",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct344/",
-      "productCount": 4
+      "productCount": 5
     },
     {
       "slug": "ct345",
@@ -24,7 +24,7 @@
       "slug": "ct347",
       "name": "キャップ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
-      "productCount": 18
+      "productCount": 19
     },
     {
       "slug": "ct346",
@@ -35,6 +35,33 @@
   ],
   "products": [
     {
+      "slug": "hat-000000004381",
+      "makeshopId": "000000004381",
+      "brandSlug": "halo-commodity",
+      "name": "【halo commodity】 ハロコモディティー 【Lock Flap Cap】 h263-3003 男女兼用 / ユニセックス キャップ 帽子",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004381/I61098/page1/order/",
+      "updatedAt": "2026-09-26T20:38:01.854Z"
+    },
+    {
+      "slug": "hat-000000004353",
+      "makeshopId": "000000004353",
+      "brandSlug": "halo-commodity",
+      "name": "【halo commodity】 ハロコモディティー 【Grid Cap】 h263-2001 男女兼用 / ユニセックス キャップ 帽子",
+      "priceJpy": 6270,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004353/I61098/page1/order/",
+      "updatedAt": "2026-09-26T20:38:01.854Z"
+    },
+    {
+      "slug": "hat-000000004380",
+      "makeshopId": "000000004380",
+      "brandSlug": "halo-commodity",
+      "name": "【halo commodity】 ハロコモディティー 【Nest Watch】 h263-117 男女兼用 ユニセックス ビーニー ニット帽",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004380/I61098/page1/order/",
+      "updatedAt": "2026-09-26T20:38:01.854Z"
+    },
+    {
       "slug": "hat-000000004332",
       "makeshopId": "000000004332",
       "brandSlug": "ebs",
@@ -42,15 +69,6 @@
       "priceJpy": 4620,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004332/I61098/page1/order/",
       "updatedAt": "2026-09-13T20:18:46.071Z"
-    },
-    {
-      "slug": "hat-000000004353",
-      "makeshopId": "000000004353",
-      "brandSlug": "halo-commodity",
-      "name": "【halo commodity】 ハロコモディティー 【Grid Cap】 hh263-2001 男女兼用 / ユニセックス キャップ 帽子",
-      "priceJpy": 6270,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004353/I61098/page1/order/",
-      "updatedAt": "2026-09-12T20:10:22.391Z"
     },
     {
       "slug": "hat-000000004352",
@@ -813,5 +831,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-26T19:30:38.599Z"
+  "syncedAt": "2026-09-26T20:38:01.854Z"
 }

@@ -5,10 +5,28 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 66
+    "totalProducts": 74
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000004181",
+      "makeshopId": "000000004181",
+      "brandSlug": "riptide",
+      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004279",
+      "makeshopId": "000000004279",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Micro Bicari 78A 55mm】 マイクロビカリ 78A 55mm スケートボード ウィール ロンスケ",
+      "priceJpy": 5720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004279/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
     {
       "slug": "skateboard-parts-000000004200",
       "makeshopId": "000000004200",
@@ -19,6 +37,60 @@
       "updatedAt": "2026-08-15T18:24:05.310Z"
     },
     {
+      "slug": "skateboard-parts-000000004199",
+      "makeshopId": "000000004199",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Numeri 78A 65mm Orange】 ヌメリ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004199/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004197",
+      "makeshopId": "000000004197",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Bicari 78A 65mm】 ビカリ 78A 65mm スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004197/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003895",
+      "makeshopId": "000000003895",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numerip 78A 60mm Green】 ミニヌメリップ 78A 60mm グリーン スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
+      "updatedAt": "2026-07-23T19:12:00.436Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003894",
+      "makeshopId": "000000003894",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003797",
+      "makeshopId": "000000003797",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Monster Numerip 78A 72mm】 モンスターヌメリップ 78A 72mm スケートボード ウィール ロンスケ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003797/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004198",
+      "makeshopId": "000000004198",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicari 78A 60mm】 ミニビカリ 78A 60mm スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004198/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
       "slug": "skateboard-parts-000000004196",
       "makeshopId": "000000004196",
       "brandSlug": "zulu-wheels",
@@ -26,6 +98,24 @@
       "priceJpy": 6160,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004196/ct307/page1/order/",
       "updatedAt": "2026-07-23T19:12:00.436Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003889",
+      "makeshopId": "000000003889",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Monster Cimeri 78A 70mm】 モンスターシメリ 78A 70mm スケートボード ウィール ロンスケ",
+      "priceJpy": 8140,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003889/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003794",
+      "makeshopId": "000000003794",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Petari 78a 82.5mm】 ペタリ 78A 82.5mm スケートボード ウィール ロンスケ",
+      "priceJpy": 9240,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003794/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
       "slug": "skateboard-parts-000000003827",
@@ -73,15 +163,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003794",
-      "makeshopId": "000000003794",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Petari 78a 82.5mm】 ペタリ 78A 82.5mm スケートボード ウィール ロンスケ",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003794/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003796",
       "makeshopId": "000000003796",
       "brandSlug": "zulu-wheels",
@@ -116,15 +197,6 @@
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003893/ct307/page1/order/",
       "updatedAt": "2026-06-19T19:47:12.123Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003895",
-      "makeshopId": "000000003895",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numerip 78A 60mm Green】 ミニヌメリップ 78A 60mm グリーン スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
-      "updatedAt": "2026-07-23T19:12:00.436Z"
     },
     {
       "slug": "skateboard-parts-000000004180",
@@ -1399,5 +1471,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-26T19:30:38.601Z"
+  "syncedAt": "2026-09-26T20:38:03.937Z"
 }
