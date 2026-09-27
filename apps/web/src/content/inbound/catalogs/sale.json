@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 270
+    "totalProducts": 269
   },
   "brands": [],
   "products": [
@@ -322,15 +322,6 @@
       "name": "【G-SHOCK】 Gショック GMA-P2100PC-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 14960,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004155/I61093/page1/order/",
-      "updatedAt": "2026-07-17T19:03:36.152Z"
-    },
-    {
-      "slug": "sale-000000004152",
-      "makeshopId": "000000004152",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック DW-6900HDS-7JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 12320,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004152/I61093/page1/order/",
       "updatedAt": "2026-07-17T19:03:36.152Z"
     },
     {
@@ -6361,5 +6352,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-26T20:38:12.295Z"
+  "syncedAt": "2026-09-27T20:52:28.543Z"
 }

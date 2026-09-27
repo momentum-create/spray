@@ -5,7 +5,7 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 74
+    "totalProducts": 73
   },
   "brands": [],
   "products": [
@@ -520,15 +520,6 @@
       "name": "【PARIS】 パリス 【V3 180mm 50° 】TROPIC GREEN スケートボード トラック リバースキングピン",
       "priceJpy": 10120,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003813/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003812",
-      "makeshopId": "000000003812",
-      "brandSlug": "paris",
-      "name": "【PARIS】 パリス 【V3 180mm 50° 】POLISHED(SILVER) スケートボード トラック リバースキングピン",
-      "priceJpy": 9680,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003812/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1471,5 +1462,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-26T20:38:03.937Z"
+  "syncedAt": "2026-09-27T20:52:21.530Z"
 }

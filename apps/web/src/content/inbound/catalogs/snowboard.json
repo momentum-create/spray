@@ -5,14 +5,14 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 93
+    "totalProducts": 98
   },
   "brands": [
     {
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 38
+      "productCount": 42
     },
     {
       "slug": "field-earth",
@@ -24,7 +24,7 @@
       "slug": "tj-brand",
       "name": "TJ BRAND",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
-      "productCount": 2
+      "productCount": 4
     },
     {
       "slug": "koruashapes",
@@ -66,7 +66,7 @@
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "k2",
@@ -144,7 +144,7 @@
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 38
+      "productCount": 42
     },
     {
       "slug": "field-earth",
@@ -156,7 +156,7 @@
       "slug": "tj-brand",
       "name": "TJ BRAND",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
-      "productCount": 2
+      "productCount": 4
     },
     {
       "slug": "koruashapes",
@@ -198,7 +198,7 @@
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "k2",
@@ -274,6 +274,87 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004398",
+      "makeshopId": "000000004398",
+      "brandSlug": "tj-brand",
+      "name": "【TJ BRAND】 ティージェイ ブランド 【Catamaran-AC】カタマラン-AC 2026-2027 Model スノーボード パウダー スプリットボード",
+      "priceJpy": 151800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004398/I61077/page1/order/",
+      "updatedAt": "2026-09-27T20:52:04.783Z"
+    },
+    {
+      "slug": "snowboard-000000004397",
+      "makeshopId": "000000004397",
+      "brandSlug": "tj-brand",
+      "name": "【TJ BRAND】 ティージェイ ブランド 【Coelacanth】シーラカンス 2026-2027 Model スノーボード パウダー",
+      "priceJpy": 140800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004397/I61077/page1/order/",
+      "updatedAt": "2026-09-27T20:52:04.783Z"
+    },
+    {
+      "slug": "snowboard-000000004395",
+      "makeshopId": "000000004395",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【MERMAID KNIT CASE】マーメイド ニットケース スノーボード カバー",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004395/I61077/page1/order/",
+      "updatedAt": "2026-09-27T20:52:04.783Z"
+    },
+    {
+      "slug": "snowboard-000000004394",
+      "makeshopId": "000000004394",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【ROCKET FISH HIGH PERFORMANCE KNIT CASE】ロケットフィッシュ ハイパフォーマンス ニットケース スノーボード カバー",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004394/I61077/page1/order/",
+      "updatedAt": "2026-09-27T20:52:04.783Z"
+    },
+    {
+      "slug": "snowboard-000000004393",
+      "makeshopId": "000000004393",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BABY MANTARAY / BABY STINGRAY / MANTARAY 142 / 145 / 149 KNIT CASE】ベビーマンタレイ ベビースティングレイ マンタレイ ニットケース スノーボード カバー",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004393/I61077/page1/order/",
+      "updatedAt": "2026-09-27T20:52:04.783Z"
+    },
+    {
+      "slug": "snowboard-000000003772",
+      "makeshopId": "000000003772",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【MID FISH OUTLINE CORE】ミッドフィッシュ アウトラインコア 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 188100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003772/I61077/page1/order/",
+      "updatedAt": "2026-09-19T20:00:54.969Z"
+    },
+    {
+      "slug": "snowboard-000000003769",
+      "makeshopId": "000000003769",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【ROCKET FISH HIGHPERFORMANCE SOFTFLEX】ロケットフィッシュ ハイパフォーマンス ソフトフレックス 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 148500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003769/I61077/page1/order/",
+      "updatedAt": "2026-09-12T20:10:08.168Z"
+    },
+    {
+      "slug": "snowboard-000000003718",
+      "makeshopId": "000000003718",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【ALOHA NOKAOI 】アロハ ノカオイ 157cm 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 160600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003718/I61077/page1/order/",
+      "updatedAt": "2026-09-19T20:00:54.969Z"
+    },
+    {
+      "slug": "snowboard-000000003823",
+      "makeshopId": "000000003823",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【GIANTMANTARAY CHOPSTICKS PRO】ジャイアントマンタレイ チョップスティック プロ 2026-2027MODEL SPLIT バックカントリー スノーボード パウダー スプリット",
+      "priceJpy": 212300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003823/I61077/page1/order/",
+      "updatedAt": "2026-09-27T20:52:04.783Z"
+    },
     {
       "slug": "snowboard-000000004112",
       "makeshopId": "000000004112",
@@ -401,15 +482,6 @@
       "updatedAt": "2026-09-19T20:00:54.969Z"
     },
     {
-      "slug": "snowboard-000000003718",
-      "makeshopId": "000000003718",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【ALOHA NOKAOI 】アロハ ノカオイ 157cm 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 160600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003718/I61077/page1/order/",
-      "updatedAt": "2026-09-19T20:00:54.969Z"
-    },
-    {
       "slug": "snowboard-000000003721",
       "makeshopId": "000000003721",
       "brandSlug": "gentemstick",
@@ -452,15 +524,6 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【BIG FISH OUTLINE CORE】ビッグフィッシュ アウトラインコア 2026-2027MODEL バックカントリー スノーボード パウダー",
       "priceJpy": 189200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003781/I61077/page1/order/",
-      "updatedAt": "2026-09-19T20:00:54.969Z"
-    },
-    {
-      "slug": "snowboard-000000003772",
-      "makeshopId": "000000003772",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【MID FISH OUTLINE CORE】ミッドフィッシュ アウトラインコア 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 188100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003772/I61077/page1/order/",
       "updatedAt": "2026-09-19T20:00:54.969Z"
     },
     {
@@ -545,15 +608,6 @@
       "updatedAt": "2026-09-12T20:10:08.168Z"
     },
     {
-      "slug": "snowboard-000000003769",
-      "makeshopId": "000000003769",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【ROCKET FISH HIGHPERFORMANCE SOFTFLEX】ロケットフィッシュ ハイパフォーマンス ソフトフレックス 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 148500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003769/I61077/page1/order/",
-      "updatedAt": "2026-09-12T20:10:08.168Z"
-    },
-    {
       "slug": "snowboard-000000003820",
       "makeshopId": "000000003820",
       "brandSlug": "gentemstick",
@@ -623,15 +677,6 @@
       "name": "【NOVEMBER】ノベンバー 【ARTISTE 154 / 158】アーティスト 2026-2027MODEL フリーライディング フリースタイル スノーボード パウダー",
       "priceJpy": 109780,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004062/I61077/page1/order/",
-      "updatedAt": "2026-09-04T20:15:14.175Z"
-    },
-    {
-      "slug": "snowboard-000000004057",
-      "makeshopId": "000000004057",
-      "brandSlug": "november",
-      "name": "【NOVEMBER】ノベンバー 【MOUNTAINFOX 158】マウンテンフォックス 158 2026-2027MODEL フリーライディング スノーボード パウダー バックカントリー",
-      "priceJpy": 121000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004057/I61077/page1/order/",
       "updatedAt": "2026-09-04T20:15:14.175Z"
     },
     {
@@ -2062,5 +2107,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-26T20:37:46.210Z"
+  "syncedAt": "2026-09-27T20:52:04.783Z"
 }
