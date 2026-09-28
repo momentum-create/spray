@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
+      "updatedAt": "2026-08-20T18:34:30.822Z"
+    },
+    {
+      "slug": "backcountry-000000002327",
+      "makeshopId": "000000002327",
+      "brandSlug": "flex-vrt-25-yellow",
+      "name": "TUBBS 【FLEX VRT 25 YELLOW】 バックカントリー スノーシュー",
+      "priceJpy": 39600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002327/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
+    {
       "slug": "backcountry-000000003004",
       "makeshopId": "000000003004",
       "brandSlug": "contour",
@@ -26,15 +44,6 @@
       "priceJpy": 12375,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
-      "updatedAt": "2026-08-20T18:34:30.822Z"
     },
     {
       "slug": "backcountry-000000004375",
@@ -412,15 +421,6 @@
       "name": "【 bca 】 ビーシーエー DOZER 2T SHOVEL ショベル バックカントリー スキー スノーボード",
       "priceJpy": 12100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002242/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000002327",
-      "makeshopId": "000000002327",
-      "brandSlug": "flex-vrt-25-yellow",
-      "name": "TUBBS 【FLEX VRT 25 YELLOW】 バックカントリー スノーシュー",
-      "priceJpy": 39600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002327/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -1507,5 +1507,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-27T20:52:11.386Z"
+  "syncedAt": "2026-09-28T22:55:25.431Z"
 }

@@ -10,15 +10,6 @@
   "brands": [],
   "products": [
     {
-      "slug": "spray-original-000000004318",
-      "makeshopId": "000000004318",
-      "brandSlug": "other",
-      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
-      "priceJpy": 550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/ct271/page1/order/",
-      "updatedAt": "2026-09-11T20:25:01.801Z"
-    },
-    {
       "slug": "spray-original-000000004124",
       "makeshopId": "000000004124",
       "brandSlug": "slab-spray",
@@ -26,6 +17,15 @@
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct271/page1/order/",
       "updatedAt": "2026-07-12T19:01:30.037Z"
+    },
+    {
+      "slug": "spray-original-000000004318",
+      "makeshopId": "000000004318",
+      "brandSlug": "other",
+      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/ct271/page1/order/",
+      "updatedAt": "2026-09-11T20:25:01.801Z"
     },
     {
       "slug": "spray-original-000000004372",
@@ -1129,5 +1129,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-27T20:52:02.712Z"
+  "syncedAt": "2026-09-28T22:55:16.454Z"
 }

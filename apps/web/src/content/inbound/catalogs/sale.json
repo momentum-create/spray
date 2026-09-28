@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 269
+    "totalProducts": 268
   },
   "brands": [],
   "products": [
@@ -89,15 +89,6 @@
       "priceJpy": 15400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003590/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000004095",
-      "makeshopId": "000000004095",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-S2100WT-7A2JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10395,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004095/I61093/page1/order/",
-      "updatedAt": "2026-09-07T21:05:52.960Z"
     },
     {
       "slug": "sale-000000003595",
@@ -6352,5 +6343,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-27T20:52:28.543Z"
+  "syncedAt": "2026-09-28T22:55:41.059Z"
 }
