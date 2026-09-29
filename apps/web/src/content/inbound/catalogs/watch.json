@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 145
+    "totalProducts": 144
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 111
+      "productCount": 110
     },
     {
       "slug": "baby-g",
@@ -42,7 +42,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 111
+      "productCount": 110
     },
     {
       "slug": "baby-g",
@@ -72,7 +72,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 111
+      "productCount": 110
     },
     {
       "slug": "baby-g",
@@ -1395,15 +1395,6 @@
       "priceJpy": 36135,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003351/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
-    },
-    {
-      "slug": "watch-000000003612",
-      "makeshopId": "000000003612",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMA-P2100IT-4AJR 「ITZY」コラボレーションモデル 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13860,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003612/I61066/page1/order/",
-      "updatedAt": "2026-07-09T19:42:13.911Z"
     }
   ],
   "images": {
@@ -4144,5 +4135,5 @@
       ]
     }
   },
-  "syncedAt": "2026-09-28T22:55:31.449Z"
+  "syncedAt": "2026-09-29T21:50:43.594Z"
 }
