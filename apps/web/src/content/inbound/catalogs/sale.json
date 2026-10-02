@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 267
+    "totalProducts": 265
   },
   "brands": [],
   "products": [
@@ -224,15 +224,6 @@
       "priceJpy": 13200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61093/page1/order/",
       "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
-      "slug": "sale-000000003553",
-      "makeshopId": "000000003553",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2300FL-4AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14245,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003553/I61093/page1/order/",
-      "updatedAt": "2026-07-10T19:24:02.514Z"
     },
     {
       "slug": "sale-000000004214",
@@ -2023,15 +2014,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Shukabra Pant】 シュカブラパンツ ユニセックス/スノーボードウェア/パンツ NS62517",
       "priceJpy": 33400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003380/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003497",
-      "makeshopId": "000000003497",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】ラカイ 【RILEY 2 VS】ライリー2 Black Suede ブラック スエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 8085,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003497/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6334,5 +6316,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-01T22:20:04.080Z"
+  "syncedAt": "2026-10-02T21:48:42.835Z"
 }

@@ -5,14 +5,14 @@
     "title": "Footwear",
     "titleJa": "フットウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61086/",
-    "totalProducts": 28
+    "totalProducts": 27
   },
   "brands": [
     {
       "slug": "I61087",
       "name": "メンズ スニーカー",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61087/",
-      "productCount": 18
+      "productCount": 17
     },
     {
       "slug": "I61156",
@@ -32,10 +32,10 @@
       "slug": "footwear-000000004369",
       "makeshopId": "000000004369",
       "brandSlug": "vans",
-      "name": "【VANS】 ヴァンズ バンズ 【Sk8-Hi GORE-TEX Insulated】 スケートハイ GORE-TEX インシュレーテッド スニーカー 防水 冬靴 2026-2027",
+      "name": "【VANS】 ヴァンズ バンズ 【Sk8-Hi GORE-TEX Insulated】 スケートハイ GORE-TEX インシュレーテッド 2026-2027 スニーカー 防水 冬靴",
       "priceJpy": 24200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004369/I61086/page1/order/",
-      "updatedAt": "2026-09-15T20:51:20.972Z"
+      "updatedAt": "2026-10-02T21:48:29.039Z"
     },
     {
       "slug": "footwear-000000002560",
@@ -143,15 +143,6 @@
       "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Nuptse Bootie WP VII Dyneema】 ヌプシ ブーティ ウォータープルーフ VII ダイニーマ（ユニセックス） 男女兼用 メンズ レディース ブーツ 長靴 NF52470",
       "priceJpy": 27940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002963/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003497",
-      "makeshopId": "000000003497",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】ラカイ 【RILEY 2 VS】ライリー2 Black Suede ブラック スエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 8085,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003497/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
@@ -673,5 +664,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-01T22:19:51.851Z"
+  "syncedAt": "2026-10-02T21:48:29.039Z"
 }

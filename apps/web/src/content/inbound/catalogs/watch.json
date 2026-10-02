@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 144
+    "totalProducts": 143
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 110
+      "productCount": 109
     },
     {
       "slug": "baby-g",
@@ -42,7 +42,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 110
+      "productCount": 109
     },
     {
       "slug": "baby-g",
@@ -72,7 +72,7 @@
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 110
+      "productCount": 109
     },
     {
       "slug": "baby-g",
@@ -288,15 +288,6 @@
       "priceJpy": 13200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61066/page1/order/",
       "updatedAt": "2026-07-13T19:20:24.726Z"
-    },
-    {
-      "slug": "watch-000000003553",
-      "makeshopId": "000000003553",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2300FL-4AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14245,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003553/I61066/page1/order/",
-      "updatedAt": "2026-07-10T19:23:52.833Z"
     },
     {
       "slug": "watch-000000003568",
@@ -4135,5 +4126,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-01T22:19:54.327Z"
+  "syncedAt": "2026-10-02T21:48:31.954Z"
 }

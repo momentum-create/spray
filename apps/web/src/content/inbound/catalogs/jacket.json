@@ -5,10 +5,19 @@
     "title": "Jackets & Outerwear",
     "titleJa": "ジャケット・アウター",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct308/",
-    "totalProducts": 22
+    "totalProducts": 23
   },
   "brands": [],
   "products": [
+    {
+      "slug": "jacket-000000004412",
+      "makeshopId": "000000004412",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Red Run Hoodie】 レッドランフーディ NY82576 2026-2027 メンズ 男性用 ランニング アウトドア",
+      "priceJpy": 33000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004412/ct308/page1/order/",
+      "updatedAt": "2026-10-02T21:48:27.582Z"
+    },
     {
       "slug": "jacket-000000003897",
       "makeshopId": "000000003897",
@@ -502,5 +511,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-01T22:19:50.973Z"
+  "syncedAt": "2026-10-02T21:48:27.582Z"
 }
