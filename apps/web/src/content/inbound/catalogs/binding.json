@@ -1729,7 +1729,14 @@
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/08/39/3_000000003908.jpg?1779520779",
         "https://makeshop-multi-images.akamaized.net/spray166/shopimages/08/39/4_000000003908.jpg?1779520779"
       ]
+    },
+    "000000004408": {
+      "primary": "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004408_6s1aMrg.jpg",
+      "gallery": [
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/000000004408_6s1aMrg.jpg",
+        "https://makeshop-multi-images.akamaized.net/spray166/itemimages/0000000044082_5NOi0vx.jpg"
+      ]
     }
   },
-  "syncedAt": "2026-10-02T21:48:20.042Z"
+  "syncedAt": "2026-10-03T19:38:54.684Z"
 }
