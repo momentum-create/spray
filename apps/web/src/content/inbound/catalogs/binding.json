@@ -95,6 +95,15 @@
   ],
   "products": [
     {
+      "slug": "binding-000000002991",
+      "makeshopId": "000000002991",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Binding Hardware Kit】 ハードウエアキット バインディング スノーボード スプリットボード",
+      "priceJpy": 3575,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002991/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
       "slug": "binding-000000004408",
       "makeshopId": "000000004408",
       "brandSlug": "spark-r-d",
@@ -102,15 +111,6 @@
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004408/ct296/page1/order/",
       "updatedAt": "2026-10-02T21:48:20.042Z"
-    },
-    {
-      "slug": "binding-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
-      "updatedAt": "2026-08-20T18:34:26.246Z"
     },
     {
       "slug": "binding-000000002935",
@@ -536,15 +536,6 @@
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
-      "slug": "binding-000000002991",
-      "makeshopId": "000000002991",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Binding Hardware Kit】 ハードウエアキット バインディング スノーボード スプリットボード",
-      "priceJpy": 3575,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002991/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
       "slug": "binding-000000002937",
       "makeshopId": "000000002937",
       "brandSlug": "spark-r-d",
@@ -687,6 +678,15 @@
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003086/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct296/page1/order/",
+      "updatedAt": "2026-08-20T18:34:26.246Z"
     },
     {
       "slug": "binding-000000003077",
@@ -1738,5 +1738,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-03T19:38:54.684Z"
+  "syncedAt": "2026-10-03T20:34:50.226Z"
 }

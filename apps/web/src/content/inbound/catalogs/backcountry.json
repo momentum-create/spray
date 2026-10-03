@@ -5,10 +5,19 @@
     "title": "Backcountry",
     "titleJa": "バックカントリーアイテム",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct301/",
-    "totalProducts": 87
+    "totalProducts": 86
   },
   "brands": [],
   "products": [
+    {
+      "slug": "backcountry-000000002991",
+      "makeshopId": "000000002991",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Binding Hardware Kit】 ハードウエアキット バインディング スノーボード スプリットボード",
+      "priceJpy": 3575,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002991/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
     {
       "slug": "backcountry-000000004408",
       "makeshopId": "000000004408",
@@ -17,15 +26,6 @@
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004408/ct301/page1/order/",
       "updatedAt": "2026-10-02T21:48:24.856Z"
-    },
-    {
-      "slug": "backcountry-000000002817",
-      "makeshopId": "000000002817",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
-      "priceJpy": 14300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
-      "updatedAt": "2026-08-20T18:34:30.822Z"
     },
     {
       "slug": "backcountry-000000002327",
@@ -226,15 +226,6 @@
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
-      "slug": "backcountry-000000003003",
-      "makeshopId": "000000003003",
-      "brandSlug": "msr",
-      "name": "【MSR】 エム エス アール 【PARAGON-POSILOCK STRAP 14inch】 パラゴン／ポジロックストラップ 14インチ(2本セット) スノーシュー バックカントリー 登山 91045",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003003/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
       "slug": "backcountry-000000003055",
       "makeshopId": "000000003055",
       "brandSlug": "pomoca",
@@ -361,15 +352,6 @@
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
-      "slug": "backcountry-000000002991",
-      "makeshopId": "000000002991",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Binding Hardware Kit】 ハードウエアキット バインディング スノーボード スプリットボード",
-      "priceJpy": 3575,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002991/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
       "slug": "backcountry-000000003298",
       "makeshopId": "000000003298",
       "brandSlug": "dakine",
@@ -476,6 +458,15 @@
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003086/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
+    {
+      "slug": "backcountry-000000002817",
+      "makeshopId": "000000002817",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Canted Pucks Metal】 スパーク カント パックス Metal バックカントリー スプリットボード",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002817/ct301/page1/order/",
+      "updatedAt": "2026-08-20T18:34:30.822Z"
     },
     {
       "slug": "backcountry-000000003077",
@@ -1523,5 +1514,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-03T19:38:57.167Z"
+  "syncedAt": "2026-10-03T20:34:56.323Z"
 }

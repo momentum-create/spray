@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000004220",
+      "makeshopId": "000000004220",
+      "brandSlug": "mini-logo",
+      "name": "【Mini Logo】 ミニロゴ 【RIZER PAD .25”】 ライザーパッド 6.35mm スケートボード用 2枚セット",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004220/ct307/page1/order/",
+      "updatedAt": "2026-07-25T19:03:23.580Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004181",
+      "makeshopId": "000000004181",
+      "brandSlug": "riptide",
+      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
       "slug": "skateboard-parts-000000004219",
       "makeshopId": "000000004219",
       "brandSlug": "heaven-skateboard",
@@ -43,24 +61,6 @@
       "name": "【Zulu Wheels】 ズールーウィール 【Monster Numerip 78A 72mm】 モンスターヌメリップ 78A 72mm スケートボード ウィール ロンスケ",
       "priceJpy": 7700,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003797/ct307/page1/order/",
-      "updatedAt": "2026-09-26T20:38:03.937Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004181",
-      "makeshopId": "000000004181",
-      "brandSlug": "riptide",
-      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
-      "updatedAt": "2026-09-26T20:38:03.937Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004279",
-      "makeshopId": "000000004279",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Micro Bicari 78A 55mm】 マイクロビカリ 78A 55mm スケートボード ウィール ロンスケ",
-      "priceJpy": 5720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004279/ct307/page1/order/",
       "updatedAt": "2026-09-26T20:38:03.937Z"
     },
     {
@@ -143,15 +143,6 @@
       "priceJpy": 500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003827/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004220",
-      "makeshopId": "000000004220",
-      "brandSlug": "mini-logo",
-      "name": "【Mini Logo】 ミニロゴ 【RIZER PAD .25”】 ライザーパッド 6.35mm スケートボード用 2枚セット",
-      "priceJpy": 550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004220/ct307/page1/order/",
-      "updatedAt": "2026-07-25T19:03:23.580Z"
     },
     {
       "slug": "skateboard-parts-000000003850",
@@ -647,6 +638,15 @@
       "priceJpy": 9130,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003740/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004279",
+      "makeshopId": "000000004279",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Micro Bicari 78A 55mm】 マイクロビカリ 78A 55mm スケートボード ウィール ロンスケ",
+      "priceJpy": 5720,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004279/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
     },
     {
       "slug": "skateboard-parts-000000003796",
@@ -1453,5 +1453,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-03T19:39:00.542Z"
+  "syncedAt": "2026-10-03T20:35:08.933Z"
 }

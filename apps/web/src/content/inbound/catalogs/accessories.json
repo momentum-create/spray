@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 115
+    "totalProducts": 114
   },
   "brands": [
     {
@@ -584,15 +584,6 @@
       "name": "【MSR】 エム エス アール 【CLASSIC STRAP-12inch】 クラシックストラップ 12インチ(2本セット) スノーシュー バックカントリー 登山 91046",
       "priceJpy": 2640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003001/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000003003",
-      "makeshopId": "000000003003",
-      "brandSlug": "msr",
-      "name": "【MSR】 エム エス アール 【PARAGON-POSILOCK STRAP 14inch】 パラゴン／ポジロックストラップ 14インチ(2本セット) スノーシュー バックカントリー 登山 91045",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003003/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -2214,5 +2205,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-03T19:39:02.590Z"
+  "syncedAt": "2026-10-03T20:35:11.968Z"
 }
