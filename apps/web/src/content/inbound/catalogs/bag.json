@@ -5,10 +5,37 @@
     "title": "Bags",
     "titleJa": "バッグ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61075/",
-    "totalProducts": 32
+    "totalProducts": 34
   },
   "brands": [],
   "products": [
+    {
+      "slug": "bag-000000002996",
+      "makeshopId": "000000002996",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Base Camp Boot Pack】 ベースキャンプブーツパック スキー / スノーボード / ブーツパック NM82520",
+      "priceJpy": 29700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002996/I61075/page1/order/",
+      "updatedAt": "2026-10-04T20:51:15.673Z"
+    },
+    {
+      "slug": "bag-000000003391",
+      "makeshopId": "000000003391",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Factor 3】 ファクター 3 ショルダーバッグ ポーチ NM72612",
+      "priceJpy": 7150,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003391/I61075/page1/order/",
+      "updatedAt": "2026-10-04T20:51:15.673Z"
+    },
+    {
+      "slug": "bag-000000004420",
+      "makeshopId": "000000004420",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノースフェイス 【Arctic 48】 アークティック48 NM62350 2026-2027 スキー / スノーボード / バックカントリー / バックパック",
+      "priceJpy": 39600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004420/I61075/page1/order/",
+      "updatedAt": "2026-10-04T20:51:15.673Z"
+    },
     {
       "slug": "bag-000000004368",
       "makeshopId": "000000004368",
@@ -151,15 +178,6 @@
       "name": "【CHUMS】 チャムス 【Easy-Go Double Pocket Phone Shoulder Bag】 イージーゴーダブルポケットフォンショルダーバッグ バッグ スマートフォンショルダー CH60-3911",
       "priceJpy": 2970,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003344/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000003391",
-      "makeshopId": "000000003391",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Factor 3】 ファクター 3 ショルダーバッグ ポーチ NM82520",
-      "priceJpy": 7150,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003391/I61075/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
@@ -680,5 +698,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-03T20:35:02.341Z"
+  "syncedAt": "2026-10-04T20:51:15.673Z"
 }

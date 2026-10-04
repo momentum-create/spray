@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 265
+    "totalProducts": 264
   },
   "brands": [],
   "products": [
@@ -71,15 +71,6 @@
       "priceJpy": 15400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003591/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003949",
-      "makeshopId": "000000003949",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
-      "priceJpy": 17710,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/I61093/page1/order/",
-      "updatedAt": "2026-05-31T19:14:17.248Z"
     },
     {
       "slug": "sale-000000003590",
@@ -6316,5 +6307,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-03T20:35:16.873Z"
+  "syncedAt": "2026-10-04T20:51:28.750Z"
 }

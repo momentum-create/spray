@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 23
+    "totalProducts": 24
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "oakley",
       "name": "OAKLEY",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct342/",
-      "productCount": 3
+      "productCount": 4
     },
     {
       "slug": "anon",
@@ -46,6 +46,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "goggles-000000004423",
+      "makeshopId": "000000004423",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】オークリー 【Line Miner L】ラインマイナー エル Black/Prizm Snow Torch Iridium 2026-2027 MODEL OO7070-J7 ゴーグル スキー スノーボード",
+      "priceJpy": 28270,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004423/ct327/page1/order/",
+      "updatedAt": "2026-10-04T20:51:07.319Z"
+    },
     {
       "slug": "goggles-000000004407",
       "makeshopId": "000000004407",
@@ -516,5 +525,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-03T20:34:52.864Z"
+  "syncedAt": "2026-10-04T20:51:07.319Z"
 }

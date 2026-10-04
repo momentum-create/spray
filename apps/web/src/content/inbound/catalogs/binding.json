@@ -30,7 +30,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 12
+      "productCount": 13
     },
     {
       "slug": "union",
@@ -42,7 +42,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
-      "productCount": 3
+      "productCount": 2
     },
     {
       "slug": "rome",
@@ -72,7 +72,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 12
+      "productCount": 13
     },
     {
       "slug": "union",
@@ -84,7 +84,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
-      "productCount": 3
+      "productCount": 2
     },
     {
       "slug": "rome",
@@ -94,6 +94,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000003919",
+      "makeshopId": "000000003919",
+      "brandSlug": "flux",
+      "name": "【FLUX】フラックス 【DS STEP-ON】 2026-2027MODEL BINDINGS ステップオン ビンディング バインディング スノーボード",
+      "priceJpy": 49500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003919/ct296/page1/order/",
+      "updatedAt": "2026-10-04T20:51:04.752Z"
+    },
+    {
+      "slug": "binding-000000002935",
+      "makeshopId": "000000002935",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット バインディング スノーボード スプリットボード",
+      "priceJpy": 12375,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
     {
       "slug": "binding-000000002991",
       "makeshopId": "000000002991",
@@ -113,15 +131,6 @@
       "updatedAt": "2026-10-02T21:48:20.042Z"
     },
     {
-      "slug": "binding-000000002935",
-      "makeshopId": "000000002935",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット バインディング スノーボード スプリットボード",
-      "priceJpy": 12375,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
       "slug": "binding-000000002995",
       "makeshopId": "000000002995",
       "brandSlug": "spark-r-d",
@@ -138,15 +147,6 @@
       "priceJpy": 3300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003091/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003949",
-      "makeshopId": "000000003949",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】 サロモン 【THE FUTURE】 ザ・フューチャー 23-24 MODEL キッズ 子供用 スノーボードビンディング ビンディング バインディング スノーボード",
-      "priceJpy": 17710,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003949/ct296/page1/order/",
-      "updatedAt": "2026-05-31T19:13:50.678Z"
     },
     {
       "slug": "binding-000000003913",
@@ -1738,5 +1738,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-03T20:34:50.226Z"
+  "syncedAt": "2026-10-04T20:51:04.752Z"
 }
