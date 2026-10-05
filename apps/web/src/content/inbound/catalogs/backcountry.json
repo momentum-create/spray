@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000004373",
+      "makeshopId": "000000004373",
+      "brandSlug": "tubbs",
+      "name": "【TUBBS】 タブス 【FLEX CLM 24】 バックカントリー スノーシュー",
+      "priceJpy": 23760,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004373/ct301/page1/order/",
+      "updatedAt": "2026-09-22T20:52:47.631Z"
+    },
+    {
       "slug": "backcountry-000000002935",
       "makeshopId": "000000002935",
       "brandSlug": "spark-r-d",
@@ -70,15 +79,6 @@
       "name": "【TUBBS】 タブス 【FLEX CLM 22】 バックカントリー スノーシュー",
       "priceJpy": 23760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004374/ct301/page1/order/",
-      "updatedAt": "2026-09-22T20:52:47.631Z"
-    },
-    {
-      "slug": "backcountry-000000004373",
-      "makeshopId": "000000004373",
-      "brandSlug": "tubbs",
-      "name": "【TUBBS】 タブス 【FLEX CLM 24】 バックカントリー スノーシュー",
-      "priceJpy": 23760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004373/ct301/page1/order/",
       "updatedAt": "2026-09-22T20:52:47.631Z"
     },
     {
@@ -1514,5 +1514,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-04T20:51:10.808Z"
+  "syncedAt": "2026-10-05T23:43:11.101Z"
 }

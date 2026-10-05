@@ -5,7 +5,7 @@
     "title": "Bags",
     "titleJa": "バッグ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61075/",
-    "totalProducts": 34
+    "totalProducts": 33
   },
   "brands": [],
   "products": [
@@ -43,15 +43,6 @@
       "name": "【eb's】エビス 【BOOTS CASE】ブーツケース スノーボード / バックカントリー / バッグ / 2026/2027",
       "priceJpy": 5830,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004368/I61075/page1/order/",
-      "updatedAt": "2026-09-13T20:18:41.422Z"
-    },
-    {
-      "slug": "bag-000000004325",
-      "makeshopId": "000000004325",
-      "brandSlug": "ebs",
-      "name": "【eb's】エビス 【BOOTS TOTE】ブーツトート スノーボード / バックカントリー / バッグ / 2026/2027",
-      "priceJpy": 8580,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004325/I61075/page1/order/",
       "updatedAt": "2026-09-13T20:18:41.422Z"
     },
     {
@@ -698,5 +689,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-04T20:51:15.673Z"
+  "syncedAt": "2026-10-05T23:43:15.470Z"
 }

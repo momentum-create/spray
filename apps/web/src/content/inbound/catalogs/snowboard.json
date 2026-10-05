@@ -78,7 +78,7 @@
       "slug": "gray",
       "name": "GRAY",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
-      "productCount": 0
+      "productCount": 1
     },
     {
       "slug": "atirom-avs",
@@ -96,7 +96,7 @@
       "slug": "fntc",
       "name": "FNTC",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
-      "productCount": 2
+      "productCount": 1
     },
     {
       "slug": "flux",
@@ -210,7 +210,7 @@
       "slug": "gray",
       "name": "GRAY",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
-      "productCount": 0
+      "productCount": 1
     },
     {
       "slug": "atirom-avs",
@@ -228,7 +228,7 @@
       "slug": "fntc",
       "name": "FNTC",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
-      "productCount": 2
+      "productCount": 1
     },
     {
       "slug": "flux",
@@ -342,7 +342,7 @@
       "slug": "gray",
       "name": "GRAY",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
-      "productCount": 0
+      "productCount": 1
     },
     {
       "slug": "atirom-avs",
@@ -360,7 +360,7 @@
       "slug": "fntc",
       "name": "FNTC",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
-      "productCount": 2
+      "productCount": 1
     },
     {
       "slug": "flux",
@@ -406,6 +406,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004066",
+      "makeshopId": "000000004066",
+      "brandSlug": "gray",
+      "name": "【GRAY】グレイ 【SONICALMACH LT】ソニカルマッハ ライト 2026-2027 スノーボード / カービング / フリースタイル",
+      "priceJpy": 93500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004066/I61077/page1/order/",
+      "updatedAt": "2026-10-05T23:43:03.884Z"
+    },
     {
       "slug": "snowboard-000000004422",
       "makeshopId": "000000004422",
@@ -1286,15 +1295,6 @@
       "name": "【FNTC】エフエヌティーシー 【TNT R】153cm 157cm 2025/2026 MODEL スノーボード フリースタイル グラトリ ラントリ",
       "priceJpy": 54560,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003520/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000003521",
-      "makeshopId": "000000003521",
-      "brandSlug": "fntc",
-      "name": "【FNTC】エフエヌティーシー 【TNT L】 153cm 157cm 2025/2026 MODEL スノーボード フリースタイル グラトリ ラントリ",
-      "priceJpy": 54560,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003521/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
@@ -2461,5 +2461,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-04T20:51:02.963Z"
+  "syncedAt": "2026-10-05T23:43:03.884Z"
 }

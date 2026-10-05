@@ -5,10 +5,28 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 264
+    "totalProducts": 262
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003596",
+      "makeshopId": "000000003596",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-100TU-1A3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 13090,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003596/I61093/page1/order/",
+      "updatedAt": "2026-07-03T19:17:50.648Z"
+    },
+    {
+      "slug": "sale-000000004373",
+      "makeshopId": "000000004373",
+      "brandSlug": "tubbs",
+      "name": "【TUBBS】 タブス 【FLEX CLM 24】 バックカントリー スノーシュー",
+      "priceJpy": 23760,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004373/I61093/page1/order/",
+      "updatedAt": "2026-09-22T20:53:05.127Z"
+    },
     {
       "slug": "sale-000000003550",
       "makeshopId": "000000003550",
@@ -34,15 +52,6 @@
       "name": "【TUBBS】 タブス 【FLEX CLM 22】 バックカントリー スノーシュー",
       "priceJpy": 23760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004374/I61093/page1/order/",
-      "updatedAt": "2026-09-22T20:53:05.127Z"
-    },
-    {
-      "slug": "sale-000000004373",
-      "makeshopId": "000000004373",
-      "brandSlug": "tubbs",
-      "name": "【TUBBS】 タブス 【FLEX CLM 24】 バックカントリー スノーシュー",
-      "priceJpy": 23760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004373/I61093/page1/order/",
       "updatedAt": "2026-09-22T20:53:05.127Z"
     },
     {
@@ -487,15 +496,6 @@
       "updatedAt": "2026-07-13T19:20:36.122Z"
     },
     {
-      "slug": "sale-000000003573",
-      "makeshopId": "000000003573",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 GW-9500MRY-1A9JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 51920,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003573/I61093/page1/order/",
-      "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
       "slug": "sale-000000003569",
       "makeshopId": "000000003569",
       "brandSlug": "g-shock",
@@ -691,15 +691,6 @@
       "name": "【G-SHOCK】 Gショック GA-710TU-1A3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 13860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003594/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003596",
-      "makeshopId": "000000003596",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-100TU-1A3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13090,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003596/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
@@ -1735,15 +1726,6 @@
       "name": "【FNTC】エフエヌティーシー 【TNT R】153cm 157cm 2025/2026 MODEL スノーボード フリースタイル グラトリ ラントリ",
       "priceJpy": 54560,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003520/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003521",
-      "makeshopId": "000000003521",
-      "brandSlug": "fntc",
-      "name": "【FNTC】エフエヌティーシー 【TNT L】 153cm 157cm 2025/2026 MODEL スノーボード フリースタイル グラトリ ラントリ",
-      "priceJpy": 54560,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003521/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6307,5 +6289,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-04T20:51:28.750Z"
+  "syncedAt": "2026-10-05T23:43:29.515Z"
 }

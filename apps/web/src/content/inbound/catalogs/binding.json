@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 87
+    "totalProducts": 98
   },
   "brands": [
     {
@@ -36,7 +36,7 @@
       "slug": "union",
       "name": "UNION",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct329/",
-      "productCount": 5
+      "productCount": 16
     },
     {
       "slug": "salomon",
@@ -78,7 +78,7 @@
       "slug": "union",
       "name": "UNION",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct329/",
-      "productCount": 5
+      "productCount": 16
     },
     {
       "slug": "salomon",
@@ -94,6 +94,105 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000004392",
+      "makeshopId": "000000004392",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Women's Legacy】ウィメンズ レガシー 2026-2027MODEL レディース ビンディング バインディング スノーボード",
+      "priceJpy": 42900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004392/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004390",
+      "makeshopId": "000000004390",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Strata】ストラータ 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 42900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004390/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004389",
+      "makeshopId": "000000004389",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Ultra】ウルトラ 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 47300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004389/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004391",
+      "makeshopId": "000000004391",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Women's Astra Step-On】ウィメンズ アストラ ステップオン 2026-2027MODEL レディース ビンディング バインディング スノーボード",
+      "priceJpy": 60500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004391/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004388",
+      "makeshopId": "000000004388",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Atlas Step-On】アトラス ステップオン 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004388/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004387",
+      "makeshopId": "000000004387",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Atlas Pro Step-On】アトラス プロ ステップオン 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 75900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004387/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004386",
+      "makeshopId": "000000004386",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Neo】ネオ 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 57200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004386/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004385",
+      "makeshopId": "000000004385",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Falcor】ファルコア 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 61600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004385/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004382",
+      "makeshopId": "000000004382",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Atlas Pro / KazuKokubo】アトラス プロ 2026-2027MODEL ビンディング バインディング スノーボード 國母和弘",
+      "priceJpy": 69300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004382/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004383",
+      "makeshopId": "000000004383",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Atlas Pro / Black】アトラス プロ 2026-2027MODEL ブラック ビンディング バインディング スノーボード",
+      "priceJpy": 69300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004383/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
+    {
+      "slug": "binding-000000004384",
+      "makeshopId": "000000004384",
+      "brandSlug": "union",
+      "name": "【UNION】ユニオン 【Atlas Pro / Stone】アトラス プロ 2026-2027MODEL ストーン ビンディング バインディング スノーボード",
+      "priceJpy": 69300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004384/ct296/page1/order/",
+      "updatedAt": "2026-10-05T23:43:05.745Z"
+    },
     {
       "slug": "binding-000000003919",
       "makeshopId": "000000003919",
@@ -1738,5 +1837,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-04T20:51:04.752Z"
+  "syncedAt": "2026-10-05T23:43:05.745Z"
 }
