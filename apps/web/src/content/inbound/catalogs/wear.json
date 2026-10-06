@@ -53,6 +53,15 @@
   ],
   "products": [
     {
+      "slug": "wear-000000002832",
+      "makeshopId": "000000002832",
+      "brandSlug": "the-north-face",
+      "name": "ザ・ノース・フェイス【THE NORTH FACE】 レイバックビーシービブ 【LAYBACK BC Bib】 ユニセックス/スノーボードウェア/ビブパンツ NS62511",
+      "priceJpy": 54500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002832/ct298/page1/order/",
+      "updatedAt": "2026-05-29T06:08:23.356Z"
+    },
+    {
       "slug": "wear-000000004410",
       "makeshopId": "000000004410",
       "brandSlug": "the-north-face",
@@ -293,15 +302,6 @@
       "name": "ザ・ノース・フェイス【THE NORTH FACE】 レイバックビーシージャケット 【LAYBACK BC Jacket】 ユニセックス/スノーボードウェア/ジャケット NS62510",
       "priceJpy": 59800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002831/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000002832",
-      "makeshopId": "000000002832",
-      "brandSlug": "the-north-face",
-      "name": "ザ・ノース・フェイス【THE NORTH FACE】 レイバックビーシービブ 【LAYBACK BC Bib】 ユニセックス/スノーボードウェア/ビブパンツ NS62511",
-      "priceJpy": 54500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002832/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -909,5 +909,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-05T23:43:07.575Z"
+  "syncedAt": "2026-10-06T22:18:38.363Z"
 }

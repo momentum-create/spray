@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 98
+    "totalProducts": 97
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 17
+      "productCount": 16
     },
     {
       "slug": "flux",
@@ -66,7 +66,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 17
+      "productCount": 16
     },
     {
       "slug": "flux",
@@ -713,15 +713,6 @@
       "name": "【BURTON】 バートン 【Women's Scribe Re:Flex ウィメンズ スクライブ 25-26 ウィメンズ 女性用 BINDING ビンディング バインディング SNOWBOARD スノーボード",
       "priceJpy": 30800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003021/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003017",
-      "makeshopId": "000000003017",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Cartel Re:Flex】 カーテル 25-26 メンズ 男性用 BINDING ビンディング バインディング SNOWBOARD スノーボード",
-      "priceJpy": 36900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003017/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1837,5 +1828,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-05T23:43:05.745Z"
+  "syncedAt": "2026-10-06T22:18:36.762Z"
 }

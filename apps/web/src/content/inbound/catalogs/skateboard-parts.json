@@ -5,10 +5,19 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 72
+    "totalProducts": 69
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000003786",
+      "makeshopId": "000000003786",
+      "brandSlug": "independent",
+      "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 139",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003786/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
     {
       "slug": "skateboard-parts-000000004200",
       "makeshopId": "000000004200",
@@ -53,15 +62,6 @@
       "priceJpy": 550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004219/ct307/page1/order/",
       "updatedAt": "2026-07-25T19:03:23.580Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003786",
-      "makeshopId": "000000003786",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【139 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 139",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003786/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
       "slug": "skateboard-parts-000000004199",
@@ -523,15 +523,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003802",
-      "makeshopId": "000000003802",
-      "brandSlug": "orangatang",
-      "name": "【ORANGATANG】 オランガタン 【LOVE HANDLES WHEELS 65mm】 ファットフリー BLUE 77a スケートボード ウィール ロンスケ",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003802/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003778",
       "makeshopId": "000000003778",
       "brandSlug": "spitfire",
@@ -637,24 +628,6 @@
       "name": "【SPITFIRE】 スピットファイア 【FORMULA FOUR CLASSICS 】 F4 クラシックス 53mm 97DURO ウィール スケートボード",
       "priceJpy": 9130,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003740/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004279",
-      "makeshopId": "000000004279",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Micro Bicari 78A 55mm】 マイクロビカリ 78A 55mm スケートボード ウィール ロンスケ",
-      "priceJpy": 5720,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004279/ct307/page1/order/",
-      "updatedAt": "2026-09-26T20:38:03.937Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003796",
-      "makeshopId": "000000003796",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Monster Bicarip 78A 72mm】 モンスタービカリップ 78A 72mm スケートボード ウィール ロンスケ",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003796/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     }
   ],
@@ -1453,5 +1426,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-05T23:43:21.316Z"
+  "syncedAt": "2026-10-06T22:18:49.214Z"
 }

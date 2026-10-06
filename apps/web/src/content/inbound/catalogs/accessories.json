@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 115
+    "totalProducts": 114
   },
   "brands": [
     {
@@ -1035,15 +1035,6 @@
       "priceJpy": 2970,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002557/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000004302",
-      "makeshopId": "000000004302",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】 ゲンテン スティック 【nalgene bottle 500ml】 ナルゲンボトル500ミリリットル",
-      "priceJpy": 3850,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004302/I61079/page1/order/",
-      "updatedAt": "2026-08-28T02:01:47.459Z"
     },
     {
       "slug": "accessories-000000003000",
@@ -2214,5 +2205,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-05T23:43:23.888Z"
+  "syncedAt": "2026-10-06T22:18:51.642Z"
 }

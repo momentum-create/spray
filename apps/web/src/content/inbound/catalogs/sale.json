@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 262
+    "totalProducts": 260
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000002832",
+      "makeshopId": "000000002832",
+      "brandSlug": "the-north-face",
+      "name": "ザ・ノース・フェイス【THE NORTH FACE】 レイバックビーシービブ 【LAYBACK BC Bib】 ユニセックス/スノーボードウェア/ビブパンツ NS62511",
+      "priceJpy": 54500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002832/I61093/page1/order/",
+      "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
     {
       "slug": "sale-000000003596",
       "makeshopId": "000000003596",
@@ -718,15 +727,6 @@
       "name": "【G-SHOCK】 Gショック GA-110HD-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 13860,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003623/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003629",
-      "makeshopId": "000000003629",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMD-S5600NC-9JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003629/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
@@ -1972,15 +1972,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000002832",
-      "makeshopId": "000000002832",
-      "brandSlug": "the-north-face",
-      "name": "ザ・ノース・フェイス【THE NORTH FACE】 レイバックビーシービブ 【LAYBACK BC Bib】 ユニセックス/スノーボードウェア/ビブパンツ NS62511",
-      "priceJpy": 54500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002832/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003380",
       "makeshopId": "000000003380",
       "brandSlug": "the-north-face",
@@ -2194,15 +2185,6 @@
       "name": "【BURTON】 バートン 【Women's Scribe Re:Flex ウィメンズ スクライブ 25-26 ウィメンズ 女性用 BINDING ビンディング バインディング SNOWBOARD スノーボード",
       "priceJpy": 30800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003021/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003017",
-      "makeshopId": "000000003017",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Cartel Re:Flex】 カーテル 25-26 メンズ 男性用 BINDING ビンディング バインディング SNOWBOARD スノーボード",
-      "priceJpy": 36900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003017/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6289,5 +6271,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-05T23:43:29.515Z"
+  "syncedAt": "2026-10-06T22:18:55.324Z"
 }
