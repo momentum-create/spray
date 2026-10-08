@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 97
+    "totalProducts": 100
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 13
+      "productCount": 14
     },
     {
       "slug": "union",
@@ -42,7 +42,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
-      "productCount": 2
+      "productCount": 4
     },
     {
       "slug": "rome",
@@ -72,7 +72,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 13
+      "productCount": 14
     },
     {
       "slug": "union",
@@ -84,7 +84,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
-      "productCount": 2
+      "productCount": 4
     },
     {
       "slug": "rome",
@@ -94,6 +94,33 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000004451",
+      "makeshopId": "000000004451",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【HOLOGRAM】 ホログラム 2026-2027 HUCKLEBERRY ユニセックス スノーボードビンディング ビンディング バインディング",
+      "priceJpy": 52800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004451/ct296/page1/order/",
+      "updatedAt": "2026-10-08T22:51:55.689Z"
+    },
+    {
+      "slug": "binding-000000004450",
+      "makeshopId": "000000004450",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン【HIGHLANDER】 ハイランダー 2026-2027 メンズ 男性用 ビンディング バインディング スノーボード",
+      "priceJpy": 55000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004450/ct296/page1/order/",
+      "updatedAt": "2026-10-08T22:51:55.689Z"
+    },
+    {
+      "slug": "binding-000000003905",
+      "makeshopId": "000000003905",
+      "brandSlug": "flux",
+      "name": "【FLUX】フラックス 【CV】 2026-2027MODEL ビンディング バインディング スノーボード",
+      "priceJpy": 55000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003905/ct296/page1/order/",
+      "updatedAt": "2026-10-08T22:51:55.689Z"
+    },
     {
       "slug": "binding-000000004392",
       "makeshopId": "000000004392",
@@ -1828,5 +1855,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-07T22:40:42.045Z"
+  "syncedAt": "2026-10-08T22:51:55.689Z"
 }

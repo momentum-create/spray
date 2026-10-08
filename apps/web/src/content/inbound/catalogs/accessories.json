@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 114
+    "totalProducts": 119
   },
   "brands": [
     {
@@ -29,13 +29,49 @@
   ],
   "products": [
     {
-      "slug": "accessories-000000003217",
-      "makeshopId": "000000003217",
-      "brandSlug": "deeluxe",
-      "name": "【DEELUXE】ディーラックス 【BANE INSOLE】インソール スノーボード ブーツ 中敷き",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003217/I61079/page1/order/",
-      "updatedAt": "2026-10-05T23:43:23.888Z"
+      "slug": "accessories-000000004446",
+      "makeshopId": "000000004446",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Hand Cuff】ハンドカフ 91881 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004446/I61079/page1/order/",
+      "updatedAt": "2026-10-08T22:52:11.507Z"
+    },
+    {
+      "slug": "accessories-000000004445",
+      "makeshopId": "000000004445",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Hand Cuff Wide】ハンドカフ ワイド 91871 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004445/I61079/page1/order/",
+      "updatedAt": "2026-10-08T22:52:11.507Z"
+    },
+    {
+      "slug": "accessories-000000004444",
+      "makeshopId": "000000004444",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Touch Point Thermo】タッチポイントサーモ 2026-2027MODEL 3005110 グローブ 手袋 インナー 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004444/I61079/page1/order/",
+      "updatedAt": "2026-10-08T22:52:11.507Z"
+    },
+    {
+      "slug": "accessories-000000003219",
+      "makeshopId": "000000003219",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【LEATHER BALM】レザー バーム 91700 WAX ワックス グローブ 手袋 ブーツ / 皮 / 革 / 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003219/I61079/page1/order/",
+      "updatedAt": "2026-10-08T22:52:11.507Z"
+    },
+    {
+      "slug": "accessories-000000004438",
+      "makeshopId": "000000004438",
+      "brandSlug": "fieldearth",
+      "name": "【FIELDEARTH】フィールドアース 【SOLE COVER】ソール カバー スノーボード ケース",
+      "priceJpy": 15950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004438/I61079/page1/order/",
+      "updatedAt": "2026-10-08T22:52:11.507Z"
     },
     {
       "slug": "accessories-000000003401",
@@ -45,6 +81,15 @@
       "priceJpy": 4980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000003217",
+      "makeshopId": "000000003217",
+      "brandSlug": "deeluxe",
+      "name": "【DEELUXE】ディーラックス 【BANE INSOLE】インソール スノーボード ブーツ 中敷き",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003217/I61079/page1/order/",
+      "updatedAt": "2026-10-05T23:43:23.888Z"
     },
     {
       "slug": "accessories-000000003004",
@@ -2205,5 +2250,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-07T22:40:58.634Z"
+  "syncedAt": "2026-10-08T22:52:11.507Z"
 }

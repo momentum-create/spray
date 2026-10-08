@@ -5,14 +5,14 @@
     "title": "Gloves",
     "titleJa": "グローブ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct299/",
-    "totalProducts": 37
+    "totalProducts": 44
   },
   "brands": [
     {
       "slug": "hestra",
       "name": "HESTRA",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct336/",
-      "productCount": 8
+      "productCount": 15
     },
     {
       "slug": "deathgrip",
@@ -52,6 +52,69 @@
     }
   ],
   "products": [
+    {
+      "slug": "gloves-000000004446",
+      "makeshopId": "000000004446",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Hand Cuff】ハンドカフ 91881 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004446/ct299/page1/order/",
+      "updatedAt": "2026-10-08T22:51:58.544Z"
+    },
+    {
+      "slug": "gloves-000000004445",
+      "makeshopId": "000000004445",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Hand Cuff Wide】ハンドカフ ワイド 91871 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004445/ct299/page1/order/",
+      "updatedAt": "2026-10-08T22:51:58.544Z"
+    },
+    {
+      "slug": "gloves-000000004444",
+      "makeshopId": "000000004444",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Touch Point Thermo】タッチポイントサーモ 2026-2027MODEL 3005110 グローブ 手袋 インナー 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004444/ct299/page1/order/",
+      "updatedAt": "2026-10-08T22:51:58.544Z"
+    },
+    {
+      "slug": "gloves-000000004443",
+      "makeshopId": "000000004443",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Topo GTX 3-Finger】トポ GTX 3フィンガー 2026-2027MODEL 3004112 グローブ 手袋 革 皮 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 25300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004443/ct299/page1/order/",
+      "updatedAt": "2026-10-08T22:51:58.544Z"
+    },
+    {
+      "slug": "gloves-000000004442",
+      "makeshopId": "000000004442",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Topo 3-Finger】トポ 3フィンガー 2026-2027MODEL 30872 グローブ 手袋 革 皮 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 22000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004442/ct299/page1/order/",
+      "updatedAt": "2026-10-08T22:51:58.544Z"
+    },
+    {
+      "slug": "gloves-000000004441",
+      "makeshopId": "000000004441",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【3-Finger Full Leather】3フィンガー フルレザー 2026-2027MODEL 30872 グローブ 手袋 革 皮 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 22000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004441/ct299/page1/order/",
+      "updatedAt": "2026-10-08T22:51:58.544Z"
+    },
+    {
+      "slug": "gloves-000000003219",
+      "makeshopId": "000000003219",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【LEATHER BALM】レザー バーム 91700 WAX ワックス グローブ 手袋 ブーツ / 皮 / 革 / 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003219/ct299/page1/order/",
+      "updatedAt": "2026-10-08T22:51:58.544Z"
+    },
     {
       "slug": "gloves-000000004312",
       "makeshopId": "000000004312",
@@ -804,5 +867,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-07T22:40:44.831Z"
+  "syncedAt": "2026-10-08T22:51:58.544Z"
 }

@@ -5,10 +5,19 @@
     "title": "Bags",
     "titleJa": "バッグ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61075/",
-    "totalProducts": 33
+    "totalProducts": 34
   },
   "brands": [],
   "products": [
+    {
+      "slug": "bag-000000004438",
+      "makeshopId": "000000004438",
+      "brandSlug": "fieldearth",
+      "name": "【FIELDEARTH】フィールドアース 【SOLE COVER】ソール カバー スノーボード ケース",
+      "priceJpy": 15950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004438/I61075/page1/order/",
+      "updatedAt": "2026-10-08T22:52:04.451Z"
+    },
     {
       "slug": "bag-000000002996",
       "makeshopId": "000000002996",
@@ -689,5 +698,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-07T22:40:50.856Z"
+  "syncedAt": "2026-10-08T22:52:04.451Z"
 }

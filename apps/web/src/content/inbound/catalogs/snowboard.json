@@ -5,14 +5,14 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 117
+    "totalProducts": 122
   },
   "brands": [
     {
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 42
+      "productCount": 43
     },
     {
       "slug": "field-earth",
@@ -114,7 +114,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
-      "productCount": 4
+      "productCount": 8
     },
     {
       "slug": "arbor",
@@ -144,7 +144,7 @@
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 42
+      "productCount": 43
     },
     {
       "slug": "field-earth",
@@ -246,7 +246,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
-      "productCount": 4
+      "productCount": 8
     },
     {
       "slug": "arbor",
@@ -276,7 +276,7 @@
       "slug": "gentemstick",
       "name": "GENTEMSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
-      "productCount": 42
+      "productCount": 43
     },
     {
       "slug": "field-earth",
@@ -378,7 +378,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
-      "productCount": 4
+      "productCount": 8
     },
     {
       "slug": "arbor",
@@ -406,6 +406,78 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004448",
+      "makeshopId": "000000004448",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【REFLECT W】 レフレクト 2026-2027 ウィメンズ 女性用 SNOWBOARD スノーボード",
+      "priceJpy": 60500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004448/I61077/page1/order/",
+      "updatedAt": "2026-10-08T22:51:54.141Z"
+    },
+    {
+      "slug": "snowboard-000000004439",
+      "makeshopId": "000000004439",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【SIGHT】 サイト 2026-2027 メンズ 男性用 SNOWBOARD スノーボード",
+      "priceJpy": 64900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004439/I61077/page1/order/",
+      "updatedAt": "2026-10-08T22:51:54.141Z"
+    },
+    {
+      "slug": "snowboard-000000004440",
+      "makeshopId": "000000004440",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【BLISS】 ブリス 2026-2027 ウィメンズ 女性用 SNOWBOARD スノーボード",
+      "priceJpy": 64900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004440/I61077/page1/order/",
+      "updatedAt": "2026-10-08T22:51:54.141Z"
+    },
+    {
+      "slug": "snowboard-000000004447",
+      "makeshopId": "000000004447",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【REFLECT M】 レフレクト 2026-2027 メンズ 男性用 SNOWBOARD スノーボード",
+      "priceJpy": 60500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004447/I61077/page1/order/",
+      "updatedAt": "2026-10-08T22:51:54.141Z"
+    },
+    {
+      "slug": "snowboard-000000003717",
+      "makeshopId": "000000003717",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【GLIDER 198】グライダー 198 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 226600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003717/I61077/page1/order/",
+      "updatedAt": "2026-10-08T22:51:54.141Z"
+    },
+    {
+      "slug": "snowboard-000000003814",
+      "makeshopId": "000000003814",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 156】マンタレイ 156cm 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 146300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003814/I61077/page1/order/",
+      "updatedAt": "2026-08-21T18:32:14.832Z"
+    },
+    {
+      "slug": "snowboard-000000003765",
+      "makeshopId": "000000003765",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【THE CHASER HIGH PERFORMANCE】チェイサー ハイパフォーマンス 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 150700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003765/I61077/page1/order/",
+      "updatedAt": "2026-09-19T20:00:54.969Z"
+    },
+    {
+      "slug": "snowboard-000000003720",
+      "makeshopId": "000000003720",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【SPOON FISH 152 】スプーンフィッシュ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 137500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003720/I61077/page1/order/",
+      "updatedAt": "2026-09-19T20:00:54.969Z"
+    },
     {
       "slug": "snowboard-000000004422",
       "makeshopId": "000000004422",
@@ -758,15 +830,6 @@
       "updatedAt": "2026-08-21T18:32:14.832Z"
     },
     {
-      "slug": "snowboard-000000003814",
-      "makeshopId": "000000003814",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【MANTARAY 156】マンタレイ 156cm 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 146300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003814/I61077/page1/order/",
-      "updatedAt": "2026-08-21T18:32:14.832Z"
-    },
-    {
       "slug": "snowboard-000000003774",
       "makeshopId": "000000003774",
       "brandSlug": "gentemstick",
@@ -774,15 +837,6 @@
       "priceJpy": 150700,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003774/I61077/page1/order/",
       "updatedAt": "2026-09-12T20:10:08.168Z"
-    },
-    {
-      "slug": "snowboard-000000003765",
-      "makeshopId": "000000003765",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【THE CHASER HIGH PERFORMANCE】チェイサー ハイパフォーマンス 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 150700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003765/I61077/page1/order/",
-      "updatedAt": "2026-09-19T20:00:54.969Z"
     },
     {
       "slug": "snowboard-000000003824",
@@ -809,15 +863,6 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【MERMAID 】マーメイド 2026-2027MODEL バックカントリー スノーボード パウダー",
       "priceJpy": 137500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003721/I61077/page1/order/",
-      "updatedAt": "2026-09-19T20:00:54.969Z"
-    },
-    {
-      "slug": "snowboard-000000003720",
-      "makeshopId": "000000003720",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【SPOON FISH 152 】スプーンフィッシュ 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 137500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003720/I61077/page1/order/",
       "updatedAt": "2026-09-19T20:00:54.969Z"
     },
     {
@@ -2461,5 +2506,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-07T22:40:40.044Z"
+  "syncedAt": "2026-10-08T22:51:54.141Z"
 }

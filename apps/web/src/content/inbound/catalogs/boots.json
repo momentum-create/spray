@@ -5,7 +5,7 @@
     "title": "Boots",
     "titleJa": "ブーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct297/",
-    "totalProducts": 47
+    "totalProducts": 48
   },
   "brands": [
     {
@@ -40,6 +40,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "boots-000000003219",
+      "makeshopId": "000000003219",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【LEATHER BALM】レザー バーム 91700 WAX ワックス グローブ 手袋 ブーツ / 皮 / 革 / 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003219/ct297/page1/order/",
+      "updatedAt": "2026-10-08T22:51:56.259Z"
+    },
     {
       "slug": "boots-000000003217",
       "makeshopId": "000000003217",
@@ -950,5 +959,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-07T22:40:42.630Z"
+  "syncedAt": "2026-10-08T22:51:56.259Z"
 }
