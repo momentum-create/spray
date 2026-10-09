@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 122
+    "totalProducts": 121
   },
   "brands": [
     {
@@ -36,7 +36,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "moss-snowstick",
@@ -138,7 +138,7 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
-      "productCount": 8
+      "productCount": 7
     },
     {
       "slug": "gentemstick",
@@ -168,7 +168,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "moss-snowstick",
@@ -270,7 +270,7 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
-      "productCount": 8
+      "productCount": 7
     },
     {
       "slug": "gentemstick",
@@ -300,7 +300,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "moss-snowstick",
@@ -402,7 +402,7 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
-      "productCount": 8
+      "productCount": 7
     }
   ],
   "products": [
@@ -1403,15 +1403,6 @@
       "name": "【BURTON】 バートン 【Grom Ketchup / Mustard】 グロム Ketchup / Mustard キッズ 子供用 SNOWBOARD スノーボード",
       "priceJpy": 27280,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002712/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000002728",
-      "makeshopId": "000000002728",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Custom Smalls】 カスタム スモールズ 24-25 キッズ 子供用 SNOWBOARD スノーボード",
-      "priceJpy": 41360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002728/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
@@ -2506,5 +2497,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-08T22:51:54.141Z"
+  "syncedAt": "2026-10-09T22:13:39.929Z"
 }

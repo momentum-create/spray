@@ -5,10 +5,28 @@
     "title": "Helmets",
     "titleJa": "ヘルメット",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct339/",
-    "totalProducts": 3
+    "totalProducts": 5
   },
   "brands": [],
   "products": [
+    {
+      "slug": "helmet-000000004454",
+      "makeshopId": "000000004454",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【PIONEER LT RF】 パイオニア LT ラウンドフィット ヘルメット スキー スノーボード",
+      "priceJpy": 19800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004454/ct339/page1/order/",
+      "updatedAt": "2026-10-09T22:13:56.438Z"
+    },
+    {
+      "slug": "helmet-000000004453",
+      "makeshopId": "000000004453",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【HUSK PRO】 ハスク プロ ヘルメット スキー スノーボード",
+      "priceJpy": 24200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004453/ct339/page1/order/",
+      "updatedAt": "2026-10-09T22:13:56.438Z"
+    },
     {
       "slug": "helmet-000000003072",
       "makeshopId": "000000003072",
@@ -66,5 +84,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-08T22:52:07.742Z"
+  "syncedAt": "2026-10-09T22:13:56.438Z"
 }

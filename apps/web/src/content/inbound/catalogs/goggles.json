@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 32
+    "totalProducts": 33
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "oakley",
       "name": "OAKLEY",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct342/",
-      "productCount": 12
+      "productCount": 13
     },
     {
       "slug": "anon",
@@ -46,6 +46,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "goggles-000000004455",
+      "makeshopId": "000000004455",
+      "brandSlug": "oakley",
+      "name": "【OAKLEY】オークリー 【Line Miner L】ラインマイナー エル Matte Forged Iron/Prizm Rose Gold Iridium 2026-2027 MODEL OO7070-E8 ゴーグル スキー スノーボード",
+      "priceJpy": 29370,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004455/ct327/page1/order/",
+      "updatedAt": "2026-10-09T22:13:45.426Z"
+    },
     {
       "slug": "goggles-000000004432",
       "makeshopId": "000000004432",
@@ -597,5 +606,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-08T22:51:57.996Z"
+  "syncedAt": "2026-10-09T22:13:45.426Z"
 }

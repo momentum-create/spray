@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 100
+    "totalProducts": 101
   },
   "brands": [
     {
@@ -42,7 +42,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
-      "productCount": 4
+      "productCount": 5
     },
     {
       "slug": "rome",
@@ -84,7 +84,49 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
-      "productCount": 4
+      "productCount": 5
+    },
+    {
+      "slug": "rome",
+      "name": "ROME",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct330/",
+      "productCount": 0
+    },
+    {
+      "slug": "karakoram",
+      "name": "KARAKORAM",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct325/",
+      "productCount": 23
+    },
+    {
+      "slug": "spark-r-d",
+      "name": "SPARK R&D",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
+      "productCount": 28
+    },
+    {
+      "slug": "burton",
+      "name": "BURTON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
+      "productCount": 16
+    },
+    {
+      "slug": "flux",
+      "name": "FLUX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
+      "productCount": 14
+    },
+    {
+      "slug": "union",
+      "name": "UNION",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct329/",
+      "productCount": 16
+    },
+    {
+      "slug": "salomon",
+      "name": "SALOMON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct314/",
+      "productCount": 5
     },
     {
       "slug": "rome",
@@ -94,6 +136,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000004452",
+      "makeshopId": "000000004452",
+      "brandSlug": "salomon",
+      "name": "【SALOMON】 サロモン 【DISTRICT】 ディストリクト 2026-2027 BLACK&WHITE メンズ スノーボードビンディング バインディング",
+      "priceJpy": 48400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004452/ct296/page1/order/",
+      "updatedAt": "2026-10-09T22:13:42.950Z"
+    },
     {
       "slug": "binding-000000004451",
       "makeshopId": "000000004451",
@@ -1855,5 +1906,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-08T22:51:55.689Z"
+  "syncedAt": "2026-10-09T22:13:42.950Z"
 }
