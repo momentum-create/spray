@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 121
+    "totalProducts": 126
   },
   "brands": [
     {
@@ -84,7 +84,7 @@
       "slug": "atirom-avs",
       "name": "atirom-avs",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct337/",
-      "productCount": 2
+      "productCount": 7
     },
     {
       "slug": "ogasaka",
@@ -216,7 +216,7 @@
       "slug": "atirom-avs",
       "name": "atirom-avs",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct337/",
-      "productCount": 2
+      "productCount": 7
     },
     {
       "slug": "ogasaka",
@@ -348,7 +348,7 @@
       "slug": "atirom-avs",
       "name": "atirom-avs",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct337/",
-      "productCount": 2
+      "productCount": 7
     },
     {
       "slug": "ogasaka",
@@ -406,6 +406,60 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004422",
+      "makeshopId": "000000004422",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
+      "priceJpy": 108900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/I61077/page1/order/",
+      "updatedAt": "2026-10-04T20:51:02.963Z"
+    },
+    {
+      "slug": "snowboard-000000004437",
+      "makeshopId": "000000004437",
+      "brandSlug": "atirom-avs",
+      "name": "【atirom-avs】アチロム 【FORCE】フォース 2026-2027 スノーボード バックカントリー カービング",
+      "priceJpy": 108680,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004437/I61077/page1/order/",
+      "updatedAt": "2026-10-10T21:08:14.785Z"
+    },
+    {
+      "slug": "snowboard-000000004436",
+      "makeshopId": "000000004436",
+      "brandSlug": "atirom-avs",
+      "name": "【atirom-avs】アチロム 【SURAI】スライ 2026-2027 スノーボード バックカントリー カービング",
+      "priceJpy": 109780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004436/I61077/page1/order/",
+      "updatedAt": "2026-10-10T21:08:14.785Z"
+    },
+    {
+      "slug": "snowboard-000000004435",
+      "makeshopId": "000000004435",
+      "brandSlug": "atirom-avs",
+      "name": "【atirom-avs】アチロム 【Rotation 154】ローテーション 2026-2027 スノーボード バックカントリー カービング",
+      "priceJpy": 121880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004435/I61077/page1/order/",
+      "updatedAt": "2026-10-10T21:08:14.785Z"
+    },
+    {
+      "slug": "snowboard-000000004434",
+      "makeshopId": "000000004434",
+      "brandSlug": "atirom-avs",
+      "name": "【atirom-avs】アチロム 【Rotation 156】ローテーション 2026-2027 スノーボード バックカントリー カービング",
+      "priceJpy": 121880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004434/I61077/page1/order/",
+      "updatedAt": "2026-10-10T21:08:14.785Z"
+    },
+    {
+      "slug": "snowboard-000000004433",
+      "makeshopId": "000000004433",
+      "brandSlug": "atirom-avs",
+      "name": "【atirom-avs】アチロム 【Rotation 159】ローテーション 2026-2027 スノーボード バックカントリー カービング",
+      "priceJpy": 121880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004433/I61077/page1/order/",
+      "updatedAt": "2026-10-10T21:08:14.785Z"
+    },
     {
       "slug": "snowboard-000000004448",
       "makeshopId": "000000004448",
@@ -477,15 +531,6 @@
       "priceJpy": 137500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003720/I61077/page1/order/",
       "updatedAt": "2026-09-19T20:00:54.969Z"
-    },
-    {
-      "slug": "snowboard-000000004422",
-      "makeshopId": "000000004422",
-      "brandSlug": "spray",
-      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
-      "priceJpy": 108900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
     },
     {
       "slug": "snowboard-000000004066",
@@ -2757,5 +2802,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-10T20:25:56.959Z"
+  "syncedAt": "2026-10-10T21:08:14.785Z"
 }

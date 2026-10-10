@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 259
+    "totalProducts": 257
   },
   "brands": [],
   "products": [
@@ -188,15 +188,6 @@
       "priceJpy": 2200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003587",
-      "makeshopId": "000000003587",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 GA-010-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 12705,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003587/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
       "slug": "sale-000000003784",
@@ -736,15 +727,6 @@
       "name": "【G-SHOCK】 Gショック DWE-5600PR-2JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 16170,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003640/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003648",
-      "makeshopId": "000000003648",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GM-6900GDA-9JR 【達磨】 【CASIO】 カシオ ジーショック 腕時計 国内正規品 BlackEyePatch",
-      "priceJpy": 20790,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003648/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
@@ -6262,5 +6244,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-10T20:26:19.853Z"
+  "syncedAt": "2026-10-10T21:08:36.036Z"
 }
