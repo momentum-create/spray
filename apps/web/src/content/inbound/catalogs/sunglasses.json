@@ -64,15 +64,6 @@
       "updatedAt": "2026-07-22T19:13:03.658Z"
     },
     {
-      "slug": "sunglasses-000000003998",
-      "makeshopId": "000000003998",
-      "brandSlug": "fullon",
-      "name": "【Fullon】 フローン 【FGL 003-3】 サングラス 偏光 調光レンズ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003998/I61109/page1/order/",
-      "updatedAt": "2026-06-19T19:47:10.004Z"
-    },
-    {
       "slug": "sunglasses-000000004002",
       "makeshopId": "000000004002",
       "brandSlug": "fullon",
@@ -314,6 +305,15 @@
       "priceJpy": 27610,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003972/I61109/page1/order/",
       "updatedAt": "2026-06-09T20:05:24.074Z"
+    },
+    {
+      "slug": "sunglasses-000000003998",
+      "makeshopId": "000000003998",
+      "brandSlug": "fullon",
+      "name": "【Fullon】 フローン 【FGL 003-3】 サングラス 偏光 調光レンズ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003998/I61109/page1/order/",
+      "updatedAt": "2026-06-19T19:47:10.004Z"
     }
   ],
   "images": {
@@ -728,5 +728,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-10T21:08:27.257Z"
+  "syncedAt": "2026-10-11T21:27:21.655Z"
 }
