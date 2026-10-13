@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 136
+    "totalProducts": 134
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 31
+      "productCount": 30
     },
     {
       "slug": "tj-brand",
@@ -78,7 +78,7 @@
       "slug": "gray",
       "name": "GRAY",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
-      "productCount": 1
+      "productCount": 0
     },
     {
       "slug": "atirom-avs",
@@ -150,7 +150,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 31
+      "productCount": 30
     },
     {
       "slug": "tj-brand",
@@ -210,7 +210,7 @@
       "slug": "gray",
       "name": "GRAY",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
-      "productCount": 1
+      "productCount": 0
     },
     {
       "slug": "atirom-avs",
@@ -282,7 +282,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 31
+      "productCount": 30
     },
     {
       "slug": "tj-brand",
@@ -342,7 +342,7 @@
       "slug": "gray",
       "name": "GRAY",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
-      "productCount": 1
+      "productCount": 0
     },
     {
       "slug": "atirom-avs",
@@ -406,6 +406,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004421",
+      "makeshopId": "000000004421",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH Q148 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
+      "priceJpy": 108900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004421/I61077/page1/order/",
+      "updatedAt": "2026-10-04T20:51:02.963Z"
+    },
+    {
+      "slug": "snowboard-000000004422",
+      "makeshopId": "000000004422",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
+      "priceJpy": 108900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/I61077/page1/order/",
+      "updatedAt": "2026-10-04T20:51:02.963Z"
+    },
     {
       "slug": "snowboard-000000003873",
       "makeshopId": "000000003873",
@@ -513,15 +531,6 @@
       "priceJpy": 140800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003860/I61077/page1/order/",
       "updatedAt": "2026-10-11T21:27:08.703Z"
-    },
-    {
-      "slug": "snowboard-000000004422",
-      "makeshopId": "000000004422",
-      "brandSlug": "spray",
-      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
-      "priceJpy": 108900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
     },
     {
       "slug": "snowboard-000000004437",
@@ -641,15 +650,6 @@
       "updatedAt": "2026-09-19T20:00:54.969Z"
     },
     {
-      "slug": "snowboard-000000004066",
-      "makeshopId": "000000004066",
-      "brandSlug": "gray",
-      "name": "【GRAY】グレイ 【SONICALMACH LT】ソニカルマッハ ライト 2026-2027 スノーボード / カービング / フリースタイル",
-      "priceJpy": 93500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004066/I61077/page1/order/",
-      "updatedAt": "2026-10-05T23:43:03.884Z"
-    },
-    {
       "slug": "snowboard-000000003948",
       "makeshopId": "000000003948",
       "brandSlug": "bc-stream",
@@ -674,15 +674,6 @@
       "name": "【BC Stream】BCストリーム 【BRAH】ブラフ 2026/2027MODEL スノーボード バックカントリー カービング ラントリ グラトリ",
       "priceJpy": 123200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003952/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
-    },
-    {
-      "slug": "snowboard-000000004421",
-      "makeshopId": "000000004421",
-      "brandSlug": "spray",
-      "name": "【SPRAY別注】FIELDEARTH Q148 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
-      "priceJpy": 108900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004421/I61077/page1/order/",
       "updatedAt": "2026-10-04T20:51:02.963Z"
     },
     {
@@ -1403,15 +1394,6 @@
       "name": "【FIELD EARTH】 フィールド アース 【SVO Lefty】 2025-2026 MODEL スノーボード",
       "priceJpy": 117700,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003139/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000003888",
-      "makeshopId": "000000003888",
-      "brandSlug": "field-earth",
-      "name": "【FIELD EARTH】 フィールド アース 【T3 162】 Mid 3D Model 2025-2026 MODEL スノーボード",
-      "priceJpy": 167200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003888/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
@@ -2892,5 +2874,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-11T21:27:08.703Z"
+  "syncedAt": "2026-10-13T00:07:15.034Z"
 }

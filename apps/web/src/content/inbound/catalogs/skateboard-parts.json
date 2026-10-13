@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003826",
+      "makeshopId": "000000003826",
+      "brandSlug": "w-p-s-i",
+      "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 100mm 】 スケートボード クルーザートラック",
+      "priceJpy": 8360,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003826/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003894",
+      "makeshopId": "000000003894",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
       "slug": "skateboard-parts-000000003819",
       "makeshopId": "000000003819",
       "brandSlug": "w-p-s-i",
@@ -107,15 +125,6 @@
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003895/ct307/page1/order/",
       "updatedAt": "2026-07-23T19:12:00.436Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003894",
-      "makeshopId": "000000003894",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Numerip 78A 65mm Orange】 ヌメリップ 78A 65mm オレンジ スケートボード ウィール ロンスケ",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003894/ct307/page1/order/",
-      "updatedAt": "2026-09-26T20:38:03.937Z"
     },
     {
       "slug": "skateboard-parts-000000004198",
@@ -358,15 +367,6 @@
       "name": "【INDEPENDENT】 インディペンデント 【144 STAGE 11 FORGED HOLLOW SILVER TRUCKS】 スケートボード トラック 144",
       "priceJpy": 9900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003787/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003826",
-      "makeshopId": "000000003826",
-      "brandSlug": "w-p-s-i",
-      "name": "【W.P.S.I.】 World Pandemic Speed Injection 【W.P.S.I. CRUISER TRUCKS / 100mm 】 スケートボード クルーザートラック",
-      "priceJpy": 8360,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003826/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -1426,5 +1426,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-11T21:27:24.508Z"
+  "syncedAt": "2026-10-13T00:07:33.372Z"
 }

@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003576",
+      "makeshopId": "000000003576",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 DW-6900TR-4JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61093/page1/order/",
+      "updatedAt": "2026-07-13T19:20:36.122Z"
+    },
+    {
+      "slug": "sale-000000003592",
+      "makeshopId": "000000003592",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック DW-5600RS-8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 10780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003592/I61093/page1/order/",
+      "updatedAt": "2026-07-03T19:17:50.648Z"
+    },
+    {
       "slug": "sale-000000003675",
       "makeshopId": "000000003675",
       "brandSlug": "baby-g",
@@ -80,15 +98,6 @@
       "priceJpy": 23760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004374/I61093/page1/order/",
       "updatedAt": "2026-09-22T20:53:05.127Z"
-    },
-    {
-      "slug": "sale-000000003592",
-      "makeshopId": "000000003592",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック DW-5600RS-8JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003592/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
       "slug": "sale-000000003593",
@@ -224,15 +233,6 @@
       "priceJpy": 385,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004217/I61093/page1/order/",
       "updatedAt": "2026-07-25T19:03:30.338Z"
-    },
-    {
-      "slug": "sale-000000003576",
-      "makeshopId": "000000003576",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 DW-6900TR-4JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61093/page1/order/",
-      "updatedAt": "2026-07-13T19:20:36.122Z"
     },
     {
       "slug": "sale-000000004214",
@@ -6235,5 +6235,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-11T21:27:31.622Z"
+  "syncedAt": "2026-10-13T00:07:40.430Z"
 }
