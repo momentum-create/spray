@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 100
+    "totalProducts": 99
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 16
+      "productCount": 15
     },
     {
       "slug": "flux",
@@ -66,7 +66,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 16
+      "productCount": 15
     },
     {
       "slug": "flux",
@@ -94,6 +94,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000004408",
+      "makeshopId": "000000004408",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ibex ST PRO CRAMPON】 アイベックス ST プロ クランポン 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004408/ct296/page1/order/",
+      "updatedAt": "2026-10-02T21:48:20.042Z"
+    },
+    {
+      "slug": "binding-000000002934",
+      "makeshopId": "000000002934",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Pow Surfer Heel Loops 】 パウサーファーヒールループ バインディング スノーボード スプリットボード",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002934/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
     {
       "slug": "binding-000000004452",
       "makeshopId": "000000004452",
@@ -246,15 +264,6 @@
       "priceJpy": 3575,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002991/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000004408",
-      "makeshopId": "000000004408",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【ibex ST PRO CRAMPON】 アイベックス ST プロ クランポン 26-27 バインディング スノーボード スプリットボード",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004408/ct296/page1/order/",
-      "updatedAt": "2026-10-02T21:48:20.042Z"
     },
     {
       "slug": "binding-000000002995",
@@ -590,15 +599,6 @@
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
-      "slug": "binding-000000003022",
-      "makeshopId": "000000003022",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Women's Citizen Re:Flex】 ウィメンズ シチズン 25-26 ウィメンズ 女性用 BINDING ビンディング バインディング SNOWBOARD スノーボード",
-      "priceJpy": 19300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003022/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
       "slug": "binding-000000002881",
       "makeshopId": "000000002881",
       "brandSlug": "spark-r-d",
@@ -686,15 +686,6 @@
       "name": "【BURTON】 バートン 【MissionRe:Flex】 ミッション 25-26 メンズ 男性用 BINDING ビンディング バインディング SNOWBOARD スノーボード",
       "priceJpy": 30800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003018/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002934",
-      "makeshopId": "000000002934",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Pow Surfer Heel Loops 】 パウサーファーヒールループ バインディング スノーボード スプリットボード",
-      "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002934/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -2015,5 +2006,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-15T20:55:02.392Z"
+  "syncedAt": "2026-10-16T20:29:03.394Z"
 }

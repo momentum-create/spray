@@ -5,7 +5,7 @@
     "title": "Gloves",
     "titleJa": "グローブ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct299/",
-    "totalProducts": 44
+    "totalProducts": 49
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "deathgrip",
       "name": "DEATHGRIP",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct335/",
-      "productCount": 1
+      "productCount": 6
     },
     {
       "slug": "dakine",
@@ -52,6 +52,60 @@
     }
   ],
   "products": [
+    {
+      "slug": "gloves-000000004493",
+      "makeshopId": "000000004493",
+      "brandSlug": "deathgrip",
+      "name": "【DEATHGRIP】デスグリップ 【WEREWOLF CLAW 】ウェアウルフ クロウ COLOR：PAT MOORE パットムーア 2026/2027 GLOVES グローブ スノーボード",
+      "priceJpy": 21780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004493/ct299/page1/order/",
+      "updatedAt": "2026-10-16T20:29:06.155Z"
+    },
+    {
+      "slug": "gloves-000000004492",
+      "makeshopId": "000000004492",
+      "brandSlug": "deathgrip",
+      "name": "【DEATHGRIP】デスグリップ 【WEREWOLF CLAW LONG CUT】ウェアウルフ クロウ ロングカット COLOR：BLACK 2026/2027 GLOVES グローブ スノーボード",
+      "priceJpy": 22000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004492/ct299/page1/order/",
+      "updatedAt": "2026-10-16T20:29:06.155Z"
+    },
+    {
+      "slug": "gloves-000000004491",
+      "makeshopId": "000000004491",
+      "brandSlug": "deathgrip",
+      "name": "【DEATHGRIP】デスグリップ 【WEREWOLF MITT LONG CUT】ウェアウルフ ミット ロングカット 2026/2027 GLOVES グローブ スノーボード",
+      "priceJpy": 22000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004491/ct299/page1/order/",
+      "updatedAt": "2026-10-16T20:29:06.155Z"
+    },
+    {
+      "slug": "gloves-000000004490",
+      "makeshopId": "000000004490",
+      "brandSlug": "deathgrip",
+      "name": "【DEATHGRIP】デスグリップ 【ZOMBIE MITT】ゾンビミット COLOR：BLACK 2026/2027 GLOVES グローブ スノーボード",
+      "priceJpy": 26950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004490/ct299/page1/order/",
+      "updatedAt": "2026-10-16T20:29:06.155Z"
+    },
+    {
+      "slug": "gloves-000000004489",
+      "makeshopId": "000000004489",
+      "brandSlug": "deathgrip",
+      "name": "【DEATHGRIP】デスグリップ 【WEREWOLF CLAW 】ウェアウルフ クロウ COLOR：BLACK 2026/2027 GLOVES グローブ スノーボード",
+      "priceJpy": 19800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004489/ct299/page1/order/",
+      "updatedAt": "2026-10-16T20:29:06.155Z"
+    },
+    {
+      "slug": "gloves-000000004488",
+      "makeshopId": "000000004488",
+      "brandSlug": "deathgrip",
+      "name": "【DEATHGRIP】デスグリップ 【GHOUL MITT LEATHER】グール ミット レザー 2026/2027 GLOVES グローブ スノーボード",
+      "priceJpy": 18700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004488/ct299/page1/order/",
+      "updatedAt": "2026-10-16T20:29:06.155Z"
+    },
     {
       "slug": "gloves-000000003219",
       "makeshopId": "000000003219",
@@ -230,15 +284,6 @@
       "name": "【eb's】エビス 【KEMONO CHAN】ケモノチャン GLOVES グローブ 2025/2026 スノーボード",
       "priceJpy": 6950,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002895/ct299/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.920Z"
-    },
-    {
-      "slug": "gloves-000000002897",
-      "makeshopId": "000000002897",
-      "brandSlug": "deathgriip",
-      "name": "【DEATHGRIIP】デスグリップ 【GHOUL MITT】グール ミット GLOVES グローブ 2025/2026 スノーボード",
-      "priceJpy": 11440,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002897/ct299/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.920Z"
     },
     {
@@ -931,5 +976,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-15T20:55:05.489Z"
+  "syncedAt": "2026-10-16T20:29:06.155Z"
 }

@@ -5,10 +5,46 @@
     "title": "Layering & Inner",
     "titleJa": "レイヤリング・インナー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct302/",
-    "totalProducts": 41
+    "totalProducts": 44
   },
   "brands": [],
   "products": [
+    {
+      "slug": "layering-000000004496",
+      "makeshopId": "000000004496",
+      "brandSlug": "mont-bell",
+      "name": "【mont-bell】 モンベル 【Superior Down Round Neck Jacket Men's】 スペリオダウン ラウンドネックジャケット Men's #1101666 / メンズ / 男性用 / パッカブル / アウトドア / 登山",
+      "priceJpy": 15001,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004496/ct302/page1/order/",
+      "updatedAt": "2026-10-16T20:29:08.875Z"
+    },
+    {
+      "slug": "layering-000000004487",
+      "makeshopId": "000000004487",
+      "brandSlug": "mont-bell",
+      "name": "【mont-bell】 モンベル 【U.L. Thermawrap Jacket Men's】 U.L.サーマラップ ジャケット メンズ #1101539 / メンズ / 男性用 / パッカブル / アウトドア / 登山",
+      "priceJpy": 17050,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004487/ct302/page1/order/",
+      "updatedAt": "2026-10-16T20:29:08.875Z"
+    },
+    {
+      "slug": "layering-000000004486",
+      "makeshopId": "000000004486",
+      "brandSlug": "mont-bell",
+      "name": "【mont-bell】 モンベル 【U.L. Thermawrap Parka Men's】 U.L.サーマラップ パーカ メンズ #1101538 / メンズ / 男性用 / パッカブル / アウトドア / 登山",
+      "priceJpy": 18700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004486/ct302/page1/order/",
+      "updatedAt": "2026-10-16T20:29:08.875Z"
+    },
+    {
+      "slug": "layering-000000004478",
+      "makeshopId": "000000004478",
+      "brandSlug": "mont-bell",
+      "name": "【mont-bell】モンベル 【SUPER MERINO WOOL EXP. Round Neck Shirt Men's】 スーパーメリノウール EXP. ラウンドネックシャツ メンズ #1107581 / メンズ / 男性用 / インナーシャツ / アウトドア / 登山",
+      "priceJpy": 10780,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004478/ct302/page1/order/",
+      "updatedAt": "2026-10-16T20:29:08.875Z"
+    },
     {
       "slug": "layering-000000004484",
       "makeshopId": "000000004484",
@@ -52,15 +88,6 @@
       "name": "【mont-bell】モンベル 【SUPER MERINO WOOL EXP. Tights Men's】 スーパーメリノウール EXP. タイツ メンズ #1107585 / メンズ / 男性用 / インナータイツ / アウトドア / 登山",
       "priceJpy": 9130,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004479/ct302/page1/order/",
-      "updatedAt": "2026-10-13T22:16:41.444Z"
-    },
-    {
-      "slug": "layering-000000004478",
-      "makeshopId": "000000004478",
-      "brandSlug": "mont-bell",
-      "name": "【mont-bell】モンベル 【SUPER MERINO WOOL EXP. Round Neck Shirt Men's】 スーパーメリノウール EXP. ラウンドネックシャツ メンズ #1107171 / メンズ / 男性用 / インナーシャツ / アウトドア / 登山",
-      "priceJpy": 10780,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004478/ct302/page1/order/",
       "updatedAt": "2026-10-13T22:16:41.444Z"
     },
     {
@@ -708,5 +735,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-15T20:55:08.287Z"
+  "syncedAt": "2026-10-16T20:29:08.875Z"
 }

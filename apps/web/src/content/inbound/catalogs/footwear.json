@@ -5,14 +5,14 @@
     "title": "Footwear",
     "titleJa": "フットウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61086/",
-    "totalProducts": 27
+    "totalProducts": 26
   },
   "brands": [
     {
       "slug": "I61087",
       "name": "メンズ スニーカー",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61087/",
-      "productCount": 17
+      "productCount": 16
     },
     {
       "slug": "I61156",
@@ -251,15 +251,6 @@
       "name": "【VANS】 ヴァンズ バンズ 【Mountain Mid GORE-TEX Insulated】 マウンテンミッド GORE-TEX インシュレーテッド スニーカー 防水 冬靴",
       "priceJpy": 19360,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003096/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003099",
-      "makeshopId": "000000003099",
-      "brandSlug": "vans",
-      "name": "【VANS】 ヴァンズ バンズ 【Sk8-Hi Waterproof Insulated】 スケートハイ ウォータープルーフ インシュレーテッド スニーカー 防水 冬靴",
-      "priceJpy": 14960,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003099/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
@@ -664,5 +655,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-15T20:55:11.056Z"
+  "syncedAt": "2026-10-16T20:29:12.606Z"
 }
