@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 35
+    "totalProducts": 34
   },
   "brands": [
     {
@@ -36,7 +36,7 @@
       "slug": "revolt",
       "name": "REVOLT",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct353/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "dice",
@@ -287,15 +287,6 @@
       "name": "【SMITH】スミス 【SQUAD MAG】スカッドマグ アーリーモデル Cosmos Aurora CP Everyday Violet Mirror / CP Storm Blue Sensor Mirror goggles ゴーグル",
       "priceJpy": 36520,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002920/ct327/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.557Z"
-    },
-    {
-      "slug": "goggles-000000003093",
-      "makeshopId": "000000003093",
-      "brandSlug": "revolt",
-      "name": "【REVOLT】リボルト 【Super Light Frame】スーパーライトフレーム Matte至極 マットシゴク R26SGK 調光レンズ goggles ゴーグル",
-      "priceJpy": 23760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003093/ct327/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.557Z"
     },
     {
@@ -744,5 +735,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-17T18:58:50.441Z"
+  "syncedAt": "2026-10-17T20:05:20.156Z"
 }

@@ -10,15 +10,6 @@
   "brands": [],
   "products": [
     {
-      "slug": "spray-original-000000004421",
-      "makeshopId": "000000004421",
-      "brandSlug": "spray",
-      "name": "【SPRAY別注】FIELDEARTH Q148 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
-      "priceJpy": 108900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004421/ct271/page1/order/",
-      "updatedAt": "2026-10-04T20:51:00.014Z"
-    },
-    {
       "slug": "spray-original-000000004123",
       "makeshopId": "000000004123",
       "brandSlug": "slab-spray",
@@ -26,6 +17,15 @@
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004123/ct271/page1/order/",
       "updatedAt": "2026-07-12T19:01:30.037Z"
+    },
+    {
+      "slug": "spray-original-000000004421",
+      "makeshopId": "000000004421",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH Q148 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
+      "priceJpy": 108900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004421/ct271/page1/order/",
+      "updatedAt": "2026-10-04T20:51:00.014Z"
     },
     {
       "slug": "spray-original-000000004422",
@@ -1167,5 +1167,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-17T18:58:38.208Z"
+  "syncedAt": "2026-10-17T20:05:12.258Z"
 }
