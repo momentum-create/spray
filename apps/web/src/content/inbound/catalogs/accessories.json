@@ -29,6 +29,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000003000",
+      "makeshopId": "000000003000",
+      "brandSlug": "msr",
+      "name": "【MSR】 エム エス アール 【ALPINE DISH BRUSH/SCRAPER】 アルパイン ディッシュブラシ／スクレイパー バックカントリー 登山 スノーボード スキー",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003000/I61079/page1/order/",
+      "updatedAt": "2026-10-18T20:04:47.380Z"
+    },
+    {
       "slug": "accessories-000000003219",
       "makeshopId": "000000003219",
       "brandSlug": "hestra",
@@ -1088,15 +1097,6 @@
       "name": "パタゴニア patagonia 【今治スポーツ・タオル・ワイルドウォーターライン】TW015",
       "priceJpy": 2970,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002557/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000003000",
-      "makeshopId": "000000003000",
-      "brandSlug": "msr",
-      "name": "【MSR】 エム エス アール 【ALPINE DISH BRUSH/SCRAPER】 アルパイン ディッシュブラシ／スクレイパー バックカントリー 登山 スノーボード スキー",
-      "priceJpy": 1760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003000/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -2300,5 +2300,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-17T20:05:38.324Z"
+  "syncedAt": "2026-10-18T20:04:47.380Z"
 }

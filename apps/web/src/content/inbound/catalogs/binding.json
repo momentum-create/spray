@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 109
+    "totalProducts": 113
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "spark-r-d",
       "name": "SPARK R&D",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
-      "productCount": 37
+      "productCount": 41
     },
     {
       "slug": "burton",
@@ -60,7 +60,7 @@
       "slug": "spark-r-d",
       "name": "SPARK R&D",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
-      "productCount": 37
+      "productCount": 41
     },
     {
       "slug": "burton",
@@ -102,7 +102,7 @@
       "slug": "spark-r-d",
       "name": "SPARK R&D",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
-      "productCount": 37
+      "productCount": 41
     },
     {
       "slug": "burton",
@@ -136,6 +136,96 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000004511",
+      "makeshopId": "000000004511",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【PRO Backcountry Kit】 プロ バックカントリーキット 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 11000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004511/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000002995",
+      "makeshopId": "000000002995",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000002927",
+      "makeshopId": "000000002927",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【SPARK POCKET TOOL】 スパークポケットツール バインディング スノーボード スプリットボード",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002927/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000002994",
+      "makeshopId": "000000002994",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ST Bracket Kit】 ST ブラケット キット バインディング 26-27 スノーボード スプリットボード",
+      "priceJpy": 9350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002994/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000002935",
+      "makeshopId": "000000002935",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000004510",
+      "makeshopId": "000000004510",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Pow Surfer Heel Loops 】 パウサーファーヒールループ 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 9680,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004510/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000002934",
+      "makeshopId": "000000002934",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Pow Surfer Heel Loops 】 パウサーファーヒールループ 25-26 バインディング スノーボード スプリットボード",
+      "priceJpy": 8800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002934/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000004509",
+      "makeshopId": "000000004509",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Surge Asym Rip ‘N’ Flip Highbacks 】 サージ アシム ハイバック 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 13750,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004509/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000004508",
+      "makeshopId": "000000004508",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Arc Asym Rip ‘N’ Flip Highbacks 】 アーク アシム ハイバック 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 12650,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004508/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000002823",
+      "makeshopId": "000000002823",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Solid Board Pucks Canted】 ソリッドボードパックス カンテッド 26-27 バックカントリー スプリットボード",
+      "priceJpy": 14850,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002823/ct296/page1/order/",
+      "updatedAt": "2026-10-17T20:05:18.155Z"
+    },
     {
       "slug": "binding-000000004507",
       "makeshopId": "000000004507",
@@ -209,15 +299,6 @@
       "updatedAt": "2026-10-17T20:05:18.155Z"
     },
     {
-      "slug": "binding-000000002823",
-      "makeshopId": "000000002823",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Solid Board Pucks Canted】 ソリッドボードパックス カンテッド 26-27 バックカントリー スプリットボード",
-      "priceJpy": 14850,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002823/ct296/page1/order/",
-      "updatedAt": "2026-10-17T20:05:18.155Z"
-    },
-    {
       "slug": "binding-000000002822",
       "makeshopId": "000000002822",
       "brandSlug": "spark-r-d",
@@ -270,15 +351,6 @@
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004408/ct296/page1/order/",
       "updatedAt": "2026-10-02T21:48:20.042Z"
-    },
-    {
-      "slug": "binding-000000002934",
-      "makeshopId": "000000002934",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Pow Surfer Heel Loops 】 パウサーファーヒールループ バインディング スノーボード スプリットボード",
-      "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002934/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
       "slug": "binding-000000004452",
@@ -431,15 +503,6 @@
       "name": "【SPARK R&D】 スパーク 【Binding Hardware Kit】 ハードウエアキット バインディング スノーボード スプリットボード",
       "priceJpy": 3575,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002991/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002995",
-      "makeshopId": "000000002995",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット バインディング スノーボード スプリットボード",
-      "priceJpy": 6325,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -956,15 +1019,6 @@
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
-      "slug": "binding-000000002927",
-      "makeshopId": "000000002927",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Tool】 スパークツール バインディング スノーボード スプリットボード",
-      "priceJpy": 2750,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002927/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
       "slug": "binding-000000003089",
       "makeshopId": "000000003089",
       "brandSlug": "karakoram",
@@ -1007,15 +1061,6 @@
       "name": "【SPARK R&D】 スパーク 【ST Whammy Bars】 STワミーバー バインディング スノーボード スプリットボード",
       "priceJpy": 5225,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002926/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002931",
-      "makeshopId": "000000002931",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Arc Asym Rip ‘N’ Flip Highbacks 】 アシムハイバック バインディング スノーボード スプリットボード",
-      "priceJpy": 10450,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002931/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -1097,15 +1142,6 @@
       "name": "【KARAKORAM】 カラコラム 【CONNECT BINDING HARDWARE】 コネクト バインディングハードウェア バックカントリー スノーボード ソリッドボード スプリットボード",
       "priceJpy": 1980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003088/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000002994",
-      "makeshopId": "000000002994",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【ST Bracket Kit】 ST ブラケット キット バインディング スノーボード スプリットボード",
-      "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002994/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -2138,5 +2174,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-17T20:05:18.155Z"
+  "syncedAt": "2026-10-18T20:04:31.347Z"
 }

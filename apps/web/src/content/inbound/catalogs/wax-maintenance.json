@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "wax-maintenance-000000003000",
+      "makeshopId": "000000003000",
+      "brandSlug": "msr",
+      "name": "【MSR】 エム エス アール 【ALPINE DISH BRUSH/SCRAPER】 アルパイン ディッシュブラシ／スクレイパー バックカントリー 登山 スノーボード スキー",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003000/ct357/page1/order/",
+      "updatedAt": "2026-10-18T20:04:36.388Z"
+    },
+    {
       "slug": "wax-maintenance-000000004123",
       "makeshopId": "000000004123",
       "brandSlug": "slab-spray",
@@ -142,15 +151,6 @@
       "name": "SPRAY×Kossymix Premium Scraper M",
       "priceJpy": 2640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct357/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.388Z"
-    },
-    {
-      "slug": "wax-maintenance-000000003000",
-      "makeshopId": "000000003000",
-      "brandSlug": "msr",
-      "name": "【MSR】 エム エス アール 【ALPINE DISH BRUSH/SCRAPER】 アルパイン ディッシュブラシ／スクレイパー バックカントリー 登山 スノーボード スキー",
-      "priceJpy": 1760,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003000/ct357/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.388Z"
     }
   ],
@@ -299,5 +299,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-17T20:05:24.257Z"
+  "syncedAt": "2026-10-18T20:04:36.388Z"
 }

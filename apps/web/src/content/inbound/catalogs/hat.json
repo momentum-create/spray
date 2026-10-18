@@ -5,14 +5,14 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 45
+    "totalProducts": 47
   },
   "brands": [
     {
       "slug": "ct344",
       "name": "ビーニー・ニット",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct344/",
-      "productCount": 7
+      "productCount": 9
     },
     {
       "slug": "ct345",
@@ -24,7 +24,7 @@
       "slug": "ct347",
       "name": "キャップ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
-      "productCount": 19
+      "productCount": 21
     },
     {
       "slug": "ct346",
@@ -34,6 +34,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "hat-000000004513",
+      "makeshopId": "000000004513",
+      "brandSlug": "halo-commodity",
+      "name": "【halo commodity】 ハロコモディティー 【Shag Field Cap】 h263-230 男女兼用 ユニセックス キャップ 帽子",
+      "priceJpy": 6930,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004513/I61098/page1/order/",
+      "updatedAt": "2026-10-18T20:04:43.379Z"
+    },
+    {
+      "slug": "hat-000000004512",
+      "makeshopId": "000000004512",
+      "brandSlug": "halo-commodity",
+      "name": "【halo commodity】 ハロコモディティー 【Kuna Fleece Cap】 h263-207 男女兼用 ユニセックス キャップ 帽子 ビーニー",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004512/I61098/page1/order/",
+      "updatedAt": "2026-10-18T20:04:43.379Z"
+    },
     {
       "slug": "hat-000000004481",
       "makeshopId": "000000004481",
@@ -934,5 +952,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-17T20:05:34.075Z"
+  "syncedAt": "2026-10-18T20:04:43.379Z"
 }

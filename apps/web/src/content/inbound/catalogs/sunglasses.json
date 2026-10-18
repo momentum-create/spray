@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "sunglasses-000000004131",
+      "makeshopId": "000000004131",
+      "brandSlug": "dang-shades",
+      "name": "【DANG SHADES】ダン シェイディーズ 【LOCO】ロコ ブラック x ライトブラック 防曇偏光 vidg00430-lbk サングラス スキー スノーボード アウトドア",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004131/I61109/page1/order/",
+      "updatedAt": "2026-07-13T19:20:25.536Z"
+    },
+    {
       "slug": "sunglasses-000000003979",
       "makeshopId": "000000003979",
       "brandSlug": "fullon",
@@ -115,15 +124,6 @@
       "name": "【DANG SHADES】ダン シェイディーズ 【PORTO】ポルト ブラック / べっ甲柄グラデーション x ライトブラウン 激撥水偏光レンズ vidg00525 サングラス スキー スノーボード アウトドア",
       "priceJpy": 6600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004132/I61109/page1/order/",
-      "updatedAt": "2026-07-13T19:20:25.536Z"
-    },
-    {
-      "slug": "sunglasses-000000004131",
-      "makeshopId": "000000004131",
-      "brandSlug": "dang-shades",
-      "name": "【DANG SHADES】ダン シェイディーズ 【LOCO】ロコ ブラック x ライトブラック 防曇偏光 vidg00430-lbk サングラス スキー スノーボード アウトドア",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004131/I61109/page1/order/",
       "updatedAt": "2026-07-13T19:20:25.536Z"
     },
     {
@@ -719,5 +719,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-17T20:05:33.119Z"
+  "syncedAt": "2026-10-18T20:04:42.547Z"
 }
