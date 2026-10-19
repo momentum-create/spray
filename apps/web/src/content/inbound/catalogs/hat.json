@@ -5,20 +5,44 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 47
+    "totalProducts": 52
   },
   "brands": [
     {
       "slug": "ct344",
       "name": "ビーニー・ニット",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct344/",
-      "productCount": 9
+      "productCount": 10
     },
     {
       "slug": "ct345",
       "name": "バラクラバ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct345/",
-      "productCount": 9
+      "productCount": 13
+    },
+    {
+      "slug": "ct347",
+      "name": "キャップ",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
+      "productCount": 21
+    },
+    {
+      "slug": "ct346",
+      "name": "ハット",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct346/",
+      "productCount": 3
+    },
+    {
+      "slug": "ct344",
+      "name": "ビーニー・ニット",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct344/",
+      "productCount": 10
+    },
+    {
+      "slug": "ct345",
+      "name": "バラクラバ",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct345/",
+      "productCount": 13
     },
     {
       "slug": "ct347",
@@ -34,6 +58,51 @@
     }
   ],
   "products": [
+    {
+      "slug": "hat-000000004334",
+      "makeshopId": "000000004334",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【FLIGHT CAP】フライトキャップ 2026/2027 スノーボード ビーニー ニット帽 ニットキャップ",
+      "priceJpy": 6820,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004334/I61098/page1/order/",
+      "updatedAt": "2026-10-19T21:59:06.819Z"
+    },
+    {
+      "slug": "hat-000000004333",
+      "makeshopId": "000000004333",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC DRY RANGER】ポーラテック ドライ レンジャー 2026/2027 スノーボード バラクラバ マスク",
+      "priceJpy": 4510,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004333/I61098/page1/order/",
+      "updatedAt": "2026-10-19T21:59:06.819Z"
+    },
+    {
+      "slug": "hat-000000004331",
+      "makeshopId": "000000004331",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC GRID RANGER(HighWarm)】ポーラテック グリッド レンジャー(ハイウォーム) 2026/2027 スノーボード バラクラバ マスク",
+      "priceJpy": 5390,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004331/I61098/page1/order/",
+      "updatedAt": "2026-10-19T21:59:06.819Z"
+    },
+    {
+      "slug": "hat-000000004329",
+      "makeshopId": "000000004329",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC GRID GIRL'S RANGER(Light Warm)】ポーラテック グリッド ガールズレンジャー(ライトウォーム) 2026/2027 スノーボード バラクラバ マスク レディース",
+      "priceJpy": 4950,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004329/I61098/page1/order/",
+      "updatedAt": "2026-10-19T21:59:06.819Z"
+    },
+    {
+      "slug": "hat-000000004330",
+      "makeshopId": "000000004330",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【GIRL’S RANGER】ガールズレンジャー 2026/2027 スノーボード バラクラバ マスク レディース",
+      "priceJpy": 4290,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004330/I61098/page1/order/",
+      "updatedAt": "2026-10-19T21:59:06.819Z"
+    },
     {
       "slug": "hat-000000004513",
       "makeshopId": "000000004513",
@@ -952,5 +1021,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-18T20:04:43.379Z"
+  "syncedAt": "2026-10-19T21:59:06.819Z"
 }

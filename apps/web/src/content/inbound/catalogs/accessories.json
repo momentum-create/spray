@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 120
+    "totalProducts": 127
   },
   "brands": [
     {
@@ -29,6 +29,78 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000004336",
+      "makeshopId": "000000004336",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【PASS ARM NEO YOKO】パスアーム ネオ ヨコ スノーボード / スキー / パスケース / 2026/2027",
+      "priceJpy": 2090,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004336/I61079/page1/order/",
+      "updatedAt": "2026-10-19T21:59:11.636Z"
+    },
+    {
+      "slug": "accessories-000000004328",
+      "makeshopId": "000000004328",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【GOGGLE COVER】ゴーグルカバー スノーボード / バックカントリー / バッグ / 2026/2027",
+      "priceJpy": 990,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004328/I61079/page1/order/",
+      "updatedAt": "2026-10-19T21:59:11.636Z"
+    },
+    {
+      "slug": "accessories-000000004327",
+      "makeshopId": "000000004327",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【GOGGLE CASE】ゴーグルケース スノーボード / バックカントリー / バッグ / 2026/2027",
+      "priceJpy": 2750,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004327/I61079/page1/order/",
+      "updatedAt": "2026-10-19T21:59:11.636Z"
+    },
+    {
+      "slug": "accessories-000000004310",
+      "makeshopId": "000000004310",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【WARM INNER】ウォームインナー GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 2090,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004310/I61079/page1/order/",
+      "updatedAt": "2026-10-19T21:59:11.636Z"
+    },
+    {
+      "slug": "accessories-000000004309",
+      "makeshopId": "000000004309",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC GRID INNER（LightWarm）】ポーラテック グリッド インナー ライトウォーム GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 3520,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004309/I61079/page1/order/",
+      "updatedAt": "2026-10-19T21:59:11.636Z"
+    },
+    {
+      "slug": "accessories-000000004299",
+      "makeshopId": "000000004299",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC GRID INNER（HighWarm）】ポーラテック グリッド インナー ハイウォーム GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004299/I61079/page1/order/",
+      "updatedAt": "2026-10-19T21:59:11.636Z"
+    },
+    {
+      "slug": "accessories-000000004224",
+      "makeshopId": "000000004224",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【SLIT INNER】スリットインナー GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 3520,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004224/I61079/page1/order/",
+      "updatedAt": "2026-10-19T21:59:11.636Z"
+    },
+    {
+      "slug": "accessories-000000003401",
+      "makeshopId": "000000003401",
+      "brandSlug": "uchiko",
+      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
+      "priceJpy": 4980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000003000",
       "makeshopId": "000000003000",
       "brandSlug": "msr",
@@ -45,15 +117,6 @@
       "priceJpy": 2200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003219/I61079/page1/order/",
       "updatedAt": "2026-10-08T22:52:11.507Z"
-    },
-    {
-      "slug": "accessories-000000003401",
-      "makeshopId": "000000003401",
-      "brandSlug": "uchiko",
-      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
-      "priceJpy": 4980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
       "slug": "accessories-000000003167",
@@ -2300,5 +2363,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-18T20:04:47.380Z"
+  "syncedAt": "2026-10-19T21:59:11.636Z"
 }

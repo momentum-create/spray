@@ -5,7 +5,7 @@
     "title": "Gloves",
     "titleJa": "グローブ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct299/",
-    "totalProducts": 49
+    "totalProducts": 56
   },
   "brands": [
     {
@@ -30,7 +30,49 @@
       "slug": "ebs",
       "name": "eb's",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct334/",
-      "productCount": 13
+      "productCount": 20
+    },
+    {
+      "slug": "the-north-face",
+      "name": "THE NORTH FACE",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct343/",
+      "productCount": 2
+    },
+    {
+      "slug": "burton",
+      "name": "BURTON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct358/",
+      "productCount": 8
+    },
+    {
+      "slug": "green-clothing",
+      "name": "green clothing",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct361/",
+      "productCount": 0
+    },
+    {
+      "slug": "hestra",
+      "name": "HESTRA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct336/",
+      "productCount": 15
+    },
+    {
+      "slug": "deathgrip",
+      "name": "DEATHGRIP",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct335/",
+      "productCount": 6
+    },
+    {
+      "slug": "dakine",
+      "name": "DAKINE",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct355/",
+      "productCount": 2
+    },
+    {
+      "slug": "ebs",
+      "name": "eb's",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct334/",
+      "productCount": 20
     },
     {
       "slug": "the-north-face",
@@ -52,6 +94,69 @@
     }
   ],
   "products": [
+    {
+      "slug": "gloves-000000004310",
+      "makeshopId": "000000004310",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【WARM INNER】ウォームインナー GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 2090,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004310/ct299/page1/order/",
+      "updatedAt": "2026-10-19T21:58:54.180Z"
+    },
+    {
+      "slug": "gloves-000000004309",
+      "makeshopId": "000000004309",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC GRID INNER（LightWarm）】ポーラテック グリッド インナー ライトウォーム GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 3520,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004309/ct299/page1/order/",
+      "updatedAt": "2026-10-19T21:58:54.180Z"
+    },
+    {
+      "slug": "gloves-000000004299",
+      "makeshopId": "000000004299",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC GRID INNER（HighWarm）】ポーラテック グリッド インナー ハイウォーム GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004299/ct299/page1/order/",
+      "updatedAt": "2026-10-19T21:58:54.180Z"
+    },
+    {
+      "slug": "gloves-000000004224",
+      "makeshopId": "000000004224",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【SLIT INNER】スリットインナー GLOVES グローブ 2026/2027 スノーボード",
+      "priceJpy": 3520,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004224/ct299/page1/order/",
+      "updatedAt": "2026-10-19T21:58:54.180Z"
+    },
+    {
+      "slug": "gloves-000000004191",
+      "makeshopId": "000000004191",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【OVER MITT STRONG】オーバーミットストロング GLOVES グローブ ミトン 2026/2027 スノーボード",
+      "priceJpy": 6050,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004191/ct299/page1/order/",
+      "updatedAt": "2026-10-19T21:58:54.180Z"
+    },
+    {
+      "slug": "gloves-000000004187",
+      "makeshopId": "000000004187",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【LOBSTER】ロブスター GLOVES グローブ ミトン 2026/2027 スノーボード",
+      "priceJpy": 14960,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004187/ct299/page1/order/",
+      "updatedAt": "2026-10-19T21:58:54.180Z"
+    },
+    {
+      "slug": "gloves-000000004186",
+      "makeshopId": "000000004186",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【OZZY TRIGGER】オジートリガー GLOVES グローブ ミトン 2026/2027 スノーボード",
+      "priceJpy": 14850,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004186/ct299/page1/order/",
+      "updatedAt": "2026-10-19T21:58:54.180Z"
+    },
     {
       "slug": "gloves-000000004493",
       "makeshopId": "000000004493",
@@ -1036,5 +1141,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-18T20:04:33.913Z"
+  "syncedAt": "2026-10-19T21:58:54.180Z"
 }

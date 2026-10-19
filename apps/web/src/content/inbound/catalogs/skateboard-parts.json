@@ -19,6 +19,33 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
+      "slug": "skateboard-parts-000000004181",
+      "makeshopId": "000000004181",
+      "brandSlug": "riptide",
+      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003850",
+      "makeshopId": "000000003850",
+      "brandSlug": "paris",
+      "name": "【PARIS】 パリス 【PIVOT CUPS STANDARD】 (2個SET) スケートボード ピボットクッシュ",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003850/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003798",
+      "makeshopId": "000000003798",
+      "brandSlug": "heaven-skateboard",
+      "name": "【HEAVEN SKATEBOARD】 ヘブン スケートボード 【T-TOOL】T字ツール スケートボード",
+      "priceJpy": 880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003798/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
       "slug": "skateboard-parts-000000004197",
       "makeshopId": "000000004197",
       "brandSlug": "zulu-wheels",
@@ -100,15 +127,6 @@
       "updatedAt": "2026-07-25T19:03:23.580Z"
     },
     {
-      "slug": "skateboard-parts-000000004181",
-      "makeshopId": "000000004181",
-      "brandSlug": "riptide",
-      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
-      "updatedAt": "2026-09-26T20:38:03.937Z"
-    },
-    {
       "slug": "skateboard-parts-000000004219",
       "makeshopId": "000000004219",
       "brandSlug": "heaven-skateboard",
@@ -170,15 +188,6 @@
       "priceJpy": 8140,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003889/ct307/page1/order/",
       "updatedAt": "2026-09-26T20:38:03.937Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003850",
-      "makeshopId": "000000003850",
-      "brandSlug": "paris",
-      "name": "【PARIS】 パリス 【PIVOT CUPS STANDARD】 (2個SET) スケートボード ピボットクッシュ",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003850/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
       "slug": "skateboard-parts-000000003848",
@@ -332,15 +341,6 @@
       "priceJpy": 1210,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004163/ct307/page1/order/",
       "updatedAt": "2026-07-18T19:00:03.764Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003798",
-      "makeshopId": "000000003798",
-      "brandSlug": "heaven-skateboard",
-      "name": "【HEAVEN SKATEBOARD】 ヘブン スケートボード 【T-TOOL】T字ツール スケートボード",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003798/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
       "slug": "skateboard-parts-000000003785",
@@ -1426,5 +1426,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-18T20:04:45.149Z"
+  "syncedAt": "2026-10-19T21:59:08.976Z"
 }

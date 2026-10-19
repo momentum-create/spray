@@ -5,10 +5,19 @@
     "title": "Layering & Inner",
     "titleJa": "レイヤリング・インナー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct302/",
-    "totalProducts": 43
+    "totalProducts": 44
   },
   "brands": [],
   "products": [
+    {
+      "slug": "layering-000000004470",
+      "makeshopId": "000000004470",
+      "brandSlug": "mont-bell",
+      "name": "【mont-bell】モンベル 【Superior Down Pants Men's】 スペリオダウンパンツ メンズ #1101471 / メンズ / 男性用 / パッカブル / アウトドア / 登山",
+      "priceJpy": 17201,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004470/ct302/page1/order/",
+      "updatedAt": "2026-10-19T21:58:58.421Z"
+    },
     {
       "slug": "layering-000000004496",
       "makeshopId": "000000004496",
@@ -886,5 +895,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-18T20:04:37.036Z"
+  "syncedAt": "2026-10-19T21:58:58.421Z"
 }
