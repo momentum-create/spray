@@ -5,7 +5,7 @@
     "title": "Boots",
     "titleJa": "ブーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct297/",
-    "totalProducts": 48
+    "totalProducts": 50
   },
   "brands": [
     {
@@ -36,10 +36,28 @@
       "slug": "vans",
       "name": "VANS",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct333/",
-      "productCount": 0
+      "productCount": 2
     }
   ],
   "products": [
+    {
+      "slug": "boots-000000004516",
+      "makeshopId": "000000004516",
+      "brandSlug": "vans",
+      "name": "【VANS】ヴァンズ 【VERSE】ヴァース 2026-2027MODEL BLACKOUT ブラックアウト ブーツ スノーボード バンズ",
+      "priceJpy": 64350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004516/ct297/page1/order/",
+      "updatedAt": "2026-10-22T21:10:51.933Z"
+    },
+    {
+      "slug": "boots-000000004515",
+      "makeshopId": "000000004515",
+      "brandSlug": "vans",
+      "name": "【VANS】ヴァンズ 【VERSE RANGE EDITION】ヴァース レンジエディション 2026-2027MODEL ブーツ スノーボード バンズ",
+      "priceJpy": 68420,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004515/ct297/page1/order/",
+      "updatedAt": "2026-10-22T21:10:51.933Z"
+    },
     {
       "slug": "boots-000000003219",
       "makeshopId": "000000003219",
@@ -1006,5 +1024,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-21T21:14:01.856Z"
+  "syncedAt": "2026-10-22T21:10:51.933Z"
 }

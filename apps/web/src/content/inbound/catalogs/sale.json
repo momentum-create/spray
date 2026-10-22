@@ -5,10 +5,28 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 250
+    "totalProducts": 248
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003564",
+      "makeshopId": "000000003564",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GM-2100YM-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 32120,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003564/I61093/page1/order/",
+      "updatedAt": "2026-07-13T19:20:36.122Z"
+    },
+    {
+      "slug": "sale-000000003678",
+      "makeshopId": "000000003678",
+      "brandSlug": "baby-g",
+      "name": "【BABY-G】 ベビーG BA-110-1AJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003678/I61093/page1/order/",
+      "updatedAt": "2026-07-02T19:21:02.391Z"
+    },
     {
       "slug": "sale-000000003591",
       "makeshopId": "000000003591",
@@ -188,15 +206,6 @@
       "priceJpy": 15840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003438/I61093/page1/order/",
       "updatedAt": "2026-07-16T19:05:56.319Z"
-    },
-    {
-      "slug": "sale-000000003678",
-      "makeshopId": "000000003678",
-      "brandSlug": "baby-g",
-      "name": "【BABY-G】 ベビーG BA-110-1AJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003678/I61093/page1/order/",
-      "updatedAt": "2026-07-02T19:21:02.391Z"
     },
     {
       "slug": "sale-000000003624",
@@ -550,15 +559,6 @@
       "updatedAt": "2026-07-13T19:20:36.122Z"
     },
     {
-      "slug": "sale-000000003564",
-      "makeshopId": "000000003564",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GM-2100YM-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 32120,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003564/I61093/page1/order/",
-      "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
       "slug": "sale-000000003565",
       "makeshopId": "000000003565",
       "brandSlug": "g-shock",
@@ -727,15 +727,6 @@
       "name": "【CHUMS】 チャムス 【Plunge Divers】 プランジダイバース ショートパンツ/ハーフパンツ/メンズ CH03-1360",
       "priceJpy": 5984,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004009/I61093/page1/order/",
-      "updatedAt": "2026-06-19T19:47:16.956Z"
-    },
-    {
-      "slug": "sale-000000003995",
-      "makeshopId": "000000003995",
-      "brandSlug": "nanga",
-      "name": "【NANGA】 ナンガ 【INNER DOWN CARDIGAN DS】 インナーダウンカーディガンデタッチャブルスリーブ ND2441-1A901-A / メンズ / 男性用",
-      "priceJpy": 22880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003995/I61093/page1/order/",
       "updatedAt": "2026-06-19T19:47:16.956Z"
     },
     {
@@ -944,15 +935,6 @@
       "priceJpy": 5544,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003936/I61093/page1/order/",
       "updatedAt": "2026-05-30T19:10:51.996Z"
-    },
-    {
-      "slug": "sale-000000003014",
-      "makeshopId": "000000003014",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Step On Re:Flex】 ステップオン 25-26 メンズ 男性用 BINDING ビンディング SNOWBOARD スノーボード ステップオン",
-      "priceJpy": 34300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003014/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
       "slug": "sale-000000003898",
@@ -6181,5 +6163,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-21T21:14:29.094Z"
+  "syncedAt": "2026-10-22T21:11:14.637Z"
 }

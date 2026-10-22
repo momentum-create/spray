@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 113
+    "totalProducts": 112
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 15
+      "productCount": 14
     },
     {
       "slug": "flux",
@@ -66,7 +66,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 15
+      "productCount": 14
     },
     {
       "slug": "flux",
@@ -108,7 +108,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct312/",
-      "productCount": 15
+      "productCount": 14
     },
     {
       "slug": "flux",
@@ -657,15 +657,6 @@
       "priceJpy": 32340,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003947/ct296/page1/order/",
       "updatedAt": "2026-05-31T19:13:50.678Z"
-    },
-    {
-      "slug": "binding-000000003014",
-      "makeshopId": "000000003014",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Step On Re:Flex】 ステップオン 25-26 メンズ 男性用 BINDING ビンディング SNOWBOARD スノーボード ステップオン",
-      "priceJpy": 34300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003014/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
       "slug": "binding-000000002741",
@@ -2174,5 +2165,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-21T21:14:00.636Z"
+  "syncedAt": "2026-10-22T21:10:51.314Z"
 }

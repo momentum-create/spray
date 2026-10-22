@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 44
+    "totalProducts": 47
   },
   "brands": [
     {
@@ -42,10 +42,37 @@
       "slug": "dice",
       "name": "DICE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct328/",
-      "productCount": 0
+      "productCount": 3
     }
   ],
   "products": [
+    {
+      "slug": "goggles-000000004354",
+      "makeshopId": "000000004354",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【GOODMAN】グッドマン Photochromic/UltraLightPurple/BronzeMirror goggles 調光 ゴーグル GM64276",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004354/ct327/page1/order/",
+      "updatedAt": "2026-10-22T21:10:53.796Z"
+    },
+    {
+      "slug": "goggles-000000004348",
+      "makeshopId": "000000004348",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【BANK】バンク 30周年記念限定モデル Photochromic/UltraLightPurple/SmokeMirror FrameColor：WGRY BK64275 goggles 調光 ゴーグル",
+      "priceJpy": 33000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004348/ct327/page1/order/",
+      "updatedAt": "2026-10-22T21:10:53.796Z"
+    },
+    {
+      "slug": "goggles-000000004349",
+      "makeshopId": "000000004349",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【GOODMAN】グッドマン Photochromic/UltraLightGray/LightSilverMirror goggles 調光 ゴーグル GM64570",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004349/ct327/page1/order/",
+      "updatedAt": "2026-10-22T21:10:53.796Z"
+    },
     {
       "slug": "goggles-000000004328",
       "makeshopId": "000000004328",
@@ -825,5 +852,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-21T21:14:04.011Z"
+  "syncedAt": "2026-10-22T21:10:53.796Z"
 }
