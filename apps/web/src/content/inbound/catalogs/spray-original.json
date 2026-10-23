@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "spray-original-000000003060",
+      "makeshopId": "000000003060",
+      "brandSlug": "gogglesoc",
+      "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
+      "priceJpy": 3000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/ct271/page1/order/",
+      "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
       "slug": "spray-original-000000004123",
       "makeshopId": "000000004123",
       "brandSlug": "slab-spray",
@@ -53,15 +62,6 @@
       "priceJpy": 11000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004372/ct271/page1/order/",
       "updatedAt": "2026-09-23T21:03:29.271Z"
-    },
-    {
-      "slug": "spray-original-000000003060",
-      "makeshopId": "000000003060",
-      "brandSlug": "gogglesoc",
-      "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
-      "priceJpy": 3000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
       "slug": "spray-original-000000001900",
@@ -1167,5 +1167,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-22T21:10:46.185Z"
+  "syncedAt": "2026-10-23T20:57:54.907Z"
 }

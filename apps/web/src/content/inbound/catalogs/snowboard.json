@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 132
+    "totalProducts": 133
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 30
+      "productCount": 31
     },
     {
       "slug": "tj-brand",
@@ -150,7 +150,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 30
+      "productCount": 31
     },
     {
       "slug": "tj-brand",
@@ -282,7 +282,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 30
+      "productCount": 31
     },
     {
       "slug": "tj-brand",
@@ -406,6 +406,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000003852",
+      "makeshopId": "000000003852",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【AX-9 161】2026-2027MODEL スノーボード バックカントリー カービング",
+      "priceJpy": 144100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003852/I61077/page1/order/",
+      "updatedAt": "2026-10-23T20:57:58.131Z"
+    },
     {
       "slug": "snowboard-000000003810",
       "makeshopId": "000000003810",
@@ -3006,5 +3015,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-22T21:10:48.693Z"
+  "syncedAt": "2026-10-23T20:57:58.131Z"
 }
