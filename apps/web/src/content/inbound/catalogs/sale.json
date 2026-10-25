@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 246
+    "totalProducts": 242
   },
   "brands": [],
   "products": [
@@ -98,15 +98,6 @@
       "priceJpy": 12320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003675/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003586",
-      "makeshopId": "000000003586",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 GA-010-2AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 12705,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003586/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
       "slug": "sale-000000002832",
@@ -1621,15 +1612,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003526",
-      "makeshopId": "000000003526",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】 サロモン 【SLEEPWALKER GROM】スリープ ウォーカー グロム 23-24 キッズ 子供用 SNOWBOARD スノーボード",
-      "priceJpy": 30800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003526/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003527",
       "makeshopId": "000000003527",
       "brandSlug": "salomon",
@@ -1762,15 +1744,6 @@
       "name": "【LAKAI】 ラカイ 【FLACO 2】フラコ2 Pine/Black Suede パイン/ブラック スエード スニーカー スケートボード SK8 スケシュー スケボー",
       "priceJpy": 10395,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003473/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003496",
-      "makeshopId": "000000003496",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【SHEFFIELD】シェフィールド White/Bronze Suede ホワイト/ブロンズ スエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 7315,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003496/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -1951,15 +1924,6 @@
       "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Black/BlueCamoSuede ブラック/ブルーカモスエード スニーカー スケートボード SK8 スケシュー スケボー",
       "priceJpy": 9625,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003436/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003281",
-      "makeshopId": "000000003281",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Men's Gondy GORE-TEX Leather Mitten】 メンズ ゴンディ GORE-TEX レザー ミトン 25-26 スノーボードグローブ ミトン",
-      "priceJpy": 15840,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003281/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6155,5 +6119,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-24T20:12:12.514Z"
+  "syncedAt": "2026-10-25T20:22:14.270Z"
 }

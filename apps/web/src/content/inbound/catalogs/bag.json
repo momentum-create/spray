@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "bag-000000002996",
+      "makeshopId": "000000002996",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Base Camp Boot Pack】 ベースキャンプブーツパック スキー / スノーボード / ブーツパック NM82520",
+      "priceJpy": 29700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002996/I61075/page1/order/",
+      "updatedAt": "2026-10-04T20:51:15.673Z"
+    },
+    {
       "slug": "bag-000000004327",
       "makeshopId": "000000004327",
       "brandSlug": "ebs",
@@ -26,15 +35,6 @@
       "priceJpy": 15950,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004438/I61075/page1/order/",
       "updatedAt": "2026-10-08T22:52:04.451Z"
-    },
-    {
-      "slug": "bag-000000002996",
-      "makeshopId": "000000002996",
-      "brandSlug": "the-north-face",
-      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Base Camp Boot Pack】 ベースキャンプブーツパック スキー / スノーボード / ブーツパック NM82520",
-      "priceJpy": 29700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002996/I61075/page1/order/",
-      "updatedAt": "2026-10-04T20:51:15.673Z"
     },
     {
       "slug": "bag-000000003391",
@@ -741,5 +741,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-24T20:12:00.235Z"
+  "syncedAt": "2026-10-25T20:21:58.942Z"
 }

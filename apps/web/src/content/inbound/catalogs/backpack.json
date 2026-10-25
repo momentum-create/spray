@@ -5,10 +5,19 @@
     "title": "Backpacks",
     "titleJa": "バックパック",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct300/",
-    "totalProducts": 11
+    "totalProducts": 12
   },
   "brands": [],
   "products": [
+    {
+      "slug": "backpack-000000004529",
+      "makeshopId": "000000004529",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Chugach 28】 チュガッチ28 NM62353 / 2026-2027 / スキー / スノーボード / バックカントリー / バックパック",
+      "priceJpy": 31350,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004529/ct300/page1/order/",
+      "updatedAt": "2026-10-25T20:21:50.584Z"
+    },
     {
       "slug": "backpack-000000003024",
       "makeshopId": "000000003024",
@@ -271,5 +280,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-24T20:11:53.439Z"
+  "syncedAt": "2026-10-25T20:21:50.584Z"
 }

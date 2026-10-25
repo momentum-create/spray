@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 133
+    "totalProducts": 132
   },
   "brands": [
     {
@@ -114,7 +114,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
-      "productCount": 8
+      "productCount": 7
     },
     {
       "slug": "arbor",
@@ -138,7 +138,7 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "gentemstick",
@@ -246,7 +246,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
-      "productCount": 8
+      "productCount": 7
     },
     {
       "slug": "arbor",
@@ -270,7 +270,7 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
-      "productCount": 7
+      "productCount": 6
     },
     {
       "slug": "gentemstick",
@@ -378,7 +378,7 @@
       "slug": "salomon",
       "name": "SALOMON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
-      "productCount": 8
+      "productCount": 7
     },
     {
       "slug": "arbor",
@@ -402,10 +402,19 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
-      "productCount": 7
+      "productCount": 6
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004433",
+      "makeshopId": "000000004433",
+      "brandSlug": "atirom-avs",
+      "name": "【atirom-avs】アチロム 【Rotation 159】ローテーション 2026-2027 スノーボード バックカントリー カービング",
+      "priceJpy": 121880,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004433/I61077/page1/order/",
+      "updatedAt": "2026-10-10T21:08:14.785Z"
+    },
     {
       "slug": "snowboard-000000003852",
       "makeshopId": "000000003852",
@@ -575,15 +584,6 @@
       "name": "【atirom-avs】アチロム 【Rotation 154】ローテーション 2026-2027 スノーボード バックカントリー カービング",
       "priceJpy": 121880,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004435/I61077/page1/order/",
-      "updatedAt": "2026-10-10T21:08:14.785Z"
-    },
-    {
-      "slug": "snowboard-000000004433",
-      "makeshopId": "000000004433",
-      "brandSlug": "atirom-avs",
-      "name": "【atirom-avs】アチロム 【Rotation 159】ローテーション 2026-2027 スノーボード バックカントリー カービング",
-      "priceJpy": 121880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004433/I61077/page1/order/",
       "updatedAt": "2026-10-10T21:08:14.785Z"
     },
     {
@@ -1457,15 +1457,6 @@
       "name": "【FLUX】フラックス 【TW-C】 23-24 MODEL スノーボード",
       "priceJpy": 47520,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003522/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000003526",
-      "makeshopId": "000000003526",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】 サロモン 【SLEEPWALKER GROM】スリープ ウォーカー グロム 23-24 キッズ 子供用 SNOWBOARD スノーボード",
-      "priceJpy": 30800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003526/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
@@ -3025,5 +3016,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-24T20:11:46.654Z"
+  "syncedAt": "2026-10-25T20:21:42.473Z"
 }
