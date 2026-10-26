@@ -5,7 +5,7 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 69
+    "totalProducts": 68
   },
   "brands": [],
   "products": [
@@ -98,15 +98,6 @@
       "priceJpy": 8360,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003819/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004200",
-      "makeshopId": "000000004200",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numeri 78A 60mm Green】 ミニヌメリ 78A 60mm グリーン スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004200/ct307/page1/order/",
-      "updatedAt": "2026-08-15T18:24:05.310Z"
     },
     {
       "slug": "skateboard-parts-000000003893",
@@ -379,15 +370,6 @@
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
-      "slug": "skateboard-parts-000000003750",
-      "makeshopId": "000000003750",
-      "brandSlug": "jacuzzi-unlimited",
-      "name": "【JACUZZI UNLIMITED】 ジャグジー 【Tribal Rails】 トライバルレール レールバー スケートボード",
-      "priceJpy": 2860,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003750/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
       "slug": "skateboard-parts-000000003749",
       "makeshopId": "000000003749",
       "brandSlug": "jacuzzi-unlimited",
@@ -620,6 +602,15 @@
       "priceJpy": 9130,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003740/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004200",
+      "makeshopId": "000000004200",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Numeri 78A 60mm Green】 ミニヌメリ 78A 60mm グリーン スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004200/ct307/page1/order/",
+      "updatedAt": "2026-08-15T18:24:05.310Z"
     },
     {
       "slug": "skateboard-parts-000000003794",
@@ -1426,5 +1417,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-25T20:22:05.924Z"
+  "syncedAt": "2026-10-26T22:16:48.289Z"
 }

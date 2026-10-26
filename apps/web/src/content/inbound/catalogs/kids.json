@@ -5,10 +5,46 @@
     "title": "Kids & Junior",
     "titleJa": "キッズ・ジュニア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct305/",
-    "totalProducts": 26
+    "totalProducts": 30
   },
   "brands": [],
   "products": [
+    {
+      "slug": "kids-000000004533",
+      "makeshopId": "000000004533",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Snow Insulation Bib】 スノーインサレーションビブ NSJ62506 2026-2027 キッズ/スノーボードウェア/スキー/ビブパンツ",
+      "priceJpy": 24200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004533/ct305/page1/order/",
+      "updatedAt": "2026-10-26T22:16:51.324Z"
+    },
+    {
+      "slug": "kids-000000004532",
+      "makeshopId": "000000004532",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Snow Insulation Jacket】 スノーインサレーションジャケット NSJ62505 2026-2027 キッズ/スノーボードウェア/スキー/ジャケット",
+      "priceJpy": 30800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004532/ct305/page1/order/",
+      "updatedAt": "2026-10-26T22:16:51.324Z"
+    },
+    {
+      "slug": "kids-000000004531",
+      "makeshopId": "000000004531",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Snow Over Pant】 スノーオーバージャケット NSJ62504 2026-2027 キッズ/スノーボードウェア/スキー/パンツ",
+      "priceJpy": 22000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004531/ct305/page1/order/",
+      "updatedAt": "2026-10-26T22:16:51.324Z"
+    },
+    {
+      "slug": "kids-000000004530",
+      "makeshopId": "000000004530",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Snow Over Jacket】 スノーオーバージャケット NSJ62503 2026-2027 キッズ/スノーボードウェア/スキー/ジャケット",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004530/ct305/page1/order/",
+      "updatedAt": "2026-10-26T22:16:51.324Z"
+    },
     {
       "slug": "kids-000000003337",
       "makeshopId": "000000003337",
@@ -566,5 +602,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-25T20:22:10.051Z"
+  "syncedAt": "2026-10-26T22:16:51.324Z"
 }
