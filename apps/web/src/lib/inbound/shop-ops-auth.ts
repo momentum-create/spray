@@ -8,13 +8,17 @@ export function getShopOpsSecret(): string | undefined {
   return secret || undefined;
 }
 
+export function isShopOpsProduction(): boolean {
+  return process.env.NODE_ENV === "production";
+}
+
 export function isShopOpsProtectionEnabled(): boolean {
   return Boolean(getShopOpsSecret());
 }
 
 export function verifyShopOpsPassword(input: string): boolean {
   const secret = getShopOpsSecret();
-  if (!secret) return true;
+  if (!secret) return !isShopOpsProduction();
   return input === secret;
 }
 
@@ -25,6 +29,6 @@ export function createShopOpsSessionToken(): string {
 }
 
 export function isShopOpsSessionValid(cookieValue: string | undefined): boolean {
-  if (!isShopOpsProtectionEnabled()) return true;
+  if (!isShopOpsProtectionEnabled()) return !isShopOpsProduction();
   return cookieValue === createShopOpsSessionToken();
 }

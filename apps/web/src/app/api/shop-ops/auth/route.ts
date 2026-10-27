@@ -5,12 +5,16 @@ import {
   SHOP_OPS_COOKIE_MAX_AGE,
   createShopOpsSessionToken,
   getShopOpsSecret,
+  isShopOpsProduction,
   verifyShopOpsPassword,
 } from "@/lib/inbound/shop-ops-auth";
 
 export async function POST(request: Request) {
   const secret = getShopOpsSecret();
   if (!secret) {
+    if (isShopOpsProduction()) {
+      return NextResponse.json({ error: "Shop ops is disabled" }, { status: 503 });
+    }
     return NextResponse.json({ ok: true, message: "Protection disabled" });
   }
 
