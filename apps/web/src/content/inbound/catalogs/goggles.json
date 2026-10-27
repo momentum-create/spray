@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 48
+    "totalProducts": 52
   },
   "brands": [
     {
@@ -43,9 +43,93 @@
       "name": "DICE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct328/",
       "productCount": 4
+    },
+    {
+      "slug": "volcom",
+      "name": "VOLCOM",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct400/",
+      "productCount": 4
+    },
+    {
+      "slug": "smith",
+      "name": "SMITH",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct338/",
+      "productCount": 3
+    },
+    {
+      "slug": "dragon",
+      "name": "DRAGON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct350/",
+      "productCount": 11
+    },
+    {
+      "slug": "oakley",
+      "name": "OAKLEY",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct342/",
+      "productCount": 13
+    },
+    {
+      "slug": "anon",
+      "name": "anon",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct351/",
+      "productCount": 0
+    },
+    {
+      "slug": "revolt",
+      "name": "REVOLT",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct353/",
+      "productCount": 14
+    },
+    {
+      "slug": "dice",
+      "name": "DICE",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct328/",
+      "productCount": 4
+    },
+    {
+      "slug": "volcom",
+      "name": "VOLCOM",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct400/",
+      "productCount": 4
     }
   ],
   "products": [
+    {
+      "slug": "goggles-000000004538",
+      "makeshopId": "000000004538",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ヴォルコム 【STONE GOGGLE】ストーンゴーグル LensColor：Gray Silver goggles ゴーグル ボルコム MAGNETIC BG05M901",
+      "priceJpy": 14300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004538/ct327/page1/order/",
+      "updatedAt": "2026-10-27T21:48:27.390Z"
+    },
+    {
+      "slug": "goggles-000000004537",
+      "makeshopId": "000000004537",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ヴォルコム 【FLIP SYSTEM GOGGLE】フリップシステムゴーグル LensColor：Gray Silver 調光レンズ goggles ゴーグル ボルコム フリップアップ BG05M903",
+      "priceJpy": 26400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004537/ct327/page1/order/",
+      "updatedAt": "2026-10-27T21:48:27.390Z"
+    },
+    {
+      "slug": "goggles-000000004536",
+      "makeshopId": "000000004536",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ヴォルコム 【TRUE TO THIS GOGGLE】トゥルートゥディスゴーグル LensColor：Gray Silver 偏光レンズ goggles ゴーグル ボルコム MAGNETIC BG05M900B",
+      "priceJpy": 19800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004536/ct327/page1/order/",
+      "updatedAt": "2026-10-27T21:48:27.390Z"
+    },
+    {
+      "slug": "goggles-000000004535",
+      "makeshopId": "000000004535",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ヴォルコム 【OG GOGGLE】オージーゴーグル LensColor：Gray Silver 偏光レンズ goggles ゴーグル ボルコム MAGNETIC BG05M900A",
+      "priceJpy": 19800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004535/ct327/page1/order/",
+      "updatedAt": "2026-10-27T21:48:27.390Z"
+    },
     {
       "slug": "goggles-000000004356",
       "makeshopId": "000000004356",
@@ -991,5 +1075,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-26T22:16:35.480Z"
+  "syncedAt": "2026-10-27T21:48:27.390Z"
 }

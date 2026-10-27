@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 127
+    "totalProducts": 128
   },
   "brands": [
     {
@@ -28,6 +28,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "accessories-000000004539",
+      "makeshopId": "000000004539",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ヴォルコム 【STONE DECK PAD】ストーン デッキパッド ボルコム BG05M902",
+      "priceJpy": 2750,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004539/I61079/page1/order/",
+      "updatedAt": "2026-10-27T21:48:46.482Z"
+    },
     {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
@@ -2433,5 +2442,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-26T22:16:50.973Z"
+  "syncedAt": "2026-10-27T21:48:46.482Z"
 }
