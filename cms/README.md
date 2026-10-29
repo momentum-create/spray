@@ -6,8 +6,12 @@
 
 ```bash
 cd cms
+docker compose pull
 docker compose up -d
+docker compose exec wordpress php -v
 ```
+
+イメージは `wordpress:7.1-php8.2-apache` です。`6.7-php8.2-apache` は PHP 8.2.35 以降に更新されません。`php -v` が 8.2.35 以上であることを確認してください。
 
 - WordPress: http://localhost:8080
 - phpMyAdmin: http://localhost:8081
