@@ -29,6 +29,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000004378",
+      "makeshopId": "000000004378",
+      "brandSlug": "wrx",
+      "name": "【WRX】ダブルアールエックス 【WRXsb cable lock】 ワイヤーロック 盗難防止 ダイヤルロック",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004378/I61079/page1/order/",
+      "updatedAt": "2026-09-22T20:53:01.124Z"
+    },
+    {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
       "brandSlug": "uchiko",
@@ -54,15 +63,6 @@
       "priceJpy": 3000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000004378",
-      "makeshopId": "000000004378",
-      "brandSlug": "wrx",
-      "name": "【WRX】ダブルアールエックス 【WRXsb cable lock】 ワイヤーロック 盗難防止 ダイヤルロック",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004378/I61079/page1/order/",
-      "updatedAt": "2026-09-22T20:53:01.124Z"
     },
     {
       "slug": "accessories-000000004336",
@@ -2442,5 +2442,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-29T22:25:20.803Z"
+  "syncedAt": "2026-10-30T21:55:43.956Z"
 }

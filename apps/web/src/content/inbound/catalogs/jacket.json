@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "jacket-000000004486",
+      "makeshopId": "000000004486",
+      "brandSlug": "mont-bell",
+      "name": "【mont-bell】 モンベル 【U.L. Thermawrap Parka Men's】 U.L.サーマラップ パーカ メンズ #1101538 / メンズ / 男性用 / パッカブル / アウトドア / 登山",
+      "priceJpy": 18700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004486/ct308/page1/order/",
+      "updatedAt": "2026-10-16T20:29:11.635Z"
+    },
+    {
       "slug": "jacket-000000004496",
       "makeshopId": "000000004496",
       "brandSlug": "mont-bell",
@@ -43,15 +52,6 @@
       "name": "【mont-bell】 モンベル 【U.L. Thermawrap Jacket Men's】 U.L.サーマラップ ジャケット メンズ #1101539 / メンズ / 男性用 / パッカブル / アウトドア / 登山",
       "priceJpy": 17050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004487/ct308/page1/order/",
-      "updatedAt": "2026-10-16T20:29:11.635Z"
-    },
-    {
-      "slug": "jacket-000000004486",
-      "makeshopId": "000000004486",
-      "brandSlug": "mont-bell",
-      "name": "【mont-bell】 モンベル 【U.L. Thermawrap Parka Men's】 U.L.サーマラップ パーカ メンズ #1101538 / メンズ / 男性用 / パッカブル / アウトドア / 登山",
-      "priceJpy": 18700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004486/ct308/page1/order/",
       "updatedAt": "2026-10-16T20:29:11.635Z"
     },
     {
@@ -740,5 +740,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-29T22:25:11.013Z"
+  "syncedAt": "2026-10-30T21:55:32.122Z"
 }
