@@ -5,7 +5,7 @@
     "title": "Layering & Inner",
     "titleJa": "レイヤリング・インナー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct302/",
-    "totalProducts": 43
+    "totalProducts": 42
   },
   "brands": [],
   "products": [
@@ -133,15 +133,6 @@
       "name": "【mont-bell】モンベル 【U.L. Thermawrap Parka Women's】 U.L.サーマラップ パーカ ウィメンズ #1101597 / ウィメンズ / 女性用 / パッカブル / アウトドア / 登山",
       "priceJpy": 18150,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004472/ct302/page1/order/",
-      "updatedAt": "2026-10-13T00:07:23.404Z"
-    },
-    {
-      "slug": "layering-000000004471",
-      "makeshopId": "000000004471",
-      "brandSlug": "mont-bell",
-      "name": "【mont-bell】モンベル 【Superior Down Pants Women's】 スペリオダウンパンツ ウィメンズ #1101472 / ウィメンズ / 女性用 / パッカブル / アウトドア / 登山",
-      "priceJpy": 16700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004471/ct302/page1/order/",
       "updatedAt": "2026-10-13T00:07:23.404Z"
     },
     {
@@ -886,5 +877,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-31T20:22:25.363Z"
+  "syncedAt": "2026-10-31T20:57:49.655Z"
 }

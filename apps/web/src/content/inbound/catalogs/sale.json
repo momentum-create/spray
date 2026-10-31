@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 242
+    "totalProducts": 241
   },
   "brands": [],
   "products": [
@@ -62,15 +62,6 @@
       "priceJpy": 10395,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003673/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003572",
-      "makeshopId": "000000003572",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 GMD-S5610PP-4JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 11440,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003572/I61093/page1/order/",
-      "updatedAt": "2026-07-13T19:20:36.122Z"
     },
     {
       "slug": "sale-000000003551",
@@ -6119,5 +6110,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-31T20:22:28.786Z"
+  "syncedAt": "2026-10-31T20:58:08.154Z"
 }
