@@ -5,7 +5,7 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 136
+    "totalProducts": 135
   },
   "brands": [
     {
@@ -36,7 +36,7 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "g-shock",
@@ -66,7 +66,7 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "g-shock",
@@ -96,19 +96,10 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     }
   ],
   "products": [
-    {
-      "slug": "watch-000000004518",
-      "makeshopId": "000000004518",
-      "brandSlug": "casio",
-      "name": "【CASIO】 カシオ CASIO CLASSIC AQ-240E-1AJF 腕時計 国内正規品",
-      "priceJpy": 7700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004518/I61066/page1/order/",
-      "updatedAt": "2026-10-22T21:11:04.530Z"
-    },
     {
       "slug": "watch-000000004525",
       "makeshopId": "000000004525",
@@ -306,15 +297,6 @@
       "priceJpy": 15840,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003438/I61066/page1/order/",
       "updatedAt": "2026-07-16T19:05:46.636Z"
-    },
-    {
-      "slug": "watch-000000003624",
-      "makeshopId": "000000003624",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-2000HD-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13860,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003624/I61066/page1/order/",
-      "updatedAt": "2026-07-02T19:20:54.011Z"
     },
     {
       "slug": "watch-000000003560",
@@ -1314,6 +1296,15 @@
       "priceJpy": 36135,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003351/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
+    },
+    {
+      "slug": "watch-000000003624",
+      "makeshopId": "000000003624",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-2000HD-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 13860,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003624/I61066/page1/order/",
+      "updatedAt": "2026-07-02T19:20:54.011Z"
     },
     {
       "slug": "watch-000000003734",
@@ -4133,5 +4124,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-31T20:57:55.732Z"
+  "syncedAt": "2026-11-01T21:40:57.320Z"
 }

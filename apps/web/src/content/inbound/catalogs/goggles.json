@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 52
+    "totalProducts": 51
   },
   "brands": [
     {
@@ -48,7 +48,7 @@
       "slug": "volcom",
       "name": "VOLCOM",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct400/",
-      "productCount": 4
+      "productCount": 3
     },
     {
       "slug": "smith",
@@ -90,7 +90,7 @@
       "slug": "volcom",
       "name": "VOLCOM",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct400/",
-      "productCount": 4
+      "productCount": 3
     }
   ],
   "products": [
@@ -110,15 +110,6 @@
       "name": "【VOLCOM】ヴォルコム 【FLIP SYSTEM GOGGLE】フリップシステムゴーグル LensColor：Gray Silver 調光レンズ goggles ゴーグル ボルコム フリップアップ BG05M903",
       "priceJpy": 26400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004537/ct327/page1/order/",
-      "updatedAt": "2026-10-27T21:48:27.390Z"
-    },
-    {
-      "slug": "goggles-000000004536",
-      "makeshopId": "000000004536",
-      "brandSlug": "volcom",
-      "name": "【VOLCOM】ヴォルコム 【TRUE TO THIS GOGGLE】トゥルートゥディスゴーグル LensColor：Gray Silver 偏光レンズ goggles ゴーグル ボルコム MAGNETIC BG05M900B",
-      "priceJpy": 19800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004536/ct327/page1/order/",
       "updatedAt": "2026-10-27T21:48:27.390Z"
     },
     {
@@ -1125,5 +1116,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-31T20:57:45.007Z"
+  "syncedAt": "2026-11-01T21:40:46.187Z"
 }

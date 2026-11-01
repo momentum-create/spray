@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "spray-original-000000002417",
+      "makeshopId": "000000002417",
+      "brandSlug": "other",
+      "name": "SPRAY×Kossymix Premium Scraper S スクレイパー",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002417/ct271/page1/order/",
+      "updatedAt": "2026-11-01T21:40:37.413Z"
+    },
+    {
+      "slug": "spray-original-000000002418",
+      "makeshopId": "000000002418",
+      "brandSlug": "other",
+      "name": "SPRAY×Kossymix Premium Scraper M スクレイパー",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct271/page1/order/",
+      "updatedAt": "2026-11-01T21:40:37.413Z"
+    },
+    {
       "slug": "spray-original-000000003060",
       "makeshopId": "000000003060",
       "brandSlug": "gogglesoc",
@@ -469,15 +487,6 @@
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
-      "slug": "spray-original-000000002417",
-      "makeshopId": "000000002417",
-      "brandSlug": "other",
-      "name": "SPRAY×Kossymix Premium Scraper S",
-      "priceJpy": 2200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002417/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
       "slug": "spray-original-000000002855",
       "makeshopId": "000000002855",
       "brandSlug": "other",
@@ -502,15 +511,6 @@
       "name": "SPRAY Original 手ぬぐい【送料無料】",
       "priceJpy": 2310,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002885/ct271/page1/order/",
-      "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000002418",
-      "makeshopId": "000000002418",
-      "brandSlug": "other",
-      "name": "SPRAY×Kossymix Premium Scraper M",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
     },
     {
@@ -1167,5 +1167,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-31T20:57:36.866Z"
+  "syncedAt": "2026-11-01T21:40:37.413Z"
 }

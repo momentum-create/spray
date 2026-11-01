@@ -5,7 +5,7 @@
     "title": "Boots",
     "titleJa": "ブーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct297/",
-    "totalProducts": 50
+    "totalProducts": 49
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct318/",
-      "productCount": 25
+      "productCount": 24
     },
     {
       "slug": "deeluxe",
@@ -380,15 +380,6 @@
       "name": "ディーラックス 【DEELUXE】 【Spark XV CTF】カスタムサーモフィットライナー 2023-2024 バックカントリー スノーボード ブーツ",
       "priceJpy": 91300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002044/ct297/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.942Z"
-    },
-    {
-      "slug": "boots-000000003191",
-      "makeshopId": "000000003191",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Limelight BOA】 ライムライト BOA 25-26 ウィメンズ 女性用 BOOTS ブーツ SNOWBOARD スノーボード",
-      "priceJpy": 41300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003191/ct297/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.942Z"
     },
     {
@@ -1044,5 +1035,5 @@
       ]
     }
   },
-  "syncedAt": "2026-10-31T20:57:42.999Z"
+  "syncedAt": "2026-11-01T21:40:43.370Z"
 }
