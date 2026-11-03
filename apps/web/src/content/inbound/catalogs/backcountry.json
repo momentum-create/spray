@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000002935",
+      "makeshopId": "000000002935",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct301/page1/order/",
+      "updatedAt": "2026-10-18T20:04:35.791Z"
+    },
+    {
+      "slug": "backcountry-000000002995",
+      "makeshopId": "000000002995",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct301/page1/order/",
+      "updatedAt": "2026-10-18T20:04:35.791Z"
+    },
+    {
       "slug": "backcountry-000000004373",
       "makeshopId": "000000004373",
       "brandSlug": "tubbs",
@@ -37,15 +55,6 @@
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
-      "slug": "backcountry-000000002935",
-      "makeshopId": "000000002935",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット 26-27 バインディング スノーボード スプリットボード",
-      "priceJpy": 13200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct301/page1/order/",
-      "updatedAt": "2026-10-18T20:04:35.791Z"
-    },
-    {
       "slug": "backcountry-000000002933",
       "makeshopId": "000000002933",
       "brandSlug": "spark-r-d",
@@ -70,15 +79,6 @@
       "name": "【SPARK R&D】 スパーク 【PRO Backcountry Kit】 プロ バックカントリーキット 26-27 バインディング スノーボード スプリットボード",
       "priceJpy": 11000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004511/ct301/page1/order/",
-      "updatedAt": "2026-10-18T20:04:35.791Z"
-    },
-    {
-      "slug": "backcountry-000000002995",
-      "makeshopId": "000000002995",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット 26-27 バインディング スノーボード スプリットボード",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct301/page1/order/",
       "updatedAt": "2026-10-18T20:04:35.791Z"
     },
     {
@@ -1760,5 +1760,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-01T21:40:49.938Z"
+  "syncedAt": "2026-11-03T00:28:39.370Z"
 }
