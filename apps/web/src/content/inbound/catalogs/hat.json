@@ -59,6 +59,15 @@
   ],
   "products": [
     {
+      "slug": "hat-000000004331",
+      "makeshopId": "000000004331",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【POLARTEC GRID RANGER(HighWarm)】ポーラテック グリッド レンジャー(ハイウォーム) 2026/2027 スノーボード バラクラバ マスク",
+      "priceJpy": 5390,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004331/I61098/page1/order/",
+      "updatedAt": "2026-10-19T21:59:06.819Z"
+    },
+    {
       "slug": "hat-000000004481",
       "makeshopId": "000000004481",
       "brandSlug": "mont-bell",
@@ -92,15 +101,6 @@
       "name": "【eb's】エビス 【POLARTEC DRY RANGER】ポーラテック ドライ レンジャー 2026/2027 スノーボード バラクラバ マスク",
       "priceJpy": 4510,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004333/I61098/page1/order/",
-      "updatedAt": "2026-10-19T21:59:06.819Z"
-    },
-    {
-      "slug": "hat-000000004331",
-      "makeshopId": "000000004331",
-      "brandSlug": "ebs",
-      "name": "【eb's】エビス 【POLARTEC GRID RANGER(HighWarm)】ポーラテック グリッド レンジャー(ハイウォーム) 2026/2027 スノーボード バラクラバ マスク",
-      "priceJpy": 5390,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004331/I61098/page1/order/",
       "updatedAt": "2026-10-19T21:59:06.819Z"
     },
     {
@@ -1110,5 +1110,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-03T00:28:49.345Z"
+  "syncedAt": "2026-11-03T22:53:29.376Z"
 }

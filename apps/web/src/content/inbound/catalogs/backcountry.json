@@ -10,6 +10,33 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000003055",
+      "makeshopId": "000000003055",
+      "brandSlug": "pomoca",
+      "name": "【POMOCA】ポモカ 【SplitBoard Pro】スプリットボード プロ 145mm シール／スキン バックカントリー スノーボード",
+      "priceJpy": 47630,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003055/ct301/page1/order/",
+      "updatedAt": "2026-11-03T22:53:21.454Z"
+    },
+    {
+      "slug": "backcountry-000000002727",
+      "makeshopId": "000000002727",
+      "brandSlug": "pomoca",
+      "name": "【POMOCA】ポモカ 【SplitBoard Explore】スプリットボード エクスプローラー 145mm シール／スキン バックカントリー スノーボード",
+      "priceJpy": 44770,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002727/ct301/page1/order/",
+      "updatedAt": "2026-11-03T22:53:21.454Z"
+    },
+    {
+      "slug": "backcountry-000000003284",
+      "makeshopId": "000000003284",
+      "brandSlug": "pomoca",
+      "name": "【POMOCA】 ポモカ 【BACK FIX TAIL STRAP】 バックフィックス テールストラップ シール／スキン バックカントリー スノーボード",
+      "priceJpy": 5610,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003284/ct301/page1/order/",
+      "updatedAt": "2026-11-03T22:53:21.454Z"
+    },
+    {
       "slug": "backcountry-000000002935",
       "makeshopId": "000000002935",
       "brandSlug": "spark-r-d",
@@ -361,15 +388,6 @@
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
-      "slug": "backcountry-000000002727",
-      "makeshopId": "000000002727",
-      "brandSlug": "pomoca",
-      "name": "【POMOCA】ポモカ 【SplitBoard Explore】スプリットボード エクスプローラー 145mm シール／スキン バックカントリー スノーボード",
-      "priceJpy": 38060,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002727/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
       "slug": "backcountry-000000002925",
       "makeshopId": "000000002925",
       "brandSlug": "spark-r-d",
@@ -412,15 +430,6 @@
       "name": "【MSR】 エム エス アール 【CLASSIC STRAP-12inch】 クラシックストラップ 12インチ(2本セット) スノーシュー バックカントリー 登山 91046",
       "priceJpy": 2640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003001/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000003055",
-      "makeshopId": "000000003055",
-      "brandSlug": "pomoca",
-      "name": "【POMOCA】ポモカ 【SplitBoard Pro】スプリットボード プロ 145mm シール／スキン バックカントリー スノーボード",
-      "priceJpy": 42460,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003055/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -709,15 +718,6 @@
       "name": "【MAMMUT】 マムート 【Probe 320 speed lock】 プローブ 320 スピード ロック ゾンデ バックカントリー 2620-00131",
       "priceJpy": 16500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003054/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000003284",
-      "makeshopId": "000000003284",
-      "brandSlug": "pomoca",
-      "name": "【POMOCA】 ポモカ 【BACK FIX TAIL STRAP】 バックフィックス テールストラップ シール／スキン バックカントリー スノーボード",
-      "priceJpy": 4840,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003284/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -1760,5 +1760,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-03T00:28:39.370Z"
+  "syncedAt": "2026-11-03T22:53:21.454Z"
 }

@@ -5,10 +5,37 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 240
+    "totalProducts": 238
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003594",
+      "makeshopId": "000000003594",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-710TU-1A3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 13860,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003594/I61093/page1/order/",
+      "updatedAt": "2026-07-03T19:17:50.648Z"
+    },
+    {
+      "slug": "sale-000000004113",
+      "makeshopId": "000000004113",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GMD-S5610IT-6JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品 ITZY コラボ",
+      "priceJpy": 13090,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004113/I61093/page1/order/",
+      "updatedAt": "2026-07-11T18:58:57.837Z"
+    },
+    {
+      "slug": "sale-000000003576",
+      "makeshopId": "000000003576",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 DW-6900TR-4JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61093/page1/order/",
+      "updatedAt": "2026-07-13T19:20:36.122Z"
+    },
     {
       "slug": "sale-000000004373",
       "makeshopId": "000000004373",
@@ -82,15 +109,6 @@
       "updatedAt": "2026-07-10T19:24:02.514Z"
     },
     {
-      "slug": "sale-000000003576",
-      "makeshopId": "000000003576",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 DW-6900TR-4JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003576/I61093/page1/order/",
-      "updatedAt": "2026-07-13T19:20:36.122Z"
-    },
-    {
       "slug": "sale-000000003675",
       "makeshopId": "000000003675",
       "brandSlug": "baby-g",
@@ -160,15 +178,6 @@
       "name": "【G-SHOCK】 Gショック GA-100FL-8AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
       "priceJpy": 15400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003590/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003595",
-      "makeshopId": "000000003595",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-110TU-1A5JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 14245,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003595/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
@@ -568,15 +577,6 @@
       "updatedAt": "2026-07-11T18:58:57.837Z"
     },
     {
-      "slug": "sale-000000004113",
-      "makeshopId": "000000004113",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GMD-S5610IT-6JR 【CASIO】 カシオ ジーショック 腕時計 国内正規品 ITZY コラボ",
-      "priceJpy": 13090,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004113/I61093/page1/order/",
-      "updatedAt": "2026-07-11T18:58:57.837Z"
-    },
-    {
       "slug": "sale-000000004108",
       "makeshopId": "000000004108",
       "brandSlug": "g-shock",
@@ -637,15 +637,6 @@
       "name": "【BABY-G】 ベビーG BGA-1100GR-7BJF 【CASIO】 カシオ ベビージー レディース 腕時計 国内正規品 電波ソーラー",
       "priceJpy": 17710,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003689/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
-    {
-      "slug": "sale-000000003594",
-      "makeshopId": "000000003594",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-710TU-1A3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13860,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003594/I61093/page1/order/",
       "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
@@ -1699,15 +1690,6 @@
       "name": "【BURTON】 バートン 【Toddler GORE-TEX Mitten】 トドラー GORE-TEX ミトン 25-26 スノーボードグローブ 子供用",
       "priceJpy": 7740,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003266/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003474",
-      "makeshopId": "000000003474",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【ATLANTIC】アトランティック Red/Gum Suede レッド/ガム スエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 8470,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003474/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6101,5 +6083,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-03T00:28:58.229Z"
+  "syncedAt": "2026-11-03T22:53:37.157Z"
 }
