@@ -5,7 +5,7 @@
     "title": "Hats",
     "titleJa": "帽子",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61098/",
-    "totalProducts": 53
+    "totalProducts": 55
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "ct347",
       "name": "キャップ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
-      "productCount": 22
+      "productCount": 24
     },
     {
       "slug": "ct346",
@@ -48,7 +48,7 @@
       "slug": "ct347",
       "name": "キャップ",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct347/",
-      "productCount": 22
+      "productCount": 24
     },
     {
       "slug": "ct346",
@@ -58,6 +58,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "hat-000000004550",
+      "makeshopId": "000000004550",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Insulation Bomber Cap】 インサレーションボンバーキャップ NN42665 2026-2027 ユニセックス/帽子/キャップ/フライトキャップ",
+      "priceJpy": 13200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004550/I61098/page1/order/",
+      "updatedAt": "2026-11-05T23:15:15.239Z"
+    },
+    {
+      "slug": "hat-000000004549",
+      "makeshopId": "000000004549",
+      "brandSlug": "the-north-face",
+      "name": "【THE NORTH FACE】 ザ・ノース・フェイス 【Active Light Earflap Cap】 アクティブライトイヤーフラップキャップ NN42658 2026-2027 ユニセックス/帽子/キャップ/フライトキャップ",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004549/I61098/page1/order/",
+      "updatedAt": "2026-11-05T23:15:15.239Z"
+    },
     {
       "slug": "hat-000000004331",
       "makeshopId": "000000004331",
@@ -1110,5 +1128,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-04T23:11:18.934Z"
+  "syncedAt": "2026-11-05T23:15:15.239Z"
 }
