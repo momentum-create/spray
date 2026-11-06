@@ -59,6 +59,15 @@
   ],
   "products": [
     {
+      "slug": "hat-000000003125",
+      "makeshopId": "000000003125",
+      "brandSlug": "afdicegear-poler",
+      "name": "【AFDICEGEAR×POLER】 AFD×ポーラー 【AFD×POLER TECH BALACLAVA】 BLACK コラボモデル ユニセックス バラクラバ",
+      "priceJpy": 7150,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003125/I61098/page1/order/",
+      "updatedAt": "2026-05-29T06:08:31.320Z"
+    },
+    {
       "slug": "hat-000000004550",
       "makeshopId": "000000004550",
       "brandSlug": "the-north-face",
@@ -497,15 +506,6 @@
       "name": "【DAKINE】ダカイン 【NINJA VENTED BALACLAVA】ニンジャ ベンテッド バラクラバ / スノーボード / スキー / アウトドア / 登山",
       "priceJpy": 7920,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003251/I61098/page1/order/",
-      "updatedAt": "2026-05-29T06:08:31.320Z"
-    },
-    {
-      "slug": "hat-000000003125",
-      "makeshopId": "000000003125",
-      "brandSlug": "afdicegear-poler",
-      "name": "【AFDICEGEAR×POLER】 AFD×ポーラー 【AFD×POLER TECH BALACLAVA】 BLACK コラボモデル ユニセックス バラクラバ",
-      "priceJpy": 7150,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003125/I61098/page1/order/",
       "updatedAt": "2026-05-29T06:08:31.320Z"
     },
     {
@@ -1128,5 +1128,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-05T23:15:15.239Z"
+  "syncedAt": "2026-11-06T22:42:02.324Z"
 }

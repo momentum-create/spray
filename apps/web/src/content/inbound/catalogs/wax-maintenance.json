@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "wax-maintenance-000000004315",
+      "makeshopId": "000000004315",
+      "brandSlug": "slab",
+      "name": "【SLAB】エスラボ 【REBRU #36】レブラ36 ブラシ / ワックス / WAX / メンテナンス",
+      "priceJpy": 14850,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004315/ct357/page1/order/",
+      "updatedAt": "2026-08-30T20:31:53.595Z"
+    },
+    {
       "slug": "wax-maintenance-000000002417",
       "makeshopId": "000000002417",
       "brandSlug": "other",
@@ -89,15 +98,6 @@
       "priceJpy": 2200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003219/ct357/page1/order/",
       "updatedAt": "2026-10-08T22:52:01.044Z"
-    },
-    {
-      "slug": "wax-maintenance-000000004315",
-      "makeshopId": "000000004315",
-      "brandSlug": "slab",
-      "name": "【SLAB】エスラボ 【REBRU #36】レブラ36 ブラシ / ワックス / WAX / メンテナンス",
-      "priceJpy": 14850,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004315/ct357/page1/order/",
-      "updatedAt": "2026-08-30T20:31:53.595Z"
     },
     {
       "slug": "wax-maintenance-000000004124",
@@ -315,5 +315,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-05T23:15:05.491Z"
+  "syncedAt": "2026-11-06T22:41:54.838Z"
 }

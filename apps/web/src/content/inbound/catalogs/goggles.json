@@ -5,14 +5,14 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 51
+    "totalProducts": 58
   },
   "brands": [
     {
       "slug": "smith",
       "name": "SMITH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct338/",
-      "productCount": 3
+      "productCount": 10
     },
     {
       "slug": "dragon",
@@ -54,7 +54,7 @@
       "slug": "smith",
       "name": "SMITH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct338/",
-      "productCount": 3
+      "productCount": 10
     },
     {
       "slug": "dragon",
@@ -94,6 +94,69 @@
     }
   ],
   "products": [
+    {
+      "slug": "goggles-000000003955",
+      "makeshopId": "000000003955",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Stash XL】スタッシュ Black CP Pro Photochromic Blue Mirror 2026/2027MODEL goggles ゴーグル プロ調光",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003955/ct327/page1/order/",
+      "updatedAt": "2026-11-06T22:41:51.618Z"
+    },
+    {
+      "slug": "goggles-000000003956",
+      "makeshopId": "000000003956",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Stash XL】スタッシュ Black CP Pro Photochromic Gold Mirror 2026/2027MODEL goggles ゴーグル プロ調光",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003956/ct327/page1/order/",
+      "updatedAt": "2026-11-06T22:41:51.618Z"
+    },
+    {
+      "slug": "goggles-000000003957",
+      "makeshopId": "000000003957",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Stash XL】スタッシュ Blackout CP Pro Photochromic Red Mirror 2026/2027MODEL goggles ゴーグル プロ調光",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003957/ct327/page1/order/",
+      "updatedAt": "2026-11-06T22:41:51.618Z"
+    },
+    {
+      "slug": "goggles-000000003958",
+      "makeshopId": "000000003958",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Stash XL】スタッシュ Raw ReNU Undyed CP Pro Photochromic Blue Mirror 2026/2027MODEL goggles ゴーグル プロ調光",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003958/ct327/page1/order/",
+      "updatedAt": "2026-11-06T22:41:51.618Z"
+    },
+    {
+      "slug": "goggles-000000003959",
+      "makeshopId": "000000003959",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Stash XL】スタッシュ Camel Warm Steel CP Everyday Red Mirror 2026/2027MODEL goggles ゴーグル",
+      "priceJpy": 30250,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003959/ct327/page1/order/",
+      "updatedAt": "2026-11-06T22:41:51.618Z"
+    },
+    {
+      "slug": "goggles-000000003953",
+      "makeshopId": "000000003953",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Preview】プレビュー Black CP Pro Photochromic Blue Mirror 2026/2027MODEL goggles ゴーグル 調光",
+      "priceJpy": 45100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003953/ct327/page1/order/",
+      "updatedAt": "2026-11-06T22:41:51.618Z"
+    },
+    {
+      "slug": "goggles-000000003954",
+      "makeshopId": "000000003954",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Preview】プレビュー Cirrus Grey CP Pro Photochromic Red Mirror 2026/2027MODEL goggles ゴーグル 調光",
+      "priceJpy": 45100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003954/ct327/page1/order/",
+      "updatedAt": "2026-11-06T22:41:51.618Z"
+    },
     {
       "slug": "goggles-000000003060",
       "makeshopId": "000000003060",
@@ -1116,5 +1179,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-05T23:15:00.875Z"
+  "syncedAt": "2026-11-06T22:41:51.618Z"
 }
