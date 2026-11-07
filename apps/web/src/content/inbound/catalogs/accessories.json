@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 128
+    "totalProducts": 129
   },
   "brands": [
     {
@@ -28,6 +28,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "accessories-000000004569",
+      "makeshopId": "000000004569",
+      "brandSlug": "pro-standard",
+      "name": "【PRO STANDARD】プロスタンダード 【QUICK RELEASE】クイックリリース / STEP-ON用＆SUPERMATIC用",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004569/I61079/page1/order/",
+      "updatedAt": "2026-11-07T21:26:13.637Z"
+    },
+    {
+      "slug": "accessories-000000003060",
+      "makeshopId": "000000003060",
+      "brandSlug": "gogglesoc",
+      "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
+      "priceJpy": 3000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
     {
       "slug": "accessories-000000004378",
       "makeshopId": "000000004378",
@@ -54,15 +72,6 @@
       "priceJpy": 550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/I61079/page1/order/",
       "updatedAt": "2026-09-11T20:25:24.494Z"
-    },
-    {
-      "slug": "accessories-000000003060",
-      "makeshopId": "000000003060",
-      "brandSlug": "gogglesoc",
-      "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
-      "priceJpy": 3000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
       "slug": "accessories-000000004539",
@@ -2452,5 +2461,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T20:37:53.413Z"
+  "syncedAt": "2026-11-07T21:26:13.637Z"
 }

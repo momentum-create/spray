@@ -5,10 +5,19 @@
     "title": "Jackets & Outerwear",
     "titleJa": "ジャケット・アウター",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct308/",
-    "totalProducts": 35
+    "totalProducts": 36
   },
   "brands": [],
   "products": [
+    {
+      "slug": "jacket-000000004570",
+      "makeshopId": "000000004570",
+      "brandSlug": "other",
+      "name": "SPRAY Original Track Jacket",
+      "priceJpy": 7700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004570/ct308/page1/order/",
+      "updatedAt": "2026-11-07T21:26:02.889Z"
+    },
     {
       "slug": "jacket-000000004547",
       "makeshopId": "000000004547",
@@ -759,5 +768,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T20:37:51.978Z"
+  "syncedAt": "2026-11-07T21:26:02.889Z"
 }

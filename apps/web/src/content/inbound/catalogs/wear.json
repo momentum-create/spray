@@ -5,7 +5,7 @@
     "title": "Wear",
     "titleJa": "ウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct298/",
-    "totalProducts": 47
+    "totalProducts": 57
   },
   "brands": [
     {
@@ -36,7 +36,49 @@
       "slug": "volcom",
       "name": "VOLCOM",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct364/",
-      "productCount": 7
+      "productCount": 17
+    },
+    {
+      "slug": "h-i-d",
+      "name": "H.I.D",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct352/",
+      "productCount": 2
+    },
+    {
+      "slug": "cmf-outdoor-garment",
+      "name": "CMF OUTDOOR GARMENT",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct321/",
+      "productCount": 0
+    },
+    {
+      "slug": "the-north-face",
+      "name": "THE NORTH FACE",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct320/",
+      "productCount": 15
+    },
+    {
+      "slug": "patagonia",
+      "name": "Patagonia",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct324/",
+      "productCount": 12
+    },
+    {
+      "slug": "burton",
+      "name": "BURTON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct341/",
+      "productCount": 8
+    },
+    {
+      "slug": "ak",
+      "name": "AK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct385/",
+      "productCount": 1
+    },
+    {
+      "slug": "volcom",
+      "name": "VOLCOM",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct364/",
+      "productCount": 17
     },
     {
       "slug": "h-i-d",
@@ -52,6 +94,96 @@
     }
   ],
   "products": [
+    {
+      "slug": "wear-000000004564",
+      "makeshopId": "000000004564",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's Brighton Fullzip Jacket】メンズ ブライトン フルジップ ジャケット DarkGreen 2026-2027MODEL / ヴォルコム / ウェア / スノーボード / G0652658",
+      "priceJpy": 46200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004564/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004563",
+      "makeshopId": "000000004563",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's Lapper Pants】ラッパーパンツ BLACK(ブラック) 2026-2027MODEL / ヴォルコム / wear / ウェア / スノーボード / G1352667",
+      "priceJpy": 26400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004563/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004562",
+      "makeshopId": "000000004562",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's Nailer Pants】ネイラーパンツ 2026-2027MODEL / ヴォルコム / wear / ウェア / スノーボード / G1352665",
+      "priceJpy": 24200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004562/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004561",
+      "makeshopId": "000000004561",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's Roan Bib Overall】メンズ ローンビブ オーバーオール 2026-2027MODEL / ヴォルコム / wear / ウェア / スノーボード / G1352658",
+      "priceJpy": 49500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004561/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004560",
+      "makeshopId": "000000004560",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's L-GORE-TEX Pants】メンズ エル ゴアテックス パンツ 2026-2027MODEL / ヴォルコム / wear / ウェア / スノーボード / G1352655",
+      "priceJpy": 59400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004560/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004559",
+      "makeshopId": "000000004559",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's 2836 Ins Jacket】メンズ 2836 インサレーテッド ジャケット 2026-2027MODEL / ヴォルコム / wear / ウェア / スノーボード / G0452654",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004559/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004558",
+      "makeshopId": "000000004558",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's L-GORE-TEX Jacket】メンズ エル ゴアテックス ジャケット 2026-2027MODEL / ヴォルコム / wear / ウェア / スノーボード / G0652653",
+      "priceJpy": 66000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004558/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004557",
+      "makeshopId": "000000004557",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's Arthur 3L 20K Jacket】メンズ アーサー 3L 20K ジャケット 2026-2027MODEL / ヴォルコム / ウェア / スノーボード / G0652662",
+      "priceJpy": 64900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004557/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004556",
+      "makeshopId": "000000004556",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's Top Stitch Jacket】メンズ トップステッチ ジャケット 2026-2027MODEL / ヴォルコム / ウェア / スノーボード / G0652660",
+      "priceJpy": 38500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004556/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
+    {
+      "slug": "wear-000000004555",
+      "makeshopId": "000000004555",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ボルコム 【Men's Double Insulated Jacket】メンズ ダブル インサレーテッド ジャケット 2026-2027MODEL / ヴォルコム / wear / ウェア / スノーボード / G0452653",
+      "priceJpy": 39600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004555/ct298/page1/order/",
+      "updatedAt": "2026-11-07T21:25:53.851Z"
+    },
     {
       "slug": "wear-000000004533",
       "makeshopId": "000000004533",
@@ -995,5 +1127,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T20:37:46.627Z"
+  "syncedAt": "2026-11-07T21:25:53.851Z"
 }

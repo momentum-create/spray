@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 135
+    "totalProducts": 137
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 102
+      "productCount": 105
     },
     {
       "slug": "baby-g",
@@ -36,13 +36,13 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 23
+      "productCount": 22
     },
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 102
+      "productCount": 105
     },
     {
       "slug": "baby-g",
@@ -66,13 +66,13 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 23
+      "productCount": 22
     },
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 102
+      "productCount": 105
     },
     {
       "slug": "baby-g",
@@ -96,19 +96,10 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 23
+      "productCount": 22
     }
   ],
   "products": [
-    {
-      "slug": "watch-000000004554",
-      "makeshopId": "000000004554",
-      "brandSlug": "casio",
-      "name": "【CASIO】 カシオ CASIO CLASSIC AQ-240EG-3AJF 腕時計 国内正規品",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004554/I61066/page1/order/",
-      "updatedAt": "2026-11-06T22:42:00.769Z"
-    },
     {
       "slug": "watch-000000004553",
       "makeshopId": "000000004553",
@@ -117,6 +108,33 @@
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004553/I61066/page1/order/",
       "updatedAt": "2026-11-06T22:42:00.769Z"
+    },
+    {
+      "slug": "watch-000000004567",
+      "makeshopId": "000000004567",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GDG-B100-1JF MUDMAN 【CASIO】 カシオ ジーショック マッドマン 腕時計 国内正規品 MASTER OF G",
+      "priceJpy": 38500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004567/I61066/page1/order/",
+      "updatedAt": "2026-11-07T21:26:07.021Z"
+    },
+    {
+      "slug": "watch-000000004566",
+      "makeshopId": "000000004566",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GDG-B100-1A5JF MUDMAN 【CASIO】 カシオ ジーショック マッドマン 腕時計 国内正規品 MASTER OF G",
+      "priceJpy": 38500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004566/I61066/page1/order/",
+      "updatedAt": "2026-11-07T21:26:07.021Z"
+    },
+    {
+      "slug": "watch-000000004565",
+      "makeshopId": "000000004565",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GDG-B100-1A3JF MUDMAN 【CASIO】 カシオ ジーショック マッドマン 腕時計 国内正規品 MASTER OF G",
+      "priceJpy": 38500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004565/I61066/page1/order/",
+      "updatedAt": "2026-11-07T21:26:07.021Z"
     },
     {
       "slug": "watch-000000003710",
@@ -4138,5 +4156,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T20:37:52.631Z"
+  "syncedAt": "2026-11-07T21:26:07.021Z"
 }

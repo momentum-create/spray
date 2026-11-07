@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 132
+    "totalProducts": 134
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 31
+      "productCount": 32
     },
     {
       "slug": "tj-brand",
@@ -96,7 +96,7 @@
       "slug": "fntc",
       "name": "FNTC",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
-      "productCount": 1
+      "productCount": 2
     },
     {
       "slug": "flux",
@@ -150,7 +150,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 31
+      "productCount": 32
     },
     {
       "slug": "tj-brand",
@@ -228,7 +228,7 @@
       "slug": "fntc",
       "name": "FNTC",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
-      "productCount": 1
+      "productCount": 2
     },
     {
       "slug": "flux",
@@ -282,7 +282,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 31
+      "productCount": 32
     },
     {
       "slug": "tj-brand",
@@ -360,7 +360,7 @@
       "slug": "fntc",
       "name": "FNTC",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
-      "productCount": 1
+      "productCount": 2
     },
     {
       "slug": "flux",
@@ -406,6 +406,51 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004572",
+      "makeshopId": "000000004572",
+      "brandSlug": "fntc",
+      "name": "【FNTC】エフエヌティーシー 【TNT R】 ティー・エヌ・ティー・アール 2026-2027 MODEL スノーボード フリースタイル グラトリ ラントリ",
+      "priceJpy": 71500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004572/I61077/page1/order/",
+      "updatedAt": "2026-11-07T21:25:49.099Z"
+    },
+    {
+      "slug": "snowboard-000000004422",
+      "makeshopId": "000000004422",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
+      "priceJpy": 108900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/I61077/page1/order/",
+      "updatedAt": "2026-10-04T20:51:02.963Z"
+    },
+    {
+      "slug": "snowboard-000000003875",
+      "makeshopId": "000000003875",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【PED 161】2026-2027MODEL スノーボード バックカントリー スプリット SPLIT",
+      "priceJpy": 184800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003875/I61077/page1/order/",
+      "updatedAt": "2026-11-07T21:25:49.099Z"
+    },
+    {
+      "slug": "snowboard-000000003873",
+      "makeshopId": "000000003873",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【NS 159】2026-2027MODEL スノーボード バックカントリー スプリット SPLIT",
+      "priceJpy": 168300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003873/I61077/page1/order/",
+      "updatedAt": "2026-10-11T21:27:08.703Z"
+    },
+    {
+      "slug": "snowboard-000000003773",
+      "makeshopId": "000000003773",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BARRACUDA】バラクーダ 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 150700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003773/I61077/page1/order/",
+      "updatedAt": "2026-09-12T20:10:08.168Z"
+    },
     {
       "slug": "snowboard-000000003864",
       "makeshopId": "000000003864",
@@ -468,15 +513,6 @@
       "priceJpy": 108900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004421/I61077/page1/order/",
       "updatedAt": "2026-10-04T20:51:02.963Z"
-    },
-    {
-      "slug": "snowboard-000000003873",
-      "makeshopId": "000000003873",
-      "brandSlug": "field-earth",
-      "name": "【FIELD EARTH】フィールド アース 【NS 159】2026-2027MODEL スノーボード バックカントリー スプリット SPLIT",
-      "priceJpy": 168300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003873/I61077/page1/order/",
-      "updatedAt": "2026-10-11T21:27:08.703Z"
     },
     {
       "slug": "snowboard-000000003872",
@@ -1082,15 +1118,6 @@
       "updatedAt": "2026-09-12T20:10:08.168Z"
     },
     {
-      "slug": "snowboard-000000003773",
-      "makeshopId": "000000003773",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【BARRACUDA】バラクーダ 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 150700,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003773/I61077/page1/order/",
-      "updatedAt": "2026-09-12T20:10:08.168Z"
-    },
-    {
       "slug": "snowboard-000000003767",
       "makeshopId": "000000003767",
       "brandSlug": "gentemstick",
@@ -1584,15 +1611,6 @@
       "priceJpy": 94050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002689/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000004422",
-      "makeshopId": "000000004422",
-      "brandSlug": "spray",
-      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
-      "priceJpy": 108900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
     }
   ],
   "images": {
@@ -3016,5 +3034,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T20:37:46.621Z"
+  "syncedAt": "2026-11-07T21:25:49.099Z"
 }

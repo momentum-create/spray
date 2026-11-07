@@ -5,7 +5,7 @@
     "title": "Boots",
     "titleJa": "ブーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct297/",
-    "totalProducts": 49
+    "totalProducts": 51
   },
   "brands": [
     {
@@ -18,7 +18,37 @@
       "slug": "k2",
       "name": "K2",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct316/",
-      "productCount": 3
+      "productCount": 5
+    },
+    {
+      "slug": "burton",
+      "name": "BURTON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct318/",
+      "productCount": 24
+    },
+    {
+      "slug": "deeluxe",
+      "name": "DEELUXE",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct319/",
+      "productCount": 8
+    },
+    {
+      "slug": "vans",
+      "name": "VANS",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct333/",
+      "productCount": 2
+    },
+    {
+      "slug": "flux",
+      "name": "FLUX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct317/",
+      "productCount": 6
+    },
+    {
+      "slug": "k2",
+      "name": "K2",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct316/",
+      "productCount": 5
     },
     {
       "slug": "burton",
@@ -40,6 +70,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "boots-000000004574",
+      "makeshopId": "000000004574",
+      "brandSlug": "k2",
+      "name": "【K2】ケーツー 【TARO TAMAI RS】 BLACK/BROWN 2026-2027 MODEL 男女兼用 / スノーボード ブーツ",
+      "priceJpy": 143000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004574/ct297/page1/order/",
+      "updatedAt": "2026-11-07T21:25:52.729Z"
+    },
+    {
+      "slug": "boots-000000004573",
+      "makeshopId": "000000004573",
+      "brandSlug": "k2",
+      "name": "【K2】ケーツー 【TT TARO TAMAI SNOWSURFER】 BLACK OLIVE 2026-2027 MODEL 男女兼用 / スノーボード ブーツ",
+      "priceJpy": 99000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004573/ct297/page1/order/",
+      "updatedAt": "2026-11-07T21:25:52.729Z"
+    },
     {
       "slug": "boots-000000004516",
       "makeshopId": "000000004516",
@@ -1035,5 +1083,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T20:37:46.626Z"
+  "syncedAt": "2026-11-07T21:25:52.729Z"
 }

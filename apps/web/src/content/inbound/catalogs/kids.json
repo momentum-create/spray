@@ -5,10 +5,64 @@
     "title": "Kids & Junior",
     "titleJa": "キッズ・ジュニア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct305/",
-    "totalProducts": 30
+    "totalProducts": 36
   },
   "brands": [],
   "products": [
+    {
+      "slug": "kids-000000004012",
+      "makeshopId": "000000004012",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Rodeo Jr.】ロデオ ジュニア 2026/2027MODEL スノーボード スキー ヘルメット キッズ ユース 子供",
+      "priceJpy": 18150,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004012/ct305/page1/order/",
+      "updatedAt": "2026-11-07T21:26:14.471Z"
+    },
+    {
+      "slug": "kids-000000004013",
+      "makeshopId": "000000004013",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Glide Jr.】グライド ジュニア 2026/2027MODEL スノーボード スキー ヘルメット キッズ ユース 子供",
+      "priceJpy": 18150,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004013/ct305/page1/order/",
+      "updatedAt": "2026-11-07T21:26:14.471Z"
+    },
+    {
+      "slug": "kids-000000004017",
+      "makeshopId": "000000004017",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Snowday】スノーデイ Black Green Sol-X Mirror 2026/2027MODEL goggles ゴーグル キッズ ジュニア 子供用",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004017/ct305/page1/order/",
+      "updatedAt": "2026-11-07T21:26:14.471Z"
+    },
+    {
+      "slug": "kids-000000004014",
+      "makeshopId": "000000004014",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Daredevil】デアデビル Light Lavender Dot Clouds Ignitor Mirror 2026/2027MODEL goggles ゴーグル キッズ ジュニア 子供用",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004014/ct305/page1/order/",
+      "updatedAt": "2026-11-07T21:26:14.471Z"
+    },
+    {
+      "slug": "kids-000000004015",
+      "makeshopId": "000000004015",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Daredevil】デアデビル Electric Lime Slime Green Sol-X Mirror 2026/2027MODEL goggles ゴーグル キッズ ジュニア 子供用",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004015/ct305/page1/order/",
+      "updatedAt": "2026-11-07T21:26:14.471Z"
+    },
+    {
+      "slug": "kids-000000004016",
+      "makeshopId": "000000004016",
+      "brandSlug": "smith",
+      "name": "【SMITH】スミス 【Daredevil】デアデビル Black Donuts Blue Sensor Mirror 2026/2027MODEL goggles ゴーグル キッズ ジュニア 子供用",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004016/ct305/page1/order/",
+      "updatedAt": "2026-11-07T21:26:14.471Z"
+    },
     {
       "slug": "kids-000000004533",
       "makeshopId": "000000004533",
@@ -642,5 +696,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T20:37:53.415Z"
+  "syncedAt": "2026-11-07T21:26:14.471Z"
 }
