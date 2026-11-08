@@ -95,6 +95,15 @@
   ],
   "products": [
     {
+      "slug": "gloves-000000004445",
+      "makeshopId": "000000004445",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Hand Cuff Wide】ハンドカフ ワイド 91871 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004445/ct299/page1/order/",
+      "updatedAt": "2026-10-08T22:51:58.544Z"
+    },
+    {
       "slug": "gloves-000000004310",
       "makeshopId": "000000004310",
       "brandSlug": "ebs",
@@ -227,15 +236,6 @@
       "name": "【HESTRA】へストラ 【Hand Cuff】ハンドカフ 91881 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
       "priceJpy": 1870,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004446/ct299/page1/order/",
-      "updatedAt": "2026-10-08T22:51:58.544Z"
-    },
-    {
-      "slug": "gloves-000000004445",
-      "makeshopId": "000000004445",
-      "brandSlug": "hestra",
-      "name": "【HESTRA】へストラ 【Hand Cuff Wide】ハンドカフ ワイド 91871 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
-      "priceJpy": 1870,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004445/ct299/page1/order/",
       "updatedAt": "2026-10-08T22:51:58.544Z"
     },
     {
@@ -1202,5 +1202,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T21:25:56.501Z"
+  "syncedAt": "2026-11-08T21:39:41.109Z"
 }

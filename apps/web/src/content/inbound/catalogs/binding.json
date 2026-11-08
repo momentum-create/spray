@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 112
+    "totalProducts": 111
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 14
+      "productCount": 13
     },
     {
       "slug": "union",
@@ -72,7 +72,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 14
+      "productCount": 13
     },
     {
       "slug": "union",
@@ -114,7 +114,7 @@
       "slug": "flux",
       "name": "FLUX",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct313/",
-      "productCount": 14
+      "productCount": 13
     },
     {
       "slug": "union",
@@ -136,6 +136,24 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000002991",
+      "makeshopId": "000000002991",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Binding Hardware Kit】 ハードウエアキット バインディング スノーボード スプリットボード",
+      "priceJpy": 3575,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002991/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000002927",
+      "makeshopId": "000000002927",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【SPARK POCKET TOOL】 スパークポケットツール バインディング スノーボード スプリットボード",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002927/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
     {
       "slug": "binding-000000004569",
       "makeshopId": "000000004569",
@@ -171,24 +189,6 @@
       "priceJpy": 6600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
       "updatedAt": "2026-10-18T20:04:31.347Z"
-    },
-    {
-      "slug": "binding-000000002927",
-      "makeshopId": "000000002927",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【SPARK POCKET TOOL】 スパークポケットツール バインディング スノーボード スプリットボード",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002927/ct296/page1/order/",
-      "updatedAt": "2026-10-18T20:04:31.347Z"
-    },
-    {
-      "slug": "binding-000000002991",
-      "makeshopId": "000000002991",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Binding Hardware Kit】 ハードウエアキット バインディング スノーボード スプリットボード",
-      "priceJpy": 3575,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002991/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
       "slug": "binding-000000002933",
@@ -773,15 +773,6 @@
       "name": "【FLUX】 フラックス 【PR】 ピーアール 25-26 MODEL ビンディング バインディング スノーボード",
       "priceJpy": 22880,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003477/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
-      "slug": "binding-000000003540",
-      "makeshopId": "000000003540",
-      "brandSlug": "flux",
-      "name": "【FLUX】フラックス 【CX】シーエックス 25-26 MODEL ビンディング バインディング スノーボード",
-      "priceJpy": 47520,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003540/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -2303,5 +2294,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T21:25:51.474Z"
+  "syncedAt": "2026-11-08T21:39:36.136Z"
 }

@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 62
+    "totalProducts": 69
   },
   "brands": [
     {
@@ -42,7 +42,7 @@
       "slug": "dice",
       "name": "DICE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct328/",
-      "productCount": 4
+      "productCount": 11
     },
     {
       "slug": "volcom",
@@ -84,7 +84,7 @@
       "slug": "dice",
       "name": "DICE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct328/",
-      "productCount": 4
+      "productCount": 11
     },
     {
       "slug": "volcom",
@@ -94,6 +94,69 @@
     }
   ],
   "products": [
+    {
+      "slug": "goggles-000000004365",
+      "makeshopId": "000000004365",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【SHOWDOWN】ショウダウン Photochromic/UltraLightPurple/BronzeMirror goggles 調光 ゴーグル SD64276",
+      "priceJpy": 25300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004365/ct327/page1/order/",
+      "updatedAt": "2026-11-08T21:39:40.119Z"
+    },
+    {
+      "slug": "goggles-000000004364",
+      "makeshopId": "000000004364",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【SHOWDOWN】ショウダウン Photochromic/UltraLightGray/LightSilverMirror goggles 調光 ゴーグル SD64570",
+      "priceJpy": 25300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004364/ct327/page1/order/",
+      "updatedAt": "2026-11-08T21:39:40.119Z"
+    },
+    {
+      "slug": "goggles-000000004361",
+      "makeshopId": "000000004361",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【BANK】バンク PolarizedGray/Photochromic/ChampagneGoldMirror goggles 偏光 調光 ゴーグル BK65573",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004361/ct327/page1/order/",
+      "updatedAt": "2026-11-08T21:39:40.119Z"
+    },
+    {
+      "slug": "goggles-000000004360",
+      "makeshopId": "000000004360",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【BANK】バンク Photochromic/LightGray/MitGoldMirror goggles 調光 ゴーグル BK65194",
+      "priceJpy": 37400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004360/ct327/page1/order/",
+      "updatedAt": "2026-11-08T21:39:40.119Z"
+    },
+    {
+      "slug": "goggles-000000004359",
+      "makeshopId": "000000004359",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【BANK】バンク Photochromic/LightGray/MitRedMirror goggles 調光 ゴーグル BK65190",
+      "priceJpy": 37400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004359/ct327/page1/order/",
+      "updatedAt": "2026-11-08T21:39:40.119Z"
+    },
+    {
+      "slug": "goggles-000000004357",
+      "makeshopId": "000000004357",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【BANK】バンク Photochromic/UltraLightPurple/SmokeMirror goggles 調光 ゴーグル BK54275",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004357/ct327/page1/order/",
+      "updatedAt": "2026-11-08T21:39:40.119Z"
+    },
+    {
+      "slug": "goggles-000000004355",
+      "makeshopId": "000000004355",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【GOODMAN】グッドマン Photochromic/UltraLightPurple/SmokeMirror goggles 調光 ゴーグル GM54275",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004355/ct327/page1/order/",
+      "updatedAt": "2026-11-08T21:39:40.119Z"
+    },
     {
       "slug": "goggles-000000003060",
       "makeshopId": "000000003060",
@@ -1285,5 +1348,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T21:25:55.055Z"
+  "syncedAt": "2026-11-08T21:39:40.119Z"
 }

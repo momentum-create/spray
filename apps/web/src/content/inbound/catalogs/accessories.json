@@ -29,6 +29,24 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000003401",
+      "makeshopId": "000000003401",
+      "brandSlug": "uchiko",
+      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
+      "priceJpy": 4980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000004445",
+      "makeshopId": "000000004445",
+      "brandSlug": "hestra",
+      "name": "【HESTRA】へストラ 【Hand Cuff Wide】ハンドカフ ワイド 91871 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004445/I61079/page1/order/",
+      "updatedAt": "2026-10-08T22:52:11.507Z"
+    },
+    {
       "slug": "accessories-000000004569",
       "makeshopId": "000000004569",
       "brandSlug": "pro-standard",
@@ -44,24 +62,6 @@
       "name": "★送料無料★ ゴーグルソック 【gogglesoc】 SPRAY Original gogglesoc スキー スノーボード バックカントリー ゴーグル",
       "priceJpy": 3000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000004378",
-      "makeshopId": "000000004378",
-      "brandSlug": "wrx",
-      "name": "【WRX】ダブルアールエックス 【WRXsb cable lock】 ワイヤーロック 盗難防止 ダイヤルロック",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004378/I61079/page1/order/",
-      "updatedAt": "2026-09-22T20:53:01.124Z"
-    },
-    {
-      "slug": "accessories-000000003401",
-      "makeshopId": "000000003401",
-      "brandSlug": "uchiko",
-      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
-      "priceJpy": 4980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -188,15 +188,6 @@
       "name": "【HESTRA】へストラ 【Hand Cuff】ハンドカフ 91881 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
       "priceJpy": 1870,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004446/I61079/page1/order/",
-      "updatedAt": "2026-10-08T22:52:11.507Z"
-    },
-    {
-      "slug": "accessories-000000004445",
-      "makeshopId": "000000004445",
-      "brandSlug": "hestra",
-      "name": "【HESTRA】へストラ 【Hand Cuff Wide】ハンドカフ ワイド 91871 グローブ 手袋 登山 / バックカントリー / スキー / スノーボード",
-      "priceJpy": 1870,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004445/I61079/page1/order/",
       "updatedAt": "2026-10-08T22:52:11.507Z"
     },
     {
@@ -1179,6 +1170,15 @@
       "priceJpy": 2970,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002557/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000004378",
+      "makeshopId": "000000004378",
+      "brandSlug": "wrx",
+      "name": "【WRX】ダブルアールエックス 【WRXsb cable lock】 ワイヤーロック 盗難防止 ダイヤルロック",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004378/I61079/page1/order/",
+      "updatedAt": "2026-09-22T20:53:01.124Z"
     },
     {
       "slug": "accessories-000000003002",
@@ -2461,5 +2461,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-07T21:26:13.637Z"
+  "syncedAt": "2026-11-08T21:39:55.050Z"
 }
