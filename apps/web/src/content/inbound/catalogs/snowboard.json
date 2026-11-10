@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 135
+    "totalProducts": 144
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "koruashapes",
       "name": "KORUASHAPES",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
-      "productCount": 0
+      "productCount": 9
     },
     {
       "slug": "burton",
@@ -162,7 +162,7 @@
       "slug": "koruashapes",
       "name": "KORUASHAPES",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
-      "productCount": 0
+      "productCount": 9
     },
     {
       "slug": "burton",
@@ -294,7 +294,7 @@
       "slug": "koruashapes",
       "name": "KORUASHAPES",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
-      "productCount": 0
+      "productCount": 9
     },
     {
       "slug": "burton",
@@ -406,6 +406,87 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004585",
+      "makeshopId": "000000004585",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【STORK BRUSHED】ストーク ブラッシュド 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 110000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004585/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
+    {
+      "slug": "snowboard-000000004584",
+      "makeshopId": "000000004584",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【TRANSITION FINDER BRUSHED】トランジションファインダー ブラッシュド 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 101200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004584/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
+    {
+      "slug": "snowboard-000000004583",
+      "makeshopId": "000000004583",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【DART BRUSHED】ダート ブラッシュド 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 110000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004583/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
+    {
+      "slug": "snowboard-000000004582",
+      "makeshopId": "000000004582",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【PENCIL BRUSHED】 ペンシル ブラッシュド 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 105600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004582/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
+    {
+      "slug": "snowboard-000000004581",
+      "makeshopId": "000000004581",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【TRANSITION FINDER SPLIT BRUSHED】 トランジションファインダー スプリット 2026-2027 MODEL スノーボード スプリットボード バックカントリー",
+      "priceJpy": 137500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004581/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
+    {
+      "slug": "snowboard-000000004580",
+      "makeshopId": "000000004580",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【OTTO PLUS】オット プラス 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 143000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004580/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
+    {
+      "slug": "snowboard-000000004579",
+      "makeshopId": "000000004579",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【TRANSITION FINDER PLUS】トランジションファインダープラス 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 143000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004579/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
+    {
+      "slug": "snowboard-000000004578",
+      "makeshopId": "000000004578",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【DART PLUS】ダートプラス 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 143000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004578/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
+    {
+      "slug": "snowboard-000000004577",
+      "makeshopId": "000000004577",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【PENCIL PLUS】ペンシル プラス 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 143000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004577/I61077/page1/order/",
+      "updatedAt": "2026-11-10T01:09:43.785Z"
+    },
     {
       "slug": "snowboard-000000004421",
       "makeshopId": "000000004421",
@@ -3043,5 +3124,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-08T21:39:34.138Z"
+  "syncedAt": "2026-11-10T01:09:43.785Z"
 }

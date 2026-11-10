@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "skateboard-parts-000000003849",
+      "makeshopId": "000000003849",
+      "brandSlug": "loaded",
+      "name": "【LOADED】 ローデッド 【COUNTERSUNK HARDWARE 1.25″】 フラットヘッド ハードウェア 1.25″ スケートボード ビスセット ロンスケ",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003849/ct307/page1/order/",
+      "updatedAt": "2026-05-29T06:08:32.598Z"
+    },
+    {
+      "slug": "skateboard-parts-000000004181",
+      "makeshopId": "000000004181",
+      "brandSlug": "riptide",
+      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
+      "updatedAt": "2026-09-26T20:38:03.937Z"
+    },
+    {
       "slug": "skateboard-parts-000000003889",
       "makeshopId": "000000003889",
       "brandSlug": "zulu-wheels",
@@ -44,15 +62,6 @@
       "priceJpy": 1100,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003828/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004181",
-      "makeshopId": "000000004181",
-      "brandSlug": "riptide",
-      "name": "【RipTide】 リップタイド 【Pivot Cups】ピボットカップ スケートボード",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004181/ct307/page1/order/",
-      "updatedAt": "2026-09-26T20:38:03.937Z"
     },
     {
       "slug": "skateboard-parts-000000003827",
@@ -206,15 +215,6 @@
       "priceJpy": 1760,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004179/ct307/page1/order/",
       "updatedAt": "2026-08-15T18:24:05.310Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003849",
-      "makeshopId": "000000003849",
-      "brandSlug": "loaded",
-      "name": "【LOADED】 ローデッド 【COUNTERSUNK HARDWARE 1.25″】 フラットヘッド ハードウェア 1.25″ スケートボード ビスセット ロンスケ",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003849/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
       "slug": "skateboard-parts-000000004233",
@@ -1345,5 +1345,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-08T21:39:52.768Z"
+  "syncedAt": "2026-11-10T01:10:07.698Z"
 }

@@ -29,6 +29,15 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000003486",
+      "makeshopId": "000000003486",
+      "brandSlug": "orange",
+      "name": "【oran'ge】 オレンジ 【GOGGLE GUARD】 ゴーグルガード / アウトドア / スキー / スノーボード / ブーツバッグ",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
       "brandSlug": "uchiko",
@@ -459,15 +468,6 @@
       "priceJpy": 4620,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002495/I61079/page1/order/",
       "updatedAt": "2026-08-28T02:01:47.459Z"
-    },
-    {
-      "slug": "accessories-000000003486",
-      "makeshopId": "000000003486",
-      "brandSlug": "orange",
-      "name": "【oran'ge】 オレンジ 【GOGGLE GUARD】 ゴーグルガード / アウトドア / スキー / スノーボード / ブーツバッグ",
-      "priceJpy": 2200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
       "slug": "accessories-000000002555",
@@ -2461,5 +2461,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-08T21:39:55.050Z"
+  "syncedAt": "2026-11-10T01:10:10.625Z"
 }
