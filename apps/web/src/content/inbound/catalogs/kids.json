@@ -5,10 +5,19 @@
     "title": "Kids & Junior",
     "titleJa": "キッズ・ジュニア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct305/",
-    "totalProducts": 36
+    "totalProducts": 37
   },
   "brands": [],
   "products": [
+    {
+      "slug": "kids-000000004588",
+      "makeshopId": "000000004588",
+      "brandSlug": "anon",
+      "name": "【anon】アノン 【Tracker LowBridge】トラッカー ローブリッジフィット Frame：Black MFIフェイスマスク付属 2026-2027 / goggles / ゴーグル / スノーボード / ジュニア / キッズ",
+      "priceJpy": 12100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004588/ct305/page1/order/",
+      "updatedAt": "2026-11-10T22:49:39.070Z"
+    },
     {
       "slug": "kids-000000004012",
       "makeshopId": "000000004012",
@@ -696,5 +705,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-10T01:10:11.183Z"
+  "syncedAt": "2026-11-10T22:49:39.070Z"
 }
