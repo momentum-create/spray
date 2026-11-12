@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 144
+    "totalProducts": 152
   },
   "brands": [
     {
@@ -30,7 +30,7 @@
       "slug": "koruashapes",
       "name": "KORUASHAPES",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
-      "productCount": 9
+      "productCount": 12
     },
     {
       "slug": "burton",
@@ -42,7 +42,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 4
+      "productCount": 9
     },
     {
       "slug": "bc-stream",
@@ -162,7 +162,7 @@
       "slug": "koruashapes",
       "name": "KORUASHAPES",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
-      "productCount": 9
+      "productCount": 12
     },
     {
       "slug": "burton",
@@ -174,7 +174,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 4
+      "productCount": 9
     },
     {
       "slug": "bc-stream",
@@ -294,7 +294,7 @@
       "slug": "koruashapes",
       "name": "KORUASHAPES",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
-      "productCount": 9
+      "productCount": 12
     },
     {
       "slug": "burton",
@@ -306,7 +306,139 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
+      "productCount": 9
+    },
+    {
+      "slug": "bc-stream",
+      "name": "BC Stream",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct340/",
+      "productCount": 3
+    },
+    {
+      "slug": "wrx",
+      "name": "WRX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct326/",
       "productCount": 4
+    },
+    {
+      "slug": "rice28",
+      "name": "RICE28",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct396/",
+      "productCount": 4
+    },
+    {
+      "slug": "november",
+      "name": "NOVEMBER",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
+      "productCount": 4
+    },
+    {
+      "slug": "k2",
+      "name": "K2",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct363/",
+      "productCount": 2
+    },
+    {
+      "slug": "gray",
+      "name": "GRAY",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
+      "productCount": 0
+    },
+    {
+      "slug": "atirom-avs",
+      "name": "atirom-avs",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct337/",
+      "productCount": 7
+    },
+    {
+      "slug": "ogasaka",
+      "name": "OGASAKA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct332/",
+      "productCount": 5
+    },
+    {
+      "slug": "fntc",
+      "name": "FNTC",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
+      "productCount": 3
+    },
+    {
+      "slug": "flux",
+      "name": "FLUX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct268/",
+      "productCount": 2
+    },
+    {
+      "slug": "secca",
+      "name": "SECCA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct309/",
+      "productCount": 0
+    },
+    {
+      "slug": "salomon",
+      "name": "SALOMON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
+      "productCount": 7
+    },
+    {
+      "slug": "arbor",
+      "name": "ARBOR",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct362/",
+      "productCount": 4
+    },
+    {
+      "slug": "ct348",
+      "name": "スプリットボード",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct348/",
+      "productCount": 1
+    },
+    {
+      "slug": "ct310",
+      "name": "スノースケート",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct310/",
+      "productCount": 0
+    },
+    {
+      "slug": "ct311",
+      "name": "キッズ・ジュニア",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
+      "productCount": 6
+    },
+    {
+      "slug": "gentemstick",
+      "name": "GENTEMSTICK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
+      "productCount": 43
+    },
+    {
+      "slug": "field-earth",
+      "name": "FIELD EARTH",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
+      "productCount": 32
+    },
+    {
+      "slug": "tj-brand",
+      "name": "TJ BRAND",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
+      "productCount": 4
+    },
+    {
+      "slug": "koruashapes",
+      "name": "KORUASHAPES",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
+      "productCount": 12
+    },
+    {
+      "slug": "burton",
+      "name": "BURTON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
+      "productCount": 6
+    },
+    {
+      "slug": "moss-snowstick",
+      "name": "MOSS SNOWSTICK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
+      "productCount": 9
     },
     {
       "slug": "bc-stream",
@@ -406,6 +538,78 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004614",
+      "makeshopId": "000000004614",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【LL166】 2026-2027 MODEL パウダーボード スノーボード",
+      "priceJpy": 154000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004614/I61077/page1/order/",
+      "updatedAt": "2026-11-12T23:11:39.836Z"
+    },
+    {
+      "slug": "snowboard-000000004613",
+      "makeshopId": "000000004613",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【WING PIN 75】 2026-2027 MODEL パウダーボード スノーボード",
+      "priceJpy": 145200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004613/I61077/page1/order/",
+      "updatedAt": "2026-11-12T23:11:39.836Z"
+    },
+    {
+      "slug": "snowboard-000000004612",
+      "makeshopId": "000000004612",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【WING PIN 59】 2026-2027 MODEL パウダーボード スノーボード",
+      "priceJpy": 138600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004612/I61077/page1/order/",
+      "updatedAt": "2026-11-12T23:11:39.836Z"
+    },
+    {
+      "slug": "snowboard-000000004610",
+      "makeshopId": "000000004610",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【PT 58】 2026-2027 MODEL パウダーボード スノーボード",
+      "priceJpy": 121000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004610/I61077/page1/order/",
+      "updatedAt": "2026-11-12T23:11:39.836Z"
+    },
+    {
+      "slug": "snowboard-000000004611",
+      "makeshopId": "000000004611",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【PT 64】 2026-2027 MODEL パウダーボード スノーボード",
+      "priceJpy": 123200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004611/I61077/page1/order/",
+      "updatedAt": "2026-11-12T23:11:39.836Z"
+    },
+    {
+      "slug": "snowboard-000000004608",
+      "makeshopId": "000000004608",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【PIN TONIC BRUSHED】ピントニック ブラッシュド 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 105600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004608/I61077/page1/order/",
+      "updatedAt": "2026-11-12T23:11:39.836Z"
+    },
+    {
+      "slug": "snowboard-000000004609",
+      "makeshopId": "000000004609",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【QUILL SPLIT】 クィル スプリット 2026-2027 MODEL スノーボード スプリットボード バックカントリー",
+      "priceJpy": 181500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004609/I61077/page1/order/",
+      "updatedAt": "2026-11-12T23:11:39.836Z"
+    },
+    {
+      "slug": "snowboard-000000004607",
+      "makeshopId": "000000004607",
+      "brandSlug": "korua-shapes",
+      "name": "【KORUA SHAPES】コルアシェイプス 【OTTO】オット 2026-2027 MODEL スノーボード カービング バックカントリー",
+      "priceJpy": 101200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004607/I61077/page1/order/",
+      "updatedAt": "2026-11-12T23:11:39.836Z"
+    },
     {
       "slug": "snowboard-000000004585",
       "makeshopId": "000000004585",
@@ -3124,5 +3328,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-12T00:01:25.403Z"
+  "syncedAt": "2026-11-12T23:11:39.836Z"
 }

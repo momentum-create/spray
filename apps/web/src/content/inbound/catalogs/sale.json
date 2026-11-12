@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003591",
+      "makeshopId": "000000003591",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-100FL-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003591/I61093/page1/order/",
+      "updatedAt": "2026-07-03T19:17:50.648Z"
+    },
+    {
       "slug": "sale-000000003486",
       "makeshopId": "000000003486",
       "brandSlug": "orange",
@@ -80,15 +89,6 @@
       "priceJpy": 11550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003678/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000003591",
-      "makeshopId": "000000003591",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-100FL-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003591/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
       "slug": "sale-000000003673",
@@ -6038,5 +6038,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-12T00:01:53.469Z"
+  "syncedAt": "2026-11-12T23:12:10.058Z"
 }

@@ -29,13 +29,13 @@
   ],
   "products": [
     {
-      "slug": "accessories-000000003486",
-      "makeshopId": "000000003486",
-      "brandSlug": "orange",
-      "name": "【oran'ge】 オレンジ 【GOGGLE GUARD】 ゴーグルガード / アウトドア / スキー / スノーボード / ブーツバッグ",
-      "priceJpy": 2200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
+      "slug": "accessories-000000004318",
+      "makeshopId": "000000004318",
+      "brandSlug": "dumbo",
+      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/I61079/page1/order/",
+      "updatedAt": "2026-09-11T20:25:24.494Z"
     },
     {
       "slug": "accessories-000000003401",
@@ -44,6 +44,15 @@
       "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
       "priceJpy": 4980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000003486",
+      "makeshopId": "000000003486",
+      "brandSlug": "orange",
+      "name": "【oran'ge】 オレンジ 【GOGGLE GUARD】 ゴーグルガード / アウトドア / スキー / スノーボード / ブーツバッグ",
+      "priceJpy": 2200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -72,15 +81,6 @@
       "priceJpy": 3000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003060/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000004318",
-      "makeshopId": "000000004318",
-      "brandSlug": "dumbo",
-      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
-      "priceJpy": 550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/I61079/page1/order/",
-      "updatedAt": "2026-09-11T20:25:24.494Z"
     },
     {
       "slug": "accessories-000000004539",
@@ -2461,5 +2461,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-12T00:01:49.257Z"
+  "syncedAt": "2026-11-12T23:12:05.668Z"
 }
