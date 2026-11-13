@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 152
+    "totalProducts": 155
   },
   "brands": [
     {
@@ -42,7 +42,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 9
+      "productCount": 12
     },
     {
       "slug": "bc-stream",
@@ -174,7 +174,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 9
+      "productCount": 12
     },
     {
       "slug": "bc-stream",
@@ -306,7 +306,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 9
+      "productCount": 12
     },
     {
       "slug": "bc-stream",
@@ -438,7 +438,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 9
+      "productCount": 12
     },
     {
       "slug": "bc-stream",
@@ -538,6 +538,33 @@
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004624",
+      "makeshopId": "000000004624",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【PQ60 EX】 2026-2027 MODEL パウダーボード SNOWBOARD スノーボード",
+      "priceJpy": 168300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004624/I61077/page1/order/",
+      "updatedAt": "2026-11-13T23:13:24.662Z"
+    },
+    {
+      "slug": "snowboard-000000004623",
+      "makeshopId": "000000004623",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【PQ54 EX】 2026-2027 MODEL パウダーボード SNOWBOARD スノーボード",
+      "priceJpy": 166100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004623/I61077/page1/order/",
+      "updatedAt": "2026-11-13T23:13:24.662Z"
+    },
+    {
+      "slug": "snowboard-000000004622",
+      "makeshopId": "000000004622",
+      "brandSlug": "moss-snowstick",
+      "name": "【MOSS SNOWSTICK】 モス スノースティック 【SW 62 EX】 2026-2027 MODEL パウダーボード SNOWBOARD スノーボード",
+      "priceJpy": 156200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004622/I61077/page1/order/",
+      "updatedAt": "2026-11-13T23:13:24.662Z"
+    },
     {
       "slug": "snowboard-000000004614",
       "makeshopId": "000000004614",
@@ -3328,5 +3355,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-12T23:11:39.836Z"
+  "syncedAt": "2026-11-13T23:13:24.662Z"
 }

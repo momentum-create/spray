@@ -29,13 +29,13 @@
   ],
   "products": [
     {
-      "slug": "accessories-000000004318",
-      "makeshopId": "000000004318",
-      "brandSlug": "dumbo",
-      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
-      "priceJpy": 550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/I61079/page1/order/",
-      "updatedAt": "2026-09-11T20:25:24.494Z"
+      "slug": "accessories-000000003298",
+      "makeshopId": "000000003298",
+      "brandSlug": "dakine",
+      "name": "【DAKINE】 ダカイン 【HELI STRAP】 ヘリ ストラップ /スノーボード / スキー / 登山",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003298/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
       "slug": "accessories-000000003401",
@@ -45,6 +45,15 @@
       "priceJpy": 4980,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000004318",
+      "makeshopId": "000000004318",
+      "brandSlug": "dumbo",
+      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/I61079/page1/order/",
+      "updatedAt": "2026-09-11T20:25:24.494Z"
     },
     {
       "slug": "accessories-000000003486",
@@ -1034,15 +1043,6 @@
       "name": "SPRAY Original 手ぬぐい【送料無料】",
       "priceJpy": 2310,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002885/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000003298",
-      "makeshopId": "000000003298",
-      "brandSlug": "dakine",
-      "name": "【DAKINE】 ダカイン 【HELI STRAP】 ヘリ ストラップ /スノーボード / スキー / 登山",
-      "priceJpy": 1870,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003298/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -2461,5 +2461,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-12T23:12:05.668Z"
+  "syncedAt": "2026-11-13T23:13:46.309Z"
 }

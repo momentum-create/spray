@@ -137,12 +137,12 @@
   ],
   "products": [
     {
-      "slug": "binding-000000002927",
-      "makeshopId": "000000002927",
+      "slug": "binding-000000002995",
+      "makeshopId": "000000002995",
       "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【SPARK POCKET TOOL】 スパークポケットツール バインディング スノーボード スプリットボード",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002927/ct296/page1/order/",
+      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 6600,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
       "updatedAt": "2026-10-18T20:04:31.347Z"
     },
     {
@@ -152,6 +152,33 @@
       "name": "【SPARK R&D】 スパーク 【ST 2nd Board Kit 】 セカンドボードキット 26-27 バインディング スノーボード スプリットボード",
       "priceJpy": 13200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002935/ct296/page1/order/",
+      "updatedAt": "2026-10-18T20:04:31.347Z"
+    },
+    {
+      "slug": "binding-000000002933",
+      "makeshopId": "000000002933",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Tip and Tail Clips 】 スパーク ティップ アンド テール クリップス 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 5500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002933/ct296/page1/order/",
+      "updatedAt": "2026-10-17T20:05:18.155Z"
+    },
+    {
+      "slug": "binding-000000002822",
+      "makeshopId": "000000002822",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Solid Board Pucks Flat】 ソリッドボードパックス フラット 26-27 バックバックカントリー スプリットボード",
+      "priceJpy": 14850,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002822/ct296/page1/order/",
+      "updatedAt": "2026-10-17T20:05:18.155Z"
+    },
+    {
+      "slug": "binding-000000002927",
+      "makeshopId": "000000002927",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【SPARK POCKET TOOL】 スパークポケットツール バインディング スノーボード スプリットボード",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002927/ct296/page1/order/",
       "updatedAt": "2026-10-18T20:04:31.347Z"
     },
     {
@@ -171,33 +198,6 @@
       "priceJpy": 9900,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004569/ct296/page1/order/",
       "updatedAt": "2026-11-07T21:25:51.474Z"
-    },
-    {
-      "slug": "binding-000000002822",
-      "makeshopId": "000000002822",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Solid Board Pucks Flat】 ソリッドボードパックス フラット 26-27 バックバックカントリー スプリットボード",
-      "priceJpy": 14850,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002822/ct296/page1/order/",
-      "updatedAt": "2026-10-17T20:05:18.155Z"
-    },
-    {
-      "slug": "binding-000000002995",
-      "makeshopId": "000000002995",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Backcountry Kit】 バックカントリーキット 26-27 バインディング スノーボード スプリットボード",
-      "priceJpy": 6600,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
-      "updatedAt": "2026-10-18T20:04:31.347Z"
-    },
-    {
-      "slug": "binding-000000002933",
-      "makeshopId": "000000002933",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Tip and Tail Clips 】 スパーク ティップ アンド テール クリップス 26-27 バインディング スノーボード スプリットボード",
-      "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002933/ct296/page1/order/",
-      "updatedAt": "2026-10-17T20:05:18.155Z"
     },
     {
       "slug": "binding-000000004511",
@@ -2294,5 +2294,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-12T23:11:42.706Z"
+  "syncedAt": "2026-11-13T23:13:27.294Z"
 }
