@@ -5,19 +5,10 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 233
+    "totalProducts": 232
   },
   "brands": [],
   "products": [
-    {
-      "slug": "sale-000000003591",
-      "makeshopId": "000000003591",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-100FL-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 15400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003591/I61093/page1/order/",
-      "updatedAt": "2026-07-03T19:17:50.648Z"
-    },
     {
       "slug": "sale-000000003486",
       "makeshopId": "000000003486",
@@ -26,6 +17,24 @@
       "priceJpy": 2200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003486/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
+    {
+      "slug": "sale-000000004217",
+      "makeshopId": "000000004217",
+      "brandSlug": "inhabitant",
+      "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc04 ステッカー",
+      "priceJpy": 385,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004217/I61093/page1/order/",
+      "updatedAt": "2026-07-25T19:03:30.338Z"
+    },
+    {
+      "slug": "sale-000000003591",
+      "makeshopId": "000000003591",
+      "brandSlug": "g-shock",
+      "name": "【G-SHOCK】 Gショック GA-100FL-1AJF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
+      "priceJpy": 15400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003591/I61093/page1/order/",
+      "updatedAt": "2026-07-03T19:17:50.648Z"
     },
     {
       "slug": "sale-000000003594",
@@ -242,15 +251,6 @@
       "priceJpy": 10010,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003655/I61093/page1/order/",
       "updatedAt": "2026-07-02T19:21:02.391Z"
-    },
-    {
-      "slug": "sale-000000004217",
-      "makeshopId": "000000004217",
-      "brandSlug": "inhabitant",
-      "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc04 ステッカー",
-      "priceJpy": 385,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004217/I61093/page1/order/",
-      "updatedAt": "2026-07-25T19:03:30.338Z"
     },
     {
       "slug": "sale-000000004214",
@@ -736,15 +736,6 @@
       "name": "【BURTON 】 バートン 【Smalls BOA】 スモールズ BOA Dusty Blue 25-26 キッズ 子供用 KIDS ブーツ SNOWBOARD スノーボード",
       "priceJpy": 22000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003376/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003428",
-      "makeshopId": "000000003428",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TRUDGER CHOCOLATE/GUM SUEDE】 スニーカー スケートボード SK8",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003428/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6038,5 +6029,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:03:41.673Z"
+  "syncedAt": "2026-11-14T21:57:47.071Z"
 }

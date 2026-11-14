@@ -10,6 +10,42 @@
   "brands": [],
   "products": [
     {
+      "slug": "spray-original-000000004318",
+      "makeshopId": "000000004318",
+      "brandSlug": "other",
+      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
+      "priceJpy": 550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/ct271/page1/order/",
+      "updatedAt": "2026-09-11T20:25:01.801Z"
+    },
+    {
+      "slug": "spray-original-000000004123",
+      "makeshopId": "000000004123",
+      "brandSlug": "slab-spray",
+      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：S】カーボンス クレーパー サイズ：S ワックス / WAX / メンテナンス",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004123/ct271/page1/order/",
+      "updatedAt": "2026-07-12T19:01:30.037Z"
+    },
+    {
+      "slug": "spray-original-000000004615",
+      "makeshopId": "000000004615",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴホワイト①】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004615/ct271/page1/order/",
+      "updatedAt": "2026-11-13T23:13:21.076Z"
+    },
+    {
+      "slug": "spray-original-000000004616",
+      "makeshopId": "000000004616",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×アイヌロゴネイビー②】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004616/ct271/page1/order/",
+      "updatedAt": "2026-11-13T23:13:21.076Z"
+    },
+    {
       "slug": "spray-original-000000004620",
       "makeshopId": "000000004620",
       "brandSlug": "owl-spray",
@@ -44,33 +80,6 @@
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004617/ct271/page1/order/",
       "updatedAt": "2026-11-13T23:13:21.076Z"
-    },
-    {
-      "slug": "spray-original-000000004616",
-      "makeshopId": "000000004616",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×アイヌロゴネイビー②】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004616/ct271/page1/order/",
-      "updatedAt": "2026-11-13T23:13:21.076Z"
-    },
-    {
-      "slug": "spray-original-000000004615",
-      "makeshopId": "000000004615",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴホワイト①】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004615/ct271/page1/order/",
-      "updatedAt": "2026-11-13T23:13:21.076Z"
-    },
-    {
-      "slug": "spray-original-000000004318",
-      "makeshopId": "000000004318",
-      "brandSlug": "other",
-      "name": "SPRAY Original BCロゴ Key Holder キーホルダー",
-      "priceJpy": 550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004318/ct271/page1/order/",
-      "updatedAt": "2026-09-11T20:25:01.801Z"
     },
     {
       "slug": "spray-original-000000004124",
@@ -134,15 +143,6 @@
       "priceJpy": 2640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct271/page1/order/",
       "updatedAt": "2026-11-01T21:40:37.413Z"
-    },
-    {
-      "slug": "spray-original-000000004123",
-      "makeshopId": "000000004123",
-      "brandSlug": "slab-spray",
-      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：S】カーボンス クレーパー サイズ：S ワックス / WAX / メンテナンス",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004123/ct271/page1/order/",
-      "updatedAt": "2026-07-12T19:01:30.037Z"
     },
     {
       "slug": "spray-original-000000004372",
@@ -1300,5 +1300,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:02:49.759Z"
+  "syncedAt": "2026-11-14T21:57:17.917Z"
 }

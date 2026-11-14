@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "sticker-000000004217",
+      "makeshopId": "000000004217",
+      "brandSlug": "inhabitant",
+      "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc04 ステッカー",
+      "priceJpy": 385,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004217/ct306/page1/order/",
+      "updatedAt": "2026-07-25T19:03:24.019Z"
+    },
+    {
       "slug": "sticker-000000004127",
       "makeshopId": "000000004127",
       "brandSlug": "nut-butter",
@@ -214,15 +223,6 @@
       "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc03 ステッカー",
       "priceJpy": 678,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004216/ct306/page1/order/",
-      "updatedAt": "2026-07-25T19:03:24.019Z"
-    },
-    {
-      "slug": "sticker-000000004217",
-      "makeshopId": "000000004217",
-      "brandSlug": "inhabitant",
-      "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc04 ステッカー",
-      "priceJpy": 385,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004217/ct306/page1/order/",
       "updatedAt": "2026-07-25T19:03:24.019Z"
     },
     {
@@ -679,5 +679,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:03:37.794Z"
+  "syncedAt": "2026-11-14T21:57:41.246Z"
 }

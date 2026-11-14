@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 93
+    "totalProducts": 91
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "dragon",
       "name": "DRAGON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct350/",
-      "productCount": 11
+      "productCount": 9
     },
     {
       "slug": "oakley",
@@ -66,7 +66,7 @@
       "slug": "dragon",
       "name": "DRAGON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct350/",
-      "productCount": 11
+      "productCount": 9
     },
     {
       "slug": "oakley",
@@ -107,13 +107,22 @@
   ],
   "products": [
     {
-      "slug": "goggles-000000004535",
-      "makeshopId": "000000004535",
-      "brandSlug": "volcom",
-      "name": "【VOLCOM】ヴォルコム 【OG GOGGLE】オージーゴーグル LensColor：Gray Silver 偏光レンズ goggles ゴーグル ボルコム MAGNETIC BG05M900A",
-      "priceJpy": 19800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004535/ct327/page1/order/",
-      "updatedAt": "2026-10-27T21:48:27.390Z"
+      "slug": "goggles-000000004615",
+      "makeshopId": "000000004615",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴホワイト①】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004615/ct327/page1/order/",
+      "updatedAt": "2026-11-13T23:13:30.851Z"
+    },
+    {
+      "slug": "goggles-000000004616",
+      "makeshopId": "000000004616",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×アイヌロゴネイビー②】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004616/ct327/page1/order/",
+      "updatedAt": "2026-11-13T23:13:30.851Z"
     },
     {
       "slug": "goggles-000000004620",
@@ -123,6 +132,15 @@
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004620/ct327/page1/order/",
       "updatedAt": "2026-11-13T23:13:30.851Z"
+    },
+    {
+      "slug": "goggles-000000004535",
+      "makeshopId": "000000004535",
+      "brandSlug": "volcom",
+      "name": "【VOLCOM】ヴォルコム 【OG GOGGLE】オージーゴーグル LensColor：Gray Silver 偏光レンズ goggles ゴーグル ボルコム MAGNETIC BG05M900A",
+      "priceJpy": 19800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004535/ct327/page1/order/",
+      "updatedAt": "2026-10-27T21:48:27.390Z"
     },
     {
       "slug": "goggles-000000004619",
@@ -149,24 +167,6 @@
       "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴネイビー②】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004617/ct327/page1/order/",
-      "updatedAt": "2026-11-13T23:13:30.851Z"
-    },
-    {
-      "slug": "goggles-000000004616",
-      "makeshopId": "000000004616",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×アイヌロゴネイビー②】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004616/ct327/page1/order/",
-      "updatedAt": "2026-11-13T23:13:30.851Z"
-    },
-    {
-      "slug": "goggles-000000004615",
-      "makeshopId": "000000004615",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴホワイト①】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004615/ct327/page1/order/",
       "updatedAt": "2026-11-13T23:13:30.851Z"
     },
     {
@@ -764,30 +764,12 @@
       "updatedAt": "2026-10-01T22:19:46.036Z"
     },
     {
-      "slug": "goggles-000000004164",
-      "makeshopId": "000000004164",
-      "brandSlug": "dragon",
-      "name": "【DRAGON】ドラゴン 【SLAIN MAG】スレインマグ COLOR：SCREEN LENS：LUMALENS PH（調光） J.RED ION 2026-2027MODEL ゴーグル スキー スノーボード",
-      "priceJpy": 36300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004164/ct327/page1/order/",
-      "updatedAt": "2026-09-20T20:18:31.365Z"
-    },
-    {
       "slug": "goggles-000000004165",
       "makeshopId": "000000004165",
       "brandSlug": "dragon",
       "name": "【DRAGON】ドラゴン 【SLAIN MAG】スレインマグ COLOR：SCREEN LENS：LUMALENS PH（調光） J.GOLD ION 2026-2027MODEL ゴーグル スキー スノーボード",
       "priceJpy": 36300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004165/ct327/page1/order/",
-      "updatedAt": "2026-09-20T20:18:31.365Z"
-    },
-    {
-      "slug": "goggles-000000004166",
-      "makeshopId": "000000004166",
-      "brandSlug": "dragon",
-      "name": "【DRAGON】ドラゴン 【SLAIN MAG】スレインマグ COLOR：SCREEN LENS：LUMALENS PH（調光） J.SILVER ION 2026-2027MODEL ゴーグル スキー スノーボード",
-      "priceJpy": 36300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004166/ct327/page1/order/",
       "updatedAt": "2026-09-20T20:18:31.365Z"
     },
     {
@@ -1926,5 +1908,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:03:30.565Z"
+  "syncedAt": "2026-11-14T21:57:27.341Z"
 }

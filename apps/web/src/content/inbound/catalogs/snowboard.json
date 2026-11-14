@@ -539,6 +539,24 @@
   ],
   "products": [
     {
+      "slug": "snowboard-000000003781",
+      "makeshopId": "000000003781",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BIG FISH OUTLINE CORE】ビッグフィッシュ アウトラインコア 2026-2027MODEL バックカントリー スノーボード パウダー",
+      "priceJpy": 189200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003781/I61077/page1/order/",
+      "updatedAt": "2026-09-19T20:00:54.969Z"
+    },
+    {
+      "slug": "snowboard-000000003857",
+      "makeshopId": "000000003857",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【C 165】2026-2027MODEL スノーボード バックカントリー カービング",
+      "priceJpy": 96800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003857/I61077/page1/order/",
+      "updatedAt": "2026-10-04T20:51:02.963Z"
+    },
+    {
       "slug": "snowboard-000000004624",
       "makeshopId": "000000004624",
       "brandSlug": "moss-snowstick",
@@ -1124,15 +1142,6 @@
       "updatedAt": "2026-10-04T20:51:02.963Z"
     },
     {
-      "slug": "snowboard-000000003857",
-      "makeshopId": "000000003857",
-      "brandSlug": "field-earth",
-      "name": "【FIELD EARTH】フィールド アース 【C 165】2026-2027MODEL スノーボード バックカントリー カービング",
-      "priceJpy": 96800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003857/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
-    },
-    {
       "slug": "snowboard-000000003851",
       "makeshopId": "000000003851",
       "brandSlug": "field-earth",
@@ -1373,15 +1382,6 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【SUPER FISH OUTLINE CORE】スーパーフィッシュ アウトラインコア 2026-2027MODEL バックカントリー スノーボード パウダー",
       "priceJpy": 190300,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003789/I61077/page1/order/",
-      "updatedAt": "2026-09-19T20:00:54.969Z"
-    },
-    {
-      "slug": "snowboard-000000003781",
-      "makeshopId": "000000003781",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【BIG FISH OUTLINE CORE】ビッグフィッシュ アウトラインコア 2026-2027MODEL バックカントリー スノーボード パウダー",
-      "priceJpy": 189200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003781/I61077/page1/order/",
       "updatedAt": "2026-09-19T20:00:54.969Z"
     },
     {
@@ -3561,5 +3561,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:03:04.083Z"
+  "syncedAt": "2026-11-14T21:57:21.490Z"
 }
