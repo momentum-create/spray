@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 91
+    "totalProducts": 95
   },
   "brands": [
     {
@@ -42,7 +42,7 @@
       "slug": "dice",
       "name": "DICE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct328/",
-      "productCount": 11
+      "productCount": 12
     },
     {
       "slug": "owl",
@@ -90,7 +90,7 @@
       "slug": "dice",
       "name": "DICE",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct328/",
-      "productCount": 11
+      "productCount": 12
     },
     {
       "slug": "owl",
@@ -107,21 +107,66 @@
   ],
   "products": [
     {
+      "slug": "goggles-000000004618",
+      "makeshopId": "000000004618",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×Spray166③】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004618/ct327/page1/order/",
+      "updatedAt": "2026-11-13T23:13:30.851Z"
+    },
+    {
+      "slug": "goggles-000000004358",
+      "makeshopId": "000000004358",
+      "brandSlug": "dice",
+      "name": "【DICE】ダイス 【BANK】バンク Photochromic/UltraLightGray/LightSilverMirror goggles 調光 ゴーグル BK64570",
+      "priceJpy": 36300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004358/ct327/page1/order/",
+      "updatedAt": "2026-11-15T22:27:40.718Z"
+    },
+    {
+      "slug": "goggles-000000004617",
+      "makeshopId": "000000004617",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴネイビー②】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004617/ct327/page1/order/",
+      "updatedAt": "2026-11-13T23:13:30.851Z"
+    },
+    {
+      "slug": "goggles-000000004637",
+      "makeshopId": "000000004637",
+      "brandSlug": "anon",
+      "name": "【anon】アノン 【M4 Cylindrical Goggle Lens】シリンドリカル ゴーグル レンズ Perceive Cloudy Pink クラウディピンク 平面レンズ / goggles / ゴーグル / スノーボード / スペアレンズ",
+      "priceJpy": 20900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004637/ct327/page1/order/",
+      "updatedAt": "2026-11-15T22:27:40.718Z"
+    },
+    {
+      "slug": "goggles-000000004635",
+      "makeshopId": "000000004635",
+      "brandSlug": "anon",
+      "name": "【anon】アノン 【M4 Toric Goggle Lens】トーリック ゴーグル レンズ Perceive Cloudy Pink クラウディピンク 球面レンズ / goggles / ゴーグル / スノーボード / スペアレンズ",
+      "priceJpy": 20900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004635/ct327/page1/order/",
+      "updatedAt": "2026-11-15T22:27:40.718Z"
+    },
+    {
+      "slug": "goggles-000000004634",
+      "makeshopId": "000000004634",
+      "brandSlug": "anon",
+      "name": "【anon】アノン 【DAY CASE】デイケース ゴーグルケース / スノーボード / スキー / 小物入れ / バッグ",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004634/ct327/page1/order/",
+      "updatedAt": "2026-11-15T22:27:40.718Z"
+    },
+    {
       "slug": "goggles-000000004615",
       "makeshopId": "000000004615",
       "brandSlug": "owl-spray",
       "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴホワイト①】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004615/ct327/page1/order/",
-      "updatedAt": "2026-11-13T23:13:30.851Z"
-    },
-    {
-      "slug": "goggles-000000004616",
-      "makeshopId": "000000004616",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×アイヌロゴネイビー②】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004616/ct327/page1/order/",
       "updatedAt": "2026-11-13T23:13:30.851Z"
     },
     {
@@ -149,24 +194,6 @@
       "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×Spray166③】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004619/ct327/page1/order/",
-      "updatedAt": "2026-11-13T23:13:30.851Z"
-    },
-    {
-      "slug": "goggles-000000004618",
-      "makeshopId": "000000004618",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×Spray166③】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004618/ct327/page1/order/",
-      "updatedAt": "2026-11-13T23:13:30.851Z"
-    },
-    {
-      "slug": "goggles-000000004617",
-      "makeshopId": "000000004617",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴネイビー②】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004617/ct327/page1/order/",
       "updatedAt": "2026-11-13T23:13:30.851Z"
     },
     {
@@ -924,6 +951,15 @@
       "priceJpy": 23320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002957/ct327/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.557Z"
+    },
+    {
+      "slug": "goggles-000000004616",
+      "makeshopId": "000000004616",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×アイヌロゴネイビー②】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004616/ct327/page1/order/",
+      "updatedAt": "2026-11-13T23:13:30.851Z"
     }
   ],
   "images": {
@@ -1908,5 +1944,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:27.341Z"
+  "syncedAt": "2026-11-15T22:27:40.718Z"
 }

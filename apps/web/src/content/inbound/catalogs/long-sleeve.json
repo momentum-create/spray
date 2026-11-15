@@ -5,7 +5,7 @@
     "title": "Long Sleeve",
     "titleJa": "長袖",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct303/",
-    "totalProducts": 18
+    "totalProducts": 17
   },
   "brands": [],
   "products": [
@@ -71,15 +71,6 @@
       "priceJpy": 19360,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003937/ct303/page1/order/",
       "updatedAt": "2026-05-30T19:10:34.263Z"
-    },
-    {
-      "slug": "long-sleeve-000000003906",
-      "makeshopId": "000000003906",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【ALPHA LIGHT JKT】 アルファ ライト ジャケット MIV02122 アウター",
-      "priceJpy": 18480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003906/ct303/page1/order/",
-      "updatedAt": "2026-05-29T06:08:26.389Z"
     },
     {
       "slug": "long-sleeve-000000003904",
@@ -368,5 +359,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:32.532Z"
+  "syncedAt": "2026-11-15T22:27:45.898Z"
 }

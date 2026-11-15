@@ -5,14 +5,14 @@
     "title": "Footwear",
     "titleJa": "フットウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61086/",
-    "totalProducts": 21
+    "totalProducts": 20
   },
   "brands": [
     {
       "slug": "I61087",
       "name": "メンズ スニーカー",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61087/",
-      "productCount": 11
+      "productCount": 10
     },
     {
       "slug": "I61156",
@@ -152,15 +152,6 @@
       "name": "【BALANCE工房】バランスコウボウ 【B-TR TRY】インソール / 中敷き / スノーボード / スキー / スポーツ",
       "priceJpy": 6600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003210/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003432",
-      "makeshopId": "000000003432",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】ラカイ 【CAMBRIDGE OLIVE SUEDE】 PARA-MOUNTソール / DELUXLITEインソール スニーカー スケートボード SK8",
-      "priceJpy": 9625,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003432/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
@@ -610,5 +601,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:34.482Z"
+  "syncedAt": "2026-11-15T22:27:47.301Z"
 }

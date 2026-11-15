@@ -5,7 +5,7 @@
     "title": "Layering & Inner",
     "titleJa": "レイヤリング・インナー",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct302/",
-    "totalProducts": 44
+    "totalProducts": 43
   },
   "brands": [],
   "products": [
@@ -286,15 +286,6 @@
       "name": "【MILLET】 ミレー 【THROUGH WARM HOODIE】 スルー ウォーム フーディ MIV02058",
       "priceJpy": 16720,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003907/ct302/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.771Z"
-    },
-    {
-      "slug": "layering-000000003906",
-      "makeshopId": "000000003906",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【ALPHA LIGHT JKT】 アルファ ライト ジャケット MIV02122 アウター",
-      "priceJpy": 18480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003906/ct302/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.771Z"
     },
     {
@@ -915,5 +906,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:31.677Z"
+  "syncedAt": "2026-11-15T22:27:45.081Z"
 }

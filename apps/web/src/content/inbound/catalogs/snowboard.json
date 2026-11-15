@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 155
+    "totalProducts": 154
   },
   "brands": [
     {
@@ -36,7 +36,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "moss-snowstick",
@@ -168,7 +168,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "moss-snowstick",
@@ -300,7 +300,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "moss-snowstick",
@@ -432,7 +432,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "moss-snowstick",
@@ -1778,15 +1778,6 @@
       "name": "【ARBOR】 アーバー 【KURO NEKO】 クロネコ 25-26 ウィメンズ 女性用 SNOWBOARD スノーボード",
       "priceJpy": 71984,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003503/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000003519",
-      "makeshopId": "000000003519",
-      "brandSlug": "burton",
-      "name": "【BURTON】バートン 【Process Flying V】プロセス Flying V 25-26 メンズボード SNOWBOARD スノーボード",
-      "priceJpy": 73480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003519/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
@@ -3561,5 +3552,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:21.490Z"
+  "syncedAt": "2026-11-15T22:27:34.464Z"
 }

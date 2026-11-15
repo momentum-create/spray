@@ -5,7 +5,7 @@
     "title": "Wear",
     "titleJa": "ウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct298/",
-    "totalProducts": 57
+    "totalProducts": 56
   },
   "brands": [
     {
@@ -24,7 +24,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct341/",
-      "productCount": 8
+      "productCount": 7
     },
     {
       "slug": "ak",
@@ -66,7 +66,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct341/",
-      "productCount": 8
+      "productCount": 7
     },
     {
       "slug": "ak",
@@ -506,15 +506,6 @@
       "name": "【BURTON】 バートン 【Men’ｓ Reserve 2L Relaxed Anorak Jacket】 メンズ リザーブ 2L リラックス アノラック ジャケット 25-26 Summit Taupe / True Black スノーボード ウェア 男性用",
       "priceJpy": 29000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003231/ct298/page1/order/",
-      "updatedAt": "2026-05-29T06:08:23.356Z"
-    },
-    {
-      "slug": "wear-000000003237",
-      "makeshopId": "000000003237",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Kid's Ascutney 2L Jacket】 キッズ アスカットニー 2L ジャケット 25-26 Soft Sage / Peach Echo スノーボード ウェア 子供用",
-      "priceJpy": 19300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003237/ct298/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.356Z"
     },
     {
@@ -1227,5 +1218,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:25.969Z"
+  "syncedAt": "2026-11-15T22:27:39.412Z"
 }

@@ -5,10 +5,28 @@
     "title": "Backpacks",
     "titleJa": "バックパック",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct300/",
-    "totalProducts": 15
+    "totalProducts": 17
   },
   "brands": [],
   "products": [
+    {
+      "slug": "backpack-000000003029",
+      "makeshopId": "000000003029",
+      "brandSlug": "plus-one-works",
+      "name": "【PLUS ONE WORKS】 プラスワンワークス 【MAKIRI 25 EVO】 マキリ25エボ アウトドア / スキー / スノーボード / バックカントリー / バックパック",
+      "priceJpy": 35200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003029/ct300/page1/order/",
+      "updatedAt": "2026-11-15T22:27:42.439Z"
+    },
+    {
+      "slug": "backpack-000000004639",
+      "makeshopId": "000000004639",
+      "brandSlug": "plus-one-works",
+      "name": "【PLUS ONE WORKS】 プラス ワン ワークス 【RERA 35 EVO】 レイラ 35 エボ アウトドア / スキー / スノーボード / バックカントリー / バックパック",
+      "priceJpy": 38500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004639/ct300/page1/order/",
+      "updatedAt": "2026-11-15T22:27:42.439Z"
+    },
     {
       "slug": "backpack-000000004632",
       "makeshopId": "000000004632",
@@ -337,5 +355,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:28.815Z"
+  "syncedAt": "2026-11-15T22:27:42.439Z"
 }

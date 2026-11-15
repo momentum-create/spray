@@ -5,7 +5,7 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 232
+    "totalProducts": 228
   },
   "brands": [],
   "products": [
@@ -883,15 +883,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003906",
-      "makeshopId": "000000003906",
-      "brandSlug": "millet",
-      "name": "【MILLET】 ミレー 【ALPHA LIGHT JKT】 アルファ ライト ジャケット MIV02122 アウター",
-      "priceJpy": 18480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003906/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003904",
       "makeshopId": "000000003904",
       "brandSlug": "millet",
@@ -1531,15 +1522,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003519",
-      "makeshopId": "000000003519",
-      "brandSlug": "burton",
-      "name": "【BURTON】バートン 【Process Flying V】プロセス Flying V 25-26 メンズボード SNOWBOARD スノーボード",
-      "priceJpy": 73480,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003519/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003520",
       "makeshopId": "000000003520",
       "brandSlug": "fntc",
@@ -1846,15 +1828,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003432",
-      "makeshopId": "000000003432",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】ラカイ 【CAMBRIDGE OLIVE SUEDE】 PARA-MOUNTソール / DELUXLITEインソール スニーカー スケートボード SK8",
-      "priceJpy": 9625,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003432/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003272",
       "makeshopId": "000000003272",
       "brandSlug": "burton",
@@ -2005,15 +1978,6 @@
       "name": "【OAKLEY】 オークリー 【Line Miner L】 ラインマイナー エル Matte Redline / Prizm Snow Torch Iridium 2025-2026 MODEL OO7070-F1",
       "priceJpy": 23320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002957/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003237",
-      "makeshopId": "000000003237",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Kid's Ascutney 2L Jacket】 キッズ アスカットニー 2L ジャケット 25-26 Soft Sage / Peach Echo スノーボード ウェア 子供用",
-      "priceJpy": 19300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003237/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -6029,5 +5993,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:47.071Z"
+  "syncedAt": "2026-11-15T22:28:00.262Z"
 }

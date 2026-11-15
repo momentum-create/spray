@@ -5,10 +5,46 @@
     "title": "Wax & Maintenance",
     "titleJa": "WAX＆メンテナンス",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct357/",
-    "totalProducts": 17
+    "totalProducts": 20
   },
   "brands": [],
   "products": [
+    {
+      "slug": "wax-maintenance-000000003199",
+      "makeshopId": "000000003199",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE TOP HF 100ml】リキッド ザ トップ / 液体 / メンテナンス",
+      "priceJpy": 6820,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003199/ct357/page1/order/",
+      "updatedAt": "2026-11-15T22:27:44.216Z"
+    },
+    {
+      "slug": "wax-maintenance-000000003196",
+      "makeshopId": "000000003196",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE BASE 100ml】リキッド ザ ベース / 液体 / メンテナンス",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003196/ct357/page1/order/",
+      "updatedAt": "2026-11-15T22:27:44.216Z"
+    },
+    {
+      "slug": "wax-maintenance-000000003197",
+      "makeshopId": "000000003197",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE HARD 100ml】リキッド ザ ハード / 液体 / メンテナンス",
+      "priceJpy": 3300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003197/ct357/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.388Z"
+    },
+    {
+      "slug": "wax-maintenance-000000003200",
+      "makeshopId": "000000003200",
+      "brandSlug": "coslabo-wax",
+      "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE SUMI 100ml】リキッド ザ スミ / 液体 / メンテナンス",
+      "priceJpy": 4400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003200/ct357/page1/order/",
+      "updatedAt": "2026-11-15T22:27:44.216Z"
+    },
     {
       "slug": "wax-maintenance-000000004123",
       "makeshopId": "000000004123",
@@ -62,15 +98,6 @@
       "priceJpy": 2640,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002418/ct357/page1/order/",
       "updatedAt": "2026-11-01T21:40:50.647Z"
-    },
-    {
-      "slug": "wax-maintenance-000000003197",
-      "makeshopId": "000000003197",
-      "brandSlug": "coslabo-wax",
-      "name": "【COSLABO WAX】コスラボ ワックス 【LIQUID THE HARD 100ml】リキッド ザ ハード / 液体 / メンテナンス",
-      "priceJpy": 3300,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003197/ct357/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.388Z"
     },
     {
       "slug": "wax-maintenance-000000004526",
@@ -315,5 +342,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-14T21:57:30.993Z"
+  "syncedAt": "2026-11-15T22:27:44.216Z"
 }
