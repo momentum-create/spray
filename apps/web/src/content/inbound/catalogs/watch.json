@@ -5,7 +5,7 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 135
+    "totalProducts": 134
   },
   "brands": [
     {
@@ -36,7 +36,7 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "g-shock",
@@ -66,7 +66,7 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     },
     {
       "slug": "g-shock",
@@ -96,7 +96,7 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 22
+      "productCount": 21
     }
   ],
   "products": [
@@ -1214,15 +1214,6 @@
       "name": "【CASIO】 カシオ CASIO CLASSIC LA670WES-4AJF 腕時計 国内正規品",
       "priceJpy": 6050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003365/I61066/page1/order/",
-      "updatedAt": "2026-05-29T06:08:30.635Z"
-    },
-    {
-      "slug": "watch-000000003363",
-      "makeshopId": "000000003363",
-      "brandSlug": "casio",
-      "name": "【CASIO】 カシオ CASIO CLASSIC LF-30W-8AJF 腕時計 国内正規品",
-      "priceJpy": 4400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003363/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
     },
     {
@@ -4168,5 +4159,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-15T22:27:50.171Z"
+  "syncedAt": "2026-11-17T01:33:51.194Z"
 }
