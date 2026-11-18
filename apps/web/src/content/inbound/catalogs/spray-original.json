@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "spray-original-000000004619",
+      "makeshopId": "000000004619",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×Spray166③】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004619/ct271/page1/order/",
+      "updatedAt": "2026-11-13T23:13:21.076Z"
+    },
+    {
+      "slug": "spray-original-000000004124",
+      "makeshopId": "000000004124",
+      "brandSlug": "slab-spray",
+      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：M】カーボンス クレーパー サイズ：M ワックス / WAX / メンテナンス",
+      "priceJpy": 1980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct271/page1/order/",
+      "updatedAt": "2026-07-12T19:01:30.037Z"
+    },
+    {
       "slug": "spray-original-000000004618",
       "makeshopId": "000000004618",
       "brandSlug": "owl-spray",
@@ -62,24 +80,6 @@
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004620/ct271/page1/order/",
       "updatedAt": "2026-11-13T23:13:21.076Z"
-    },
-    {
-      "slug": "spray-original-000000004619",
-      "makeshopId": "000000004619",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×Spray166③】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004619/ct271/page1/order/",
-      "updatedAt": "2026-11-13T23:13:21.076Z"
-    },
-    {
-      "slug": "spray-original-000000004124",
-      "makeshopId": "000000004124",
-      "brandSlug": "slab-spray",
-      "name": "【SLAB × SPRAY別注】エスラボ スプレイ別注 【CARBON SCRAPER Size：M】カーボンス クレーパー サイズ：M ワックス / WAX / メンテナンス",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004124/ct271/page1/order/",
-      "updatedAt": "2026-07-12T19:01:30.037Z"
     },
     {
       "slug": "spray-original-000000004421",
@@ -1300,5 +1300,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-17T01:33:27.864Z"
+  "syncedAt": "2026-11-18T00:30:14.315Z"
 }
