@@ -5,14 +5,14 @@
     "title": "Footwear",
     "titleJa": "フットウェア",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61086/",
-    "totalProducts": 20
+    "totalProducts": 19
   },
   "brands": [
     {
       "slug": "I61087",
       "name": "メンズ スニーカー",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61087/",
-      "productCount": 10
+      "productCount": 9
     },
     {
       "slug": "I61156",
@@ -125,15 +125,6 @@
       "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Tan/BlackLeather タン/ブラックレザー スニーカー スケートボード SK8 スケシュー スケボー",
       "priceJpy": 11550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003449/I61086/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.425Z"
-    },
-    {
-      "slug": "footwear-000000003436",
-      "makeshopId": "000000003436",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Black/BlueCamoSuede ブラック/ブルーカモスエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 9625,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003436/I61086/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.425Z"
     },
     {
@@ -601,5 +592,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-20T00:17:13.819Z"
+  "syncedAt": "2026-11-20T23:39:56.109Z"
 }

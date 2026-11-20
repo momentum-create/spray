@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "bag-000000003472",
+      "makeshopId": "000000003472",
+      "brandSlug": "orange",
+      "name": "【oran'ge】 オレンジ 【MASTER PACK kikkouchan】 マスターパック きっこうちゃん / アウトドア / スキー / スノーボード / ブーツバッグ",
+      "priceJpy": 11088,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003472/I61075/page1/order/",
+      "updatedAt": "2026-05-29T06:08:27.717Z"
+    },
+    {
       "slug": "bag-000000004634",
       "makeshopId": "000000004634",
       "brandSlug": "anon",
@@ -268,15 +277,6 @@
       "name": "【oran'ge】 オレンジ 【SHUTTLE ROLLER BOARD BAG kikkouchan】 シャトルローラーボードバッグ きっこうちゃん / トラベルバッグ / スキー / スノーボード / ボードケース / #200146",
       "priceJpy": 20416,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003470/I61075/page1/order/",
-      "updatedAt": "2026-05-29T06:08:27.717Z"
-    },
-    {
-      "slug": "bag-000000003472",
-      "makeshopId": "000000003472",
-      "brandSlug": "orange",
-      "name": "【oran'ge】 オレンジ 【MASTER PACK kikkouchan】 マスターパック きっこうちゃん / アウトドア / スキー / スノーボード / ブーツバッグ",
-      "priceJpy": 11088,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003472/I61075/page1/order/",
       "updatedAt": "2026-05-29T06:08:27.717Z"
     },
     {
@@ -741,5 +741,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-20T00:17:14.266Z"
+  "syncedAt": "2026-11-20T23:39:56.917Z"
 }

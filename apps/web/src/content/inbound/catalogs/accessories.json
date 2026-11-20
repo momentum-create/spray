@@ -29,22 +29,13 @@
   ],
   "products": [
     {
-      "slug": "accessories-000000004209",
-      "makeshopId": "000000004209",
-      "brandSlug": "shoe-goo",
-      "name": "【SHOE GOO】 シューグー 【SPORTS GOO】 スポーツグー 透明色 スケートボード 靴補修剤",
-      "priceJpy": 1870,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004209/I61079/page1/order/",
-      "updatedAt": "2026-07-24T19:21:12.504Z"
-    },
-    {
-      "slug": "accessories-000000004690",
-      "makeshopId": "000000004690",
-      "brandSlug": "contour",
-      "name": "【contour】コンツァー 【Skin wax】スキンワックス バックカントリー スプリットボードスキン",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004690/I61079/page1/order/",
-      "updatedAt": "2026-11-18T00:30:39.000Z"
+      "slug": "accessories-000000004393",
+      "makeshopId": "000000004393",
+      "brandSlug": "gentemstick",
+      "name": "【GENTEMSTICK】ゲンテンスティック 【BABY MANTARAY / BABY STINGRAY / MANTARAY 142 / 145 / 149 KNIT CASE】ベビーマンタレイ ベビースティングレイ マンタレイ ニットケース スノーボード カバー",
+      "priceJpy": 11550,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004393/I61079/page1/order/",
+      "updatedAt": "2026-09-27T20:52:24.147Z"
     },
     {
       "slug": "accessories-000000004689",
@@ -62,6 +53,24 @@
       "name": "【contour】コンツァー 【hybrid splitboard mix】ハイブリッド スプリットボード バックカントリー スプリットボードスキン",
       "priceJpy": 39000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004688/I61079/page1/order/",
+      "updatedAt": "2026-11-18T00:30:39.000Z"
+    },
+    {
+      "slug": "accessories-000000004209",
+      "makeshopId": "000000004209",
+      "brandSlug": "shoe-goo",
+      "name": "【SHOE GOO】 シューグー 【SPORTS GOO】 スポーツグー 透明色 スケートボード 靴補修剤",
+      "priceJpy": 1870,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004209/I61079/page1/order/",
+      "updatedAt": "2026-07-24T19:21:12.504Z"
+    },
+    {
+      "slug": "accessories-000000004690",
+      "makeshopId": "000000004690",
+      "brandSlug": "contour",
+      "name": "【contour】コンツァー 【Skin wax】スキンワックス バックカントリー スプリットボードスキン",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004690/I61079/page1/order/",
       "updatedAt": "2026-11-18T00:30:39.000Z"
     },
     {
@@ -359,15 +368,6 @@
       "name": "【GENTEMSTICK】ゲンテンスティック 【ROCKET FISH HIGH PERFORMANCE KNIT CASE】ロケットフィッシュ ハイパフォーマンス ニットケース スノーボード カバー",
       "priceJpy": 11550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004394/I61079/page1/order/",
-      "updatedAt": "2026-09-27T20:52:24.147Z"
-    },
-    {
-      "slug": "accessories-000000004393",
-      "makeshopId": "000000004393",
-      "brandSlug": "gentemstick",
-      "name": "【GENTEMSTICK】ゲンテンスティック 【BABY MANTARAY / BABY STINGRAY / MANTARAY 142 / 145 / 149 KNIT CASE】ベビーマンタレイ ベビースティングレイ マンタレイ ニットケース スノーボード カバー",
-      "priceJpy": 11550,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004393/I61079/page1/order/",
       "updatedAt": "2026-09-27T20:52:24.147Z"
     },
     {
@@ -2543,5 +2543,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-20T00:17:23.108Z"
+  "syncedAt": "2026-11-20T23:40:08.521Z"
 }

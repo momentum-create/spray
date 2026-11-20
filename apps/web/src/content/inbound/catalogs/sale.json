@@ -5,10 +5,19 @@
     "title": "Sale",
     "titleJa": "SALE",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61093/",
-    "totalProducts": 228
+    "totalProducts": 225
   },
   "brands": [],
   "products": [
+    {
+      "slug": "sale-000000003472",
+      "makeshopId": "000000003472",
+      "brandSlug": "orange",
+      "name": "【oran'ge】 オレンジ 【MASTER PACK kikkouchan】 マスターパック きっこうちゃん / アウトドア / スキー / スノーボード / ブーツバッグ",
+      "priceJpy": 11088,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003472/I61093/page1/order/",
+      "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
     {
       "slug": "sale-000000003486",
       "makeshopId": "000000003486",
@@ -928,15 +937,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000002743",
-      "makeshopId": "000000002743",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Escapade EST】 エスカペイド EST 23-24 Black ウィメンズ 女性用 BINDING ビンディング SNOWBOARD スノーボード",
-      "priceJpy": 46200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002743/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000002763",
       "makeshopId": "000000002763",
       "brandSlug": "burton",
@@ -1351,15 +1351,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000003472",
-      "makeshopId": "000000003472",
-      "brandSlug": "orange",
-      "name": "【oran'ge】 オレンジ 【MASTER PACK kikkouchan】 マスターパック きっこうちゃん / アウトドア / スキー / スノーボード / ブーツバッグ",
-      "priceJpy": 11088,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003472/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
       "slug": "sale-000000003477",
       "makeshopId": "000000003477",
       "brandSlug": "flux",
@@ -1537,15 +1528,6 @@
       "name": "【FLUX】フラックス 【TW-C】 23-24 MODEL スノーボード",
       "priceJpy": 47520,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003522/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003527",
-      "makeshopId": "000000003527",
-      "brandSlug": "salomon",
-      "name": "【SALOMON】サロモン 【Grace】グレイス 23-24 キッズ 子供用 SNOWBOARD スノーボード",
-      "priceJpy": 26950,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003527/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -1816,15 +1798,6 @@
       "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Tan/BlackLeather タン/ブラックレザー スニーカー スケートボード SK8 スケシュー スケボー",
       "priceJpy": 11550,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003449/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003436",
-      "makeshopId": "000000003436",
-      "brandSlug": "lakai",
-      "name": "【LAKAI】 ラカイ 【TELFORD】テルフォード Black/BlueCamoSuede ブラック/ブルーカモスエード スニーカー スケートボード SK8 スケシュー スケボー",
-      "priceJpy": 9625,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003436/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -5993,5 +5966,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-20T00:17:27.444Z"
+  "syncedAt": "2026-11-20T23:40:13.956Z"
 }
