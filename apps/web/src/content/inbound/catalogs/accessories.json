@@ -29,6 +29,33 @@
   ],
   "products": [
     {
+      "slug": "accessories-000000004192",
+      "makeshopId": "000000004192",
+      "brandSlug": "ebs",
+      "name": "【eb's】エビス 【GLOVE BAND】グローブバンド GLOVES グローブ 紛失防止 2026/2027 スノーボード",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004192/I61079/page1/order/",
+      "updatedAt": "2026-09-13T20:18:51.587Z"
+    },
+    {
+      "slug": "accessories-000000003401",
+      "makeshopId": "000000003401",
+      "brandSlug": "uchiko",
+      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
+      "priceJpy": 4980,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
+    {
+      "slug": "accessories-000000004702",
+      "makeshopId": "000000004702",
+      "brandSlug": "ojk-plate",
+      "name": "【OJK PLATE】 オージェイケイプレート 【MAMORUDAKE】 マモルダケ デッキ保護シート / プロテクションシート",
+      "priceJpy": 3960,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004702/I61079/page1/order/",
+      "updatedAt": "2026-11-21T22:45:22.799Z"
+    },
+    {
       "slug": "accessories-000000004393",
       "makeshopId": "000000004393",
       "brandSlug": "gentemstick",
@@ -99,15 +126,6 @@
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002999/I61079/page1/order/",
       "updatedAt": "2026-11-17T01:33:59.120Z"
-    },
-    {
-      "slug": "accessories-000000003401",
-      "makeshopId": "000000003401",
-      "brandSlug": "uchiko",
-      "name": "【uchiko】 ウチコ 【Hachisu】 蓮 超撥水剤 / 撥水スプレー / SPM-02-500",
-      "priceJpy": 4980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003401/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
       "slug": "accessories-000000004637",
@@ -440,15 +458,6 @@
       "name": "【eb's】エビス 【USU USU INNER】ウスウス インナー GLOVES グローブ 2026/2027 スノーボード",
       "priceJpy": 2970,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004312/I61079/page1/order/",
-      "updatedAt": "2026-09-13T20:18:51.587Z"
-    },
-    {
-      "slug": "accessories-000000004192",
-      "makeshopId": "000000004192",
-      "brandSlug": "ebs",
-      "name": "【eb's】エビス 【GLOVE BAND】グローブバンド GLOVES グローブ 紛失防止 2026/2027 スノーボード",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004192/I61079/page1/order/",
       "updatedAt": "2026-09-13T20:18:51.587Z"
     },
     {
@@ -1016,15 +1025,6 @@
       "name": "【BALANCE工房】バランスコウボウ 【B-TR SP-X2】インソール / 中敷き / スノーボード / スキー / スポーツ",
       "priceJpy": 8800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003215/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000002586",
-      "makeshopId": "000000002586",
-      "brandSlug": "caravan",
-      "name": "キャラバン【Caravan】 テンションストラップ 500mm 【Tension Strap】0103003",
-      "priceJpy": 1650,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002586/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
@@ -2615,5 +2615,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-21T21:58:39.206Z"
+  "syncedAt": "2026-11-21T22:45:22.799Z"
 }
