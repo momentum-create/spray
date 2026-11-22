@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "sale-000000003494",
+      "makeshopId": "000000003494",
+      "brandSlug": "orange",
+      "name": "【oran'ge】 オレンジ 【E-97 BALACLAVA】 E-97 バラクラバ / バラクラバ / 目出し帽 / スキー / スノーボード / マスク",
+      "priceJpy": 3080,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003494/I61093/page1/order/",
+      "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
+    {
       "slug": "sale-000000003472",
       "makeshopId": "000000003472",
       "brandSlug": "orange",
@@ -1438,15 +1447,6 @@
       "name": "【oran'ge】 オレンジ 【NYLON BELT】 ナイロンベルト / スキー / スノーボード / ベルト / #121230",
       "priceJpy": 2420,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003493/I61093/page1/order/",
-      "updatedAt": "2026-05-29T06:08:35.490Z"
-    },
-    {
-      "slug": "sale-000000003494",
-      "makeshopId": "000000003494",
-      "brandSlug": "orange",
-      "name": "【oran'ge】 オレンジ 【E-97 BALACLAVA】 E-97 バラクラバ / バラクラバ / 目出し帽 / スキー / スノーボード / マスク",
-      "priceJpy": 3080,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003494/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
@@ -5966,5 +5966,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-21T22:45:26.714Z"
+  "syncedAt": "2026-11-22T23:13:21.077Z"
 }

@@ -5,7 +5,7 @@
     "title": "Bindings",
     "titleJa": "バインディング",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct296/",
-    "totalProducts": 113
+    "totalProducts": 112
   },
   "brands": [
     {
@@ -18,7 +18,7 @@
       "slug": "spark-r-amp-d",
       "name": "SPARK R&amp;D",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
-      "productCount": 40
+      "productCount": 39
     },
     {
       "slug": "burton",
@@ -60,7 +60,7 @@
       "slug": "spark-r-amp-d",
       "name": "SPARK R&amp;D",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
-      "productCount": 40
+      "productCount": 39
     },
     {
       "slug": "burton",
@@ -102,7 +102,7 @@
       "slug": "spark-r-amp-d",
       "name": "SPARK R&amp;D",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct315/",
-      "productCount": 40
+      "productCount": 39
     },
     {
       "slug": "burton",
@@ -136,6 +136,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "binding-000000002933",
+      "makeshopId": "000000002933",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Spark Tip and Tail Clips 】 スパーク ティップ アンド テール クリップス 26-27 バインディング スノーボード スプリットボード",
+      "priceJpy": 5500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002933/ct296/page1/order/",
+      "updatedAt": "2026-10-17T20:05:18.155Z"
+    },
     {
       "slug": "binding-000000004702",
       "makeshopId": "000000004702",
@@ -207,15 +216,6 @@
       "priceJpy": 6600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002995/ct296/page1/order/",
       "updatedAt": "2026-10-18T20:04:31.347Z"
-    },
-    {
-      "slug": "binding-000000002933",
-      "makeshopId": "000000002933",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Spark Tip and Tail Clips 】 スパーク ティップ アンド テール クリップス 26-27 バインディング スノーボード スプリットボード",
-      "priceJpy": 5500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002933/ct296/page1/order/",
-      "updatedAt": "2026-10-17T20:05:18.155Z"
     },
     {
       "slug": "binding-000000002822",
@@ -584,15 +584,6 @@
       "name": "【KARAKORAM】 カラコラム 【CONNECT SPLIT CONVERSION KIT 2.0】 バックカントリー ソリッドボード スプリットボード スノーボード",
       "priceJpy": 28600,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003370/ct296/page1/order/",
-      "updatedAt": "2026-09-03T20:28:38.234Z"
-    },
-    {
-      "slug": "binding-000000002880",
-      "makeshopId": "000000002880",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Arc ST】 アーク ST Gold Splitboard Bindings バインディング スノーボード スプリットボード",
-      "priceJpy": 81400,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002880/ct296/page1/order/",
       "updatedAt": "2026-09-03T20:28:38.234Z"
     },
     {
@@ -2342,5 +2333,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-21T22:45:01.275Z"
+  "syncedAt": "2026-11-22T23:12:53.905Z"
 }
