@@ -18,7 +18,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 32
+      "productCount": 30
     },
     {
       "slug": "tj-brand",
@@ -36,7 +36,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 7
+      "productCount": 9
     },
     {
       "slug": "moss-snowstick",
@@ -150,7 +150,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 32
+      "productCount": 30
     },
     {
       "slug": "tj-brand",
@@ -168,7 +168,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 7
+      "productCount": 9
     },
     {
       "slug": "moss-snowstick",
@@ -282,7 +282,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 32
+      "productCount": 30
     },
     {
       "slug": "tj-brand",
@@ -300,7 +300,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 7
+      "productCount": 9
     },
     {
       "slug": "moss-snowstick",
@@ -414,7 +414,7 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 32
+      "productCount": 30
     },
     {
       "slug": "tj-brand",
@@ -432,7 +432,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 7
+      "productCount": 9
     },
     {
       "slug": "moss-snowstick",
@@ -539,6 +539,24 @@
   ],
   "products": [
     {
+      "slug": "snowboard-000000004711",
+      "makeshopId": "000000004711",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Family Tree Time Thief】 ファミリーツリー タイムシーフ 2026-2027 MODEL スノーボード フリーラン パウダー",
+      "priceJpy": 115500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004711/I61077/page1/order/",
+      "updatedAt": "2026-11-24T03:47:42.032Z"
+    },
+    {
+      "slug": "snowboard-000000004710",
+      "makeshopId": "000000004710",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Family Tree Full Nelson】 ファミリーツリー フルネルソン 2026-2027 MODEL スノーボード フリーラン パウダー",
+      "priceJpy": 101200,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004710/I61077/page1/order/",
+      "updatedAt": "2026-11-24T03:47:42.032Z"
+    },
+    {
       "slug": "snowboard-000000004706",
       "makeshopId": "000000004706",
       "brandSlug": "burton",
@@ -582,15 +600,6 @@
       "priceJpy": 189200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003781/I61077/page1/order/",
       "updatedAt": "2026-09-19T20:00:54.969Z"
-    },
-    {
-      "slug": "snowboard-000000003857",
-      "makeshopId": "000000003857",
-      "brandSlug": "field-earth",
-      "name": "【FIELD EARTH】フィールド アース 【C 165】2026-2027MODEL スノーボード バックカントリー カービング",
-      "priceJpy": 96800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003857/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
     },
     {
       "slug": "snowboard-000000004624",
@@ -1076,15 +1085,6 @@
       "name": "【BC Stream】BCストリーム 【BRAH】ブラフ 2026/2027MODEL スノーボード バックカントリー カービング ラントリ グラトリ",
       "priceJpy": 123200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003952/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
-    },
-    {
-      "slug": "snowboard-000000003863",
-      "makeshopId": "000000003863",
-      "brandSlug": "field-earth",
-      "name": "【FIELD EARTH】フィールド アース 【F4】2026-2027MODEL スノーボード バックカントリー カービング",
-      "priceJpy": 99000,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003863/I61077/page1/order/",
       "updatedAt": "2026-10-04T20:51:02.963Z"
     },
     {
@@ -3561,5 +3561,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-22T23:12:51.589Z"
+  "syncedAt": "2026-11-24T03:47:42.032Z"
 }

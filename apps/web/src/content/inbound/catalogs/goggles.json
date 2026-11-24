@@ -107,6 +107,15 @@
   ],
   "products": [
     {
+      "slug": "goggles-000000004615",
+      "makeshopId": "000000004615",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴホワイト①】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004615/ct327/page1/order/",
+      "updatedAt": "2026-11-13T23:13:30.851Z"
+    },
+    {
       "slug": "goggles-000000004348",
       "makeshopId": "000000004348",
       "brandSlug": "dice",
@@ -204,15 +213,6 @@
       "priceJpy": 4400,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004634/ct327/page1/order/",
       "updatedAt": "2026-11-15T22:27:40.718Z"
-    },
-    {
-      "slug": "goggles-000000004615",
-      "makeshopId": "000000004615",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴホワイト①】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004615/ct327/page1/order/",
-      "updatedAt": "2026-11-13T23:13:30.851Z"
     },
     {
       "slug": "goggles-000000004535",
@@ -2016,5 +2016,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-22T23:12:58.688Z"
+  "syncedAt": "2026-11-24T03:47:50.460Z"
 }

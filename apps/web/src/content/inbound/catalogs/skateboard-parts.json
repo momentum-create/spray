@@ -5,10 +5,28 @@
     "title": "Skateboard Parts",
     "titleJa": "スケートボードパーツ",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct307/",
-    "totalProducts": 68
+    "totalProducts": 66
   },
   "brands": [],
   "products": [
+    {
+      "slug": "skateboard-parts-000000003794",
+      "makeshopId": "000000003794",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Petari 78a 82.5mm】 ペタリ 78A 82.5mm スケートボード ウィール ロンスケ",
+      "priceJpy": 9240,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003794/ct307/page1/order/",
+      "updatedAt": "2026-11-17T01:33:55.143Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003893",
+      "makeshopId": "000000003893",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicarip 78A 60mm】 ミニビカリップ 78A 60mm スケートボード ウィール ロンスケ",
+      "priceJpy": 5940,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003893/ct307/page1/order/",
+      "updatedAt": "2026-11-17T01:33:55.143Z"
+    },
     {
       "slug": "skateboard-parts-000000003798",
       "makeshopId": "000000003798",
@@ -55,15 +73,6 @@
       "updatedAt": "2026-09-26T20:38:03.937Z"
     },
     {
-      "slug": "skateboard-parts-000000003794",
-      "makeshopId": "000000003794",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Petari 78a 82.5mm】 ペタリ 78A 82.5mm スケートボード ウィール ロンスケ",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003794/ct307/page1/order/",
-      "updatedAt": "2026-11-17T01:33:55.143Z"
-    },
-    {
       "slug": "skateboard-parts-000000003796",
       "makeshopId": "000000003796",
       "brandSlug": "zulu-wheels",
@@ -97,15 +106,6 @@
       "name": "【Zulu Wheels】 ズールーウィール 【Cimeri 78A 65mm】 シメリ 78A 65mm スケートボード ウィール ロンスケ",
       "priceJpy": 7040,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003890/ct307/page1/order/",
-      "updatedAt": "2026-11-17T01:33:55.143Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003893",
-      "makeshopId": "000000003893",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicarip 78A 60mm】 ミニビカリップ 78A 60mm スケートボード ウィール ロンスケ",
-      "priceJpy": 5940,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003893/ct307/page1/order/",
       "updatedAt": "2026-11-17T01:33:55.143Z"
     },
     {
@@ -187,15 +187,6 @@
       "name": "【NINJA BEARINGS】 ニンジャ ベアリングス 【SPEEDOIL SHORT RED】 スピードオイル ショート(RED/10ml) スケートボード SK8",
       "priceJpy": 500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003827/ct307/page1/order/",
-      "updatedAt": "2026-05-29T06:08:32.598Z"
-    },
-    {
-      "slug": "skateboard-parts-000000003850",
-      "makeshopId": "000000003850",
-      "brandSlug": "paris",
-      "name": "【PARIS】 パリス 【PIVOT CUPS STANDARD】 (2個SET) スケートボード ピボットクッシュ",
-      "priceJpy": 880,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003850/ct307/page1/order/",
       "updatedAt": "2026-05-29T06:08:32.598Z"
     },
     {
@@ -314,15 +305,6 @@
       "priceJpy": 5999,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004232/ct307/page1/order/",
       "updatedAt": "2026-07-31T19:20:49.449Z"
-    },
-    {
-      "slug": "skateboard-parts-000000004221",
-      "makeshopId": "000000004221",
-      "brandSlug": "independent",
-      "name": "【INDEPENDENT】 インディペンデント 【RIZER PAD 1/8″】 ライザーパッド 1/8インチ スケートボード用 2枚セット",
-      "priceJpy": 440,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004221/ct307/page1/order/",
-      "updatedAt": "2026-07-25T19:03:23.580Z"
     },
     {
       "slug": "skateboard-parts-000000004218",
@@ -1417,5 +1399,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-22T23:13:14.072Z"
+  "syncedAt": "2026-11-24T03:48:08.883Z"
 }

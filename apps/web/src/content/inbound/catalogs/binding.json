@@ -137,6 +137,15 @@
   ],
   "products": [
     {
+      "slug": "binding-000000004569",
+      "makeshopId": "000000004569",
+      "brandSlug": "pro-standard",
+      "name": "【PRO STANDARD】プロスタンダード 【QUICK RELEASE】クイックリリース / STEP-ON用＆SUPERMATIC用",
+      "priceJpy": 9900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004569/ct296/page1/order/",
+      "updatedAt": "2026-11-07T21:25:51.474Z"
+    },
+    {
       "slug": "binding-000000002933",
       "makeshopId": "000000002933",
       "brandSlug": "spark-r-d",
@@ -225,15 +234,6 @@
       "priceJpy": 14850,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002822/ct296/page1/order/",
       "updatedAt": "2026-10-17T20:05:18.155Z"
-    },
-    {
-      "slug": "binding-000000004569",
-      "makeshopId": "000000004569",
-      "brandSlug": "pro-standard",
-      "name": "【PRO STANDARD】プロスタンダード 【QUICK RELEASE】クイックリリース / STEP-ON用＆SUPERMATIC用",
-      "priceJpy": 9900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004569/ct296/page1/order/",
-      "updatedAt": "2026-11-07T21:25:51.474Z"
     },
     {
       "slug": "binding-000000004511",
@@ -2333,5 +2333,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-22T23:12:53.905Z"
+  "syncedAt": "2026-11-24T03:47:45.259Z"
 }
