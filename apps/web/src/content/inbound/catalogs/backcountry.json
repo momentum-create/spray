@@ -10,6 +10,15 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000003375",
+      "makeshopId": "000000003375",
+      "brandSlug": "msr",
+      "name": "【MSR】 エム エス アール 【PARAGON-POSILOCK STRAP 18inch】 パラゴン／ポジロックストラップ 18インチ(2本セット) スノーシュー バックカントリー 登山 91006",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003375/ct301/page1/order/",
+      "updatedAt": "2026-05-29T06:08:25.137Z"
+    },
+    {
       "slug": "backcountry-000000004686",
       "makeshopId": "000000004686",
       "brandSlug": "msr",
@@ -646,15 +655,6 @@
       "name": "【SPARK R&D】 スパーク 【Baseplate Padding Kit for Arc】 ベースプレートパディングキット カットアウト バインディング スノーボード スプリットボード",
       "priceJpy": 5500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002992/ct301/page1/order/",
-      "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000003375",
-      "makeshopId": "000000003375",
-      "brandSlug": "msr",
-      "name": "【MSR】 エム エス アール 【PARAGON-POSILOCK STRAP 18inch】 パラゴン／ポジロックストラップ 18インチ(2本セット) スノーシュー バックカントリー 登山 91006",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003375/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
     },
     {
@@ -2060,5 +2060,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-24T03:47:54.261Z"
+  "syncedAt": "2026-11-25T01:53:57.374Z"
 }

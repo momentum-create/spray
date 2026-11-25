@@ -5,7 +5,7 @@
     "title": "Accessories",
     "titleJa": "小物・アクセサリー他",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61079/",
-    "totalProducts": 137
+    "totalProducts": 136
   },
   "brands": [
     {
@@ -28,6 +28,15 @@
     }
   ],
   "products": [
+    {
+      "slug": "accessories-000000003375",
+      "makeshopId": "000000003375",
+      "brandSlug": "msr",
+      "name": "【MSR】 エム エス アール 【PARAGON-POSILOCK STRAP 18inch】 パラゴン／ポジロックストラップ 18インチ(2本セット) スノーシュー バックカントリー 登山 91006",
+      "priceJpy": 2640,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003375/I61079/page1/order/",
+      "updatedAt": "2026-05-29T06:08:33.633Z"
+    },
     {
       "slug": "accessories-000000003401",
       "makeshopId": "000000003401",
@@ -866,15 +875,6 @@
       "updatedAt": "2026-05-29T06:08:33.633Z"
     },
     {
-      "slug": "accessories-000000003375",
-      "makeshopId": "000000003375",
-      "brandSlug": "msr",
-      "name": "【MSR】 エム エス アール 【PARAGON-POSILOCK STRAP 18inch】 パラゴン／ポジロックストラップ 18インチ(2本セット) スノーシュー バックカントリー 登山 91006",
-      "priceJpy": 2640,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003375/I61079/page1/order/",
-      "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
       "slug": "accessories-000000003419",
       "makeshopId": "000000003419",
       "brandSlug": "millet",
@@ -1242,15 +1242,6 @@
       "priceJpy": 2970,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002557/I61079/page1/order/",
       "updatedAt": "2026-05-29T06:08:33.633Z"
-    },
-    {
-      "slug": "accessories-000000004378",
-      "makeshopId": "000000004378",
-      "brandSlug": "wrx",
-      "name": "【WRX】ダブルアールエックス 【WRXsb cable lock】 ワイヤーロック 盗難防止 ダイヤルロック",
-      "priceJpy": 1980,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004378/I61079/page1/order/",
-      "updatedAt": "2026-09-22T20:53:01.124Z"
     },
     {
       "slug": "accessories-000000003002",
@@ -2615,5 +2606,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-24T03:48:12.660Z"
+  "syncedAt": "2026-11-25T01:54:12.509Z"
 }

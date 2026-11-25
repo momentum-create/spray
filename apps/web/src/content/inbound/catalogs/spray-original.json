@@ -5,10 +5,19 @@
     "title": "SPRAY Original",
     "titleJa": "SPRAYオリジナル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct271/",
-    "totalProducts": 67
+    "totalProducts": 66
   },
   "brands": [],
   "products": [
+    {
+      "slug": "spray-original-000000004422",
+      "makeshopId": "000000004422",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
+      "priceJpy": 108900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/ct271/page1/order/",
+      "updatedAt": "2026-10-04T20:51:00.014Z"
+    },
     {
       "slug": "spray-original-000000004615",
       "makeshopId": "000000004615",
@@ -593,24 +602,6 @@
       "priceJpy": 880,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002090/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
-    },
-    {
-      "slug": "spray-original-000000004422",
-      "makeshopId": "000000004422",
-      "brandSlug": "spray",
-      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
-      "priceJpy": 108900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/ct271/page1/order/",
-      "updatedAt": "2026-10-04T20:51:00.014Z"
-    },
-    {
-      "slug": "spray-original-000000004616",
-      "makeshopId": "000000004616",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×アイヌロゴネイビー②】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004616/ct271/page1/order/",
-      "updatedAt": "2026-11-13T23:13:21.076Z"
     }
   ],
   "images": {
@@ -1300,5 +1291,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-24T03:47:37.602Z"
+  "syncedAt": "2026-11-25T01:53:41.837Z"
 }

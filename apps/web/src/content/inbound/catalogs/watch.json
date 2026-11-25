@@ -5,14 +5,14 @@
     "title": "Watches",
     "titleJa": "時計",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61066/",
-    "totalProducts": 134
+    "totalProducts": 132
   },
   "brands": [
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 104
+      "productCount": 103
     },
     {
       "slug": "baby-g",
@@ -36,13 +36,13 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 21
+      "productCount": 20
     },
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 104
+      "productCount": 103
     },
     {
       "slug": "baby-g",
@@ -66,13 +66,13 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 21
+      "productCount": 20
     },
     {
       "slug": "g-shock",
       "name": "G-SHOCK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61067/",
-      "productCount": 104
+      "productCount": 103
     },
     {
       "slug": "baby-g",
@@ -96,7 +96,7 @@
       "slug": "casio",
       "name": "CASIO",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct322/",
-      "productCount": 21
+      "productCount": 20
     }
   ],
   "products": [
@@ -270,15 +270,6 @@
       "priceJpy": 12320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003675/I61066/page1/order/",
       "updatedAt": "2026-07-02T19:20:54.011Z"
-    },
-    {
-      "slug": "watch-000000003596",
-      "makeshopId": "000000003596",
-      "brandSlug": "g-shock",
-      "name": "【G-SHOCK】 Gショック GA-100TU-1A3JF 【CASIO】 カシオ ジーショック 腕時計 国内正規品",
-      "priceJpy": 13090,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003596/I61066/page1/order/",
-      "updatedAt": "2026-07-03T19:17:42.829Z"
     },
     {
       "slug": "watch-000000003550",
@@ -1296,15 +1287,6 @@
       "priceJpy": 36135,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003351/I61066/page1/order/",
       "updatedAt": "2026-05-29T06:08:30.635Z"
-    },
-    {
-      "slug": "watch-000000004553",
-      "makeshopId": "000000004553",
-      "brandSlug": "casio",
-      "name": "【CASIO】 カシオ CASIO CLASSIC AQ-230GA-3AMQYJF 腕時計 国内正規品",
-      "priceJpy": 8800,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004553/I61066/page1/order/",
-      "updatedAt": "2026-11-06T22:42:00.769Z"
     }
   ],
   "images": {
@@ -4159,5 +4141,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-24T03:48:03.620Z"
+  "syncedAt": "2026-11-25T01:54:04.984Z"
 }

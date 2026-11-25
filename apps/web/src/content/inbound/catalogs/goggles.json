@@ -5,7 +5,7 @@
     "title": "Goggles",
     "titleJa": "ゴーグル",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/ct327/",
-    "totalProducts": 97
+    "totalProducts": 96
   },
   "brands": [
     {
@@ -48,7 +48,7 @@
       "slug": "owl",
       "name": "OWL",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct401/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "volcom",
@@ -96,7 +96,7 @@
       "slug": "owl",
       "name": "OWL",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct401/",
-      "productCount": 6
+      "productCount": 5
     },
     {
       "slug": "volcom",
@@ -969,15 +969,6 @@
       "priceJpy": 23320,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002957/ct327/page1/order/",
       "updatedAt": "2026-05-29T06:08:23.557Z"
-    },
-    {
-      "slug": "goggles-000000004616",
-      "makeshopId": "000000004616",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×アイヌロゴネイビー②】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004616/ct327/page1/order/",
-      "updatedAt": "2026-11-13T23:13:30.851Z"
     }
   ],
   "images": {
@@ -2016,5 +2007,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-24T03:47:50.460Z"
+  "syncedAt": "2026-11-25T01:53:52.791Z"
 }
