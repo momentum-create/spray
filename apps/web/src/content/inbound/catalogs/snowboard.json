@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 150
+    "totalProducts": 149
   },
   "brands": [
     {
@@ -42,7 +42,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 12
+      "productCount": 11
     },
     {
       "slug": "bc-stream",
@@ -180,7 +180,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 12
+      "productCount": 11
     },
     {
       "slug": "bc-stream",
@@ -318,7 +318,7 @@
       "slug": "moss-snowstick",
       "name": "MOSS SNOWSTICK",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
-      "productCount": 12
+      "productCount": 11
     },
     {
       "slug": "bc-stream",
@@ -1736,15 +1736,6 @@
       "name": "【MOSS SNOWSTICK】 モス スノースティック 【WING PIN 75 FISHBONE】 パウダーボード SNOWBOARD スノーボード",
       "priceJpy": 178200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003310/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
-      "slug": "snowboard-000000003279",
-      "makeshopId": "000000003279",
-      "brandSlug": "moss-snowstick",
-      "name": "【MOSS SNOWSTICK】 モス スノースティック 【PQ60 FISHBONE】 パウダーボード SNOWBOARD スノーボード",
-      "priceJpy": 174900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003279/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
@@ -3402,5 +3393,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-25T01:53:45.035Z"
+  "syncedAt": "2026-11-26T01:31:47.410Z"
 }
