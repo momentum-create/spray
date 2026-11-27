@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 149
+    "totalProducts": 161
   },
   "brands": [
     {
@@ -18,13 +18,13 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 27
+      "productCount": 34
     },
     {
       "slug": "tj-brand",
       "name": "TJ BRAND",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
-      "productCount": 4
+      "productCount": 5
     },
     {
       "slug": "koruashapes",
@@ -36,7 +36,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 8
+      "productCount": 12
     },
     {
       "slug": "moss-snowstick",
@@ -132,7 +132,7 @@
       "slug": "ct348",
       "name": "スプリットボード",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct348/",
-      "productCount": 1
+      "productCount": 2
     },
     {
       "slug": "ct310",
@@ -144,7 +144,7 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
-      "productCount": 5
+      "productCount": 7
     },
     {
       "slug": "gentemstick",
@@ -156,13 +156,13 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 27
+      "productCount": 34
     },
     {
       "slug": "tj-brand",
       "name": "TJ BRAND",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
-      "productCount": 4
+      "productCount": 5
     },
     {
       "slug": "koruashapes",
@@ -174,7 +174,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 8
+      "productCount": 12
     },
     {
       "slug": "moss-snowstick",
@@ -270,7 +270,7 @@
       "slug": "ct348",
       "name": "スプリットボード",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct348/",
-      "productCount": 1
+      "productCount": 2
     },
     {
       "slug": "ct310",
@@ -282,7 +282,7 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
-      "productCount": 5
+      "productCount": 7
     },
     {
       "slug": "gentemstick",
@@ -294,13 +294,13 @@
       "slug": "field-earth",
       "name": "FIELD EARTH",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
-      "productCount": 27
+      "productCount": 34
     },
     {
       "slug": "tj-brand",
       "name": "TJ BRAND",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
-      "productCount": 4
+      "productCount": 5
     },
     {
       "slug": "koruashapes",
@@ -312,7 +312,7 @@
       "slug": "burton",
       "name": "BURTON",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
-      "productCount": 8
+      "productCount": 12
     },
     {
       "slug": "moss-snowstick",
@@ -408,7 +408,7 @@
       "slug": "ct348",
       "name": "スプリットボード",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct348/",
-      "productCount": 1
+      "productCount": 2
     },
     {
       "slug": "ct310",
@@ -420,10 +420,274 @@
       "slug": "ct311",
       "name": "キッズ・ジュニア",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
+      "productCount": 7
+    },
+    {
+      "slug": "gentemstick",
+      "name": "GENTEMSTICK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61078/",
+      "productCount": 43
+    },
+    {
+      "slug": "field-earth",
+      "name": "FIELD EARTH",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61203/",
+      "productCount": 34
+    },
+    {
+      "slug": "tj-brand",
+      "name": "TJ BRAND",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61135/",
       "productCount": 5
+    },
+    {
+      "slug": "koruashapes",
+      "name": "KORUASHAPES",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I136161/",
+      "productCount": 11
+    },
+    {
+      "slug": "burton",
+      "name": "BURTON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/I61197/",
+      "productCount": 12
+    },
+    {
+      "slug": "moss-snowstick",
+      "name": "MOSS SNOWSTICK",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct359/",
+      "productCount": 11
+    },
+    {
+      "slug": "bc-stream",
+      "name": "BC Stream",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct340/",
+      "productCount": 3
+    },
+    {
+      "slug": "wrx",
+      "name": "WRX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct326/",
+      "productCount": 4
+    },
+    {
+      "slug": "rice28",
+      "name": "RICE28",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct396/",
+      "productCount": 4
+    },
+    {
+      "slug": "november",
+      "name": "NOVEMBER",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
+      "productCount": 4
+    },
+    {
+      "slug": "k2",
+      "name": "K2",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct363/",
+      "productCount": 2
+    },
+    {
+      "slug": "gray",
+      "name": "GRAY",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct356/",
+      "productCount": 0
+    },
+    {
+      "slug": "atirom-avs",
+      "name": "atirom-avs",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct337/",
+      "productCount": 7
+    },
+    {
+      "slug": "ogasaka",
+      "name": "OGASAKA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct332/",
+      "productCount": 4
+    },
+    {
+      "slug": "capita",
+      "name": "CAPITA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct403/",
+      "productCount": 1
+    },
+    {
+      "slug": "fntc",
+      "name": "FNTC",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct349/",
+      "productCount": 3
+    },
+    {
+      "slug": "flux",
+      "name": "FLUX",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct268/",
+      "productCount": 2
+    },
+    {
+      "slug": "secca",
+      "name": "SECCA",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct309/",
+      "productCount": 0
+    },
+    {
+      "slug": "salomon",
+      "name": "SALOMON",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct284/",
+      "productCount": 6
+    },
+    {
+      "slug": "arbor",
+      "name": "ARBOR",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct362/",
+      "productCount": 4
+    },
+    {
+      "slug": "ct348",
+      "name": "スプリットボード",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct348/",
+      "productCount": 2
+    },
+    {
+      "slug": "ct310",
+      "name": "スノースケート",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct310/",
+      "productCount": 0
+    },
+    {
+      "slug": "ct311",
+      "name": "キッズ・ジュニア",
+      "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct311/",
+      "productCount": 7
     }
   ],
   "products": [
+    {
+      "slug": "snowboard-000000004724",
+      "makeshopId": "000000004724",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Grom Camber】 グロム キャンバー 2026-2027 MODEL キッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 38500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004724/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000004723",
+      "makeshopId": "000000004723",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Grom Ketchup / Mustard】 グロム ケチャップ / マスタード 2026-2027 MODEL キッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 34100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004723/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000003877",
+      "makeshopId": "000000003877",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【Q 148】2026-2027MODEL スノーボード バックカントリー カービング",
+      "priceJpy": 97900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003877/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000003863",
+      "makeshopId": "000000003863",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【F4】2026-2027MODEL スノーボード バックカントリー カービング",
+      "priceJpy": 99000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003863/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000003864",
+      "makeshopId": "000000003864",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【F5】2026-2027MODEL スノーボード バックカントリー カービング",
+      "priceJpy": 99000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003864/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000003869",
+      "makeshopId": "000000003869",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【KB】2026-2027MODEL スノーボード バックカントリー カービング",
+      "priceJpy": 117700,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003869/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000003885",
+      "makeshopId": "000000003885",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【X3 161】2026-2027MODEL スノーボード バックカントリー カービング",
+      "priceJpy": 176000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003885/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000003884",
+      "makeshopId": "000000003884",
+      "brandSlug": "field-earth",
+      "name": "【FIELD EARTH】フィールド アース 【X2FA 163】2026-2027MODEL スノーボード バックカントリー カービング",
+      "priceJpy": 201300,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003884/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000002712",
+      "makeshopId": "000000002712",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Grom Ketchup / Mustard】 グロム Ketchup / Mustard キッズ 子供用 SNOWBOARD スノーボード",
+      "priceJpy": 27280,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002712/I61077/page1/order/",
+      "updatedAt": "2026-05-29T06:08:21.317Z"
+    },
+    {
+      "slug": "snowboard-000000004722",
+      "makeshopId": "000000004722",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Yeasayer Flying V】 イェーセイヤー Flying V 2026-2027 MODEL スノーボード フリースタイル ダブルキャンバー",
+      "priceJpy": 77000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004722/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000004721",
+      "makeshopId": "000000004721",
+      "brandSlug": "burton",
+      "name": "【BURTON】 バートン 【Rewind】 リワインド 2026-2027 MODEL スノーボード フリースタイル キャンバー",
+      "priceJpy": 70400,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004721/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000004720",
+      "makeshopId": "000000004720",
+      "brandSlug": "tj-brand",
+      "name": "【TJ BRAND】 ティージェイ ブランド 【Catamaran-V】カタマラン-V 2026-2027 Model スノーボード パウダー スプリットボード",
+      "priceJpy": 143000,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004720/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
+    },
+    {
+      "slug": "snowboard-000000004422",
+      "makeshopId": "000000004422",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
+      "priceJpy": 108900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/I61077/page1/order/",
+      "updatedAt": "2026-10-04T20:51:02.963Z"
+    },
+    {
+      "slug": "snowboard-000000004421",
+      "makeshopId": "000000004421",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH Q148 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
+      "priceJpy": 108900,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004421/I61077/page1/order/",
+      "updatedAt": "2026-10-04T20:51:02.963Z"
+    },
     {
       "slug": "snowboard-000000004718",
       "makeshopId": "000000004718",
@@ -441,15 +705,6 @@
       "priceJpy": 123200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003806/I61077/page1/order/",
       "updatedAt": "2026-08-21T18:32:14.832Z"
-    },
-    {
-      "slug": "snowboard-000000004422",
-      "makeshopId": "000000004422",
-      "brandSlug": "spray",
-      "name": "【SPRAY別注】FIELDEARTH Q158 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
-      "priceJpy": 108900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004422/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
     },
     {
       "slug": "snowboard-000000004711",
@@ -477,15 +732,6 @@
       "priceJpy": 115500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004706/I61077/page1/order/",
       "updatedAt": "2026-11-22T23:12:51.589Z"
-    },
-    {
-      "slug": "snowboard-000000004421",
-      "makeshopId": "000000004421",
-      "brandSlug": "spray",
-      "name": "【SPRAY別注】FIELDEARTH Q148 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】フィールドアース / バックカントリー / スノーボード",
-      "priceJpy": 108900,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004421/I61077/page1/order/",
-      "updatedAt": "2026-10-04T20:51:02.963Z"
     },
     {
       "slug": "snowboard-000000004393",
@@ -1685,15 +1931,6 @@
       "updatedAt": "2026-05-29T06:08:21.317Z"
     },
     {
-      "slug": "snowboard-000000002712",
-      "makeshopId": "000000002712",
-      "brandSlug": "burton",
-      "name": "【BURTON】 バートン 【Grom Ketchup / Mustard】 グロム Ketchup / Mustard キッズ 子供用 SNOWBOARD スノーボード",
-      "priceJpy": 27280,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002712/I61077/page1/order/",
-      "updatedAt": "2026-05-29T06:08:21.317Z"
-    },
-    {
       "slug": "snowboard-000000002726",
       "makeshopId": "000000002726",
       "brandSlug": "burton",
@@ -1764,6 +2001,15 @@
       "priceJpy": 94050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002689/I61077/page1/order/",
       "updatedAt": "2026-05-29T06:08:21.317Z"
+    },
+    {
+      "slug": "snowboard-000000004719",
+      "makeshopId": "000000004719",
+      "brandSlug": "spray",
+      "name": "【SPRAY別注】FIELDEARTH ped161 SPRAY 30TH ANNIVERSARY MODEL 2026-2027 【30周年記念モデル】splitboard / スプリットボード / フィールドアース / バックカントリー",
+      "priceJpy": 195800,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004719/I61077/page1/order/",
+      "updatedAt": "2026-11-27T01:28:26.726Z"
     }
   ],
   "images": {
@@ -3393,5 +3639,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-26T01:31:47.410Z"
+  "syncedAt": "2026-11-27T01:28:26.726Z"
 }

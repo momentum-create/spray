@@ -37,15 +37,6 @@
       "updatedAt": "2026-05-29T06:08:35.490Z"
     },
     {
-      "slug": "sale-000000004217",
-      "makeshopId": "000000004217",
-      "brandSlug": "inhabitant",
-      "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc04 ステッカー",
-      "priceJpy": 385,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004217/I61093/page1/order/",
-      "updatedAt": "2026-07-25T19:03:30.338Z"
-    },
-    {
       "slug": "sale-000000003591",
       "makeshopId": "000000003591",
       "brandSlug": "g-shock",
@@ -2015,6 +2006,15 @@
       "priceJpy": 94050,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002689/I61093/page1/order/",
       "updatedAt": "2026-05-29T06:08:35.490Z"
+    },
+    {
+      "slug": "sale-000000004217",
+      "makeshopId": "000000004217",
+      "brandSlug": "inhabitant",
+      "name": "【inhabitant】 インハビタント 【Inhabitant sticker】ism22sc04 ステッカー",
+      "priceJpy": 385,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004217/I61093/page1/order/",
+      "updatedAt": "2026-07-25T19:03:30.338Z"
     }
   ],
   "images": {
@@ -5948,5 +5948,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-26T01:32:21.121Z"
+  "syncedAt": "2026-11-27T01:28:52.933Z"
 }

@@ -596,15 +596,6 @@
       "updatedAt": "2026-09-03T20:28:38.234Z"
     },
     {
-      "slug": "binding-000000003679",
-      "makeshopId": "000000003679",
-      "brandSlug": "karakoram",
-      "name": "karakoram用 トゥーストラップ固定ビス",
-      "priceJpy": 1320,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003679/ct296/page1/order/",
-      "updatedAt": "2026-05-29T06:08:22.487Z"
-    },
-    {
       "slug": "binding-000000003409",
       "makeshopId": "000000003409",
       "brandSlug": "karakoram",
@@ -1007,6 +998,15 @@
       "name": "【KARAKORAM】 カラコラム 【CARBON QUIVER CONNECTORS 3.0】 カーボン・クイーバー・コネクター 3.0 バックカントリー スノーボード ソリッドボード スプリットボード",
       "priceJpy": 24200,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003077/ct296/page1/order/",
+      "updatedAt": "2026-05-29T06:08:22.487Z"
+    },
+    {
+      "slug": "binding-000000003679",
+      "makeshopId": "000000003679",
+      "brandSlug": "karakoram",
+      "name": "karakoram用 トゥーストラップ固定ビス",
+      "priceJpy": 1320,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003679/ct296/page1/order/",
       "updatedAt": "2026-05-29T06:08:22.487Z"
     },
     {
@@ -2333,5 +2333,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-26T01:31:49.937Z"
+  "syncedAt": "2026-11-27T01:28:28.699Z"
 }
