@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "spray-original-000000004619",
+      "makeshopId": "000000004619",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×Spray166③】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004619/ct271/page1/order/",
+      "updatedAt": "2026-11-13T23:13:21.076Z"
+    },
+    {
+      "slug": "spray-original-000000004618",
+      "makeshopId": "000000004618",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×Spray166③】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004618/ct271/page1/order/",
+      "updatedAt": "2026-11-13T23:13:21.076Z"
+    },
+    {
       "slug": "spray-original-000000004422",
       "makeshopId": "000000004422",
       "brandSlug": "spray",
@@ -37,15 +55,6 @@
       "updatedAt": "2026-11-13T23:13:21.076Z"
     },
     {
-      "slug": "spray-original-000000004617",
-      "makeshopId": "000000004617",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴネイビー②】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004617/ct271/page1/order/",
-      "updatedAt": "2026-11-13T23:13:21.076Z"
-    },
-    {
       "slug": "spray-original-000000004123",
       "makeshopId": "000000004123",
       "brandSlug": "slab-spray",
@@ -55,30 +64,12 @@
       "updatedAt": "2026-07-12T19:01:30.037Z"
     },
     {
-      "slug": "spray-original-000000004618",
-      "makeshopId": "000000004618",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×Spray166③】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004618/ct271/page1/order/",
-      "updatedAt": "2026-11-13T23:13:21.076Z"
-    },
-    {
       "slug": "spray-original-000000004620",
       "makeshopId": "000000004620",
       "brandSlug": "owl-spray",
       "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【FLOW×等高線ロゴ④】フロー / 限定 / 平面レンズ / FLIP-UP / ボーナスストラップ付",
       "priceJpy": 27500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004620/ct271/page1/order/",
-      "updatedAt": "2026-11-13T23:13:21.076Z"
-    },
-    {
-      "slug": "spray-original-000000004619",
-      "makeshopId": "000000004619",
-      "brandSlug": "owl-spray",
-      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×Spray166③】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
-      "priceJpy": 27500,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004619/ct271/page1/order/",
       "updatedAt": "2026-11-13T23:13:21.076Z"
     },
     {
@@ -593,6 +584,15 @@
       "priceJpy": 880,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002090/ct271/page1/order/",
       "updatedAt": "2026-05-29T06:08:20.775Z"
+    },
+    {
+      "slug": "spray-original-000000004617",
+      "makeshopId": "000000004617",
+      "brandSlug": "owl-spray",
+      "name": "【OWL×SPRAY別注】アウル×スプレイ別注 【VENT×アイヌロゴネイビー②】ベント / 限定 / 球面レンズ / FLIP-UP / ボーナスストラップ付",
+      "priceJpy": 27500,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004617/ct271/page1/order/",
+      "updatedAt": "2026-11-13T23:13:21.076Z"
     },
     {
       "slug": "spray-original-000000004719",
@@ -1300,5 +1300,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-27T01:28:23.158Z"
+  "syncedAt": "2026-11-28T01:03:26.664Z"
 }

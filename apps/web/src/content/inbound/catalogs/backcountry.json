@@ -10,6 +10,24 @@
   "brands": [],
   "products": [
     {
+      "slug": "backcountry-000000002823",
+      "makeshopId": "000000002823",
+      "brandSlug": "spark-r-d",
+      "name": "【SPARK R&D】 スパーク 【Solid Board Pucks Canted】 ソリッドボードパックス カンテッド 26-27 バックカントリー スプリットボード",
+      "priceJpy": 14850,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000002823/ct301/page1/order/",
+      "updatedAt": "2026-10-17T20:05:23.652Z"
+    },
+    {
+      "slug": "backcountry-000000004690",
+      "makeshopId": "000000004690",
+      "brandSlug": "contour",
+      "name": "【contour】コンツァー 【Skin wax】スキンワックス バックカントリー スプリットボードスキン",
+      "priceJpy": 1100,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000004690/ct301/page1/order/",
+      "updatedAt": "2026-11-18T00:30:26.791Z"
+    },
+    {
       "slug": "backcountry-000000004688",
       "makeshopId": "000000004688",
       "brandSlug": "contour",
@@ -44,15 +62,6 @@
       "priceJpy": 16500,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000002247/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000004690",
-      "makeshopId": "000000004690",
-      "brandSlug": "contour",
-      "name": "【contour】コンツァー 【Skin wax】スキンワックス バックカントリー スプリットボードスキン",
-      "priceJpy": 1100,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004690/ct301/page1/order/",
-      "updatedAt": "2026-11-18T00:30:26.791Z"
     },
     {
       "slug": "backcountry-000000003375",
@@ -197,15 +206,6 @@
       "priceJpy": 19800,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003052/ct301/page1/order/",
       "updatedAt": "2026-05-29T06:08:25.137Z"
-    },
-    {
-      "slug": "backcountry-000000002823",
-      "makeshopId": "000000002823",
-      "brandSlug": "spark-r-d",
-      "name": "【SPARK R&D】 スパーク 【Solid Board Pucks Canted】 ソリッドボードパックス カンテッド 26-27 バックカントリー スプリットボード",
-      "priceJpy": 14850,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000002823/ct301/page1/order/",
-      "updatedAt": "2026-10-17T20:05:23.652Z"
     },
     {
       "slug": "backcountry-000000003091",
@@ -2060,5 +2060,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-27T01:28:36.081Z"
+  "syncedAt": "2026-11-28T01:03:40.228Z"
 }

@@ -10,21 +10,21 @@
   "brands": [],
   "products": [
     {
-      "slug": "skateboard-parts-000000003794",
-      "makeshopId": "000000003794",
-      "brandSlug": "zulu-wheels",
-      "name": "【Zulu Wheels】 ズールーウィール 【Petari 78a 82.5mm】 ペタリ 78A 82.5mm スケートボード ウィール ロンスケ",
-      "priceJpy": 9240,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000003794/ct307/page1/order/",
-      "updatedAt": "2026-11-17T01:33:55.143Z"
-    },
-    {
       "slug": "skateboard-parts-000000003893",
       "makeshopId": "000000003893",
       "brandSlug": "zulu-wheels",
       "name": "【Zulu Wheels】 ズールーウィール 【Mini Bicarip 78A 60mm】 ミニビカリップ 78A 60mm スケートボード ウィール ロンスケ",
       "priceJpy": 5940,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000003893/ct307/page1/order/",
+      "updatedAt": "2026-11-17T01:33:55.143Z"
+    },
+    {
+      "slug": "skateboard-parts-000000003794",
+      "makeshopId": "000000003794",
+      "brandSlug": "zulu-wheels",
+      "name": "【Zulu Wheels】 ズールーウィール 【Petari 78a 82.5mm】 ペタリ 78A 82.5mm スケートボード ウィール ロンスケ",
+      "priceJpy": 9240,
+      "shopUrl": "https://www.spray166.shop/shopdetail/000000003794/ct307/page1/order/",
       "updatedAt": "2026-11-17T01:33:55.143Z"
     },
     {
@@ -1390,5 +1390,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-27T01:28:46.349Z"
+  "syncedAt": "2026-11-28T01:03:50.733Z"
 }

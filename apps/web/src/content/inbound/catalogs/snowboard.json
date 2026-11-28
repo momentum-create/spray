@@ -5,7 +5,7 @@
     "title": "Snowboards",
     "titleJa": "スノーボード",
     "shopCategoryUrl": "https://www.spray166.shop/shopbrand/I61077/",
-    "totalProducts": 161
+    "totalProducts": 160
   },
   "brands": [
     {
@@ -66,7 +66,7 @@
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
-      "productCount": 4
+      "productCount": 3
     },
     {
       "slug": "k2",
@@ -204,7 +204,7 @@
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
-      "productCount": 4
+      "productCount": 3
     },
     {
       "slug": "k2",
@@ -342,7 +342,7 @@
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
-      "productCount": 4
+      "productCount": 3
     },
     {
       "slug": "k2",
@@ -480,7 +480,7 @@
       "slug": "november",
       "name": "NOVEMBER",
       "shopBrandUrl": "https://www.spray166.shop/shopbrand/ct331/",
-      "productCount": 4
+      "productCount": 3
     },
     {
       "slug": "k2",
@@ -1640,15 +1640,6 @@
       "name": "【NOVEMBER】ノベンバー 【NV.C】エヌブイシー 2026-2027MODEL フリーライディング スノーボード カービング",
       "priceJpy": 121000,
       "shopUrl": "https://www.spray166.shop/shopdetail/000000004056/I61077/page1/order/",
-      "updatedAt": "2026-09-04T20:15:14.175Z"
-    },
-    {
-      "slug": "snowboard-000000004059",
-      "makeshopId": "000000004059",
-      "brandSlug": "november",
-      "name": "【NOVEMBER】ノベンバー 【BACKCITY 158】バックシティ 158 2026-2027MODEL フリーライディング スノーボード パウダー バックカントリー",
-      "priceJpy": 123200,
-      "shopUrl": "https://www.spray166.shop/shopdetail/000000004059/I61077/page1/order/",
       "updatedAt": "2026-09-04T20:15:14.175Z"
     },
     {
@@ -3639,5 +3630,5 @@
       ]
     }
   },
-  "syncedAt": "2026-11-27T01:28:26.726Z"
+  "syncedAt": "2026-11-28T01:03:30.546Z"
 }
